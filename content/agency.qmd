@@ -1,0 +1,12 @@
+---
+title: "6.7 Agency"
+notion-id: d3be48d3-a0de-49ea-ae56-ca59f0c2c100
+slug: "agency"
+index: 60700
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The active arm opens with agency: the attributes of divine doing: power (§6.7.1), causality (§6.7.2), interaction (§6.7.3), and sovereignty (§6.7.4). Each says that God acts: brings about, causes, engages, and governs.
+
+These are the chapter's clearest carriers of the second master result, the directed-crossing analysis of §5.3.3: any act that brings something about must cross from cause to effect along an asymmetric ordering, through distinct relata, with an agent that persists across the doing — which is to say it runs on T, S, and Φ. A being defined as lacking Time, Space, and Substance cannot perform an act; an agent that acts already instantiates all three, and with them the Conditions they bear.

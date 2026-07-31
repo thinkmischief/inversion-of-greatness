@@ -1,0 +1,30 @@
+---
+title: "2.6.8 Ontological Identity"
+notion-id: d5e99532-cf51-496d-893c-98e662d8b440
+slug: "ontological-identity"
+index: 20608
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The being-side of the three Conditions is the third reading of the Triconditional Identity (§2.6.10). T, S, and Φ were established at §2.4.2 as constitutive of any being whatsoever: no gap opens at the structural level between how a being presents and what it consists in, because the Conditions are not surface features with a hidden essence but the being's essence itself. The facthood line at §2.4.4 reaches the same constitutive conclusion from the side of what any state of affairs requires. Where the Modal Identity named structure as possibility (§2.6.6) and the Triconditional Cross-Entailment named it from cross-entailment among the three roles (§2.6.7), the *Ontological Identity* names it from the side of being: the reading at which T∧S∧Φ shows up as what being consists in. Same shape, different side. These are three logical-categorical readings of the same Nature: modal (necessity), nomological (law), ontological (being).
+
+A being is not a substrate on which T, S, and Φ are imposed from outside. A being is something that persists (Φ), distinct from other things (S), across transition (T). A Φ that does not persist across any S or T is no being. An S that does not separate any Φs across any T is not a space. A T that does not host any Φ succeeding across any S is not a time. The three Conditions are not a set of requirements beings meet. The three Conditions *are* what *being* *consists in*.
+
+This yields the Ontological Identity.
+
+::: {.theorem}
+**Ontological Identity** · **T4** · *Theorem 4*
+
+Nature read from the side of being: to be in Nature is to instantiate T∧S∧Φ. Not to match T, S, and Φ as a necessary condition; to be T, S, and Φ in operation as a being. What has being in Nature is T, S, and Φ in operation; what T, S, and Φ are in operation, has being. No residue on either side.
+
+
+:::
+
+Ontic Structural Realism provides the contemporary philosophical ally. @ladymanRoss2007 argue that fundamental physics describes relational and structural features rather than intrinsic natures: that the ontology physics delivers is structure, not substance-in-the-classical-sense. @french2014 develops the same position for quantum mechanics.
+
+The Ontological Identity is not Ontic Structural Realism, but it is continuous with it: where Ontic Structural Realism is an interpretive thesis about what physics describes, the Ontological Identity is a modal thesis about what any being must be. The structural realist, asked what the structure consists in, answers with the relational fabric physics specifies; the present account answers with T, S, and Φ as the minimal structural conditions any being must instantiate. The two positions converge on the same fact from opposite directions: physics ends up with structure because structure is what there was to be.
+
+A theist, idealist, or dual-aspect realist can keep their vocabulary, but whatever they propose as a being in their account already instantiates T∧S∧Φ, and instantiating T∧S∧Φ *is* what being in Nature *means* here. The being-question is not a substrate choice to be disputed. It is the structural shape of any being at all. The Modal Identity, the Triconditional Cross-Entailment, and the Ontological Identity converge at the *Triconditional Identity* in §2.6.10: three readings, one Nature, under three logical lenses; the thesis is drawn at §2.8.3.[^ontological-identity-ch4]
+
+[^ontological-identity-ch4]: The being-side reading of T4 (that T∧S∧Φ is what being in Nature consists in) is engaged in Chapter 4. Idealism makes being a mode of mind rather than structure (§4.3.5), Russellian monism posits intrinsic categorical natures behind the structure (§4.3.3), bundle theory and tropes read being as bundle rather than Φ-in-operation (§4.3.10), and mereological nihilism denies the composites the being-reading addresses (§4.3.11); structural realism is the closest ally that nonetheless diverges on what the structure consists in (§4.3.9). The classical-theist reply (that God is being itself, held exempt from instantiating T∧S∧Φ rather than counted as a being that instantiates it) is taken up under divine simplicity, on which God is identical with subsistent existence rather than a being that has it (§5.2.1), Neoplatonism and the One held to be beyond being (§5.3.2), and the via negativa, which withholds positive structural predication of God (§5.2.2).

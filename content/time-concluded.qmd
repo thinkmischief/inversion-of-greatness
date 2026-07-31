@@ -1,0 +1,26 @@
+---
+title: "7.2.5 What is Concluded"
+notion-id: e18503e9-f4ab-472d-b8e7-c0f0ad103a4b
+slug: "time-concluded"
+index: 70205
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+A number of familiar positions about Temporality are foreclosed by the structural claim.
+
+Symmetric-time metaphysics, the view that temporal direction is a matter of observer perspective, usually expressed as a block universe (the four-dimensional model on which all times, past, present, and future, are equally real, with the manifold of events laid out as a single static structure) whose arrow is not objectively part of the structure, treats a constitutive feature of Nature as a projection from outside it. The A/B reconciliation above is not a vindication of this view. What is preserved is the B-series as a genuine description of structural succession, not as a denial of succession's direction. A block universe with a real arrow is compatible with the account; a block universe without one is not. A melody makes the difference audible. Its tones can be laid out all at once, tenselessly ordered, and the ordering is entirely real — yet played backward it is not the same melody heard in reverse but a different melody, and the difference is heard. That difference is the arrow: a direction built into the succession, not read into it by the ear that follows. The arrowless block is the claim that forward and backward are mere labels on an ordering symmetric in itself — and the melody refutes it, for the direction is in the notes' succession, not in the listener. To hold the arrowless view is to keep the score and deny the music its direction, mistaking the frozen array for the flow it was abstracted from.
+
+Eternal recurrence in the strict Nietzschean sense (a literal return of the universe as a whole to an earlier state) would require global entropy decrease across a closed system, which the structural result places under heavy pressure. Approximate recurrence in finite subsystems, as in Poincaré recurrence on timescales vastly exceeding the age of the universe [@poincare1890], is a separate phenomenon and is not at issue here. The further question (whether macro-scale recurrence at the cosmological scale is itself entailed by the structural argument or only made probable by it given additional cosmological premises) is taken up in §7.6, where the modal layer (recurrence in some form) and the abductive layer (recurrence to the same macro-state) are kept distinct.
+
+Permanent heat death as a terminal condition Nature settles into is under pressure from the same source. The structural claim does not foreclose asymptotic approach to a high-entropy state; what it tells against is arrival at a stable terminus as the universe's final and permanent condition, since a stable terminus would be a state without further succession, and a state without further succession is not a state Temporality permits.
+
+The traditional supplementations take several forms: a Prime Mover (the Aristotelian-Thomistic posit of an unmoved mover outside the temporal series, required to initiate or sustain the world's motion) who imparts the arrow, a creator who winds the clock at t = 0, a transcendent eternity within which the temporal series is set. On this account, these are not wrong answers to a real question. They are answers to a question Nature's structure has already dissolved. The arrow is not an imposition on Nature. It is Nature, in one of its three constitutive faces. Nature suffices, because Temporality is already what the supposition of an external initiator of motion was trying to supply.
+
+Three scope-limits attach to the foregoing.
+
+The specific mechanism by which compression resolves at the cosmological boundary (whether loop-quantum-gravity discrete geometry, conformal-cyclic rescaling, ekpyrotic brane collision, or some yet-uncharacterized realization) is fixed not by the Temporality argument but by §7.6; what the Temporality argument adds is that *some* such mechanism must obtain, because a stable terminus would be a state without further succession.
+
+Whether each cycle's macro-trajectory recurs at the type level identically across cycles is the abductive layer (§7.6.2), not strictly modal. The Temporality argument fixes the directed flow; whether sufficient macro-scale initial conditions transmit across the bounce to produce type-recurrent cosmological histories is a further empirical premise that present physics supplies.
+
+And the consequence for heat-death-as-asymptotic-approach versus heat-death-as-terminus is sharpened but not finally resolved at this layer (§7.6.5). Whether the modal preclusion of a stable terminus alone is sufficient to rule out the standard heat-death scenario, or whether further cosmological premises are required, is the question §7.6 addresses directly.

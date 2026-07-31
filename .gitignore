@@ -1,0 +1,53 @@
+# Secrets — never commit these
+.env
+
+# Node dependencies (huge, regeneratable)
+node_modules/
+
+# Quarto build artifacts
+.quarto/
+book/*.html
+# LaTeX intermediate output — quarto render --to pdf writes this at the
+# project root regardless of whether the render succeeds; a failed PDF
+# attempt (e.g. a TinyTeX package/format-tree error) leaves it behind.
+/*.tex
+
+# OS noise
+.DS_Store
+Thumbs.db
+*.log
+/.quarto/
+**/*.quarto_ipynb
+_site/
+_data/
+.DS_Store
+
+book/*.html
+
+/.luarc.json
+
+# Local Netlify folder
+.netlify
+
+# Quarto site support libraries (regenerated on render)
+site_libs/
+
+# Rendered HTML outputs under site/ (source .qmd files are tracked)
+site/*.html
+site/*_files/
+
+# Same category as site/*_files/ above — Quarto's own generated support
+# directory for a rendered book page (style-preview.html's libs/), missed
+# when that rule was written since it's the only book/ page this applies to.
+book/*_files/
+
+# Scratch / test files
+title-test.*
+toc-test.*
+
+# Local backup, not a real project file
+_quarto.yml.bak
+
+# Archived snapshot of a previous project iteration — kept on disk for
+# reference, not part of the live site or its history.
+old/

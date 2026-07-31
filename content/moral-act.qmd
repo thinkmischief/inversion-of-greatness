@@ -1,0 +1,12 @@
+---
+title: "6.9 Moral Act"
+notion-id: 6e5e8c67-7a57-45b1-8015-ca3501b21b56
+slug: "moral-act"
+index: 60900
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The active arm closes with the moral attributes: benevolence (§6.9.1) and righteousness (§6.9.2), God as good in will and just in act. Both are act-attributes before they are value-attributes: to will the good and to render justice is to do something, directed at an object, across the relation between agent and recipient.
+
+Pressed, each requires the directed-crossing structure of any moral act whatever, so that the goodness and justice the tradition locates in a being beyond Nature are found instead in the structured agency T, S, and Φ underwrite.

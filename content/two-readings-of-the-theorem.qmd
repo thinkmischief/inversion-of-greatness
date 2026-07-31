@@ -1,0 +1,22 @@
+---
+title: "2.1.7 Two Readings"
+notion-id: ee2ea162-a791-4176-9a66-0f9d3fa713a6
+slug: "two-readings-of-the-theorem"
+index: 20107
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The Necessary Possibility Theorem has two readings because the fixed domain of real possibility can be indexed in two ways. The theorem itself is one result: all modal evaluation ranges over the same complete domain W of real possibilities (§§1.2.1, 2.1.4–2.1.5). It does not rest on a separate w′ derivation or on Transition Closure.
+
+*Modal Persistence, the diachronic reading.* A later time does not create a new domain of real possibilities. What becomes locally achievable, ceases to be locally achievable, or is never actualized concerns occasions and configurations; it does not add or remove members of W. A possibility may lack an occasion at a time without lapsing in modal status.
+
+*Modal Invariance, the cross-world reading.* The same point holds across worlds. A witness to ◇P is a member of W, and every world evaluates real possibility over W. Thus ◇P → □◇P; if no member of W witnesses P, ¬◇P → □¬◇P.
+
+The two readings are not two causal stories about structural Conditions changing or persisting. They are two indices of one global semantic fact: temporal changes and world-relative accessibility relations do not replace the complete domain that real possibility quantifies over.
+
+Plantinga [-@plantinga1974b] develops modal invariance for essentialist claims about individuals. The present theorem generalizes the result to real modal status and grounds it in the fixed global domain of possibility. A critic may instead use a world-relative modality with varying accessibility horizons; that is a different operator, not a counterexample within ◇.
+
+*What binds.* The modal architecture is globally stable: whatever modal status a proposition bears in the complete domain W, that status is invariant under evaluation at any member of W. Local opportunity remains local; real possibility is global.[^two-readings-ch4]
+
+[^two-readings-ch4]: The global and relative readings of modality are pressed in Chapter 4: Williamson (§4.4.6), Lewis (§4.4.1), modal collapse (§4.4.9), and the source-of-possibility question (§4.1.10).

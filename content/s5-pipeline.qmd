@@ -1,0 +1,35 @@
+---
+title: "2.1 The S5 Pipeline"
+notion-id: 0a2661f9-8110-434a-a5ba-ea7695025127
+slug: "s5-pipeline"
+index: 20100
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The question is whether a possibility, once secured, is itself necessary: if something is really possible, does that possibility hold in every world? Establishing that modal rule is this section's whole work. Showing that the possibility of change in particular is necessary comes later, with the Cartesian witness of §2.2 — and the order matters, since the rule has to be earned before there is any possibility to lift with it.
+
+The answer turns on the scope of *real possibility*, fixed in §1.2.1 as a determination Reality settles rather than as what is reachable from one local world-state. Let W be the complete range of worlds Reality permits: a proposition is possible when it is true at some member of W and necessary when true at every member. Everything that follows rests on a single commitment, that every point of evaluation ranges over the same W. That commitment is earned at the Bottleneck (§2.1.5), not assumed here, and what it yields is S5's characteristic principle without importing the later claim that T, S, and Φ hold in every world.
+
+The pipeline runs four stages before the objection arrives. Modal Bivalence (§2.1.1) supplies the classical two-verdict grammar: ◇P or ¬◇P. The Bilateral Frame (§2.1.2) requires the argument to track both verdicts. Modal Constitution (§2.1.3) distinguishes occupancy from invariance and establishes, from a logical truth ⊤ on one side and a contradiction ⊥ on the other, that both poles are necessarily occupied: the frame is never empty, though nothing substantive is yet claimed to fill it. Modal Stability (§2.1.4) then gives the fixed-domain derivation of T, S4, B, the Euclidean principle, and its bilateral companion.
+
+The remaining objection is precise: perhaps each world owns a different possibility horizon. The Bottleneck (§2.1.5) answers by separating local reachability from global real possibility. A local accessibility relation may vary; the complete domain of Reality's possibilities does not become a different domain merely because evaluation moves to another member. The Parasitic Negation Lemma, stated there, rules out a domain's onset from its own external absence, and the Transition Closure (§2.1.6) applies that result to C-status under structural accessibility; both reinforce the account of structural incapacity without carrying the fixed-domain derivation of proposition-wise S5. What the Bottleneck defends is the global operator, not the Necessity of Nature in advance.
+
+::: {.argument}
+**Necessary Possibility** · *The Global-Domain Line*
+
+1. W is the complete range of worlds Reality permits.
+1. ◇P means that P is true at some world in W.
+1. □P means that P is true at every world in W.
+1. If ◇P, a world u in W witnesses P.
+1. Every world evaluates real possibility over the same W, so u remains a witness everywhere.
+1. Therefore whatever is possible is necessarily possible: ◇P → □◇P.
+1. If no world in W witnesses P, that absence likewise holds throughout W: ¬◇P → □¬◇P.
+
+:::
+
+The result is schematic. It fixes the modal status of any proposition once that status is known, but establishes no substantive antecedent. The Cartesian witness in §2.2 supplies the one possibility the canonical proof needs.
+
+Two Readings (§2.1.7) separates the diachronic and cross-world indices of the one theorem; the grounding and transfer questions surrounding it are tested at §§2.1.8–2.1.9; and Necessary Possibility (§2.1.10) assembles the result.
+
+*What is established.* Real possibility is global over one domain W; local reachability is a distinct relative modality. On that fixed-domain reading, S5 and the bilateral invariance of modal status follow without assuming the Triconditions. The proof can therefore use Necessary Possibility to derive their necessity later without circling back through its own conclusion.

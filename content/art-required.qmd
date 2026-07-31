@@ -1,0 +1,30 @@
+---
+title: "8.13.2 What is Required"
+notion-id: 774e10cd-9b4f-4bd2-b7f8-f28f1a237316
+slug: "art-required"
+index: 81302
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*Transmission of what language cannot carry.* Art transmits perspectival readings of structure — felt shape of a particular mind's reading — that propositional paraphrase does not preserve. Any account must distinguish what art transmits distinctively from what language transmits distinctively. The structural requirement is that the account preserve the language-art complementarity: language carries the claim while art carries the feel; each can carry what the other cannot.
+
+*Three-term transmission structure.* Art transmission requires three terms: the maker (whose perspectival reading is registered in how the vehicle is built), the made vehicle (carrying the registrations across Space and Time as a stable occasion for attention), and the receiver (whose attention is shaped by what the vehicle does, undergoing a resonating reading that does not copy the maker's). Any account must accommodate the three terms rather than reducing art to maker-intention or receiver-experience alone. The structural requirement is that the account preserve the maker-vehicle-receiver structure, with the vehicle as the persistent (or repeatable) occasion that bridges the interval.
+
+*Perspectival without subjective.* A perspectival reading is genuinely of the structure, but from somewhere — bound to one mind's vantage, history, and emphases. Any account must distinguish perspectival from subjective rather than collapsing one into the other. The structural requirement is that the account treat perspectival readings as different angles on the same structure, both real, with two perspectival readings of the same subject not competing the way two propositional descriptions do.
+
+*Medium-grammar as constitutive.* Each art-medium has its own internal grammar — tonal harmony and meter, prosody, perspective and color, framing and cut, line and weight — and this medium-structure constitutively shapes which readings are even renderable. Any account must accommodate medium-grammar rather than treating media as interchangeable. The structural requirement is that the account explain why mastery of a medium matters, why traditions develop their own expressive capacities, and why different art forms are not interchangeable.
+
+*The act of making rather than the persistence of a thing.* What is required is the act of making — the instantiation of a reading in something a receiver can attend to — not the persistence of a thing. Any account must accommodate ephemeral art (recited poems, sung phrases, danced figures) alongside persistent art (paintings, manuscripts, recordings). The structural requirement is that the account distinguish the instantiation (necessary) from the persistence (extending transmission across longer Time intervals but not constitutive of art's structure).
+
+*Connection to language and meaning.* Art is the next structural register after language (§8.10) and depends on the meaning-orientation §8.8 names. Any account must connect art to these upstream registers rather than treating it as autonomous. The structural requirement is that the account derive art's transmission structure from what self-modeling subjects need to do when their perspectival reading of structure exceeds what propositional content can carry.
+
+*The reading-is-of-some-structure condition.* The reading is *of* some structure — a subject — and is rendered *through* a structured medium. The subject can be anything sufficient to occasion a stance: death, politics, technology, a person, a season, or the medium itself. Any account must accommodate this *of-structure* condition rather than treating art as expression without aboutness. The structural requirement is that the account preserve the directedness of perspectival readings: they reach toward the structure they are readings of.
+
+*Depth-graded distribution.* Art requires the recursive depth at which a subject can hold a perspectival reading and intend a vehicle to transmit it. Shallow forms — ritualized display, marking, decorative behavior — exist in non-human lineages. Any account must accommodate the gradient rather than treating art as uniquely human. The structural requirement is that the account distinguish what runs at each depth, with full perspectival-reading transmission requiring the self-aware threshold §8.1 names.
+
+*Substrate-independence at the structural level.* As with the other registers, the activity of perspectival-reading transmission can in principle be realized in different substrates; whether generative AI systems engage in it is structurally legible without prejudgment. Any account must distinguish what is substrate-essential from what is substrate-independent. The structural requirement is that the account preserve the substrate-independence of the structural activity while flagging the open question of which substrates currently support it.
+
+*Stylistic discipline at the structural level.* The diction notes the cluster-root carries from the 2026-05-15 audit (the *reading is perspectival, not subjective* slogan; the *act of making — the instantiation of a reading* chiasmus; the *strip the perspectival reading from a poem and only the claim remains* rhetorical) should remain available through the restructure. Any account must preserve the stylistic devices that have proved load-bearing rather than letting them fall in revision. The structural requirement is editorial: keep what has tested as carrying weight.
+
+These requirements together describe what an adequate account of art has to deliver: transmission of what language cannot carry, the three-term maker-vehicle-receiver structure, perspectival-without-subjective reading, medium-grammar as constitutive, the act of making rather than the persistence of a thing, connections to upstream registers, the *of-structure* condition, depth-graded distribution, substrate-independence at the structural level, and stylistic preservation through revision. The framework §8.13 defends meets each.

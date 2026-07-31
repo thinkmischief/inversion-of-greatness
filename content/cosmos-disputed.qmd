@@ -1,0 +1,14 @@
+---
+title: "7.7.1 What is Disputed"
+notion-id: 089e77f1-6b46-4fa8-a0a9-140fc5c47ecc
+slug: "cosmos-disputed"
+index: 70701
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The enduring dispute between determinism and indeterminism has the same shape as the disputes the previous sections dissolve. Laplacean determinism, Laplace's [-@laplace1814] demon, given complete knowledge of the present, predicting all futures, treats Nature as closed at the token level: the type fixes the token exhaustively, so history is the readout of a computation settled at the first instant. Radical indeterminism treats Nature as open all the way up: no structure constrains what can happen, so history is noise shaped into pattern by observer convention.
+
+Both positions absolutize one feature of history at the expense of the other. Determinism is tracking type necessity: the genuine fact that certain structural features cannot fail to hold across every transition. Indeterminism is tracking token openness: the genuine fact that what happens within those features is not fixed by them. Each takes its own insight to be the whole story and treats the other side's insight as illusion, which is why the dispute never settles.
+
+The dispute reappears at the seam between contemporary physical theories. Quantum mechanics and general relativity are not standardly read as describing rival layers of reality, but the active literature on their interface [@maudlin2007; @maudlin2019; @wallace2012; @healey2017] is divided over which side of a type/token coupling each theory tracks, and how the coupling should be specified. The free-will dispute [@kane1996; @oconnor2000; @frankfurt1971; @dennett1984; @fischerRavizza1998] inherits the same polarity at the agent scale.

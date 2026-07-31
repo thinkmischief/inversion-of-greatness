@@ -1,0 +1,12 @@
+---
+title: "E.1 Evil and Theodicy"
+notion-id: 7d7ef5b1-4c81-4f7f-bf61-301dba0c8b5f
+slug: "evil-and-theodicy"
+index: 110100
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The first cluster gathers the tradition's defenses of a perfect being confronted with suffering — the strategies mounted to reconcile the world as found with the God the tradition defines: the greatest good (§E.1.1), skeptical theism (§E.1.2), teleological evil (§E.1.3), the free-will defense (§E.1.4), soul-making theodicy (§E.1.5), the defeat of horrendous evil (§E.1.6), the authorship of natural evil (§E.1.7), the evil-god challenge (§E.1.8), divinely legislated evil (§E.1.9), and divinely commanded genocide (§E.1.10).
+
+The entries inherit what the book has already earned rather than relitigating the problem of evil from a standing start: Chapter 6 leaves no apex subject for a defense to defend, and one dilemma recurs across the cluster — suffering that was necessary constrains omnipotence, and suffering that was not indicts benevolence. Each entry names what falls when its defense does.

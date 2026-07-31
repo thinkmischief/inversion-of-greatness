@@ -1,0 +1,20 @@
+---
+title: "1.2.5 Actuality"
+notion-id: 690d295c-a8f0-49b0-bf51-375169aaec94
+slug: "actuality"
+index: 10205
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The first four statuses sort how a proposition stands to what Reality permits; the last marks which permitted configuration is actually realized.
+
+::: {.definition}
+**Actuality** · *Definition*
+
+A proposition is actual when it is true of the realized configuration.
+
+
+:::
+
+What is *actual* is what is *real* in the realized sense. That you are reading this is actual. You might have been asleep, or elsewhere, or reading something else. Those alternatives are possible; the actual configuration is the one you are in. Every actual fact is possible (actuality implies possibility), but not every possibility is actual. Conflating actuality with necessity (treating what happens to be true as if it could not have failed to be) is the *modal-collapse error*. Actuality also carries no symbol of its own. The two symbols of §1.2 (◇ and □) supply the notation for the other four statuses, but actuality needs none: a proposition asserted outright is already asserted of the realized configuration. What actuality itself consists in (whether it marks an absolute feature of the realized configuration or merely indexes the world one occupies, as on Lewis's indexical theory) is taken up in §4.4.

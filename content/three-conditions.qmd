@@ -1,0 +1,18 @@
+---
+title: "1.4 Three Conditions"
+notion-id: 8dc3aefa-f8c2-4016-97e2-a4ee1c33760b
+slug: "three-conditions"
+index: 10400
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Every change requires three things of whatever undergoes it: a before and an after to run between, genuinely distinct states to move among, and something that carries across from the one to the next. The previous section drew these three roles (succession, distinction, exchange) from the bare fact that change occurs (§1.3); here they take their proper names. Temporality is what makes a change's sequence irreversible, Spatiality what keeps the states it moves between genuinely distinct, Physicality what lets each state carry over into the next: the three Conditions on any non-vacuous reality, each defended at full strength in Chapter 2.
+
+Succession, distinction, and exchange do not come apart. The reading of this page is one activity, not three. It runs forward: each sentence follows the last into a sequence that cannot be reordered. It runs across: the words on the page and the mind reading them are separated by an interval the meaning must cross. And it carries: each word hands off to the next. Imagine the opposite: each word annihilated the instant it is left behind, with nothing connecting the leaving to the arriving. The sentence would collapse behind itself rather than continue forward. You do not experience the sequence, the separation, and the carrying as three separate features of reading. They are one thing: a line running from the first word to this one. Remove any one and the reading does not weaken; it stops altogether. The reading is offered here as illustration, not as the proof: the load-bearing derivation runs from the bare fact of change, independent of any particular example (§2.4), and is re-run from below without leaning on a reader at all (§3.2).
+
+The Conditions are inseparable because they are not three ingredients that merely combine into an activity. All three constitute the reading of this sentence, and the same inseparability is present in the words used to describe it.
+
+Take the word *forward*: temporal (what comes next), spatial (what lies ahead), and physical (each word bringing the next) all at once. The pages behind you are *behind* in both senses (spatially in the binding, temporally already read), and the pages ahead are *ahead* in both. *Behind* and *in front* do not choose between the dimensions; in the reading, every before is also an elsewhere.
+
+Each Condition is a structural role: what makes succession, distinction, or exchange possible. Paired with each is its *bearer*, the thing that actually has the role: Time for Temporality, Space for Spatiality, Substance for Physicality. The two are layers of one fact.

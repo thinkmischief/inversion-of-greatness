@@ -1,0 +1,35 @@
+{
+  "title": "The Inversion of Greatness: From the Nature of Necessity to Maximum Possibility",
+  "description": "<p><em>The Inversion of Greatness</em> is a work of analytic metaphysics and philosophy of religion that reopens the classical question of what, if anything, exists necessarily. Where the cosmological and ontological traditions locate that necessity in a maximally great being — a God standing outside time, space, and matter as the source of all that is possible — this book argues the tradition asked the right question and misplaced the answer. Rather than assuming modal logic to get the argument off the ground, the book builds that ground first: it derives the claim that whatever is possible is necessarily possible instead of taking it as a starting axiom, then argues that change is really possible, and that any possible change requires time, space, and substance — so these three form the necessary structure of any world whatsoever, a structure the book calls Nature. It then argues that no proposed ground more fundamental than Nature, including a transcendent God, can occupy that position without already presupposing the very structure it claims to explain. The greatness classical theism reserved for God — eternity, self-existence, being the source of all possibility — is relocated to Nature itself. The argument is then extended outward: to a convergence with contemporary physics in which the cosmological singularity marks a boundary of description rather than a boundary of being, to an account of consciousness as Nature registering itself from within, and to a political theory in which freedom is the maximum shared possibility a society secures once basic material and civic needs are met. Along the way, the book argues that reality and the universe are identical, and that nothing supernatural is required or possible. A closing section applies the completed argument to classical theological doctrines, including a new treatment of the problem of evil.</p>",
+  "creators": [
+    {
+      "name": "Procyon",
+      "orcid": "0009-0005-3526-0915"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "modal metaphysics",
+    "necessity",
+    "modal logic",
+    "S5",
+    "philosophy of religion",
+    "classical theism",
+    "naturalism",
+    "philosophy of cosmology",
+    "philosophy of mind",
+    "Necessity of Nature"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://inversionofgreatness.org",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "notes": "This is the living working manuscript. Cite the concept DOI for the project as a continuing work; cite the version DOI only when an exact dated snapshot matters. See https://inversionofgreatness.org/how-to-cite."
+}

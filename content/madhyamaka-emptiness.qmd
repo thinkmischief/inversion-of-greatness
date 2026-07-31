@@ -1,0 +1,44 @@
+---
+title: "5.3.4 Madhyamaka Emptiness"
+notion-id: 2fd31fd1-2f69-42ac-afac-17f3bfcb341e
+slug: "madhyamaka-emptiness"
+index: 50304
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Nāgārjuna's *Mūlamadhyamakakārikā* (c. 150 CE) [@nagarjuna1995] develops the doctrine of *śūnyatā* (emptiness) as a sustained critique of any view that attributes intrinsic nature (*svabhāva*) to anything whatever. Nothing exists from its own side; everything arises in dependence on conditions. The tetralemma (A; not-A; both A and not-A; neither A nor not-A) exhausts the options and refutes each. The result is not nihilism but the deconstruction of any positive metaphysical thesis, including the theses of substance, time, and space as intrinsically existing.
+
+The challenge is radical in a way no other challenge the argument faces is. The Madhyamaka position is engineered to dissolve precisely the kind of structural claim the present book defends, and contemporary Madhyamaka scholarship has sharpened the challenge rather than softened it. Garfield [@garfield1995; @garfield2002], Siderits [@siderits2003; @siderits2007], and Westerhoff [@westerhoff2009] defend a Madhyamaka (particularly in its Prāsaṅgika form) that is not the conciliatory Madhyamaka of Tsongkhapa's reading but a thoroughgoing rejection of *all* metaphysical theses.
+
+On this reading, the *prasaṅga* (consequence-only) method is dialectical: the Mādhyamika (the adherent of the Madhyamaka school) does not advance any positive position, including the position that things arise dependently, but only draws absurd consequences from the positions of others.
+
+The tetralemma is not a fifth alternative but the closure of all alternatives. The Mādhyamika has no thesis [@westerhoff2009, ch. 8], and the present argument, having theses, is precisely the kind of view *prasaṅga* targets.
+
+Two replies must be distinguished, because they engage Madhyamaka at different scopes.
+
+The narrower reply concerns *svabhāva*. *Svabhāva* in the technical sense is intrinsic, independent, self-existing nature. Nāgārjuna's arguments are devastating against the claim that any phenomenon has nature in that sense. They are not directed against (and do not refute) the claim that phenomena exhibit structural conditions that obtain dependently. The present argument here has never claimed *svabhāva* for T, S, or Φ (the three structural conditions, borne by Time, Space, and Substance). The structure is mutually constituting: each role requires the other two, and none has independent existence apart from the others. In the technical Mahāyāna vocabulary, T, S, and Φ are empty of *svabhāva* and dependently arisen with respect to one another.
+
+The narrower reply observes the convergence: the *pratītyasamutpāda* (dependent arising) Nāgārjuna names is structurally isomorphic to the present argument's mutual requirement.
+
+The wider reply must engage the Prāsaṅgika who refuses the convergence, who insists that even “structural conditions that obtain dependently” is *svabhāva* in disguise, because the assertion takes a stable form, picks out determinate roles, and survives translation across linguistic and conceptual schemes. On the strict Prāsaṅgika reading defended by Garfield and Westerhoff, the present argument is doing what *prasaṅga* targets: advancing a positive thesis (the Triunity holds across all possible worlds) under cover of denying *svabhāva* in name only.
+
+The present argument resists the wider critique only at a limited point. It does not depend on assimilating Madhyamaka to a conciliatory reading; it distinguishes the practice of *prasaṅga* from the object-level thesis the Mādhyamika declines to assert.
+
+*Prasaṅga* is a dialectical method: the Mādhyamika draws absurd consequences from an opponent's premises. The drawing-of-consequences is an activity. It occurs through succession, differentiates premises from conclusions, and persists through a reasoner or practice. *Prasaṅga* therefore exhibits T, S, and Φ at role-resolution in its operation.
+
+That act-side fact does not force the Mādhyamika to accept an object-level thesis that the structural conditions exist inherently or independently. It establishes instead that the conditions of the dialectical practice are not dissolved by the practice. The structural account may claim those conditions are necessary; the Prāsaṅgika may deny that this is a final metaphysical description. Their dispute remains over the status of the positive structural thesis, not over whether the practice of reasoning takes place in a structured manner.
+
+*The four corners, run explicitly.* The catuṣkoṭi is built to exhaust the options for any thesis and refute each in turn; run against □(T∧S∧Φ), it reaches no exit.
+
+To affirm the first corner (that the conditions hold) is to perform an assertion that unfolds over time, distinguishes what is affirmed from what is not, and persists through the one affirming: the affirmation instantiates T, S, and Φ.
+
+To affirm the second corner (that the conditions do not hold) is to perform a denial carrying the same three features, so the denial instantiates what it denies.
+
+The third corner, both, must differentiate the respect in which the conditions hold from the respect in which they do not (Space), hold the two together in one bearer (Substance), and articulate them in sequence (Time); it presupposes the conditions in order to state its two conjuncts.
+
+The fourth corner, neither (the refusal to occupy any corner, and the Prāsaṅgika's own dwelling) is itself a configuration: the withholding unfolds over time, sets itself apart from assertion, and persists through the one who withholds.
+
+The tetralemma closes the space of positions one might take toward the modal claim; it does not close the space of conditions on taking any position at all. Each corner, the empty fourth included, is occupied by an activity that exhibits the very structure the corner was meant to dissolve: the catuṣkoṭi cannot be turned against □(T∧S∧Φ) except from within it.
+
+*What is established.* The Tsongkhapa-Gelug reading distinguishes the negation of *svabhāva* from the negation of conventional existence: the structural conditions are conventionally real and ultimately empty of intrinsic nature, and the argument is compatible with that reading. The stricter Prāsaṅgika reading remains a live disagreement. The present account can establish that Madhyamaka practice is structurally enacted; it cannot settle the wider anti-thesis position by treating that enactment as a contradiction. The narrower reading yields accommodation; the wider reading leaves a genuine dispute over whether structural necessity is a positive metaphysical thesis or only a conventionally indispensable description.

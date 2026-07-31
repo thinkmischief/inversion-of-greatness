@@ -1,0 +1,30 @@
+---
+title: "7.6.2 What is Required"
+notion-id: 37db4fdf-d155-4d5c-b466-99b4e35c1270
+slug: "singularity-required"
+index: 70602
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The modal argument treats a stable zero-extension terminus as impossible. If that philosophical claim is correct, one might expect physics at extreme compression to require a description beyond classical singularity theorems. This is an abductive expectation, not an independently established physical result of the modal Triconditions (□(T∧S∧Φ), the necessary co-instantiation of Temporality, Spatiality, and Physicality (Φ), the three structural conditions).
+
+Several physical programs and conceptual pressures bear on extreme compression. They do not supply six independent confirmations, and they do not independently establish that every classical singularity resolves into a bounce.
+
+*Gravity.* Newtonian inverse-square formulas and classical general relativity become singular or geodesically incomplete in idealized collapse limits. This shows the breakdown of the relevant classical description; it does not, by itself, identify the physical state beyond that breakdown.
+
+*Energy.* Gravitational collapse can concentrate matter and energy density beyond the regime in which a classical spacetime treatment is reliable. This motivates a quantum-gravitational description, but classical energy arguments alone do not show that a singular limit is dynamically unstable or that a bounce follows.
+
+*Quantum mechanics.* Pauli exclusion supplies degeneracy pressure in systems dominated by fermions, and the uncertainty principle makes sharply localized quantum states costly in momentum spread. Neither principle alone rules out every singularity in general relativity or establishes a universal lower bound on cosmic compression. They instead illustrate why matter models and quantum effects matter to any treatment of extreme-density regimes.
+
+*Information.* The *Holographic Principle*, developed by 't Hooft [-@tHooft1993] and Susskind [-@susskind1995], relates the entropy bound of an appropriate gravitating region to the area of its boundary. Its application to an idealized zero-area limit is conceptually delicate: it does not by itself prove that a collapsing system retains a finite, independently specified information content at that limit, nor does it establish a bounce. It does, however, illustrate why classical singular limits sit uneasily with quantum-gravitational accounts of entropy and information.
+
+*Quantum gravity.* *Loop Quantum Gravity* is one active program for addressing classical singularities, alongside string-theoretic, causal-dynamical-triangulation, and asymptotic-safety approaches. In widely studied loop-quantum-cosmology models, effective dynamics replace the classical Big Bang singularity with a bounce near Planck density [-@ashtekarSingh2011]. This is a candidate mechanism within a restricted class of models, not an established result of full quantum gravity and not a proof that extension has a universal discrete lower bound. The structural argument is consistent with this kind of resolution while remaining neutral among candidate mechanisms.
+
+*Empirical cosmology.* The mechanism remains open. Black-hole interiors and the earliest cosmological regime are not directly observable in a way that would presently confirm or disconfirm a completed singularity, so the absence of such confirmation is not positive evidence for a bounce. Cyclic cosmological models [@penrose2010; @steinhardtTurok2007] and bouncing-cosmology programs [@brandenbergerPeter2017] each propose concrete resolution mechanisms at total compression. None has been confirmed.
+
+Cyclic and bouncing programs face a standing thermodynamic constraint, often associated with Tolman [@tolman1934]: a naive repeating cosmology must explain how entropy growth and the large-scale conditions required for each new phase are handled. Penrose's *Conformal Cyclic Cosmology* proposes conformal rescaling at aeon boundaries [@penrose2010]; ekpyrotic and other bouncing variants propose different treatments. These proposals remain theoretically contested and unconfirmed. The structural argument is not committed to any particular resolution program. If a philosophical argument rules out a stable zero-extension terminus, that result does not by itself select a bounce mechanism or establish that a viable cyclic model exists.
+
+The considerations can be sorted epistemically. Classical mathematical breakdown identifies the explanandum rather than confirming a resolution. Quantum effects and quantum-gravity models provide candidate resolution mechanisms, none yet observationally established. Information-theoretic arguments identify further conceptual constraints but depend on how entropy and information are defined in the relevant gravitational regime. None of these categories independently warrants the claim that Nature must pass through a singular boundary.
+
+The relevant programs approach extreme compression from different theoretical directions, but overlap substantially in their quantum-gravitational assumptions and should not be treated as independent confirmations. The modal argument's conclusion and the physics remain distinct: the former is the book's philosophical claim; the latter concerns the empirical adequacy of particular high-curvature models. Current work is compatible with non-singular continuations in some models, but it does not establish a general physical theorem that compression must resolve.

@@ -1,0 +1,15 @@
+---
+title: "8.4.5 What is Concluded"
+notion-id: e5f1cd44-755b-46b7-8840-6bdf69415570
+slug: "reasoning-concluded"
+index: 80405
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+1. *Reasoning is not exclusively discursive.* Discursive reasoning (articulated chains of inference, premises and conclusions in propositional form) is one form the operation takes, central to formal contexts and to philosophy. But the recursion reasons in many other modes. Perceptual recognition is constraint-checking on incoming pattern. Skilled action is real-time constraint-tracking against environmental feedback. Mathematical intuition is fast quantitative reasoning compounded into pre-discursive grip. The discursive register is one of many; it is the most explicit, but not the most fundamental. The most fundamental form of reasoning is the comparison itself (outside against inside) and that comparison runs in every mode the recursion operates in.
+1. *Reasoning is not infallible.* The operation is a recursion's, and the recursion is finite, embodied, and constrained by what it has registered, what it holds, and what time it has to think. Mistakes are failures of the operation, which is what the register consists in. A view of reasoning that demands infallibility has confused logic (the formal codification) with reasoning: the operation itself. The operation comes with all the structural conditions any recursion's activity comes with: bounded time (T), bounded position (S), bounded substrate (Φ). What the operation gains in fallibility, it gains in being something a recursion can actually perform, which is the only kind of reasoning that matters for the vantage.
+
+The chapter's central identification applies cleanly here. Each existential register is structure read from one of the angles structure makes available to itself. Reasoning is structure operating on itself, performed from inside the recursion. The recursion is itself a piece of structure; what the recursion reasons about is structure; the constraints the operation follows are the constraints structure imposes on itself. Reasoning is not the recursion applying something external called *logic* to something external called *the world*. It is structure following itself out, with the recursion as the place where the following happens.
+
+Reasoning is structure operating on itself from inside the recursion: neither external logic applied to an external world nor the discursive register narrowly understood, but the comparison of inside against outside in every mode the recursion runs. Discursive reasoning is one form; perceptual recognition, skilled action, and mathematical intuition are others, and what unites them is the comparison rather than the register. Fallibility is the operation's condition rather than its failure: any recursion bounded by T, S, and Φ reasons with bounded resources, and any view demanding infallibility has confused codification with operation. The same orientation tracked not for accuracy but for direction is taken up at §8.8: meaning as where the model is heading, and what the heading costs the being that holds it.

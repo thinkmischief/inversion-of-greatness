@@ -1,0 +1,28 @@
+---
+title: "1.2.6 Statuses Together"
+notion-id: 81e9a0b5-c6e2-411b-a2dd-8a66b4bde642
+slug: "statuses-together"
+index: 10206
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The five statuses form a closed modal grammar. Impossibility is what really could not be the case; possibility has content only against it; necessity is possible truth whose failure is impossible; contingency is possible truth whose negation is also possible; actuality is the realized member within the possible field. The grammar therefore includes contingency as a status, but it does not yet establish that some proposition bears that status in every configuration Reality permits. The stronger claim — that contingent propositions necessarily exist while each particular contingent fact remains contingent — is the *contingency-within-necessity* thesis taken up at §2.8.4. It is reserved here rather than inferred from the vocabulary alone.
+
+One further principle the argument will use, and Chapter 2 will defend, is this: the modal status of a proposition does not shift with which configuration obtains. In *de dicto* terms (about the proposition itself, not about a particular thing the proposition refers to), the status is invariant: what is possible anywhere is possible everywhere, what is necessary anywhere is necessary everywhere. The literature files this rule under *S5 iteration* (the modal-logic principle that what is possible or necessary is itself necessarily possible or necessary), and Appendix A formalizes it under that name.
+
+The name can mislead, so the reading intended here is worth fixing before the rule does any work. The claim is not that a box may be stacked on a diamond and the stack evaluated by climbing an accessibility relation between worlds. It is that whatever is possible, *its possibility is necessary*: possibility is a determination Reality settles (§1.2.1), and the rule records that such a determination does not vary with the configuration from which it is reported. Modal status answers to what Reality consists in, not to how any world is arranged (§2.1.3). Both readings validate the same formula. They differ over what makes it true, and therefore over where the rule can be challenged — which is why the defense at §2.1.5 concerns the scope of real possibility rather than the shape of an accessibility relation.
+
+Three commitments are reserved here rather than discharged.
+
+i. *The modal system.* The choice of S5 over weaker modal systems (T, S4, B, and their variants) is itself contested in the modal-logic literature; the defense arrives in §2.1.5, and the theistic line that would reject S5 specifically to block this argument is addressed in §2.1.9.
+
+ii. *The Plantinga parallel.* The same possible-necessity-to-necessity step drives Plantinga's modal ontological argument; the book engages it at §5.1.7, where its own necessity is derived from the modal status of change rather than from a possibility premise about maximal greatness.
+
+iii. *The quantifier domain.* When the argument deploys these modal statuses across quantified change-claims at Ch 2 P3 onward, one further choice becomes load-bearing: whether the same objects exist at every world (constant-domain semantics) or the domains vary across worlds (variable-domain). On the constant-domain option, the Barcan and Converse-Barcan formulas, which link the quantifiers to the modal operators, come out valid. That question is engaged at §4.4.6 against Williamson's necessitism, with the formal apparatus in Appendix A.4.
+
+So much for what is reserved. The actual is not merely the permitted, not merely what could be, but what *is*: the configuration taken, the one you are in right now. Descartes asked what could survive the most radical doubt: not the senses, not memory, not the external world as ordinarily described. What survived was not a fact about what might be but a fact about what *is*: something is actually happening, something is actually being thought. The cogito does not establish a possibility. It establishes an actuality. And an actuality cannot be doubted away, because doubting is itself an instance of it.
+
+That certainty carries something with it. The actual configuration you are certain of now is not the one you were certain of a moment ago. The reading has moved; the thought has shifted. What is undeniably actual has undeniably *changed*. The certainty of the actual does not deliver a static point. It delivers a moving one. What changes is which configuration is actual, not the modal status of anything in it. And what moves is not merely possible change, not merely permitted change, but actual change: the fact everything else in this argument runs on.
+
+What change is, and what Reality must be like for it to obtain, is the next question.

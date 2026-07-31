@@ -1,0 +1,12 @@
+---
+title: "6.4 Cognition"
+notion-id: 57f81196-0da5-4497-bdd2-e8fdc3c81d1d
+slug: "cognition"
+index: 60400
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster gathers the two attributes of divine knowing: awareness (§6.4.1) and knowledge (§6.4.2). The tradition holds that God is conscious of all that is and knows it perfectly, without acquiring, losing, or revising any content.
+
+Pressed, both require the structural conditions of any cognition whatever: to be aware is to stand in a distinction between knower and known, and to know is to carry content across the act of knowing — distinction and carrying-forward that are S and Φ operating, not faculties exempt from them.

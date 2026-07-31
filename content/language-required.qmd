@@ -1,0 +1,30 @@
+---
+title: "8.10.2 What is Required"
+notion-id: baca4d73-9ad8-4c2d-af1c-60fa990ed4e9
+slug: "language-required"
+index: 81002
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*Propositional transmission across the interval between minds.* Language transmits propositional content from one self-aware person to another across the interval that separates them. Any account must explain how the structural content of one mind's model can be reliably transferred — imperfectly but systematically — into another's. The structural requirement is that the account derive the conditions of transmission from the structure of what is being transmitted (propositional content) and what is doing the transmitting (self-aware beings in a shared medium).
+
+*The three structural conditions.* Distinct positions, persistent reference-bearing entities, and successive utterance and uptake — Space, Substance, and Time — are not features the linguistic situation happens to require. They are what propositional transmission consists in. Any account must accommodate the three or supply an argument for why some can be dispensed with. The structural requirement is that the account derive the necessity of each: without distinct positions, no interval for a claim to cross; without persistent reference-bearing entities, no speaker or hearer remaining the same across the utterance; without succession, no before-and-after to the act of saying or being understood.
+
+*Reference and predication minimum.* Any proposition combines reference (picking out what is being talked about) with predication (saying something about it). Any account must accommodate the minimum rather than reducing language to reference or to predication alone. The structural requirement is that the account treat the two as the irreducible structural pair propositional content consists in, with reference relations to entities and predication ascribing structure to them.
+
+*Recursive compositionality.* Propositional language must support recursive embedding — propositions about propositions, claims about claims, the indefinite extension Frege and Davidson identified. Any account must accommodate the recursion rather than restricting language to flat predication. The structural requirement is that the account derive compositionality from the medium's support for structure-within-structure, with recursion as what allows propositions of arbitrary complexity to transmit without each requiring a new convention.
+
+*Convention without arbitrariness all the way down.* Saussure correctly identified that the relation between specific signs and their referents is conventional at the surface. Any account must accommodate the surface conventionality while explaining what is *not* conventional. The structural requirement is that the account distinguish what is conventional (which sounds or marks carry which meanings) from what is not (the structural conditions any language must meet to carry propositions across the interval between speakers).
+
+*Practice and form-of-life.* Wittgenstein correctly identified that meaning is bound to use in shared practices. Any account must accommodate that dependence without reducing meaning to use. It must preserve what use does — coordinates a practice, calibrates speakers’ uptake, and supports rule-following — while explaining what use is for: tracking what is the case so that people can communicate successfully.
+
+*Connection to consciousness, self-modeling, and meaning.* Language operates on what awareness (§8.1), self-modeling (§7.8), and meaning (§8.8) supply. Any account must connect language to these earlier capacities rather than treating it as autonomous. Language grows from what self-aware beings need to do when they share a world and reach one another through propositions.
+
+*Depth-graded distribution.* Shallow forms of signaling — pheromone trails, alarm calls, signature whistles, waggle dances — run at depths well below recursive grammar. Full propositional language with recursive embedding requires the self-aware threshold §8.1 names. Any account must accommodate the gradient rather than treating language as one categorically unified phenomenon. The structural requirement is that the account distinguish what runs at each depth, with signaling widespread, partial propositional structure available in some non-human lineages, and full recursive propositional language emerging most fully in humans.
+
+*Substrate-independence at the structural level.* As with the other registers, the activity of propositional transmission can in principle be realized in different substrates. The recent emergence of LLMs presses the question concretely. Any account must distinguish what is substrate-essential from what is substrate-independent. The structural requirement is that the account distinguish the recursive structure (substrate-independent) from the self-modeling that anchors transmission to a vantage (currently realized only in biological minds, with the structural status of LLMs an open question the account makes legible without prejudging).
+
+*Surface-vs-deep distinction.* The structural conditions any language must meet to carry propositions are not the same as the surface grammars, lexicons, and inflectional systems of specific languages. Any account must distinguish them rather than treating linguistic surface as constitutive. The structural requirement is that the account preserve the surface-deep distinction, with the conditions deep and the specific instantiations contingent.
+
+Taken together these requirements set out the explanatory program the framework §8.10 defends: transmission, reference and predication, compositionality, convention, shared practice, links to cognition, depth variation, substrate questions, and surface/deep distinctions. They are not neutral constraints on every theory of language. In particular, whether propositional content has the proposed structural minimum, whether non-human communication is propositional, and whether language is substrate independent remain contested. The framework argues for this package rather than treating it as established.

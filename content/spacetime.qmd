@@ -1,0 +1,10 @@
+---
+title: "7.5.1 Spacetime"
+notion-id: 576ece47-f5dc-48a4-b0dd-af2e1e128db7
+slug: "spacetime"
+index: 70501
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Temporality and Spatiality do not obtain independently. Any moment is a moment somewhere; any place is a place at some time. The pair compose into a single manifold whose points are events. Minkowski’s [-@minkowski1908] reformulation of special relativity established that the kinematic content of Einstein’s [-@einstein1905] paper is captured by treating time and space as a single four-dimensional manifold with an invariant interval (a measure of separation between two events that every inertial frame computes to the same value, despite frames disagreeing about the time and spatial parts separately) ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2. The interval, not the spatial distance and the temporal duration separately, is what every inertial frame agrees on. General relativity [@einstein1915] extends the unification: spacetime is not merely a stage for events but a dynamical entity whose geometry responds to the mass-energy distribution it contains. What is foreclosed is absolute simultaneity across spatially separated events, pure substantivalism about either axis taken alone, and causal influence outside the light cone (the region of spacetime an event at a given point can causally reach or be reached from, bounded by the speed of light). The Newtonian framework, in which time and space are independently specifiable absolutes, is empirically refuted at the relativistic limit.

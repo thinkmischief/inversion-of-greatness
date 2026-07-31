@@ -1,0 +1,67 @@
+---
+title: "2.4.6 Succession Requires Temporality"
+notion-id: b0febae7-da52-462a-a634-12dbd2c34eda
+slug: "succession-requires-temporality"
+index: 20406
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The three activity-dimensions of change from §1.3 (succession, distinction, exchange) now yield their structural requirements in turn. Succession is first.
+
+Temporality, defined at §1.4.1 and borne in Reality by Time, is the first structural requirement: a relation of precedence among states that is ordered and causally structured. Three sub-properties (Asymmetry, Transitivity, and Directionality), grounded in the Law of Identity rather than stipulated, are jointly required for ordered succession (§1.4). Without Asymmetry, no genuine before/after distinction. Without Transitivity, no globally coherent ordering. Without Directionality, no causal structure to carry the succession forward.
+
+The argument states this load-bearing commitment openly, as an explicit premise rather than an implicit assumption:
+
+**Constitutive Premise (Causal Succession).** Genuine succession just *is* causally ordered succession: for one state to come genuinely after another is for the earlier to stand to the later in an asymmetric, transitive, directed relation of production, not merely to be labeled *before* it. Any account that grants the succession while blocking the temporal conclusion must deny precisely this identification, and that denial is costly, as the argument below shows.
+
+Causal structure is equally required. A bare precedence relation (states merely following one another without causal connection) is not the Temporality that change requires. It is a labeled order. The *after* state in a genuinely causal succession exists because the *before* state existed. A structure without that connection is not one in which change occurs. It is one in which one state replaces another with no subject persisting across the replacement. The Humean who resists this causal reading is addressed in §4.1.4.
+
+Causal structure internally connects Temporality to Physicality. For succession to be causally structured, something must carry influence from one state to the next. Temporality therefore entails Physicality, not as an external correlation but as an internal requirement of its own definition. This entailment runs through the causal reading of succession, so it inherits the conditional scope §2.4.5 assigns the third Condition: Temporality itself is framework-invariant without qualification, but its entailment of Physicality stands with the causal reading the Humean contests, secured at §4.1.4.
+
+The impossibility of reversed causation is not a rule imposed on Temporality from outside. It is what Temporality consists in. A structure within which effects could precede their causes would not be a temporal structure with unusual properties; it would fail to instantiate Temporality at all. The impossibility and the structure are one structural fact approached from opposite directions.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** The argument has to explain two things at once: that some change is genuinely possible, and that certain apparent changes are impossible. A purely permissive structure could not account for the impossibilities; a purely prohibitive one could not account for the possibilities. Each Condition does both jobs — it is what any real change already presupposes, and its own contrary is foreclosed as unintelligible (§2.4.6–.8). The two-sidedness is one structural fact seen from opposite directions, not two separate premises.
+:::
+
+
+::: {.column-margin .book-annotation-note}
+**Quick map.** Each Condition forecloses its own contrary, and the foreclosure is not a rule added from outside but what the Condition consists in (§2.4.6–.8). Reversed causation is not an exotic kind of time but no time at all; two things at one place is not a crowded position but no distinctness at all; a cause cut off from its effect is not a loose exchange but no medium at all. Time, space, and the persisting medium each rule out their own undoing.
+:::
+
+
+Temporal logic and Temporality are not a model and its target. They are the same structural fact, one described formally, the other instantiated. At the level of the structural Conditions, logical and ontological necessity are one necessity.
+
+The most universal phenomenological anchor for Temporality runs at the level of thinking itself, prior to any measured duration. Any conscious standpoint has succession directly: to think at all is for one state to give way to another — the thought now was not the thought a moment before, and the passage between them is not inferred but lived in the having of any standpoint whatever. To doubt that succession is real is to pass from the question to its doubting, a passage that instantiates before-and-after in the very act of denial; the doubter is the successor of the state doubted (the *Cogito Ergo Muto* of §2.2, run at the level of the bare standpoint). This anchor is offered, like the demonstrations at §§2.4.7–2.4.8, as phenomenological confirmation rather than load-bearing proof; the structural argument that follows carries the load.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** Each Condition closes by a performative reductio, not by analogy with the others. Denying time takes time; denying that distinct positions stand apart requires a standpoint that already tells here from there; denying the persisting medium is itself an act sustained by that persistence. This is the Parasitic Negation the three sections run (§2.4.6–.8): any attempt to place a Condition outside itself already exercises it. The vivid first-person version — that you cannot doubt without enacting the doubt — is offered there as confirmation, not as the load-bearing step.
+:::
+
+
+*The impossibility argument.* Any act that claims to produce Temporality must already instantiate it. There is no prior position from which to generate temporal structure without occupying it, and no moment before Temporality itself. The point can be stated formally:
+
+::: {.argument}
+**Temporality** · *The N_T Reductio.* Let Bx abbreviate *x begins*; let T abbreviate *Temporality is instantiated*; let N_T abbreviate *there was never no Temporality*.
+
+1. Any beginning requires Temporality, since *begins* presupposes a before/after distinction (∀x(Bx → T)).
+1. Something has begun: there is at least one beginning, demonstrably the present argument's own utterance (∃xBx).
+1. So Temporality is instantiated (∴ T; from 1, 2).
+1. If there were ever no Temporality, then Temporality would have to begin, since a transition from no-T to T is itself a beginning (¬N_T → B(T)).
+1. Any beginning of Temporality would already require Temporality, applying line 1 to T itself (B(T) → T).
+1. So there was never no Temporality: ¬N_T entails B(T), and B(T) entails T-prior-to-T, a contradiction (∴ N_T; from 4, 5 by reductio).
+
+:::
+
+In plain terms: beginnings can occur within Temporality, but Temporality cannot be one more thing that began from no-Temporality. The transition from no-Temporality to Temporality would already require temporal order.
+
+The actuality-to-necessity bridge runs through lines 4–6 specifically: line 2 supplies actuality (∃xBx), but the necessity result N_T does not follow from actuality alone. It follows from the conceptual closure that any candidate alternative (¬N_T) generates a contradiction: the alternative would require T-prior-to-T to instantiate itself, which the Parasitic Negation rules out. N_T is therefore necessary by conceptual closure of the alternative, not by extrapolation from ∃xBx.
+
+This is the **Parasitic Negation** (§2.1.5) instantiated to T: temporal order cannot emerge from no-time, since any beginning would already instantiate the order it claims to begin. The same move runs against an emergent-time cosmology at §4.2.3. This reductio is one of two roads to the necessity of Temporality; the modal line reaches the same conclusion jointly at §2.5, where □(T∧S∧Φ) unpacks into the Necessity of Temporality (□T).
+
+*What is established.* Succession is established. It must be ordered and causally structured.[^composition-ch6] But ordered states that are not genuinely distinct are not a succession. They are the same state, redescribed.[^temporality-ch4]
+
+[^temporality-ch4]: The objections to the temporal Condition are engaged in Chapter 4: McTaggart's denial of temporal reality (§4.2.5), the block universe and B-theoretic order without becoming (§4.2.6), the changeless ground (§4.2.1), and Platonist atemporality (§4.2.4). The Humean reading of temporal succession without causal direction is taken up at §4.1.4.
+
+[^composition-ch6]: The composition view of Temporality, the dimension feature (the ordered manifold) and the passage feature (the directed flow through it) as two features Temporality requires, is developed at §7.2, dissolving the A-series/B-series dispute at the level of Ch 7 confirmation.

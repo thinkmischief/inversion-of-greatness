@@ -1,0 +1,82 @@
+/* ============================================================
+   Mary's Room — static test snapshot of the flagship "enact-the-
+   idea" theme
+   ============================================================
+   Same loading/scoping rules as sepia.css — see that file's header
+   comment. Forces light polarity (settings dropdown JS clears
+   body.quarto-dark when this theme is selected).
+
+   The real mechanic described in the Reader Themes idea log is a
+   live gradient keyed to how far the reader has actually progressed
+   through the whole book — grayscale at Ch. 1, easing toward full
+   red by the final section, with body prose staying black-on-white
+   the entire time and only structure (headers, section numbers,
+   drop caps, hairline rules) carrying the color drift. That
+   progress-tracking mechanic is NOT built here — this is a fixed,
+   static snapshot of roughly the theme's midpoint state, just for
+   visually testing the palette family (a reader asked explicitly to
+   preview themes, not to ship the finished mechanic tonight). Body
+   text stays pure grayscale, matching the idea log's own rule that
+   the prose never carries the color; only headings/links/structure
+   get the muted red tint here.
+   ============================================================ */
+
+html[data-book-theme="marys-room"] body {
+	--book-bg: #f7f7f5;
+	--book-text: #1a1a1a;
+	--book-heading: #5a2323;
+	--book-link: #8a3a3a;
+	--book-link-rgb: 138, 58, 58;
+	--book-border: #d8d8d5;
+	--book-border-soft: #e2e2df;
+	--book-muted: #6b6b68;
+	--book-muted-rgb: 107, 107, 104;
+	--book-scrollbar: #c4c4c0;
+	--book-code-bg: rgba(0, 0, 0, 0.05);
+	--book-margin-text: #4a4a48;
+	--book-margin-strong: #2a1414;
+	--book-breadcrumb-sep: #9a9a96;
+	--book-premise-label: #5a4a4a;
+	--book-premise-cite: #6b6b68;
+	--book-callout-shadow: rgba(0, 0, 0, 0.05);
+	--book-callout-header-border: rgba(90, 35, 35, 0.15);
+
+	--book-definition-border: #5a5a5a;
+	--book-definition-bg: #f0f0ee;
+	--book-theorem-border: #7a2020;
+	--book-theorem-bg: #f6ecec;
+	--book-note-border: #5a5a5a;
+	--book-note-bg: #f2f2f0;
+	--book-warning-border: #6a5020;
+	--book-warning-bg: #f4f0e6;
+	--book-caution-border: #3a5a40;
+	--book-caution-bg: #eef2ee;
+
+	--book-chassis-border: #8a8580;
+	--book-chassis-bg: #f5f5f3;
+	--book-sb-definition-border: #6B6B6B;
+	--book-sb-identification-border: #5a5a5a;
+	--book-sb-principle-border: #7a4040;
+	--book-sb-theorem-border: #7a2a2a;
+	--book-sb-lemma-border: #6a3a3a;
+	--book-sb-premise-border: #5a4a4a;
+	--book-sb-corollary-border: #5a3a4a;
+	--book-sb-condition-border: #4a5a5a;
+	--book-sb-argument-border: #5a5550;
+	--book-sb-untyped-border: #6B6B6B;
+	--book-sb-quickref-border: #6b6560;
+	--book-sb-quickref-bg: #f2f2f0;
+
+	/* Chrome (navbar/sidebars/dropdown menus) — a dark maroon-black
+	   rather than Procyon's own neutral near-black, echoing this
+	   theme's muted-red structural accent (headings/links above)
+	   without pulling the body prose's own grayscale rule (see file
+	   header) into the chrome too. */
+	--book-chrome-bg: rgba(33, 21, 21, 0.88);
+	--book-chrome-bg-solid: #211515;
+	--book-chrome-scrollbar: #4a3535;
+	--book-chrome-text: #ecdfdf;
+	--book-chrome-text-rgb: 236, 223, 223;
+	--book-chrome-text-hover: #c96a6a;
+	--book-chrome-text-hover-rgb: 201, 106, 106;
+}

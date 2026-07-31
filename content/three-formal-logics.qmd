@@ -1,0 +1,10 @@
+---
+title: "2.9.5 Three Formal Logics"
+notion-id: f482d70d-86df-4a35-b5b9-a8980f918c58
+slug: "three-formal-logics"
+index: 20905
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Two recognized formal families and one synthetic umbrella align with the three existence-axes the present argument identifies as the Conditions. Temporal logic regiments inferences over T, and spatial logic regiments inferences over S. The Φ-axis is distributed across formal ontology, mereology, classical first-order logic with identity, and substance metaphysics. The present argument gathers those traditions under the coined label *substantial logic*: the *logic of being qua being* in Aristotle's sense (*Metaphysics* Γ 1003a21), read specifically through persistence, identity, and part–whole structure. The convergence is therefore not that three literatures independently adopted the same three labels. It is that independently developed formal work clusters along T and S as established disciplines and along Φ across several traditions that the framework synthesizes. *Three Formally Distinct Logics* (§2.10.1) develops that derivation and states the coined status of the Φ-axis explicitly.

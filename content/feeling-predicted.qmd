@@ -1,0 +1,22 @@
+---
+title: "8.2.3 What is Predicted"
+notion-id: 9b1eff5e-c87a-43ba-85b4-b8204e876d5b
+slug: "feeling-predicted"
+index: 80203
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The capacity to represent one’s own condition supports persistence (§7.8). A being whose picture of what is happening *to* it is accurate enough to redirect its activity continues; a being that registers nothing about its own state cannot redirect anything. Selection therefore tracks not only accuracy but valence: the being must register *what is good for it* and *what is bad for it*, or that picture gives it no guidance. The laws of feeling are not a residue layered on top of cognition; they are the shape registration takes once selection has tuned a being to track its own conditions within Nature, where Time (T), Space (S), and Substance (Φ) obtain.
+
+The structural account proposes that beings with this kind of self-representation will often organize their state-tracking through dimensions analogous to valence, salience, and urgency. This is a model of affective organization, not an empirical theorem that every such being in any medium must possess these dimensions or experience them phenomenally.
+
+*Valence* is the good/bad axis: the being must distinguish what to approach from what to avoid. Without it, registration generates no direction, and a model that gives no direction cannot guide the being that bears it. Pleasure, pain, attraction, aversion, comfort, dread: these are not separate phenomena to be catalogued but the shape valence takes at different scales and registers.
+
+*Salience* is the *this matters now* axis: the being must allocate finite modeling resources to what bears on its persistence. Without it, registration is undirected uniform attention, which is no attention. What we call interest, focus, engagement, and the background against which figures emerge are the structural shape of salience.
+
+*Urgency* is the *now versus later* axis: the being must register temporal pressure, that some demands close fast and others can wait. Without it, the being cannot track the difference between a state to act on and a state to monitor. Anxiety, calm, alertness, and patience are the shape urgency takes from inside.
+
+The account treats valence, salience, and urgency as interlocking dimensions of affective organization, but alternative theories may analyze them as partially separable processes. The identification of this organization with *feeling* is a further philosophical claim about the relation between functional organization and first-person experience.
+
+The relation between feeling and reasoning is likewise more varied than a single structural priority claim captures. Affect commonly shapes attention, valuation, and deliberation, while some forms of reasoning can operate with relatively attenuated affective involvement. The book's claim is that valuation supplies an important practical metric for deliberation; it should not be read as a settled result that all reasoning is impossible without affect.

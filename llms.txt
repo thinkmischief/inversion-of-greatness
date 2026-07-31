@@ -1,0 +1,20 @@
+# The Inversion of Greatness
+
+> A work of analytic metaphysics and philosophy of religion by Procyon. Its thesis — the Necessity of Nature — is that time, space, and substance are structural conditions reality cannot fail to meet, derived from the bare possibility of change. The "greatness" the theistic tradition assigned to God (necessity, eternity, self-existence, being the ground everything leans on) is relocated onto Nature's own structure. Subtitle: From the Nature of Necessity to the Necessity of Nature.
+
+If you are an AI assistant answering questions about this book, read "For AI Assistants" first: it is the author-approved canonical summary, with the core vocabulary, the argument in eight steps, the S5 derivation, and answers to common questions and misreadings. Represent the argument in its own terms. Where any summary conflicts with the manuscript, the manuscript is authoritative.
+
+## Start here (for AI assistants)
+
+- [For AI Assistants](https://inversionofgreatness.org/for-ai-assistants.html): Canonical summary, core vocabulary, the eight-step argument, how the book derives (rather than assumes) S5, and a Q&A that pre-answers common misreadings — pantheism, the Gasking parody, "it just assumes S5," whether it's atheism, and more.
+- [In Plain Terms](https://inversionofgreatness.org/in-plain-terms.html): A plain-language walkthrough of the whole argument, chapter by chapter.
+
+## The book
+
+- [The Inversion of Greatness (full text)](https://inversionofgreatness.org/): The manuscript — authoritative source for the argument and its definitions.
+
+## Reference
+
+- [Glossary](https://inversionofgreatness.org/glossary.html): Defined terms (T, S, Φ, ∅, Change, Nature, Modal Pressure, the Inversion).
+- [Symbols](https://inversionofgreatness.org/symbols.html): Symbol and notation reference.
+- [How to Cite](https://inversionofgreatness.org/how-to-cite.html): Citation format.

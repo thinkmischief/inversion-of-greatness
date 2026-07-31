@@ -1,0 +1,14 @@
+---
+title: "7.2.1 What is Disputed"
+notion-id: 17a04463-e203-4d81-862d-da87b508c0f8
+slug: "time-disputed"
+index: 70201
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+McTaggart's [-@mctaggart1908] distinction between the A-series (time as tensed: past, present, future, flowing) and the B-series (time as tenseless: earlier-than, later-than, fixed relations across a manifold) has organized the metaphysics of time for over a century. His further argument (that the A-series is incoherent and the B-series cannot by itself deliver real change, so time is unreal) produced a standing disagreement between A-theorists (presentists, growing-block theorists: Prior [-@prior1968]; Tooley [-@tooley1997]; Zimmerman [-@zimmerman2005]) and B-theorists (eternalists, block-universe proponents: Smart [-@smart1963]; Mellor [-@mellor1998]; Oaklander [-@oaklander2004]). Sider [-@sider2001] gives the dominant contemporary statement of B-theoretic metaphysics; Dainton [-@dainton2010] surveys the whole landscape.
+
+McTaggart's own positive proposal is easy to lose behind the unreality argument. Beneath the discredited A-series he posits a C-series: a permanent, non-temporal ordering of positions that carries no direction of its own, the bare array on which an A-series would have to confer pastness and futurity. It is worth marking that the structural ordering this chapter defends is not that C-series in temporal clothing. It is directed at the root: the arrow of succession is mind-independent and irreducible (§7.2, §7.2.5), so what orders Nature's states is a genuine earlier-to-later succession, not a direction-neutral array waiting on tense to animate it.
+
+The thesis that time requires change, which §7.2.3 makes load-bearing by casting succession as one of the three constitutive requirements of Change, meets its canonical challenge in Shoemaker [-@shoemaker1969], whose three-region scenario builds from local 'freezes' to indirect evidence of a period of total freeze in which nothing whatever changes. The challenge is met on two levels. What the argument here requires is succession as ordering, that Nature's states stand in earlier-than and later-than relations, not that some change fill every subinterval; Shoemaker's local freezes, dated only by their ordered relations to the still-changing regions, are themselves an instance of that ordering, so they tell at most against a change-at-every-interval requirement the account never asserts. The extrapolation to a global total freeze is then exactly what the account declines at its own hinge: on the relationalism about instants that the No Changeless Duration lemma assumes (§7.6.5), a globally changeless stretch of positive duration is not a durational interval at all, since nothing would then discern its moments from one another. Shoemaker's case is thus conceded where it shows only that ordering outruns local change, and declined where it would assert a changeless global duration.

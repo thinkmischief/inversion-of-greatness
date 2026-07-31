@@ -1,0 +1,12 @@
+---
+title: "6.5 Intrinsic Value"
+notion-id: fcc24138-018e-4618-861a-9dc216e78da8
+slug: "intrinsic-value"
+index: 60500
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster gathers the attributes of divine worth taken in itself: holiness (§6.5.1) and beatitude (§6.5.2), God as set apart in value and as complete in self-sufficient blessedness.
+
+Pressed, each presupposes the structure it claims to transcend: to be set apart is to stand in distinction, and to be complete in beatitude is to be a subject that persists in its own act — distinction and self-maintenance that name S and Φ rather than an intrinsic value floating free of them.

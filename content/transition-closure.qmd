@@ -1,0 +1,46 @@
+---
+title: "2.1.6 The Transition Closure"
+notion-id: 9314f1db-8f5d-4654-9b30-c79b09ca742e
+slug: "transition-closure"
+index: 20106
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The S5 forward inference (§2.1.4) packages modal invariance into its cleanest form, but it borrows the cross-world invariance it turns on from the Bottleneck (§2.1.5) rather than generating it. Parasitic Negation (§2.1.5) yields a separate closure concerning Change.
+
+Its temporal core is unconditional: a state in which Change is impossible cannot produce Change, because that production would itself be a change. Its modal extension is conditional on the structural reading of accessibility used here. The result is not a theorem of bare Kripke semantics, on which accessibility may be only an abstract relation between nodes. Here accessibility marks a structurally available alternative within the same Reality. Under that explicit reading, an alternative differing in C-status must be structurally reachable as an alternative, and the required connection is what the Negation Seal rules out.
+
+Let "changeless" abbreviate ¬◇C; let P(¬C, C) abbreviate "a changeless state produces Change."
+
+::: {.argument}
+**Transition Closure** · *Spelling Out the Closure Across Accessibility*
+
+1. *Negation Seal.* A changeless state cannot produce Change. ¬P(¬C, C). (§2.1.5)
+1. Any transition from ¬◇C into ◇C would itself be a Change.
+1. From (1) and (2): a ¬◇C state cannot host the transition that would carry it into ◇C.
+1. *Structural-accessibility premise.* An alternative is accessible here only if it is structurally available as a way the same Reality could be. If two alternatives differ in C-status, their structural availability must connect the no-Change state to the Change-permitting state.
+1. From (3) and (4): under structural accessibility, ¬◇C is closed. Every structurally accessible alternative to a ¬◇C state is itself ¬◇C.
+1. **Transition Closure.** The conditional closure therefore holds without assuming S5: ¬◇C → □¬◇C, hence □(¬◇C → □¬◇C). The box ranges over structural accessibility; no claim is made here about a bare abstract accessibility relation.
+
+:::
+
+The result restates that conclusion and reads it in both directions at once, temporal and modal.
+
+::: {.corollary}
+**Transition Closure** · **R3** · *Result of L2*
+
+A state that lacks the possibility of Change cannot produce or transition into a Change-permitting state. Under structural accessibility, every alternative available from it therefore remains at ¬◇C. The temporal conclusion is unconditional: no possible history begins with Change impossible and later acquires it. The modal conclusion is conditional on structural accessibility: no ¬◇C alternative is structurally accessible from a ◇C alternative, or conversely. The result does not by itself exclude an isolated ¬◇C world under a bare abstract semantics. The ∅ Reductio at §2.7.4 addresses the empty alternative, not an isolated structured world in which Change is impossible. □(¬◇C → □¬◇C).
+
+
+:::
+
+The structural-accessibility reading carries step 4. An alternative is not merely a listed node: it is a way the same Reality could be, and its availability must be answerable to the relation that makes it structurally reachable from the state in question. Where the proposed alternative differs from ¬◇C by allowing Change, its availability requires the transition step 1 rules out. On a bare abstract-relation reading the inference would not go through; the closure is explicitly not offered as a theorem of such semantics.
+
+What the closure establishes on its own is a structural fact about ¬◇C: it does not connect to its own absence. The Humean who posits brute emergence (the capacity for change appearing without any mechanism, from a state that lacks it) has not bypassed this point. Brute emergence is itself a transition from absence to presence, and a transition is Change.
+
+So the closure rules out the prior-changelessness picture and nothing wider. It neither establishes that every world permits Change nor rules out an isolated ¬◇C world under an unrelated accessibility semantics. Nor does the later ∅ analysis close that gap: it concerns the coherence of the empty alternative, not a second derivation of Necessary Possibility.
+
+*What closes.* The Transition Closure is an S5-independent closure on C-status, conditional in its modal form on the structural-accessibility premise made explicit above. A reader who rejects S5 while granting that premise has a reason to reject the emergence of Change from a capacityless state. They do not thereby receive proposition-wise □◇C. Modal Persistence and Modal Invariance (§2.1.7) are therefore governed by the fixed-domain semantics of Necessary Possibility; Transition Closure remains an auxiliary onset argument. Its exact result is the narrower one its name records: a ¬◇C state cannot host its own exit.[^transition-closure-ch4]
+
+[^transition-closure-ch4]: The claim that ¬◇C is closed under accessibility meets several objections in Chapter 4, the brute-emergence reading of the Humean chief among them. The Humean denial of necessary connection is the brute-emergence position the closure rules out (§4.1.4); the changeless-world picture supplies the prior state the closure forecloses (§4.2.1); emergent-time accounts ask whether the transition into change can be staged from outside (§4.2.3); and dialetheist refusals ask whether ¬◇C can both hold and fail at the transition (§4.4.9).

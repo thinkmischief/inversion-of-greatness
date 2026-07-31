@@ -1,0 +1,24 @@
+---
+title: "2.4.4 Something Must Be"
+notion-id: 34a55442-c625-45df-ba63-36db4c74d24c
+slug: "something-must-be-the-case"
+index: 20404
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Something is the case. This is the most primitive philosophical starting point available: prior to the *Cogito*, prior to the possibility of change, prior to any specific claim about the world. Its denial (the claim that nothing is the case) is not merely false but performatively self-refuting: the claim *nothing is the case* is itself something being the case. From that single fact, the structural Conditions follow.
+
+For a state of affairs to be real rather than a static description (for it to obtain *now* rather than merely be the case in some timeless sense) there must be a before in which it was not yet the case and a now in which it is, or a now in which it obtains and an after in which it either persists or gives way to another. That asymmetric ordering is what Temporality consists in.
+
+Any state of affairs has identity: it is this rather than that. For it to be this rather than that, there must be a structural fact that distinguishes it: not merely a qualitative difference, which is one description replacing another, but a real interval that makes two things two rather than one thing described twice. That interval is what Spatiality consists in.
+
+For any state of affairs to be causally connected to what produced it and what it produces (for it to be part of a world rather than an isolated label) there must be a medium through which that connection travels. That persistence medium is what Physicality consists in.
+
+The three Conditions are therefore not stipulations about our universe or assumptions imported into the argument. They are what any state of affairs requires in order to be a state of affairs at all, derived from the most undeniable premise available.
+
+Three challenges to the scope of that claim are taken up downstream. Whether an abstract truth like *2 + 2 = 4* requires the Conditions is engaged at §4.2.4. The Leibnizian demand for a reason *why there is something rather than nothing* is dissolved rather than answered: *nothing* lacks the Conditions that would let it be a state of affairs at all, including the state of affairs that nothing is the case; the formal version is the ∅ Reductio at §2.7. And the modal contrast space (possible worlds, counterfactual alternatives, unrealized possibilities) does not float free of the Conditions but presupposes them; §4.4 carries that engagement.
+
+Each word arrives after the last (T). Each word is not the same as the last (S). A medium carries the first to the second to the third (Φ). Something is the case. This is one such thing.[^facthood-ch4]
+
+[^facthood-ch4]: The facthood line (the claim that anything's being the case requires T, S, and Φ at the abstract level, that the Null Hypothesis dissolves at the level of content, and that the modal contrast space presupposes the structural Conditions) is engaged in Chapter 4. The abstract-truth case is taken up directly under Mathematical Platonism (§4.2.4), and Pizzi's impossibility of nothingness runs the same nothingness-impossibility argument by truth-maker, semantic, and Kripke-frame reductios to a strictly weaker bare-existential terminus (§4.1.11). On the modal contrast space, Lewis's modal realism turns plurality-of-worlds into plurality-of-concrete-existents (§4.4.1), linguistic ersatzism makes worlds abstract proposition-sets whose distinctness presupposes the structural conditions (§4.4.2), and Armstrong's combinatorialism generates the modal contrast space within the conditions of recombination (§4.4.3).

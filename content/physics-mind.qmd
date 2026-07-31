@@ -1,0 +1,12 @@
+---
+title: "4.3 Physics and Mind"
+notion-id: 3355bc8e-f244-80a7-8b2e-e68a4d2e414a
+slug: "physics-mind"
+index: 40300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster is different. These objections do not try to escape the structure; they grant it and ask whether it is rich enough. Can mere structure accommodate conscious experience, intrinsic nature beneath relations, or the uncanny fit between mathematics and the world?
+
+Because these challenges come from inside the picture, they cannot be met by the earlier reply that a rival merely relocates structure. The diagnostic shifts. Where §§4.1–4.2 test accounts that claim to avoid the structure, this cluster tests whether the account can answer genuine questions from within.

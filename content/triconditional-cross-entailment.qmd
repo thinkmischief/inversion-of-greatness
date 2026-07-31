@@ -1,0 +1,99 @@
+---
+title: "2.6.7 Triconditional Cross-Entailment"
+notion-id: ae97a568-d908-4da6-8991-2db20b04261d
+slug: "triconditional-cross-entailment"
+index: 20607
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This is the second of three readings of the Triconditional Identity (§2.6.10): Nature read from the cross-entailment among the three roles, the reading from which the Conditions point at one another. The first reading is the Modal Identity (§2.6.6); the third is the Ontological Identity (§2.6.8). The realizer move was worked three times at §§2.6.2–2.6.4, each pivoting on a different term, and gathered at §2.6.5 as the *Mutual Containment Result*. Under this reading, the Conditions cross-entail within the realizer-level structure of genuine change: where one is fully instantiated as a Condition of change, the other two are co-instantiated. The claim is domain-restricted. It does not say that every abstract order is spatial and physical, every mathematical geometry temporal and causal, or every abstract bearer a change-process.
+
+Pure mathematical abstraction is not a counterexample to the restricted theorem. A Kuratowski ordered pair, ⟨a, b⟩ := {{a}, {a, b}}, can instantiate abstract ordering and distinctness without temporal succession, spatial extension, or causal persistence. The theorem grants that point because a pure ordered pair is not a realizer of genuine change.
+
+The deflationary move becomes relevant only when the ordered pair is offered as a complete account of an actual succession. Then an interpretation must identify its elements as states, their order as a before-and-after, and their connection as what makes the sequence one change rather than two unrelated entries. Those additional realizer conditions — not the set-theoretic pair by itself — bring the restricted T, S, and Φ domain into view.
+
+Temporality requires causally structured succession among states, but causal structure requires a persistence medium (Φ) to carry influence from one state to the next, and relational extension (S) so that states can be genuinely distinct rather than differing only in their intrinsic properties. A causally structured succession with no persistence medium is a sequence of events connected by nothing. A causally structured succession whose states are distinguished only by their intrinsic properties (with no relational interval between them) provides no manifold across which causal influence can be transmitted.
+
+Spatiality requires relational extension, but a relational structure requires temporal succession (T) for distinction between state-positions to be possible, and causal relata (Φ) for locations to be occupied and causally efficacious rather than empty geometrical abstractions. A relational structure with no temporal succession is a frozen geometry incapable of hosting movement. A relational structure with no causal relata is an unoccupied coordinate system with no capacity for differentiation or interaction.
+
+Physicality requires a causal persistence medium, but causal persistence requires causally structured temporal succession (T) across which to persist and to transmit influence, and relational extension (S) to provide the relational structure across which that influence travels. A persistence medium with no temporal succession has nothing to persist through. A persistence medium with no relational extension collapses cause and effect into zero distance, eliminating the distinction between them.
+
+Within any structure that realizes genuine change, the three Conditions form one realizer complex rather than three detachable ingredients. The cross-entailment is therefore not a theorem about arbitrary abstract structures. It is a theorem about full Condition-instantiation in the target domain: remove any role from a genuine change-realizer and the remaining two no longer realize change.
+
+The three axes converge on one structural fact, and the cross-entailment can now be stated.
+
+::: {.theorem}
+**Triconditional Cross-Entailment** · **T3** · *Theorem 3*
+
+Nature read from the cross-entailment among the three roles: within the realizer-level structure of genuine change, full instantiation of Temporality, Spatiality, or Physicality co-instantiates the other two. The roles are mutually implicating in that domain without being reducible to one another. T ↔ (S∧Φ), S ↔ (T∧Φ), Φ ↔ (T∧S), restricted to structures realizing genuine change.
+
+
+:::
+
+Consider any conversation. The example is offered as illustration of the load-bearing cross-entailment derivations above, not as a substitute for them; a reader who finds the conversation case unconvincing but accepts the formal derivations still has the result. Conversations are a usefully vivid instance because the joint requirement of all three Conditions shows up at the surface.
+
+A conversation requires temporal direction: what was said before must shape what can be said next, and you cannot unsay what you have said. The earlier utterance is the ground of the later one in a way the later cannot reciprocate. Remove this and utterances float free of one another: nothing is a response to anything.
+
+A conversation requires genuinely distinct positions in the exchange (speaker and listener, writer and reader), and the difference between them must be real rather than nominal. The positions need not always be occupied by two numerically distinct people: one person may answer an earlier thought or alternate roles across turns. What the exchange cannot lose is the distinction between address and uptake.
+
+And a conversation requires persistence: the person who asked the question must be the person who receives the answer. The one who made the claim must be the one who can be held to it. Without persistence, there are no turns, because turns require someone to hand them to.
+
+Remove any one of these Conditions and you do not have a simpler conversation. You are not having a conversation at all. Everything that makes exchange possible is already named in one sentence: between substances, across space, through time.
+
+Within the target domain, to instantiate any one as a full Condition of genuine change is to instantiate all three. The qualification matters: an abstract order, geometry, or bearer considered outside a change-realizer is not a counterexample because it is not an instance of the theorem's restricted domain. What looks like three within a genuine change-realizer is one mutually implicating structure. The theorem establishes that restricted unity; it does not convert every abstract order, extension, or bearer into a change-realizer.
+
+One consequence is worth stating on its own, since the argument of §2.2.2 (Actuality Extends to the Ground) leans on it: the cross-entailment licenses not only that the three Conditions stand or fall together, but that anything in which even one of them is *actually present* thereby instantiates all three. That is what lets the actuality of structured experience reach its ground rather than stopping at experience.
+
+::: {.corollary}
+**Constitutive Instantiation** · **R8** · *Result of T3*
+
+Where one of the Conditions (Temporality, Spatiality, or Physicality, or a determinate of one) is actually present in an experiencing, instantiated and not merely represented in content, all three are co-instantiated in that experiencing; and because the experiencing is a state its ground is in rather than a content the ground merely represents, the ground itself instantiates all three.
+
+
+:::
+
+The derivation from the cross-entailment to the ground runs in five steps:
+
+::: {.argument}
+**The Ground's Instantiation** · *The Line from the Cross-Entailment*
+
+1. To instantiate a structural feature F is for F to be actually present; to encode F is to bear a representation of F while F itself is absent. A two-dimensional engine encodes three-dimensional space without occupying it: the distinction is what the result turns on.
+1. *Cross-entailment (T3).* The actual instantiation of any one Condition-feature carries the conjunction of the other two with it.
+1. An experience in which the Conditions are actually present is a state its ground is in, not a content it merely hosts and not a free-floating fact; the instantiation is therefore the ground's own rather than a structure the ground merely represents.
+1. **Constitutive Instantiation.** So a ground of actually-structured experience instantiates T, S, and Φ. One that merely encoded them could underwrite a representation of such experience, but not an experience in which the structure is actually present, and it is the latter that §2.2.2 requires.
+1. Whether weak or strong, emergence may relocate where a feature is first instantiated; it cannot convert actual instantiation into mere encoding. Once the feature is actually present, step 2 fires.
+
+:::
+
+*The encoding dilemma.* The result reaches the ground even without treating the experience as the ground's own state. Take any candidate ground of an actually structured experience. Either it instantiates the experienced Conditions outright (and since experience exhibits all three, so does it) or it merely *encodes* them.
+
+But an encoding that grounds a live experience is not ontologically free: a representation borne and read as that ground is a tokened activity, carried in a medium (Φ), across distinct vehicle-elements (S), processed across steps (T). So the encoding horn instantiates the Conditions no less than the instantiation horn, and the deflationist's ‘it is only represented’ is self-defeating.
+
+The dilemma needs neither a grounding-priority premise (the level-invariance line, §2.2.2) nor the cross-entailment: experience already presents all three, and each horn carries all three to the ground.
+
+Its one limit is the temporal step: a frozen, never-read encoding need not succeed in time. The line is therefore restricted to grounds of *actual, ongoing* experience, where the encoding is being processed. An untokened, purely abstract encoding grounds no live experience, as the Kuratowski reply above already shows.
+
+To picture the two horns concretely: a game engine renders a three-dimensional scene on a flat panel. It *encodes* depth — objects occlude one another, distances scale with position — without instantiating it: nothing in the pixels stands behind anything else, and the third dimension the scene represents is simply absent.
+
+That is the first horn, encoding without instantiation. But the rendering is also a live process: it runs frame after frame (T), across distinct cells and pixels laid out on the panel (S), in a substrate that persists through the computation (Φ).
+
+The feature it encodes can be missing; the Conditions that carry the encoding cannot.
+
+You can encode a structure you do not instantiate, but you cannot run the encoding without instantiating Temporality, Spatiality, and Physicality — which is the second horn, and why the deflationist's 'it is only represented' still arrives at the ground.
+
+At the level of logic, the same fact: temporal logic, spatial logic, and substantial logic are not three logics in coordination but one logic read along three axes: the metalogical architecture is developed at §2.10.
+
+The cross-entailment the Triconditional Cross-Entailment names structurally is shared logical form. To be one of T, S, Φ is already to share the logical aspect the other two are: what reads as succession from one axis, as distinction from another, as carrying-through from the third, *is* the same logic showing its three faces.
+
+*What is identified.* A consequence follows that governs the rest of the argument. A coordinate does not have an essence that it then expresses. It essentially expresses. What the coordinate does viewed as static property is its essence; what the coordinate does viewed as activity is its expression: the same structural fact from two directions. Neither direction reaches something the other misses.
+
+Essence without expression is a coordinate without axes: the phrase retains its grammar but has lost its referent. The bridge to the essence / expression collapse runs through the realizer move of §2.6.1: what makes a structural feature a structural feature, rather than a labeled placeholder, is its operativity within the structure it figures in.
+
+A coordinate that has no axes to figure in is a label, not a coordinate; an essence that has no expression to be the essence *of* is a name, not an essence.
+
+At the structural level the operativity is constitutive of the feature: the essence does not stand behind the expression as a further determinable, because the expression *is* what the essence consists in. There is no hidden what-it-is behind the expressing, because the expressing is the what-it-is.
+
+This is what makes the severances of Chapter 6 total rather than partial: negating what the Conditions do is not stripping away an outer layer to reveal a residual essence beneath. It is negating the essence itself.[^cross-entailment-ch4]
+
+[^cross-entailment-ch4]: The cross-entailment among the three roles (T3) is engaged in Chapter 4. The Humean denial of necessary connection between distinct existences presses directly at the cross-entailment site (§4.1.4), conventionalism about laws at §4.1.7, Quine's denial of the analytic–essential distinction the cross-entailment relies on at §4.1.6, and Sider's structuralism on lawlike structure at §4.4.7.

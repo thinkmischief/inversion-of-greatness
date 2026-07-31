@@ -1,0 +1,26 @@
+---
+title: "9.9.3 What is Predicted"
+notion-id: 429c7ec6-56fa-431b-a688-9f4b45e3101d
+slug: "education-predicted"
+index: 90903
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of education as the development of the capacities the political community presupposes participants to have, paired with the structural-extraction logic, predicts how education systems perform.
+
+*First.* Educational under-investment correlates with downstream costs in justice, healthcare, and economic productivity. The framework predicts that under-investment in particular populations or developmental periods produces measurable costs in the downstream domains where underdeveloped capacities manifest as justice-system involvement, healthcare-system involvement, or productivity loss. The downstream costs are predicted to exceed the upstream cost of the foregone investment.
+
+*Second.* Privatized parallel-tier education produces stratification that violates representation-quality and economic-equality at the same time. Where for-profit or wealth-stratified educational tiers coexist with collective-investment tiers, the framework predicts that the stratification produces capability disparities that propagate downstream into representation quality (§9.3) and economic-distribution quality (§9.7) simultaneously. Education becomes a multi-domain extraction site by the operation of the same structural pattern.
+
+*Third.* Education outcomes track per-pupil investment AND family/social conditions, not one or the other. The framework predicts that the empirical research will show neither pure per-pupil-investment effects (because development depends on contextual conditions) nor pure family-condition effects (because investment matters for what investment touches), but a compound pattern in which both contribute non-additively. The framework predicts that educational reform programs targeting one variable while ignoring the other will produce smaller effects than reformers anticipate.
+
+*Fourth.* Education-as-credentialing-only produces signaling inflation and capability underdevelopment. Where educational systems are configured primarily as credential-issuing institutions rather than as capability-development infrastructure, the framework predicts signaling-inflation patterns (degree requirements escalating beyond capability requirements; credential gatekeeping at occupational-entry points) combined with capability underdevelopment relative to credential prevalence. The pattern is predicted to be self-reinforcing: signaling-inflation increases the cost of educational access, increasing extraction at the credential point.
+
+*Fifth.* Higher-education debt extraction will track the same structural-extraction pattern as healthcare insurance. Where higher education is funded primarily through individual debt rather than through collective investment, the framework predicts that the debt-issuing system will display structural-extraction patterns: rate growth exceeding inflation; debt loads exceeding earnings-recovery capacity for substantial subgroups; political resistance to debt-relief proposals matching the resistance the health-insurance industry produces against floor-substitution alternatives.
+
+*Sixth.* Early-childhood-education investment will produce returns substantially larger than equivalent later-stage investment. The framework's developmental account predicts that the marginal return on educational investment is highest at developmental periods where the underlying capacities are most plastic, and that under-investment in early-childhood is therefore the costliest under-investment per dollar foregone. The Heckman-curve prediction is the framework's prediction.
+
+*Seventh.* Education-system extraction patterns at every scale. The framework predicts that institutional-scale extraction in education (for-profit colleges with high default and low completion rates; predatory student-loan products; credential-mill operations; testing-and-tutoring industry capture of admissions processes) and individual-scale extraction (cheating; credential fraud) will track each other symmetrically as one structural pattern at different magnitudes.
+
+The predictions stated in this subsection are made under engagement with the contested educational-policy traditions §9.9.1 names at premise: the Friedman voucher tradition (*Capitalism and Freedom* 1962; *Free to Choose* 1980), the libertarian parental-authority tradition (Rothbard; the homeschool legal-defense literature), and Illich's deschooling critique (*Deschooling Society* 1971). Those traditions are engaged at section length in §9.9.1, and the predictions stated here apply under that engagement.

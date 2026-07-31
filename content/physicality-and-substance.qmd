@@ -1,0 +1,34 @@
+---
+title: "1.4.3 Substance"
+notion-id: 457ca7c0-4546-45b7-a89a-ba1b53a658ff
+slug: "physicality-and-substance"
+index: 10403
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+What carries across is *Substance*. Ordered, distinct states can still sit side by side: nothing yet passes from one to the next. For one state to give something to another, rather than lapse while an unrelated successor arrives, there has to be a real carrying relation. *Substance* names what occupies the carrier-role in that relation. This does not yet decide whether the occupant is best understood as a persisting object, a process, a trope, a bundle, or a Humean pattern, or whether the relation is productive causation; those are downstream questions.
+
+Substance bears *Physicality*, the Condition that makes *exchange* possible, the third role change named in §1.3. The stronger account defended downstream takes exchange to require three things at once: distinct terms, something that genuinely bears and transmits what is carried, and continuity through the transition.
+
+i. *Distinctness.* The terms of exchange must be distinguishable: what carries and what takes up the carrying cannot collapse into one undifferentiated state. The same being may occupy both roles at different stages; self-interaction and internal change are not excluded. What exchange requires is numerical non-identity between its relata as states or roles, not necessarily between two beings and not merely as spatial separation.
+
+ii. *Substantiality.* Substantiality requires a being that genuinely carries and transmits causal properties, not a mere name for a relation. The page carries the print: it holds it against erasure and makes it available to the reader’s gaze. A supposed carrier with nothing to transmit would be an empty placeholder where carrying ought to be.
+
+iii. *Persistence.* The carrying remains continuous through the transition. This is a continuity condition on exchange, not yet a theory of which entity persists or what secures its identity through time. The page does not vanish after one word and reappear for the next; without continuity, the page that holds the first word and the page that holds the second would be two pages, and nothing would have been carried forward. Persistence does not require a frozen core untouched by change. It requires an unbroken continuity of carrying.
+
+Substantiality and persistence are close but distinct. Substantiality concerns whether something can carry anything at all; persistence concerns whether it is the same carrier on both sides of the transition. Together with distinctness, the two features specify what it is for exchange to be real.
+
+The capacity to carry is not itself the temporal ordering across which it is exercised: Temporality supplies the before-and-after order, while Physicality supplies what has a determinate capacity to be carried or made effective in that order. A physical theory may therefore describe the fundamental realizer in an atemporal vocabulary and still owe an account of how a determinate capacity is realized in the emergent order; removing fundamental clock-time does not by itself erase the carrier-role.
+
+The relation Substance supplies is the causal-bearing role: one state can be connected to what happens in another. Whether that connection is best analyzed as productive causation, Humean regularity, process continuity, or another account is earned downstream rather than built into the role here. This chapter fixes the meaning of Substance as what bears continuity through change. Chapter 2 asks whether Physicality, together with Temporality and Spatiality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide what kind of entity a substance ultimately is. The later discussion takes up the disputes among substance, trope, bundle, and process accounts. The point here is prior to those alternatives: if anything is carried through change, there must be a real carrier.
+
+::: {.untyped}
+**Physicality** · **Φ** · *Condition*
+
+The Condition that makes exchange possible: whatever it takes for one state to genuinely carry something into the next, rather than lapsing while an unrelated successor arrives. Borne in Reality by Substance.
+
+
+:::

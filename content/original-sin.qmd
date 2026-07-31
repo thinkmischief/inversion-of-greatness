@@ -1,0 +1,26 @@
+---
+title: "E.2.2 Original Sin"
+notion-id: b2e74c43-c2e7-4675-8d34-503fbcfda56c
+slug: "original-sin"
+index: 110202
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+Original sin is the fall's first inheritance: the claim that every human arrives already guilty. With the fall removed (E.2.1, The Fall), the doctrine loses the act it traces back to, but it has a defect that does not wait on the narrative, and the book's account of justice (§6.9.2) is what brings it out. Culpability is a manner-of-acting predicate. A doctrine that fixes it at birth, for an act performed by someone else, asks the predicate to do the one thing its grammar forbids.
+
+The doctrine is also, among the Abrahamic traditions, distinctively Western Christian. Judaism and Islam reject inherited guilt outright rather than merely relocating it (the scriptural statements are collected at E.2.3, Inherited Guilt), so what follows tracks a debate internal to Christianity — most sharply, between the Augustinian-Reformed line and the Eastern church's own departure from it, below — not a live three-way dispute across the wider Abrahamic family.
+
+On the Augustinian-Reformed account (Augustine, *De Civitate Dei* XIII.14; Aquinas, *ST* I-II.81; Edwards 1758), every human is, from conception, both corrupted in nature and *culpable*: guilty before any act of their own, in virtue of Adam's transgression. The remedy the tradition builds (regeneration, baptism, grace) is addressed to a liability already in force before the infant has done anything at all.
+
+On the account of §6.9.2, *just*, *guilty*, and *culpable* are manner-of-acting predicates: culpability tracks the agent's action; A is culpable for X just in case A performed X under the conditions of knowledge and freedom that license the attribution. It attaches at Φ, the substantive agent whose act it marks. The doctrine relocates it past the action-condition: A is culpable for B's act in virtue of A's biological, metaphysical, or representational relation to B. That relocation is exactly the move the predicate marks as injustice in every other application.
+
+Three accounts try to license the relocation; each meets the same structural point.
+
+Federal headship: Adam is our appointed representative (Edwards 1758; Murray 1959), so his act counts as ours. But representation that binds the represented requires their consent or an exit from the system the representative acts within. Adamic representation supplies neither, and representation without consent or exit is not representation but conscription: the structure the appeal was meant to escape.
+
+Seminal realism: we were metaphysically present in Adam and so really performed the act. The account needs both that potential persons share an actual person's acts (which generalizes ruinously, making every descendant complicit in every ancestor's act) and that such presence licenses culpability, which simply redefines culpability away from the action-condition it tracks.
+
+Inherited corruption: we inherit a *condition* (mortality, concupiscence) but not *guilt*; culpability arises only from our own later acts under that condition. This is the position the Eastern church marks off as *ancestral sin* (*propatorikon hamartēma*; Romanides 2002), a corrupted inheritance from Adam, but not his guilt, declining the Augustinian identification at exactly the point now in dispute. Contemporary analytic theists who affirm a Fall take the same line: Swinburne holds that what is inherited is a proneness to wrongdoing, not Adam's guilt (*Responsibility and Atonement*, 1989), and Plantinga distinguishes the inherited corrupt condition from any imputed culpability (*Warranted Christian Belief*, 2000). It is the most defensible version, and it concedes the doctrine's central claim: it abandons inherited *guilt*, and still owes an account of why the condition itself is just, imposed on bearers who did not author it. That debt is real but no longer this doctrine's to carry: once guilt is dropped, what is inherited is a condition rather than a verdict, and the question of why such a condition is imposed on the innocent is the general problem of evil, pressed where this excursus presses it, not a surviving form of original sin.
+
+*What falls.* Culpability tracks action and stays at the Φ whose act it marks; no account moves it across persons without renaming it (the general result is in E.2.3, Inherited Guilt). With the act gone and the transfer illicit, what can honestly be called “inherited” is at most a condition: a fact about how a being is formed, not a verdict about what it deserves.

@@ -1,0 +1,16 @@
+---
+title: "1.5.9 What the Operators Require"
+notion-id: 8e6929cb-fb8d-47a7-b6cc-7b8091e4eacb
+slug: "what-the-operators-require"
+index: 10509
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The operators do their metaphysical work when they are applied to real contents within Reality, when the discipline reaches for what is actually the case. That is the claim's scope. Operator-use considered formally apart from any subject matter is not what the claim addresses: logic and set theory running their operators over abstract material.
+
+So restricted, the operators require what any change requires: Time, Space, and Substance. Take *causes*: it links events that are distinct, ordered as before and after, and connected by what runs from one to the other. *Obtains*, *consists in*, *entails*, *grounds*, *bears*, and *persists* likewise presuppose the structure in which a real state of affairs can be distinguished, ordered, and carried through. The operators are not a vocabulary that stands above what they describe and reaches down to organize it; they are how the field talks about the structure they require to do their work.
+
+The claim is not a reduction of grounding, essence, or any other operator to Time, Space, and Substance. Grounding as a metaphysical, hyperintensional dependence relation [@fine2012; @schaffer2009] remains sui generis. Section 4.1.10 tests whether an essence- or grounding-prior account can stand before the modal field: its trilemma excludes sources whose own status is already specified within that field, while leaving the committed essence-prior or transcendence theorist as a live dispute. Chapter 2 supplies the formal register for the present claim: it asks whether Temporality, Spatiality, and Physicality, the Conditions the triad bears (§1.4), are necessary in every possible reality.
+
+With that, the Groundwork is complete: Reality, the modal statuses, change, and existence are now fixed in the senses the argument will use. None of it has yet been defended in full force — that is where Chapter 2 begins.

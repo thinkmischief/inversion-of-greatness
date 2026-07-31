@@ -1,0 +1,18 @@
+---
+title: "2.1.2 Bilateral Frame"
+notion-id: 9db987a4-0ab7-4fb1-ad42-cebcbec2de33
+slug: "modal-status-bilaterality"
+index: 20102
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Modal Bivalence is bilateral; the rest of the proof works on both modal statuses. This subsection fixes that bilateral reading explicitly, because it diverges from how many modal arguments are usually run.
+
+A one-sided reading of Modal Bivalence would emphasize only possibility: there are possibilities, and the question is what underwrites them. The Necessity-of-Nature proof refuses that asymmetry. Possibility and impossibility matter equally. The argument needs witnesses under both statuses because the *modal constraint* is identified by its bilateral work: what permits some change and prohibits other change. A constraint that only permits is not yet the modal constraint on change; it is a permission. A constraint that only prohibits is not yet the modal constraint on change; it is a prohibition. Whatever it is about Reality that fixes the modal status of change has to do both, and the proof has to engage both.
+
+This bilateral framing is implicit in Modal Bivalence itself (the modal constraint does permission-work and prohibition-work alike), but it is now made structurally explicit. The requirement then propagates through the chapter. Cartesian Certainty (§2.2) supplies bilateral witnesses: some change is possible, some change is not. The account of what fixes modal status quantifies over the constraint itself, abstracting from which status it fixes. The Structural Requirement identifies the modal constraint with the three Conditions, which are bilateral in the same way: Temporality permits succession and prohibits reversal; Spatiality permits coexistence and prohibits double occupancy; Physicality permits qualitative change and prohibits causal disconnection.
+
+*What is established.* The result is a chapter that engages every premise in both modal-status directions. There is no shortcut through possibility alone.[^bilateral-frame-ch4]
+
+[^bilateral-frame-ch4]: The bilateral reading of Modal Bivalence (the requirement that the modal constraint do permission-work and prohibition-work alike) meets its objections in Chapter 4. The canonical one-sided position is the Humean denial of necessary connection, which grants permissions but resists prohibitions as anything beyond regularity (§4.1.4). Lewis presses whether plenitude permits everything and so loses the prohibition side (§4.4.1), and fictionalism presses one-sided modal commitment (§4.4.4). Williamson's necessitism is the closest ally on bilateral modal invariance (§4.4.6), and dappled-world accounts ask whether the bilateral reading scales beyond local domains (§4.1.8).

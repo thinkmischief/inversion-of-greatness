@@ -1,0 +1,12 @@
+---
+title: "7.3.1 What is Disputed"
+notion-id: a8f2a063-202a-47b2-95a3-5b91579a62eb
+slug: "space-disputed"
+index: 70301
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The most enduring dispute in the metaphysics of Spatiality is between substantivalism and relationalism. Substantivalism (most prominently Newton's [-@newton1687]) holds that Spatiality is a real container that exists independently of its contents: an absolute framework in which objects are located and with respect to which motion is objectively defined. Relationalism (most prominently Leibniz's [-@leibniz1715]) holds that there is no Spatiality apart from the relations between bodies: to be somewhere is just to stand in spatial relations to other things; talk of absolute position is without meaning. The contemporary literature (Sklar [-@sklar1974]; Earman [-@earman1989]; Maudlin [-@maudlin2012]; Pooley [-@pooley2013]) continues the dispute in the context of relativistic physics.
+
+The dispute has survived three centuries because both sides are tracking something real. Substantivalism is tracking extension: the fact that there is a where at all, that locations are possible whether or not anything happens to occupy them. Relationalism is tracking relation: the fact that being at a location means standing in determinate connection to other locations. Each side takes its own insight to be the whole story and the other side's to be superfluous, which is why the dispute never settles.

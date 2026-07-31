@@ -1,0 +1,27 @@
+---
+title: "3.5.2 Robustness"
+notion-id: d7d53476-cb82-4a68-9c43-73fe85793a9e
+slug: "robustness"
+index: 30520
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The point is robustness, not abundance for its own sake. The term is borrowed from causal overdetermination, where two sufficient causes converge on one effect and where the literature treats that convergence as a defect (Kim's exclusion problem). The sense at work here inverts the verdict: not competing causes of one event, but independent derivations landing on one conclusion — the way a single theorem can carry several genuinely distinct proofs in mathematics. A convergent chapter asks which cuts would be needed, which lines are genuinely distinct, and which joints remain shared. The answer is not the same at every stage.
+
+::: {.untyped}
+**The cut ledger** · *what must fail for each node to fall*
+
+- **Stage 1, □◇C:** removing any local witness leaves the other pressures standing, but full cross-world reach still has one unsupplied bridge: modal invariance. The stage is pressure-tested, not cut-proof.
+- **Stage 2, □(T∧S∧Φ) at role-resolution:** no premise peculiar to one Move cuts the node. Defeating every line requires pressure on the shared constitutive role-identifications and on the independently defended ∅-floor, not the failure of any one construction, denial, or representation.
+- **Stage 3, R = N:** maximality and the residue dilemma are the identity-bearing lines, and both share the role-account in §1.1. The Grounding Trilemma separately closes the office of an external ground but does not exclude an idle surplus on its own. To defeat the identity, a critic must break the shared role-anchor; reopening an external grounding position would additionally defeat the Trilemma's restricted conclusion.
+
+:::
+
+A *local cut* rejects a premise or inference peculiar to one line. A *shared-joint cut* rejects material on which several lines openly depend. The chapter claims resilience against the first, not invulnerability against the second. That is the testable content of *overdetermination* here: after any one local cut, at least one bearing line to the relevant node remains.
+
+The role-level necessity of direction, difference, and bearer is the chapter's strongest convergence. Several lines lean on the ∅-floor, but that floor is defended from facthood, from the act/object closure on conceiving nothing, and independently in Chapter 2. Several lines also depend on the constitutive identification of obtaining, difference, and bearing with the three roles. That identification is a shared premise and is named as one; multiplying its applications does not multiply its warrant.
+
+The necessary possibility of change is less overdetermined. The no-onset and performative arguments close important escapes, but neither reaches a silent, isolated world, and the Reverse-Lift diagnostic (§3.5.4) shows why deriving □◇C from Stage 2 would circle through the type-upgrades presently secured by □◇C. T1 therefore remains the clean proposition-wise modal line.
+
+The Reality–Nature identity is stronger than before. Maximality provides one identity-bearing line, and the residue dilemma (§3.4.3) provides another; the Grounding Trilemma supplies a distinct but narrower grounding-office closure, whose idle-surplus remainder the residue dilemma closes. The resulting convergence is two lines to identity plus one grounding-office support, not three premise-disjoint proofs of R = N. The convergence is real where the arguments separate, limited where they share a joint, and strongest because those differences are stated rather than concealed.

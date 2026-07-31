@@ -1,0 +1,12 @@
+---
+title: "7.5.2 Field"
+notion-id: 9f38c804-94ff-496f-9c33-ed1c058cc550
+slug: "field"
+index: 70502
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Under a field-on-spacetime reading, Physicality is realized through field structure across spacetime: the bearer of physical capacities is spatially articulated rather than a dimensionless point. That reading is one important realization of the book's S–Φ binding; it does not establish that every spatial point must carry a nonzero field value, or that all possible physical ontologies must be field ontologies. Maxwell’s [-@maxwell1865] *Dynamical Theory of the Electromagnetic Field* unified electricity and magnetism into a single field whose excitations propagate through space at finite speed. Quantum field theory generalizes: particles such as electrons, quarks, photons, and gluons are treated as excitations of underlying fields defined on spacetime [@weinberg1995]. The Aharonov–Bohm effect [-@aharonovBohm1959] shows that gauge-invariant holonomy around a closed path can make a measurable difference even where the classical magnetic field vanishes along that path. It supports the physical significance of global gauge structure, but does not by itself settle every dispute about field ontology or rule out every action-at-a-distance formulation. The structural claim remains role-level: an adequate physical ontology must provide distinguishable configurations and persistent causal capacity; it does not infer a universal field-value at every point from that requirement.
+
+The quantum vacuum is an important test case for a field-on-spacetime reading. In standard quantum field theory, it is the ground state of the relevant fields, with zero-point terms, correlations, and entanglement structure. The ontological interpretation of zero-point energy and vacuum fluctuations is contested (Saunders, 'Is the Zero-Point Energy Real?' [-@saunders2002]; Earman, 'Rough Guide to Spontaneous Symmetry Breaking' [-@earman2003]). Straightforward sums of zero-point contributions also generate the cosmological-constant problem [@weinberg1989]. These facts show why no simple identification of “vacuum” with absolute nothingness is warranted within standard field theory; they do not establish that a physical bearer must exist at every spatial point in every possible ontology. The structural claim remains at the role level, and the framework stays neutral between field-on-spacetime and wavefunction-on-configuration-space approaches.

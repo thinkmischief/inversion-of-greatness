@@ -1,0 +1,14 @@
+---
+title: "E.3.5 Providence, Foreknowledge, and Predestination"
+notion-id: 6da187e8-70a7-431a-bb37-912d4c931536
+slug: "providence"
+index: 110305
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+Providence is the most purely downstream of these entries, and the one place the tradition's long-contested foreknowledge–freedom set-piece quietly comes apart. Three theses travel under one head — governance (God conserves and directs all things to their ends), foreknowledge (God knows, infallibly and in advance, what will occur, the free acts of creatures included), and predestination (God ordains the outcome, whether by the Reformed unconditional decree or by Molinist selection on the basis of middle knowledge; Molina, *Concordia*, 1588), and each is a relation between a personal God and the world: a governor and the governed, a knower and the known, an ordainer and the ordained.
+
+The same three theses recur, under different names, across the other Abrahamic traditions that share the personal-God commitment the argument below targets. Islamic theology runs the identical dispute as *qadar* (decree), spanning Jabriyya determinism, Qadariyya libertarianism, and the Ash'arite middle position of *kasb* (God creates the act; the human merely 'acquires' it) — a solution that leans on the same occasionalism engaged at §6.7.1, where creaturely causal power is denied outright. Jewish philosophy holds the same tension between *hashgacha* (providence) and *bechira chofshit* (free choice); Maimonides's own resolution denies that God's knowledge of an outcome determines it (*Guide* III.20), a rescue some read as anticipating the open-theist move and others as a distinct fourth option (Seeskin 2000; Stern 2013). Different vocabulary, same three-way structure, and — if the argument below holds — the same dependence on a personal relatum none of the three traditions' rescues can do without.
+
+The entry contributes no argument of its own. The full engagement with the foreknowledge–freedom dilemma (Pike's sharpening of it, and the Molinist, atemporalist, and open-theist rescues) belongs to §6.4.2 and is not re-run here. What this result draws out is a conditional consequence: governance presupposes a governor, foreknowledge a knower, and predestination an ordaining will (§8.9). A wholly structureless active-ground account must explain how those predicates retain determinate content without the role-level conditions Chapter 6 identifies. If it cannot, the familiar problem is not resolved by that model. An embedded or revisionary theology may retain the predicates but pays a different cost in aseity, ultimacy, or the scope of foreknowledge. The chapter therefore maps a family of pressures rather than declaring providence eliminated as a unit.

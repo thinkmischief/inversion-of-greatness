@@ -1,0 +1,16 @@
+---
+title: "3.6 Necessity's Reversal"
+notion-id: d376db58-6bb4-4704-9707-37ef68cc9392
+slug: "necessitys-reversal"
+index: 30600
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+What remains open is left open by design: the metric structure above the role layer waits for *Nature Alone*, the standing rivals wait for the chapters that follow, and the reversal the convergence exposes is opened here, not yet carried through.
+
+The tradition placed the necessary ground *outside* the world: simple, changeless, self-subsistent, the source on which a contingent world depends. The convergence here inverts that. What is necessary, self-subsistent, and underivable is not a being beyond Nature but Nature itself (succession, distinction, exchange), the very structure the tradition treated as the mark of the merely created.[^1] Reality does not rest on a changeless ground; Reality *is* the changeable, necessarily.[^2] Necessity is only the first: Chapter 6 carries the same reversal across the whole catalogue of divine predicates (simplicity, eternity, immutability, sovereignty, and the rest), taking each in turn.
+
+[^1]: Why three necessary aspects rather than one simple necessary being (the question the classical theist presses from divine simplicity, and the aggregation theorist from the other side) is not begged here. That the necessary structure is three-in-one and not a bare simple is earned upstream: the triunity of §2.6.9 (one Nature read along three axes, identity-under-description) and the individuation criterion of §2.6.11, which fixes exactly three Conditions and forecloses both a fourth and a collapse to one.
+
+[^2]: Self-subsistence is reached by convergence rather than by a single inference, in keeping with the redundancy this chapter is built on. One line is constitutive: the continuation of any changing thing is grounded in Φ, the retention of identity across an interval, rather than in an external sustainer or a brute default (§4.2.9), so Nature's persistence requires nothing outside it. A second line is temporal-modal: there can be no first change, since any emergence of change would itself be a change (§2.1.3) and an origin would be a transition before transitions are possible (§4.1.3), while possibility has no source outside Nature (Modal Exclusivity, §4.1.10; Modal Closure, §2.8.4). The second line does not reach the conclusion by itself: a beginningless succession of externally derived changes would be both beginningless and without external ground while subsisting on nothing of its own. The remaining step is the point that Nature is not a thing that could take a ground but what grounding consists in (§4.1.3), so the demand for its external ground is incoherent rather than unmet. The lines meet at one node, which is the robustness the convergence is for: a flaw in either leaves the self-subsistence of Nature standing on the other.

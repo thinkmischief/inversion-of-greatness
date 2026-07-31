@@ -1,0 +1,27 @@
+---
+title: "3.2 Triconditional Necessity: Positive Account"
+notion-id: 3b13cc81-e023-42bf-9f68-3ade621e420a
+slug: "triconditional-necessity-positive-account"
+index: 30200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Stage 1 reached □◇C: in every possible world, change is possible. The next question is whether the three Conditions change requires — Temporality, Spatiality, and Physicality, borne by Time, Space, and Substance — can be reached from materials beneath the Chapter 2 line. Could there have been a reality with none of them, or does any possible reality already require the Triconditions?
+
+Put simply, this section asks whether one can begin below the modal proof itself: with the bare fact that something is the case, that a world is determinate, or that any settled content has a structure. This section takes the constructive side of that test; §3.3 takes the negative side. The shared target is the confluence labeled □(T ∧ S ∧ Φ), the proposition the linear argument labels □N.
+
+The Moves below map convergent lines, not redundant repetitions. The canonical spine reaches □N by one line: lifting □◇C through the conditions of change under the modal structure. The Moves below ask whether that line can be made optional: each starts at or beneath change itself, drawing principally on Chapter 1 definitions and naming any limb it cannot itself earn. Where a Move reaches only the actual world, or closes its last escape only by borrowing, it says so in its own hand. The test is not whether no two Moves share a premise, but whether no single failure takes them all down. That unevenness is audited directly at §3.3.6.
+
+::: {.column-margin .book-annotation-note}
+**Quick map.** Don't read this section as one long proof. It's a map showing that the same destination—time, space, and persistence are necessary—can be reached by several independent routes, so no single weak link brings them all down. The main spine reached it one way, by lifting change is always possible through what change requires. Here the section instead shows the three conditions already present in the leanest materials: in the bare fact that something is the case, in the full determinacy any possible world must have, and in what's left once you shrink to bare simples. A companion section runs the other direction, showing the conditions can't be denied or conceived away. Overlapping routes, one conclusion.
+:::
+
+
+One objection applies across the constructive family and should be closed before the Moves begin. Any collection can be equipped, from outside, with arbitrarily chosen mathematical relations; that trivial fact would not show that direction, difference, and bearer are constitutive of Reality. The lines below therefore require more than the existence of a structural description. Each isolates a relation already enacted by its subject matter: obtaining excludes not-obtaining, a determinate world settles one arrangement rather than another, content bears what it settles, and a denial performs the distinctions it denies. These relations are invariant under mere relabeling and do not depend on an interpreter choosing a convenient representation. The claim is not that everything can be represented structurally. It is that anything countable as a fact, world, content, or denial already does structural work that an arbitrary representation could not supply.
+
+*The optional line.* For contrast, the staged line: Stage 1 gives □◇C; the conditions of change (§1.4) give ◇C → (T ∧ S ∧ Φ); under the modal structure this lifts to □(T ∧ S ∧ Φ). That line is the spine's own, and its modal lift leans on the S5-grade frame established in Chapter 2, which is exactly why it belongs there and not here. The Moves below reach the same confluence without it.
+
+*The floor they share.* Several Moves (here and in §3.3) close their final escape, a world with no structure at all, by appealing to the incoherence of the null state, ∅. In the linear book that incoherence is secured downstream, by the Null-State reductio that rides Chapter 2's modal machinery. This section does not borrow it. The incoherence of ∅ is re-established from below by the construction Move *Something is the case* (§3.2.1): the bare fact that something obtains cannot fail, and a state with no T, no S, no Φ is no state at all. Every "∅ is closed" cashes out to that Chapter-1-level result, never to the Chapter-2 reductio, and the backstop develops it in its own right at §3.2.6.
+
+The Triconditions are already present in minimal materials. The construction Moves take it from the bare fact that something obtains: *Something is the case* (§3.2.1, From facthood), the determinacy any possible world requires (§3.2.2, From determinacy), and the information already carried by settled content (§3.2.3, Structured Content). The structural-floor Moves show it survives even the leanest ontology: bare simples (§3.2.4, From bare simples) and the meaning of modal vocabulary itself (§3.2.5, The Modal-Vocabulary Line). The null-state backstop (§3.2.6, The Null-State Reductio) is the floor every Move falls back to. Its companion section §3.3 takes the other direction: that the Triconditions cannot be denied, conceived away, or foreclosed.

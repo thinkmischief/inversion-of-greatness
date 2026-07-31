@@ -1,0 +1,48 @@
+---
+title: "2.4 Structural Requirement"
+notion-id: 77f06499-d348-47fb-b47c-4b964842d433
+slug: "structural-requirement"
+index: 20400
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Granting that change is possible comes with a bill. Chapter 1 named the three Conditions and their bearers: Temporality, borne by Time (a real before-and-after); Spatiality, borne by Space (genuinely distinct states); Physicality, borne by Substance (what carries the exchange). The question here is their modal status.
+
+One contract governs the derivation. *Role-resolution* names directed order, relational difference, and real bearing. *Type-resolution* names temporal succession, spatial extension, and causal persistence. The proof may use T, S, and Φ at role-resolution before the type-derivations land, but it may not inherit the richer types from the names alone. Sections §§2.4.6–2.4.8 carry that upgrade explicitly.
+
+The Necessary Possibility of Change was established at §2.3: □◇C, the possibility of change is necessary, open in every possible world. The claim now is a necessary conditional: at every possible world, if change is possible there, then Temporality, Spatiality, and Physicality are instantiated there. Formally: □(◇C → T∧S∧Φ).
+
+::: {.premise}
+**Structural Requirement** · **P3** · *Premise 3*
+
+At every possible world, if change is possible there, then Temporality, Spatiality, and Physicality are instantiated there. □(◇C → T∧S∧Φ).
+
+
+:::
+
+The conditional is not a stipulation, and its necessity is not a modal axiom imported from outside. The necessity is *derivative*: the three Conditions are constitutively required by the possibility of change, and a constitutive requirement holds wherever the thing it conditions holds.
+
+Because the dependence is essential rather than accidental, it does not vary across the modal structure: what essence fixes, it fixes at every world [@fine1994: essence is prior to modality, not read off from it]. Whether that essence is itself prior to the modal field, or names the shape of a field that is already primitive, is the priority question §4.1.10 takes up without treating the committed essence-prior view as already closed; the appeal here is to essence in its local office (fixing the necessity of the conditional), not to essence standing prior to ◇.
+
+Four lines approach the requirement, each starting from a different vocabulary and converging on the same constitutive identification. The shape is parallel to Kripke's *necessary a posteriori* [@kripke1980]: the dependence is secured by reasoning, and once secured it is necessary; the disanalogy is that the discovery here is logical-derivational from change-possibility, not empirical-microstructural.
+
+*Line 1: Modal.* Any possible world at which change is possible already presupposes the Conditions. A plurality of worlds, and the transitions a possible change would range over, require the relation of genuine distinctness (S), a real directional ordering (T), and a pattern of causal-exchange relations as the carrying medium (Φ). The characterization is relational throughout: S names the relation of distinctness, not the relata it holds between; Φ names the causal-exchange pattern, not a substrate that bears the relations [@ladymanRoss2007]. Modal structure is constituted by T∧S∧Φ, not merely occupied by it; a world that instantiates ◇C instantiates that constitution. Whether this a priori result is prior to and independent of what physics will eventually describe (or requires naturalizing contact with specific sciences) is engaged at §4.1.5 (Ladyman-Ross) and §4.3.9 (structural realism).
+
+*Line 2: Conceptual/Essence.* The Conditions are constitutive definitions, not reference-fixing descriptions. There is no gap between concept and essence at the structural level. Whatever would fill the role of causally structured succession *is* Temporality. There is no deeper microstructure the role-specification leaves open; the individual derivations are developed in the subsections below. This is a structural-essence variant of Kripke's natural-kind essentialism [@kripke1980, Lecture III]: the natural-kind machinery does not directly apply at the structural level, but the identity-of-essence-with-role move is the same, and it is what makes the conditional hold of necessity rather than merely in fact.
+
+The two-dimensional objection (that a primary-intension gap may remain even where the secondary/structural identity holds, on which the zombie-style inference from ideal conceivability of a structureless scenario to its possibility would depend) is engaged at §4.1.2. The conceivability-inversion line at §3.3.4 channels that pressure through the necessary-content reading and points downstream to §4.1.2 for the block.
+
+*Line 3: Grounding.* Any demand for a ground of the Conditions is itself made from inside the framework the demand seeks to stand outside. Grounding is a directed relation (the T-role) between distinct relata (the S-role) whose dependence genuinely obtains in a fact or realizer (the Φ-role). For atemporal grounding, this last role is dependency-stability, not persistence across a temporal interval. The regress cannot get started. The regress-block is a transcendental constraint on access (the demand for the Conditions' ground already uses the Conditions to pose itself) and rules out the regress from inside; the further question whether a necessary being external to the Conditions could ground them from outside is taken up in the grounding treatment below and at §5.1.
+
+*Line 4: Facthood.* The most primitive starting point: something is the case. Its denial (*nothing is the case*) is itself something being the case, hence self-refuting. From facthood alone, T, S, and Φ follow directly: any state of affairs requires identity (S), obtaining (T), and a medium (Φ). The move from that identity-requirement to Spatiality is not the claim that bare non-identity is already spatial, which is exactly the haecceitist's opening; it rests on the Relational Distinctness premise, that genuine positional distinctness just is traversable relational extension, defended openly at §2.4.7. With that premise carried there, the S-clause of Line 4 is earned, not assumed. A fortiori, any world at which change is so much as possible meets the requirement.
+
+The derivation is modal-structural, not mathematical-structural: it runs through what any obtaining state of affairs requires, not through which mathematical structures independently exist. Whether the formal specifiability of T∧S∧Φ collapses this into the Mathematical Universe Hypothesis is engaged at §4.3.7; whether the derivation uniquely identifies T∧S∧Φ (only this structure, not other formally consistent alternatives) is engaged at §4.3.6 and §4.4.4.
+
+The four lines converge, but they share a hinge: the role-to-type identifications defended in §§2.4.6–2.4.8. A reader may enter through modal, essence, grounding, or facthood vocabulary; none of those entrances substitutes for defending the common constitutive premises. The convergence broadens access to the argument rather than multiplying the warrant for its shared hinge.
+
+One structural note on ideology — in Quine's technical sense, the primitive predicates a theory takes as basic, not a political program: T, S, and Φ are the book's fundamental primitive structural predicates, not derived from anything more fundamental, though Lines 1–4 give independent paths to the requirement. Whether T∧S∧Φ is one joint three ways or three independent joints is answered at §2.6. Whether □ itself is primitive or derived from structural incapacity is addressed at §2.10.
+
+The reverse direction T∧S∧Φ → ◇C is not needed for the proof to the conclusion. It is defended at §2.4.10 and later read as part of the Modal Identity at §2.6.
+
+The Structural Requirement is the necessary conditional □(◇C → T∧S∧Φ). Discharged against the Necessary Possibility of Change □◇C (§2.3), it delivers the unconditional necessity of the structural Conditions; that step is taken at §2.5. The proof to the conclusion requires only this forward conditional; the biconditional and the identity it grounds do their downstream work later in the chapter.

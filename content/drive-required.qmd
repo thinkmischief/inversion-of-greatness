@@ -1,0 +1,26 @@
+---
+title: "8.1.2 What is Required"
+notion-id: 9e55c884-20b9-4185-b78c-f5dd76c1209a
+slug: "drive-required"
+index: 80102
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*Continuity with thermodynamics.* A living thing is a self-maintaining process coupled to a sustained energy gradient, dissipating that gradient through itself in order to keep producing itself. Drive is the first-person aspect of this thermodynamic fact at the depth where a first-person aspect opens. Any account must connect drive to the energetic conditions of life rather than treating motivation as a free-floating psychological variable. The requirement is to derive drive from what a living system must do to continue, not from premises silent on energy.
+
+*Bipolarity.* Drive is bipolar: forward pressure toward what sustains the being and orients its lineage forward, defensive pressure away from what threatens its continuation. The toward-pole and away-pole are not two drives but one drive running in two directions from the same thermodynamic fact. Any account must explain why motivation has this bipolar structure rather than treating approach and avoidance as independent systems requiring separate derivations. The requirement is to derive both poles from the conditions under which a living thing persists.
+
+*Depth-graded differentiation.* Drive runs from chemical-gradient tracking at the bacterial depth through tropism, appetite, affective motivation, and finally the long-horizon goal-directed pursuits of self-aware beings. Any account must accommodate the gradient (the same forward-pressure activity progressively differentiated and elaborated at deeper recursive depths) rather than treating bacterial chemotaxis and human vocational pursuit as different kinds. The structural requirement is that the account treat the depth gradient as the variable and the underlying activity as continuous across it.
+
+*Excess beyond maintenance.* Drive is not minimal maintenance but reach beyond what maintenance strictly requires: play, exploration, curiosity, art, the pursuit of projects whose immediate survival value is negligible. Any account must explain why dissipative currents at sufficient depth reach beyond what their immediate energetic balance requires. The structural requirement is that the account derive the excess from what a dissipative current with surplus throughput must do with that surplus, not from a special faculty added on top of survival.
+
+*Triggered by anticipation, not completion.* The wanting/liking distinction [@berridgeRobinson1998] demonstrates that drive activates at the *anticipation* of engagement rather than at its completion. Any account must explain why motivation is structurally future-directed (oriented toward conditions not yet obtained) rather than retrospective. The structural requirement is that the account locate drive in the gap between present condition and obtained condition, with the gap itself supplying the structural target.
+
+*Connection to feeling without reducing to it.* Drive (§8.1) and feeling (§8.2) are structurally related but distinct: drive is the bare forward pressure pre-differentiation; feeling is what differentiates drive when the recursion is deep enough to register valence specifically. Any account must explain the relation without collapsing one into the other. The structural requirement is that the account treat feeling as drive made differentiated and reflective, with drive as the baseline forward pressure that feeling specifies.
+
+*First-person aspect as constitutive.* The drive is not merely a behavioral variable described from outside; it is the first-person aspect of a being oriented toward its own continuation. Any account must locate drive at the first-person aspect of the activity, not only at its functional or behavioral correlates. The structural requirement is that the account preserve the phenomenology rather than describe the substrate while leaving the first-person aspect unexplained.
+
+*Bipolar pair with structural counterparts.* The toward-pole of drive opens onto reproduction and the production of new lives (§8.6 Sexuality); the away-pole opens onto the structural limit of closure (§8.7 Mortality). Any account must accommodate these structural pairings rather than treating sexuality and mortality as separate domains. The structural requirement is that the account derive the pairings from drive's bipolar structure: what one drives toward includes the lineage's continuation, what one drives away from includes the lineage's individual end.
+
+These requirements name the explanatory ambitions of the account of drive developed in §8.1: thermodynamic continuity, bipolarity, depth-graded differentiation, excess beyond maintenance, anticipatory orientation, connection to feeling without reduction, a first-person aspect, and structural pairings with sexuality and death. They are not neutral conditions every adequate theory must accept. Competing accounts may reject or redescribe some of them, especially the proposed continuity from thermodynamic organization to phenomenology. The framework in §8.1 argues for this package rather than treating it as already established.

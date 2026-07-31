@@ -1,0 +1,57 @@
+---
+title: "2.1.5 The S5 Bottleneck"
+notion-id: 7f0a1599-fb18-4516-9db2-13a330dcddbd
+slug: "s5-bottleneck"
+index: 20105
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Modal Stability (§2.1.4) derives S5 from one substantive commitment: real possibility ranges over a single fixed domain W, the complete range of ways Reality permits. The Bottleneck's job is to defend that globality against the strongest alternative, not to establish in advance that every world instantiates T, S, and Φ.
+
+*The local-horizon objection.* A critic may hold that φ is possible from one world w but not from another world w′ because each world carries its own accessibility horizon. On that semantics, ◇ is indexed to a world-relative relation: ◇₍w₎φ may hold while ◇₍w′₎φ fails.
+
+The reply is a distinction between two modalities. World-relative reachability can represent what can develop from a state, what laws local to a world permit, or which nodes a model connects. Real possibility, fixed at §1.2.1, asks a different question: whether φ is among the ways Reality permits at all. Let W be that complete range. If some world in W makes φ true, then φ is really possible. Evaluating that same claim at another member of W does not replace W with a new Reality. The witness remains in the fixed domain, so ◇φ remains true throughout W and □◇φ follows.
+
+This is not an exemption-by-definition. It states the exact philosophical choice the operator carries. If a critic uses ◇ for local reachability, the critic has changed the subject from global metaphysical possibility to a relative modality. Such relative modalities are legitimate, but their variation does not show that *real possibility* varies. It shows that reachability from a node and membership in Reality's total possibility-domain are different relations.
+
+::: {.argument}
+**The Fixed-Domain Bottleneck** · *from global real possibility to Necessary Possibility*
+
+1. W is the complete domain of worlds Reality permits.
+1. ◇P means that P is true at some world in W.
+1. If ◇P, some witness world u in W makes P true.
+1. Every world w in W evaluates real possibility over that same W, so u remains a witness at w.
+1. Therefore ◇P is true at every world in W: □◇P.
+
+:::
+
+The proof is schematic and content-neutral. It says nothing about which propositions are possible and imports no claim that T, S, or Φ already hold necessarily. That separation removes the circular line of argument in which the Conditions would be used to derive S5 and S5 then used to necessitate the Conditions.
+
+*Concrete and primitive worlds.* Lewisian modal realism may treat worlds as concrete and mutually isolated; primitivism may treat modal facts as ungrounded. Neither ontology by itself changes the operator. If the collection of worlds is the range of metaphysical possibilities, quantification over that collection is global even when its members are causally isolated. A theorist who instead assigns each world a private metaphysical possibility-domain owes an account of whether those domains are themselves jointly possible. If they are, their union supplies the global W at which the present operator ranges; if they are not, the alleged variation never enters one shared modal comparison.
+
+A separate structural consequence matters downstream, though it is not a premise of Necessary Possibility.
+
+::: {.lemma}
+**Parasitic Negation** · **L2** · *Lemma toward Negation Seal*
+
+Let D be one of T, S, or Φ. A claim that D begins from its own absence presupposes D in the proposed onset: a first moment requires temporal order, a first placing requires positional structure, and a first production requires a bearer across the transition. Domain-internal absence may be coherent; emergence of the domain from domain-external absence is not.
+
+
+:::
+
+The distinction is between absence *within* a domain and onset *of* the domain. “No event occurs during an interval” is internal to Temporality; “Temporality first appears where no temporal order obtains” asks temporal order to precede itself. “Nothing occupies this place” is internal to Spatiality; “the first place is placed where no positional structure obtains” asks placement to precede its domain. The same form applies to production and Φ.
+
+::: {.corollary}
+**Negation Seal** · **R2** · *Result of L2*
+
+A candidate history in which D emerges from domain-external ¬D is incoherent. Either the negation is domain-internal, in which case D remains instantiated, or the proposed onset already uses D. No third onset is available.
+
+
+:::
+
+The scope is exact. Parasitic Negation rules out onset from domain-external absence. It does not by itself show that every possible world instantiates D, and it does not derive proposition-wise modal invariance. Transition Closure (§2.1.6) develops its consequence for C-status under an explicit structural-accessibility premise. The Necessity of Nature is established later by Necessary Possibility, the Cartesian witness, and the Structural Requirement — not smuggled into this Bottleneck.
+
+*What is foreclosed.* A proposition cannot be really possible at one world and not really possible at another when “really possible” quantifies over the same total domain W at both. World-relative reachability may vary, but it is a different modality. The remaining disagreement is therefore clean: whether metaphysical possibility is global in the sense fixed at §1.2.1. Chapter 4 engages rival answers rather than treating them as incoherent by stipulation.[^bottleneck-ch4]
+
+[^bottleneck-ch4]: Concrete modal realism and rival accessibility structures are engaged at §4.4.1; invariant-domain and necessitist readings at §4.4.6; primitivist and structuralist alternatives at §4.4.7; refusals of bilateral invariance at §4.4.8–§4.4.9; and the source of possibility at §4.1.10.

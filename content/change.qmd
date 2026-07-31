@@ -1,0 +1,48 @@
+---
+title: "1.3 Change"
+notion-id: a916d8ae-ab15-466c-b2e8-7ee52b90b1d1
+slug: "change"
+index: 10300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The Introduction's appeal to conceiving was already an appeal to change: to conceive is to pass from one cognitive state to another. Change is the primitive; conceiving is one instance of it.
+
+Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), you are still *somewhere*; something is still *shifting*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
+
+The full defense of the witness, and the modal derivation that lifts it into a necessity claim about Reality's structure, comes in Chapter 2: §2.2 establishes the bilateral witnesses, §2.3 lifts that possibility into necessity, §2.4 derives what the possibility of change requires, and §§2.5–2.6 identify the Conditions. For now, change supplies the actuality-datum from which the derivation begins. The immediate question is what Reality must be like for change to be possible; §1.4 takes up that question.
+
+The Reality analysis extracted three roles (succession, distinction, exchange) from what Reality must provide for possibility (§1.1). The same three emerge from a second direction: from what change requires.
+
+::: {.definition}
+**Change** · **C** · *Definition*
+
+One state, then another.
+
+
+:::
+
+The "then" in the definition does not yet name a temporal interval. It names only the bare ordering any sequence of two states requires: that they occur in an order, that one is not the other. Whether ordering of that kind must be temporal is precisely what §1.4 settles.[^ch4-time-change]
+
+i. *Succession.* If one state follows another, there must be a before and after. "Then" runs in one direction. A bare sequence of labels carries order, but the word *before* does not tell you how long before, or whether anything lasts between the states at all. Whether this bare ordering carries genuine duration (an interval that can be longer or shorter, a moment or a millennium) is what §1.4 settles when it names Temporality. At this stage succession requires only the ordering itself: a before and an after.
+
+ii. *Distinction.* If one state differs from another, the two must be distinct. If they are identical, nothing changed. Distinctness is not a matter of description. Two states might share every description and still be two things; one thing might be picked out by two different descriptions and still be one. What matters is whether the states are really apart, not how they are described. Distinction requires a real separation, an interval that keeps the states from merging.
+
+iii. *Exchange.* Succession and distinction can be read off the bare definition; exchange cannot, and that is exactly its status. Picture a sequence with succession and distinction and nothing else: one state, then a wholly unconnected other (a cat, then a galaxy, then the number seven). There is order, and there is difference, but nothing crosses between them. That is a slideshow, not a change. It is what Russell's 'at-at' theory of motion says change reduces to: an object at different places at different times, with nothing crossing in between (the frozen-instant picture of Zeno's arrow). What separates a change from a slideshow is that something is carried across the interval: what the first state held, the second takes up. This is the further requirement exchange names: *what connects departure to arrival*. It is not succession (the ordering) or distinction (the difference) but the substitution itself. Think of a wave crossing water: no drop travels with it, yet the wave moves on. Each stretch of water passes its motion to the next, and the wave continues because the motion is taken up, not because anything is carried bodily across. Whether this requirement is genuinely non-optional (whether the bare-succession view that stops at "one state, then another" is really deficient) is not settled here by analysis of the word; it is named now and discharged at §2.4 (and against the Humean reading at §4.1.4). The illustration fixes the structural role exchange picks out and imports neither productive-causation metaphysics nor a persisting thing that does the crossing.
+
+Exchange takes the most unpacking of the three. What holds a change together? Something carries over: the first state does not simply disappear while an unrelated second state arrives.
+
+The carrying can be registered from within an act. Hold a thought across the arrival of the next and the first does not simply lapse; it is borne forward by what is having it. The same structure appears in embodied action: push a door and encounter resistance, grip a railing and feel it bear weight, carry a burden and feel the carrying. These are not merely impressions of events that follow one another. They register the exchange from within rather than infer it from outside.
+
+The claim remains limited. Exchange names the carrying-forward that distinguishes change from a bare sequence; it does not yet decide what metaphysical account of that carrying is correct. Any alternative must nevertheless explain how a genuine change differs from an ordered series of unconnected states.[^exchange-humean] Chapter 4 tests whether the three-role analysis survives the rival accounts (§§4.1–4.4) and gathers the result in §4.5.
+
+The definition is descriptive, not engineered. It is not the weakest concept the word *change* might be made to bear; what it defines is the change Reality demonstrably contains (the reading of this sentence, the breathing across it, any observable transition), named with the fewest words that pick it out unambiguously. Alternative concepts engineered to lack succession, or distinction, or exchange describe something else; whatever they describe, it is not the change Reality contains. The minimalism is the discipline of the description: no causation imported, no persistence presupposed, no identity-through-time stipulated (no commitment about what makes a thing the same thing across the change). These are what the later derivations must earn from the change itself, not pre-load into the word naming it. Anyone who grants that anything has ever happened accepts the definition, whether they think causation is a law of nature, a habit of the mind, or the work of a creator. The definition commits to none of those positions. It commits only to the occurrence.
+
+Succession and distinction are read off the change by analysis, not added to it: the bare definition already carries an ordering and a difference. Exchange is different in status: it is the further requirement that separates a genuine change from a bare sequence of unconnected states, named here but defended downstream rather than read off the word. For each role the reader's check is whether it is extracted from the change being described or imported beside it.
+
+The contestation over what change is runs deep. Process metaphysicians and dispositional realists treat change as primitive and productive; Russellian and Lewisian reductionists treat it as nothing but ordered states; Humean regularity views treat the carrying as a projection from constant conjunction; Aristotelian act-and-potency views treat it as the actualization of a potential. The definition stands neutral among them all. The structural description names what Reality contains; the metaphysical reading is reserved for §2.4 and §4.1.4, where the live alternatives are engaged on their own terms. Two readings are open here, and choosing between them is a priority question, closed at §4.1.10. On one, the three requirements (succession, distinction, exchange) belong to the real definition of Reality's change in Fine's sense (part of what change essentially is). On the other, they are merely necessary for change without an essence-prior-to-modality.
+
+[^ch4-time-change]: For Ch 4 engagements on the time / change interface read against the change-as-primitive thesis developed here, see the §4.2 cluster: McTaggart's argument that time itself is unreal (§4.2.5), block-universe / B-theory readings (§4.2.6), Lewis on temporary intrinsics (§4.2.7), emergent-time accounts (§4.2.3), Sider's stage theory (§4.2.8), Platonism on abstract structure (§4.2.4), changeless-ground accounts (§4.2.1), and Shoemaker on time without change (§4.2.2).
+
+[^exchange-humean]: On whether the exchange a change requires is anything more than Humean constant conjunction. Grant the Humean reading at full strength: the phenomenology of resistance is not by itself evidence of a persisting medium, and the impression-reading (constant conjunction plus a felt residue) is a live option the argument owes a reply to. Even there, the argument still owes an account of why exchange is a third requirement alongside succession and distinction rather than a projection onto bare succession. That burden is not discharged by the definition; it is taken up through the Cartesian-certainty closure on change (§2.2), while §4.1.4 engages Humean constant-conjunction, primitive-asymmetry, and Best System accounts of the persistence-medium requirement on their own terms.

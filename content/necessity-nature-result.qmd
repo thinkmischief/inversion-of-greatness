@@ -1,0 +1,63 @@
+---
+title: "2.6.12 Necessity's Nature"
+notion-id: 3f195670-951a-49cd-887b-28d3c0524831
+slug: "necessity-nature-result"
+index: 20612
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The Triconditional Identity (§2.6.10, Theorem 5) stated the identity N ↔ □(T∧S∧Φ) ↔ □◇C. Condition-Individuation (§2.6.11) supplied the methodological screen that licenses the count of three. The same identity reads from the side of language: what Theorem 5 means for the genitive *the nature of X*: for X = necessity in the limit case, and for X more widely.
+
+::: {.argument}
+**Conditioned-Nature** · *The Derivation*
+
+1. Theorem 5 (§2.6.10) identified the modal constraint with the Conditions: N ↔ □(T∧S∧Φ). The relata of any genitive *the nature of X* are thereby fixed: there is nothing for a nature to be other than what the constraint constrains.
+1. Take the limit case, X = necessity. *The Necessity of Nature* (Theorem 6, §2.8.5) reads as predication: Nature is necessary. *The nature of necessity* (this section) reads as identification: what necessity is, is Nature. Both genitives issue from □(T∧S∧Φ) and refer to the same N; the apparent chiasmus collapses because Theorem 5 has identified the relata.
+1. The collapse does not depend on necessity being the limit case. Anything that has a nature has it by standing in some determinate relation to T, S, and Φ: instantiating them, articulating one of their structural features, or being abstracted from them.
+1. There is no fourth dimension along which the *of* in *the nature of* could refer. A candidate relatum bearing no relation whatever to T, S, and Φ is not a nature but nothing, in the sense developed at §2.7.
+1. Therefore, for any X that articulates a structural feature of N, the nature of X terminates in that feature: the X-describable feature of N.
+
+:::
+
+The argument closes on a single result.
+
+::: {.lemma}
+**Conditioned-Nature** · **L5** · *Lemma toward Wigner Dissolution, Essence-Description*
+
+For any X that articulates a structural feature of N, the nature of X = the X-describable feature of N.
+
+
+:::
+
+Conditioned-Nature reads the genitive *"nature of"* as a fixed-point identity restricted to a structural region. Necessity is the limit case in which the region is the whole of N: its nature is N entire. Mathematics is the case in which the region is the quantifiability of N: its nature is the structure mathematics describes, and that structure is just the quantifiable face of T, S, and Φ. Conditioned-Nature's force is that nothing in the schema requires a second realm of natures floating free of the Conditions. Each *nature of X* terminates in a structural feature of N.
+
+*Cases.* Logic articulates determinate-distinguishability: a structural feature carried jointly by T (succession in inference), S (relation among premises and conclusion), and Φ (the stability of distinguishables across the inference); the nature of logic is the determinately-distinguishable structure of N. Geometry articulates extension and figure: S directly. Temporal ordering enters when geometrical reasoning is performed or geometrical structure is physically realized, not as part of abstract geometry's content merely by definition. On the present account, the nature of geometry is the extension-aspect of N. Propositional content articulates truth-aptness, which presupposes T, S, and Φ for there to be anything for a proposition to be true of; the nature of propositional content is the structure of N as susceptible to true description.
+
+In each case the standard objection (*but these are abstracta, not features of Nature*) concedes the point in different language. Abstracta are abstractions *of* something; Conditioned-Nature names what they are abstractions of. The strongest Platonist [@godel1947; @maddy1990] holds mathematical objects to be irreducibly abstract entities, existing independently of T, S, and Φ. Conditioned-Nature's reply, at its strongest: a mathematical object that bears *no* relation whatever to T, S, and Φ would be undetectable, inapplicable, and unstatable: there would be no way to refer to it, pick it out, or do anything with it. The mathematical objects Platonists are willing to defend are exactly those that bear *some* relation to T, S, and Φ: typically the relation of being *describable* in a language hosted by T-S-Φ-bearing speakers, or the relation of being *applicable* to T-S-Φ-bearing systems. Conditioned-Nature names that relation as the constitutive relation through which mathematical objects have a nature at all. Platonism about mathematical existence is compatible with Conditioned-Nature; Platonism about a nature wholly outside the Conditions is not.
+
+::: {.corollary}
+**Wigner Dissolution** · **R9** · *Result of L5*
+
+Mathematics and Nature are not two domains whose alignment requires explanation. Mathematics articulates the quantifiable aspect of Nature; its applicability to Nature is constitutive, not contingent. The puzzle of mathematics' unreasonable effectiveness in the natural sciences [@wigner1960] dissolves at the level of presupposition.
+
+
+:::
+
+Conditioned-Nature denies the presupposition that mathematics and Nature occupy distinct realms whose correspondence requires a further story. The quantifiable aspect of Nature is what mathematics articulates, and the articulation is identical with what is articulated. There are not two things to align. The dissolution does not predict which specific mathematical structures will be effective in which physical domains: that remains an empirical question, settled by the working of physics rather than by the Lemma. What dissolves is the framing of Wigner's question: applicability is not a cosmic coincidence requiring metaphysical explanation, because mathematics articulates the structural conditions that constitute Nature and the empirical work of physics is the work of finding the right articulation for a given domain. *That* mathematics is effective dissolves; *which* mathematical structures are effective for what remains substantively physical.
+
+::: {.corollary}
+**Essence-Description** · **R10** · *Result of L5*
+
+For any X, the essence of X is exhausted by the X-essential conditions on T, S, and Φ. The Lockean distinction between *real essence* (the hidden inner constitution) and *nominal essence* (the description that picks out a thing by its properties) collapses: descriptions that pick out the conditional profile are descriptions of essence, not approximations to an inaccessible essence behind them.
+
+
+:::
+
+What Locke called the *real essence* of gold or water is the structural feature of N each substance articulates, accessible in principle exactly to the extent that the structural region is accessible. The collapse is metaphysical, not epistemic: Conditioned-Nature does not claim that the conditional profile of every substance is known to us, only that whatever the conditional profile is, it constitutes the substance's essence. Lockeans who hold that the real essence of substances is largely *unknown* to us can accept the metaphysical collapse without losing the epistemic limit; what they cannot keep is the picture of real essence as an *in principle* inaccessible substratum distinct from the conditional profile. The Aristotelian essence-accident distinction survives the move and receives a structural criterion: essential properties of X are those internal to X's structural region of N; accidents are those external to it. The Kripkean de re modal essence survives too: a property is essential to X iff it holds in every T/S/Φ-configuration in which X exists. What does not survive is the *I know not what* beneath description.
+
+*The negative screen.* Conditioned-Nature also screens negatively. Anyone wishing to claim a nature for X must articulate the structural feature of N that X picks out. A *nature of X* that admits no relation whatever to T, S, and Φ is not the name of a nature; it is the name of nothing, in the sense developed at §2.7. Conditioned-Nature is the constructive side of the dissolution at §2.7: the incoherence of Reality-without-Conditions on the side of *being* is shown at §2.7; Conditioned-Nature shows the parallel claim on the side of *having a nature*. Together they close both sides of the chapter's central identity. The classical-theist challenge (a nature whose mode of being denies T, S, and Φ) is named here and engaged at Chapters 5 and 6, where the classical attributes are pressed at strength and the inversion of necessity is worked out.
+
+*What is identified.* The substantive derivation closed with Theorem 5 at §2.6.10. Methodological closure followed at §2.6.11 by individuation of the count of Conditions. The Conditioned-Nature is what Theorem 5 says about *having a nature*; Theorem 6 (§2.8.5) is what it says about *being necessary*. The two are the same identity read from two sides: the necessity of Nature and the nature of necessity.[^conditioned-nature-ch4]
+
+[^conditioned-nature-ch4]: Conditioned-Nature and its results (the genitive nature of X terminating in a structural feature of N, the Wigner Dissolution, and the Essence-Description collapse) are engaged in Chapter 4. Platonism about mathematical objects is the Wigner Dissolution's chief opponent, with Gödel and Maddy named inline (§4.2.4); Tegmark's mathematical universe is the inverse position that identifies mathematics with Nature rather than treating it as Nature's quantifiable articulation (§4.3.7); Russellian Monism, whose intrinsic quiddities are the modern form of the Lockean real-essence picture the Essence-Description Result collapses, is taken up with Locke named inline (§4.3.3); classical simplicity is the most demanding case, where a *nature of X* is held to deny T, S, and Φ: flagged here and referred to Chapter 6, with the related Chapter 5 territory engaged at §5.2; bundle theory and tropes are engaged on the side of having a nature (§4.3.10); and modal fictionalism presses on whether modal vocabulary can carry the genitive identification at all (§4.4.4).

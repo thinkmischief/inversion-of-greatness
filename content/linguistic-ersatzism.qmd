@@ -1,0 +1,20 @@
+---
+title: "4.4.2 Linguistic Ersatzism"
+notion-id: c67a7bfc-87b9-4163-8cef-ad7834353eae
+slug: "linguistic-ersatzism"
+index: 40402
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Linguistic ersatzism (from German *Ersatz*, "substitute"), defended by Plantinga (1974b, 1976), Stalnaker (1976), and Adams (1974), holds that possible worlds are not concrete spacetime manifolds, à la Lewis's Modal Realism (on which every possible world is an equally concrete, equally real spatiotemporal manifold), but maximally consistent sets of propositions or world-state-descriptions. The actual world is the unique such set whose propositions are all true. Other worlds are abstract objects: surrogates rather than rivals. The position retains the modal apparatus while avoiding Lewis's ontological extravagance.
+
+The label covers three importantly different positions, and the reply that follows must hold across all of them. Adams ("Theories of Actuality," 1974) is the version the "maximally consistent set of propositions" gloss fits most exactly: worlds are world-stories, maximal consistent sets of propositions, and the actual world is the set all of whose members are true. Stalnaker ("Possible Worlds," 1976) is a moderate realism on which worlds are not sets of propositions but abstract ways the world could have been (maximal properties it might have had), and his later *Mere Possibilities* (2012) refines this into a contingentist account on which there are no robustly existing merely-possible individuals to begin with. Plantinga (1974b, 1976) is the most ontologically robust of the three, and the only theistically committed one: worlds are maximal possible states of affairs, abstract objects that exist necessarily and, on Plantinga's wider view, have their being in the divine intellect. The differences are real and matter for the metaphysics of abstracta, but they are orthogonal to the point pressed here: propositions, ways, and states of affairs alike are distinguishable, content-bearing items standing in consistency relations, and the reply turns only on what any of them requires to be distinguishable and consistent at all.
+
+The argument's relation to ersatzism is broadly friendly. Ersatzism does not require Modal Realism's commitment to a plenitude of concrete worlds; it does not commit the user of modal vocabulary to the existence of donkeys that talk in some other concrete reality. Ersatzism's worlds are abstract objects, and the question of what abstract objects depend on is a question for the metaphysics of abstracta, addressed in §4.2.4 (Platonism) and adjacent.
+
+Ersatz worlds contain distinguishable propositions, ways, or states of affairs standing in logical relations. This directly secures thin differentiation at the level of the representation. It does not make an abstract surrogate temporally successive, spatially extended, or causally persistent. Those richer burdens belong to the concrete world represented, or to any surrogate proposed as its physical realizer.
+
+A second observation. On Adams's world-story version, actuality privileges the maximal consistent set all of whose members are true. Stalnaker's ways and Plantinga's maximal states of affairs require their own actuality relations rather than this exact set-theoretic formulation. In each case, truth or obtaining is assessed against how things actually are. How things are *is* Reality: with its T, S, and Φ. The actual world's privilege is parasitic on Reality being a particular way. Ersatz worlds are alternative description-sets relative to Reality; they are not ontological rivals to it.
+
+*What converges.* Ersatzism is a successful theory of what we mean by talk of possible worlds. It is not a theory that displaces the present argument's necessary structure. The two operate at different levels: ersatzism at the level of modal semantics, the present argument at the level of the structural conditions any modal semantics describes.

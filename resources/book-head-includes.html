@@ -1,0 +1,169 @@
+<!-- Focus mode: apply the dimmed-sidebars class before first paint,
+     same reasoning as Quarto's own dark-mode sentinel just below in
+     include-after-body — reading localStorage here, in <head>,
+     means a reader who left focus mode on never sees a flash of
+     full-opacity sidebars before this file's CSS (styles/custom.css,
+     §FOCUS MODE) takes over. -->
+<script>
+  if (localStorage.getItem('book-focus-mode') === 'true') {
+    document.documentElement.classList.add('book-focus-mode');
+  }
+</script>
+<!-- Study mode: same pre-paint reasoning as Focus mode just above.
+     Independent boolean, not part of bookExclusiveToggles or the
+     rail-mode group — a manual, reader-opt-in toggle that applies the
+     same left-sidebar crunch Compact mode also applies automatically
+     at Compact width (see the html.book-compact-mode sentinel just
+     below and styles/custom.css §COMPACT MODE / §STUDY MODE), plus
+     dims the navbar's reader-companion links — the one piece that's
+     manual-only, not part of the automatic width-driven behavior.
+     Renamed back from "Compact mode" once it became clear those are
+     two distinct concepts: a manual full-treatment toggle (this one)
+     and a width-triggered crunch-only stage (the next sentinel). -->
+<script>
+  if (localStorage.getItem('book-study-mode') === 'true') {
+    document.documentElement.classList.add('book-study-mode');
+  }
+</script>
+<!-- Compact mode: NOT a reader preference — no localStorage. Purely
+     window.innerWidth < 1338 (the Full-stage floor; 255+14+800+14+255,
+     both rails at their full docked width plus the reading column and
+     gutters — geometry itself lives in styles/custom.css, not here,
+     since only the crunch's ON/OFF state, not its exact layout, needs
+     deciding this early). Checked synchronously here so a page loaded
+     directly at Compact width doesn't flash the wider Full layout
+     before the resize-driven recheck in book-scripts.html's "floating
+     nav" IIFE catches up. Covers both Compact sub-phases (wide/
+     centered and narrow/flush-left) and Mobile — those are pure-CSS
+     width thresholds of their own, not separate JS-tracked states. -->
+<script>
+  if (window.innerWidth < 1338) {
+    document.documentElement.classList.add('book-compact-mode');
+  }
+</script>
+<!-- Settings-menu theme: same pre-paint reasoning as focus mode just
+     above. Only sets data-book-theme on <html> — the styles/themes/
+     *.css overlay files (procyon-light/-dark need no attribute at
+     all, so nothing to do for those two). Quarto's own dark/light
+     sentinel (its inline #quarto-html-before-body script, further
+     down) independently restores body.quarto-dark from its own
+     "quarto-color-scheme" localStorage key — not duplicated or
+     coordinated here, since the settings-menu script (include-
+     after-body, further down) keeps that key in sync itself every
+     time a theme is actually selected, so Quarto's own sentinel
+     already lands on the right state on its own. -->
+<script>
+  (function () {
+    var theme = localStorage.getItem('book-theme');
+    if (theme && theme !== 'procyon-light' && theme !== 'procyon-dark') {
+      // 'marysroom' (no hyphen) is the internal id used as a JS
+      // object key in the settings-menu script further down;
+      // styles/themes/marys-room.css's selector uses the hyphenated
+      // form, matching its own filename. Keeping the mismatch
+      // contained to this one conversion point, rather than
+      // hyphenating the JS key too, since a hyphen isn't a legal
+      // bare object-literal key.
+      document.documentElement.setAttribute('data-book-theme', theme === 'marysroom' ? 'marys-room' : theme);
+    }
+  })();
+</script>
+<!-- Settings-menu indentation: same pre-paint reasoning as focus
+     mode above. Class name (book-opening-indent) predates the
+     Settings-menu label — this used to be the separate "Opening
+     Line" control, distinct from a general per-paragraph
+     Indented/Flush toggle. That general toggle got removed (a
+     reader called it "useless — nobody wants all their
+     paragraphs flushed left"); this section-opening-paragraph
+     control was the one people actually wanted, so it inherited
+     the plain "Indentation" name. Every section/chapter's first
+     paragraph (and the paragraph right after any heading)
+     carries its own hardcoded flush-left rule in custom.css —
+     this class is what lets a reader opt that line into a
+     normal first-line indent instead. Default (class absent)
+     keeps the existing flush-left look. -->
+<script>
+  if (localStorage.getItem('book-opening-indent') === 'true') {
+    document.documentElement.classList.add('book-opening-indent');
+  }
+</script>
+<!-- Settings-menu paragraph spacing: same pre-paint reasoning as
+     focus mode above. Independent of the indentation class just
+     above — a reader pointed out these were two separate axes,
+     not one. -->
+<script>
+  if (localStorage.getItem('book-paragraph-spacing') === 'true') {
+    document.documentElement.classList.add('book-paragraph-spacing');
+  }
+</script>
+<!-- Settings-menu text alignment: same pre-paint reasoning as focus
+     mode above. -->
+<script>
+  if (localStorage.getItem('book-text-align') === 'left') {
+    document.documentElement.classList.add('book-text-align-left');
+  }
+</script>
+<!-- Settings-menu font: same pre-paint reasoning as focus mode
+     above, same attribute pattern as data-book-text-size below
+     (absence = the default, Source Serif 4). -->
+<script>
+  (function () {
+    var font = localStorage.getItem('book-font');
+    var VALID_FONTS = ['inter', 'atkinson', 'literata', 'lora', 'newsreader', 'source-sans'];
+    if (VALID_FONTS.indexOf(font) !== -1) {
+      document.documentElement.setAttribute('data-book-font', font);
+    }
+  })();
+</script>
+<!-- Settings-menu text size: same pre-paint reasoning as focus mode
+     above — sets data-book-text-size directly rather than going
+     through a class, since styles/custom.css keys off the
+     attribute (html[data-book-text-size="small"], matching the
+     theme attribute's own pattern), not a class. No entry for
+     "medium": that's the absence of the attribute, same as
+     Procyon Light needing no data-book-theme value either. -->
+<script>
+  (function () {
+    var size = localStorage.getItem('book-text-size');
+    if (size === 'small' || size === 'large' || size === 'xlarge') {
+      document.documentElement.setAttribute('data-book-text-size', size);
+    }
+  })();
+</script>
+<!-- Google Fonts: <link> instead of custom.css's old @import — @import
+     blocks the rest of the stylesheet from applying until it resolves,
+     which is what caused the flash of unstyled content on every
+     chapter navigation. A <link> here is discovered during initial
+     HTML parsing and fetched in parallel with custom.css instead. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,300;1,8..60,400;1,8..60,600;1,8..60,700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&display=swap">
+<!-- Settings-menu → Typography → Font: the two sans-serif options.
+     Loaded unconditionally (same as Source Serif 4 above) rather
+     than lazy-injected only when picked, so switching to either
+     one is instant with no font-loading flash — a small always-
+     paid cost in exchange for that. Only the weights the reading
+     column actually uses (400 body, 600 headings/strong, 700
+     available for emphasis) rather than each family's full range. -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+<!-- Settings-menu → Typography → Font: two serif alternatives to
+     Source Serif 4, same loading reasoning as Inter/Atkinson above.
+     Literata: commissioned by Google specifically for long-form
+     reading (Google Play Books). Lora: one of the most-used
+     editorial/long-form serifs on the web — the safe, widely-
+     loved option. -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600;1,7..72,700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap">
+<!-- Newsreader: Google's other long-form-reading serif, warmer/
+     more Times-like proportions than Literata — rounds out the
+     serif trio with something distinct from both Literata and
+     Lora. Source Sans 3: Adobe's sans, direct sibling to Source
+     Serif 4 (the default) — guarantees stylistic harmony for a
+     reader who wants sans body text without a jarring voice
+     change from the rest of the site's chrome. -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600;1,6..72,700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap">
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "06a3fc9070744c0e8241f52b73095a38"}'></script>
+<!-- End Cloudflare Web Analytics -->

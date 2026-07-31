@@ -1,0 +1,10 @@
+---
+title: "7.3.4 What is Confirmed"
+notion-id: f3e5c354-add2-456a-a488-28e4105e4709
+slug: "space-confirmed"
+index: 70304
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The empirical record converges on the structural claim from the side of space. Geometry is not a conceptual abstraction imposed on a pre-geometric substrate; it is a structural feature of Nature that physics discovers by measurement. Relativistic effects (length contraction, gravitational time dilation, frame-dependent simultaneity) are intelligible only on the understanding that the spatial manifold is a real structural feature, not a bookkeeping convention. The success of general relativity treats the metric (the mathematical structure that assigns distances and angles between points in spacetime) as a physical field: distances and curvatures are measurable, they obey field equations, and they couple to matter. The Aharonov–Bohm [-@aharonovBohm1959] effect shows that the topology of spatial regions makes detectable differences to quantum phases even where classical fields vanish: a charged particle traveling around a region of confined magnetic flux picks up a measurable phase shift proportional to the line integral ∮A·dl around its closed path, even though the magnetic field B is zero everywhere along that path. What Nature registers is the gauge-invariant holonomy of the vector potential (the holonomy: the total geometric quantity a quantum state accumulates as it is parallel-transported around a closed loop; gauge-invariant: insensitive to the conventional choices used to write down the vector potential at each point) around the closed path, not the local field strength at a point, which is to say the topology of the manifold is itself physically significant. These results do not establish the modal argument's conclusion from physics alone. They show that geometry, metric structure, and topology are physically significant features of our best physical descriptions, and are therefore compatible with the structural account's claim that relational extension is not mere bookkeeping.

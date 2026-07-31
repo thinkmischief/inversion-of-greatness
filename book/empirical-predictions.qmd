@@ -1,0 +1,99 @@
+---
+title: "Appendix D: Empirical Predictions"
+search: false
+nav-section: ["Appendices"]
+nav-order: 23
+---
+
+```{=latex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+```
+
+This appendix consolidates claims that connect the book's structural framework with empirical inquiry. The rows differ sharply in status: some state the book's formal framework; some are explanatory hypotheses that add substantial auxiliary assumptions; and some are ordinary empirical predictions. A scientific result can challenge an auxiliary hypothesis, an interpretation, or the framework's application without automatically falsifying the Chapter 2 modal proof.
+
+The classifications are therefore:
+
+1. **Structural framework claims**: claims about the role vocabulary and the book’s modal model. They are not empirical predictions by themselves.
+
+1. **Framework-guided hypotheses**: claims combining the framework with abductive, theoretical, or empirical auxiliary assumptions. Their Basis and Status columns matter decisively.
+
+1. **Empirical predictions**: claims testable by ongoing research programs; the Status column records their standing.
+
+The final table records positions the book treats as under pressure within its framework. It should not be read as a list of positions refuted by empirical evidence alone. The framework is exposed to empirical contact through its auxiliary hypotheses and identifications, but that exposure must be stated at the appropriate register.
+
+## Tier 1: Structural framework claims
+
+*These articulate the book’s role framework. Their physical, cosmological, and biological applications require additional theory and evidence.*
+
+| Prediction | Domain | Source | Status | Confirmation evidence | Falsifies if |
+| --- | --- | --- | --- | --- | --- |
+| No stable zero-extension state can persist anywhere in Nature | Cosmology | [§7.6](nature-alone.html#sec-7-6) |  —  | Physics reports the instability not as independent confirmations but as several directions sorting into three kinds of pressure ([§7.6.2](nature-alone.html#sec-7-6-2)); the mathematical breakdown (curvature divergence, geodesic incompleteness) is the explanandum itself, not a separate witness | Any framework confirms a stable singularity at zero extension |
+| Information cannot be permanently destroyed at a singularity *(downstream of the modal preclusion, not a strict deductive consequence of the proof; see [§7.6.3](nature-alone.html#sec-7-6-3))* | Cosmology | §[§7.6](nature-alone.html#sec-7-6), 7.6.3 |  —  | Page curve (Page 1993); quantum extremal surface prescription (Penington 2020; Almheiri et al. 2020) | Confirmed information loss in black hole evaporation |
+| Past has no first moment; Time has no first moment | Cosmology | §[§2.1.3](the-argument.html#sec-2-1-3), 2.2, 7.6 |  —  | Three-beat argument: change cannot be different because difference requires change; there is change; there was never no change | A coherent state of "no change" can be specified as a prior alternative |
+| First life must be autotrophic | Origin of Life | [§7.8](nature-alone.html#sec-7-8) |  —  | Heterotrophy presupposes prior life, a structural impossibility at the first fold; LUCA reconstructed as anaerobic chemoautotroph (Weiss et al. 2016) | First life ever found that began heterotrophically |
+| First energy source cannot be photic | Origin of Life | §[§7.8](nature-alone.html#sec-7-8), 7.8.2 |  —  | Photosynthetic machinery (chlorophyll, photosystems, electron-transport chains) is itself a downstream evolutionary product; photosynthetic origin is therefore structurally foreclosed (see Foreclosed Positions) | Confirmed photosynthetic first life |
+| First heritable medium combines catalysis with template-readability in a single molecular class | Origin of Life | [§7.8.2](nature-alone.html#sec-7-8-2) |  —  | Catalysis-template duality argument: specialized catalysts presuppose templated synthesis. RNA world (Cech 1981; Altman 1983); ribosome's catalytic core is a ribozyme (Nissen et al. 2000); cross-replicating ribozymes (Lincoln and Joyce 2009); prebiotic synthesis pathway (Sutherland 2009; Powner et al. 2009; Patel et al. 2015) | First life found with separated specialized catalysts and templates from origin |
+| Three coupled cycles (production, energy, information) co-emerge | Origin of Life | [§7.8.2](nature-alone.html#sec-7-8-2) |  —  | Gánti chemoton (1971, 2003); Eigen hypercycle; convergence of metabolism-first and replicator-first programs on co-emergence (Damer and Deamer 2020; Smith and Morowitz 2016) | Demonstrated origin pathway in which one cycle existed and operated alone before recruiting the others |
+| Time and Space compose into a single manifold (Spacetime) | Structure of Physics | [§7.5](nature-alone.html#sec-7-5) (T ↔ S) |  —  | Special and General Relativity (Einstein 1905, 1915; Minkowski 1908); invariant interval ds² | Confirmed absolute simultaneity across spatially separated events; or causal influence outside the light cone |
+| Substance does not occur without spatial extent (Field) | Structure of Physics | [§7.5](nature-alone.html#sec-7-5) (S ↔ Φ) |  —  | Maxwell 1865; Quantum Field Theory (Weinberg 1995); Aharonov–Bohm effect (1959) | Confirmed action-at-a-distance without mediating field; truly empty regions of space; or substance as point-particle without extension |
+| Conserved quantities cannot arise from or vanish into nothing (Conservation) | Structure of Physics | [§7.5](nature-alone.html#sec-7-5) (T ↔ Φ) |  —  | Noether 1918; every accelerator, spectroscopic, and cosmological observation within measurement precision | Confirmed spontaneous arising or vanishing of conserved Φ-quantities; perpetual motion; ex nihilo charge creation |
+| All three axes bind into one symmetric structure | Structure of Physics | [§7.5](nature-alone.html#sec-7-5) (T ↔ S ↔ Φ) |  —  | Lorentz invariance; gauge symmetries of the Standard Model (Wigner 1939; Gross 1996); principle of stationary action (Hamilton 1834; Lagrange 1788) | Successful physics with independently specifiable axes: Φ-content outside spacetime, or spacetime points without Φ-content |
+
+## Tier 2: Framework-guided hypotheses
+
+*These combine the framework with auxiliary legs. The Basis column marks whether that leg is abductive or empirical; the Status column carries evidential standing.*
+
+| Prediction | Domain | Source | Basis | Status | Confirmation evidence | Falsifies if |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cosmological history is cyclic at the macro-scale | Cosmology | [§7.6](nature-alone.html#sec-7-6) | Abductive |  —  | LQG bounce at Planck density (Ashtekar and Singh 2011); Penrose CCC; Steinhardt–Turok ekpyrotic; Brandenberger–Peter matter bounce; Ijjas–Steinhardt new cyclic; Baum–Frampton phantom; Poplawski Einstein–Cartan torsion | All cyclic and bouncing resolution programs falsified empirically with no replacement |
+| Each cycle traces the same macro-trajectory (expansion, structure formation, compression, return) | Cosmology | [§7.6](nature-alone.html#sec-7-6) | Abductive |  —  | Modal Invariance ([§2.1.7](the-argument.html#sec-2-1-7)) plus macro-scale transmission across the bounce | Macro-scale invariance across cycles falsified (e.g. cycles without stars or without observers) |
+| Type–token coupling is a real seam, not an artifact of incomplete physics | QM & Type/Token | [§7.7](nature-alone.html#sec-7-7) | Abductive |  —  | Penrose-Diósi gravity-induced collapse (Penrose 1989, 1996; Diósi 1989); decoherence (Zurek 2003); consistent histories (Griffiths 2002; Omnès 1994) | A successful unification eliminates the type–token distinction entirely rather than coupling them |
+| Token outcomes are not pre-fixed by the type | QM & Type/Token | [§7.7](nature-alone.html#sec-7-7) | Empirical |  —  | Born rule plus repeated identical preparations yield distributed, not replicated, outcomes; every empirically adequate interpretation of QM preserves the feature | A theory matching all QM predictions delivers a closed token readout from the type alone |
+| First energy source is chemical (redox) | Origin of Life | [§7.8.2](nature-alone.html#sec-7-8-2) | Abductive |  —  | Alkaline hydrothermal vent chemiosmosis (Martin and Russell 2007; Lane 2015); reconstructed LUCA metabolism (Weiss et al. 2016), the abductive best fit per [§7.8.2](nature-alone.html#sec-7-8-2) | First life captures energy via mechanism not reducible to redox chemistry |
+| Life is the favored attractor under sustained energy gradient | Origin of Life | §[§7.8](nature-alone.html#sec-7-8), 7.8.1, 7.8.4 | Abductive |  —  | Schrödinger 1944; Prigogine and Nicolis 1977; England 2013; Earth's early-emergence datum (life within ∼100–700 Myr of habitability, Mojzsis et al. 1996; Bell et al. 2015); the favoring reading is abductively supported by the early-emergence datum, not empirically confirmed ([§7.8.4](nature-alone.html#sec-7-8-4)) | Sustained gradient + suitable conditions + sufficient time → no life formation |
+| Life elsewhere wherever sustained chemical disequilibrium holds | Origin of Life | §[§7.8.4](nature-alone.html#sec-7-8-4), 2.1.7 | Abductive |  —  | Modal Invariance ([§2.1.7](the-argument.html#sec-2-1-7)) plus chemoautotrophic-origin prediction. Targets: Mars (past), Europa (subsurface ocean with likely seafloor hydrothermal activity), Enceladus (confirmed subsurface vents, Hsu et al. 2015), Titan (alternative chemistry under sustained disequilibrium) | Confirmed sustained chemoautotrophic conditions over geological time at any of these bodies, with no biosignatures recoverable by adequate missions |
+| Consciousness obtains wherever dissipative self-maintenance reaches recursive depth that includes the modeling itself *(modal kind: constitutive identification)* | Consciousness | §[§7.8](nature-alone.html#sec-7-8), 8 | Abductive |  —  | Thermodynamics (Schrödinger 1944; Prigogine and Nicolis 1977; England 2013); evolutionary cognitive architecture (Lyon 2015; Ginsburg and Jablonka 2019; Levin 2019; Godfrey-Smith 1996, 2016); predictive processing (Friston 2010; Clark 2013; Hohwy 2013; Kirchhoff et al. 2018); IIT/GNWT adversarial collaboration (Cogitate Consortium 2025) | A configuration with the relevant integrated dissipative self-modeling architecture demonstrably lacks a vantage |
+| Consciousness elsewhere wherever the recursion threshold is reached *(modal kind: necessary possibility)* | Consciousness | §[§2.4](the-argument.html#sec-2-4), 7.8 | Abductive |  —  | Substrate-independence claim conditional on the constitutive identification | Sufficient self-modeling architecture in a non-biological medium fails to produce vantage |
+| Bénard cells and hurricanes lack vantage; bacteria have minimal vantage *(modal kind: constitutive)* | Consciousness | [§7.8](nature-alone.html#sec-7-8) | Abductive |  —  | Bacterial cognition (Lyon 2015); minimal cognitive architectures (Ginsburg and Jablonka 2019; Levin 2019) | Bénard cells or hurricanes demonstrably have vantage, or bacteria demonstrably do not |
+| Phenomenology tracks organizational structure (substance-specific experience) | Consciousness | §§8, 8.2 | Empirical |  —  | Direct intervention: psychoactive substances; corpus-callosum split; dose-dependent anesthesia; developmental trajectory of cognitive capacities | Identical organizational flow produces different phenomenologies, or different organizational flows produce identical phenomenology |
+| Any sufficiently deep self-modeling system reliably reports a hard problem; report strength tracks reflective depth (the meta-problem discharge) | Consciousness | [§8.3](expanding-the-field.html#sec-8-3) | Abductive |  —  | Meta-problem research program (Chalmers 2018); developmental and comparative-cognition probes of problem intuitions; artificial systems approaching self-inclusive self-modeling | A system with demonstrably deep self-inclusive self-modeling produces no hard-problem-style report, or systems without such modeling reliably produce them |
+| Any sufficiently deep self-modeling lineage produces the same structural registers (register-universality), not the same cultural particulars | Consciousness | [§8.15](expanding-the-field.html#sec-8-15) | Abductive |  —  | Comparative cognition at the near end; artificial systems and astrobiological contact at the far end | A sufficiently deep self-modeling lineage sorts its self-model under a genuinely different category set |
+
+## Tier 3: Empirical
+
+*Testable by ongoing experimental programs; the Status column carries each result's current standing.*
+
+| Prediction | Domain | Source | Status | Confirmation evidence | Falsifies if |
+| --- | --- | --- | --- | --- | --- |
+| Primordial gravitational-wave spectrum and non-Gaussianity distinguishable from slow-roll inflation | Cosmology | [§7.6](nature-alone.html#sec-7-6) | Active | LiteBIRD, CMB-S4, Planck follow-ups; expected to discriminate within the decade | Observation rules out bouncing-cosmology spectra in favor of slow-roll inflation only, with no surviving cyclic mechanism |
+| CMB Hawking-point anomalies as previous-aeon signatures | Cosmology | [§7.6](nature-alone.html#sec-7-6) | Contested | An et al. (2018); An et al. (2020); Meissner (2025) consolidating the CCC case | Robust statistical re-analysis eliminates the signal once ring size is marginalized over (Jow and Scott 2020 already find it weaker) |
+| Local-deterministic conjunction fails at the token level | QM & Type/Token | [§7.7](nature-alone.html#sec-7-7) | Confirmed | Bell-inequality violations (Bell 1964; Aspect et al. 1982; Hensen et al. 2015 loophole-free) | A loophole-free local-realist theory reproduces the measured correlations |
+| Penrose-Diósi gravity-induced collapse predicts a mesoscopic threshold | QM & Type/Token | [§7.7](nature-alone.html#sec-7-7) | Active | Tabletop tests of mesoscopic superpositions currently underway | Mesoscopic superpositions persist past the Penrose-Diósi mass threshold without reduction |
+| Near-death experiences are integrative-flow destabilization, not departure | Consciousness | [§8.7](expanding-the-field.html#sec-8-7) |  —  | Residual cortical activity post-arrest; phenomenology consistent with hypoxia-driven disinhibition and disrupted self-modeling | NDE content recovered from periods of confirmed zero brain activity |
+
+## Positions Under Structural Pressure
+
+*The book’s framework treats these positions as facing specified conceptual or explanatory burdens. This table does not claim that all are empirically refuted or that every rival formulation has been exhausted.*
+
+| Position | Source | Why foreclosed |
+| --- | --- | --- |
+| Stable singularity (permanent zero extension) | [§7.6](nature-alone.html#sec-7-6) | Permanent zero extension is absolute nothingness under cosmological description; ∅ is not anywhere Nature can persist ([§2.8](the-argument.html#sec-2-8); [§2.8.5](the-argument.html#sec-2-8-5)) |
+| Permanent information destruction at singularities | [§7.6](nature-alone.html#sec-7-6) | Permanent loss requires a persisting region in which no distinction is available: Space permanently eliminated, which no locus can persist in |
+| Block-universe fatalism (eternalism → fatalism) | [§7.7](nature-alone.html#sec-7-7) | Eternalism names the reality of the dimension; fatalism additionally requires that passage through it be illusory. [§7.2](nature-alone.html#sec-7-2) preserves passage as a genuinely directional flow |
+| Strict Laplacean determinism (type fixes token exhaustively) | [§7.7](nature-alone.html#sec-7-7) | Type does not fix token; ruled out by composition argument and by Bell-violation empirical record |
+| Strict superdeterminism | [§7.7](nature-alone.html#sec-7-7) | Survives only at the cost of abandoning the statistical independence experimental inquiry presupposes: the price is the intelligibility of the inquiry that motivates the position |
+| Strict Nietzschean eternal recurrence (token-level) | §[§7.6](nature-alone.html#sec-7-6), 7.7 | Cycle mandates macro-structural return; does not mandate token-level return. Each cycle is a fresh draw from the distribution the type licenses |
+| Type-level fine-tuning (calls for external selector) | §[§2.7.3](the-argument.html#sec-2-7-3), 7.7 | The contrast class that would make the demand intelligible is ∅, which is not a state. Token-level fine-tuning remains a legitimate question for physics |
+| Agency as readout of pre-settled computation | [§7.7](nature-alone.html#sec-7-7) | A self-modeling configuration is the locus at which token-level contributions to causal history are made; nothing at the token level is fixed by the type |
+| Substance dualism for consciousness | §8 | The convergence identifies no functional work a second substance would do that self-modeling does not already do, and no empirical signature by which it would be detected |
+| Strong panpsychism (consciousness all the way down) | §[§7.8](nature-alone.html#sec-7-8), 8 | The threshold of dissipative self-inclusion is non-arbitrary; leveling-down was the move required to dissolve an arbitrary threshold and is unmotivated once the threshold is constitutive |
+| Eliminativism / strong illusionism about consciousness | §8 | The functional transition from coupling-to-environment to self-including model is a real, specifiable activity that a mature description will not need to do without |
+| Heterotrophic origin of life | [§7.8](nature-alone.html#sec-7-8) | Heterotrophy presupposes prior life, a structural impossibility at the first fold |
+| Photosynthetic origin of life | §[§7.8](nature-alone.html#sec-7-8), 7.8.2 | Photosynthetic machinery (chlorophyll, photosystems) is itself a downstream evolutionary product of templated synthesis |
+| Sequential cycle emergence (metabolism-first or replicator-first) | [§7.8.2](nature-alone.html#sec-7-8-2) | Three coupled cycles (production, energy, information) must co-emerge per chemoton; no single cycle is alive alone |
+
+A reader who finds that an empirical result defeats a stated auxiliary hypothesis, identification, or application is reading correctly. The framework is not protected from empirical contact, but the target of a result must be identified precisely: a cosmological, biological, or consciousness hypothesis may fail without automatically refuting the fixed-domain modal framework; conversely, repeated failure of the framework's best applications would substantially weaken its broader explanatory ambitions.
+
+```{=latex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{3}}
+```

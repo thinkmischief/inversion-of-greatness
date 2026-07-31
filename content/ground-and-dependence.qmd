@@ -1,0 +1,20 @@
+---
+title: "1.5.5 Ground and Dependence"
+notion-id: be8533de-abe9-42d8-8e97-148696c3b2b5
+slug: "ground-and-dependence"
+index: 10505
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Grounding** · *Definition*
+
+Non-causal dependence: X *grounds* Y when Y holds *because of* X, where the *because* is metaphysical, not causal or temporal.
+
+
+:::
+
+*Y depends on X* is the converse; *X is metaphysically prior to Y* names priority. This vocabulary is the working language of a recent literature: grounding emerged as a distinct philosophical category in the early 2000s, with Fine, Schaffer, and Rosen as its principal architects. The canonical case is Fine's singleton: the set {Socrates} is grounded in Socrates, not the other way around. Socrates does not exist *because of* his singleton; the singleton exists *because* Socrates does. The dependence runs one way only, and that one-way *because of* is what grounding picks out. P and Q together ground their conjunction; the conjunction does not ground either P or Q. Adjacent operators (*fixes*, *makes the case*) name determination: specifying X is enough to settle Y.
+
+Concrete necessary-foundation accounts (Rasmussen's grounding of contingent existence in a necessary being [@prussRasmussen2018] is the canonical contemporary case) diverge from the Necessity of Nature line of argument at §5.1.1, where the engagement runs at full strength. A note on modal-apparatus ancestry: the arguments of Ch 2 that establish □(T∧S∧Φ) deploy the S5 states-of-affairs framework Plantinga develops [-@plantinga1974b], the existential-inversion argument-form Rasmussen employs, and the act/potency derivation Feser develops [-@feser2017]. The conclusion they reach is more specific than a necessary being (T∧S∧Φ), and they run without personal-theist commitments at any stage. The argument-form inheritance is real and acknowledged; the stage-divergence is taken up at §5.1.1.

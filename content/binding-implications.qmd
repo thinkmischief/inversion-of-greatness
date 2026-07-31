@@ -1,0 +1,18 @@
+---
+title: "7.5.5 What is Concluded"
+notion-id: da8d3ac7-b734-4769-b2d3-9462a589814d
+slug: "binding-implications"
+index: 70505
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The modal argument requires T ↔ (S ∧ Φ), S ↔ (T ∧ Φ), Φ ↔ (T ∧ S): each of the three conditions holds if and only if the other two hold jointly with it, the three biconditional bindings the Triconditional Cross-Entailment (§2.6.7) establishes. The successful physical theories of the last century display, by name, exactly those constraints: Spacetime for T ↔ S, Field for S ↔ Φ, Conservation for T ↔ Φ, and Symmetry for the full triple. The names were not chosen to fit the metaphysics. They were standard names physics had already settled on independently, and they name the closest realized counterparts of the constraints in the theories that successfully describe our world. Nor are the four constraints merely co-present in the theories that carry these names. Within physics itself they are provably interlocked: Noether's theorem derives conservation from symmetry — time-translation symmetry yields conservation of energy, spatial translation conservation of momentum (§7.5.3, §7.5.4) — so the binding of temporal structure to conserved physical quantity is not only exhibited by the successful theories but proved inside them, as a theorem of their own formalism. What the Cross-Entailment requires at the role level, the physics establishes independently as mathematics. The mapping is at the role level, not an assertion that Chapter 2 uniquely derives spacetime, fields, conservation, or symmetry as physical categories. Methods converged on the same structure because the structure is one.
+
+::: {.corollary}
+**Binding Realization** · **R16** · *Result of T3*
+
+The three biconditional bindings the Triconditional Cross-Entailment (§2.6.7) establishes at the role level — T ↔ (S ∧ Φ), S ↔ (T ∧ Φ), Φ ↔ (T ∧ S) — are realized by name in the successful physics of the last century: Spacetime for T ↔ S, Field for S ↔ Φ, Conservation for T ↔ Φ, Symmetry for the full triple. The realization is not mere co-presence: Noether's theorem derives conservation from symmetry (§7.5.3, §7.5.4), so the binding the Cross-Entailment requires at the role level is proved inside the physics, as a theorem of its own formalism. The result is an alignment at the role level and abductive in register: it does not claim that Chapter 2 derives spacetime, fields, conservation, or symmetry as physical categories, but that independent methods converged on the same structure because the structure is one.
+
+
+:::

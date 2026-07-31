@@ -1,0 +1,12 @@
+---
+title: "7.3.2 What is Required"
+notion-id: 7d689718-52ae-4114-aa55-84cddc8fb70d
+slug: "space-required"
+index: 70302
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The standing substantivalism-relationalism dispute (§7.3.1) never settles because both are correct and neither is complete. As with tensed and tenseless for Temporality (§7.2), the two positions name different features, both of which Spatiality requires. Extension names the dimensional structure: the manifold within which locations are distinguishable. Relation names the connective structure: the ordered links by which one location stands at a determinate distance from another. Extension without relation is an undifferentiated plenum: not Spatiality, because nothing in it stands apart from anything else. Relation without extension is a bare graph of pure distinction: not Spatiality either, because relations with no dimensional substrate to run through collapse into a logical structure without geometry. Spatiality is the extension that supports relation together with the relation that organizes the extension.
+
+General relativity [@einstein1915] sharpens the composition rather than settling the dispute in one side’s favor. The metric field (the structure assigning distances between points) encodes distances (the relational aspect) but is itself a dynamical structure defined at every point of a manifold, the bare set of points before any geometric structure is imposed (the extensional aspect); manifold and metric together constitute what relativistic physics treats as spacetime. Earman and Norton's [-@earmanNorton1987] hole argument (the puzzle that, in general relativity, shifting all the matter content of spacetime to a different mathematical patch of the manifold appears to produce a distinct physical situation, even though no observer could distinguish the two, forcing a choice about whether such shifts name genuinely different worlds or only different descriptions of the same world) and the subsequent literature (Sklar [-@sklar1974]; Friedman [-@friedman1983]; Maudlin [-@maudlin2012]; Pooley [-@pooley2013]; Dasgupta [-@dasgupta2015]) turn on exactly this duality: the substantivalist commitments of general relativity are real, the relationalist commitments are real, and any adequate interpretation must hold both.

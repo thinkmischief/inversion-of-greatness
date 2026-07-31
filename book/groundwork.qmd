@@ -1,0 +1,493 @@
+---
+title: "1. Groundwork"
+---
+
+Before any argument can begin, the words that carry it need to mean something precise. This chapter settles them: what *Reality* is, how *modal status* applies to it, what *change* is and what it requires, and what it is for something to *exist*.
+
+Nothing here is defended at full strength; that work begins in Chapter 2. The task here is narrower and prior, to settle *what* these terms mean before the argument takes up what *must* be true of them. Where a definition will carry weight later, the page marks where its defense is owed.
+
+## 1.1 Reality {#sec-1-1}
+
+The first term to fix is Reality itself, though not with any claim about what Reality is. Whether it is matter or mind or number, one or many, created or not, is the work of everything ahead. What can be fixed at the outset is not the thing that fills the role but the role itself: Reality's meaning is fixed by that role, not by stipulation. [^1-1-0-reality-role]
+
+::: {.definition}
+**Reality** · *Definition*
+
+The whole within which any thing is a thing: what anything real belongs to, and what gives the word *real* its content. The belonging is structural, not set-theoretic. Reality is not a member of some larger collection, and it is not a member of itself either — it is the whole within which membership is possible at all.
+
+
+:::
+
+To be real is to belong to that whole; to be unreal is to have no place in it at all. So for anything whatever, the question whether it is real has an answer — real, or not. That the answer never fails is what Reality constitutes.
+
+To point at Reality from outside, one would need a standpoint outside it. But any standpoint must itself be real, and to be real is already to belong to Reality, so there is no standpoint outside it to point from. An unreal one would be no standpoint at all. Pointing is only possible from inside.[^1-1-0-outside-nature] That constraint — no standpoint outside it — is also why Reality is best described in parts rather than pointed at as a whole. Three things, taken here in turn: what Reality precludes ([§1.1.1](groundwork.html#sec-1-1-1)), what it permits ([§1.1.2](groundwork.html#sec-1-1-2)), and what it grounds ([§1.1.3](groundwork.html#sec-1-1-3)). The first two are how Reality constrains. The third is what Reality is: the structure those two standings run on. For any proposition (a statement that is either true or false), foreclosing and opening fix the two modal standings [§1.2](groundwork.html#sec-1-2) names *impossibility* and *possibility*.
+
+[^1-1-0-reality-role]: Fixing *Reality*'s meaning by the role it names makes it a *structural-role term*: its reference is fixed by what the role requires, not by which thing fills it. How structural-role anchoring sits relative to the referring strategies @kripke1980 treats is drawn out in [§1.2](groundwork.html#sec-1-2), where *real possibility* is fixed.
+
+[^1-1-0-outside-nature]: An example sharpens this: even on a theist's own terms, to say God is real just means God belongs to Reality, not that God stands outside it. What the theist actually wants is the more modest claim that God stands outside *nature*, not outside Reality itself.
+
+### 1.1.1 Reality Precludes {#sec-1-1-1}
+
+Reality precludes in two ways: first, by ruling out acts it leaves no room for; second, by ruling out the retraction of what an act has already done. Start with the first: take reading as the case at hand. That first way of precluding shows the same shape in each of the three roles reading depends on.
+
+i. *Finishing a sentence not yet begun.* A sentence runs forward, word after word: each word is taken up only after the one before it is left behind — first the opening, then the close, in that order. To finish a sentence not yet begun is to reverse that order: the close taken first, standing where the opening should stand. A sentence already read through cannot be read as though it had never begun; the order that puts the first word before the last cannot run backward. First and last are not interchangeable labels for one line of sense. If they were, neither would be doing any work.
+
+ii. *Reading a word without room for its letters.* Read a word and each letter stands in its own place, one after another, with an interval between. To read across a word is to cross that interval; letters heaped into one place leave no interval to cross. Heap them together and there are no longer separate letters to read — only one mass of dark, with nothing between its parts to mark them off as distinct letters. What is foreclosed is not a word too cramped to make out: there is no word at all, because reading across depends on the interval, and no interval remains. To read a word without room for its letters is to read nothing.
+
+iii. *Reading with nothing carried across.* A sentence carries something across: the sense borne from word to word, from the word it leaves to the word it reaches. Carrying the sense from one word to the next takes two words — the one started with and the one reached — with the interval between them actually crossed. Suppose the reading comes to rest with nothing carried across: the eye reaches the last word, but nothing is gleaned, and the sense never comes through. There is then nothing for the reading to have been. It is not a quicker reading; it is no reading at all — a gaze moving from one word to another with nothing between them to account for the sense. To read is to have carried across.
+
+The order, the interval, the carrying: not three readings but one, seen three ways.
+
+The first of these already lives in the mind as much as on the page: remembering and predicting are its near kin. The reading showed the foreclosure on the page; these cognitive verbs show it in the mind. A verb anchored to the past or to the future loses its meaning the moment its direction is reversed. The same foreclosure runs internally in two further verbs. *Remembering the future.* *Remember* is a retrospective verb (looking back at what has been), and aimed forward it has no use. *Predicting that something will happen yesterday.* (Of course yesterday's events can be *inferred* from evidence; the foreclosed sense is *predict* as *will happen*.) A forward-aimed *predict* directed at yesterday denotes nothing. The same closure runs across the family: regret tomorrow, anticipate yesterday, plan what happened. The forbidden phrases are not false sentences. They are words held outside the direction that gives them meaning. Any claim about past and future has to use verbs whose meaning requires the very asymmetry the claim would deny. The foreclosure is not linguistic squeamishness about misused words; the words carry the asymmetry because the asymmetry is what they are for.
+
+The pattern in these phrases reaches further than tomorrow and yesterday. Compare a different kind of mistake. "Everest is under water" is a sentence one can hold in mind clearly; it just happens to be wrong about the world. Now try to remember what you did tomorrow. *Remember* and *did* aim into the past; *tomorrow* points into the future. Trying to hold the phrase clearly is what reveals it cannot be held. The same goes for the other two. Reading a word without room for its letters, with no interval to cross; reading with nothing carried across: these are not situations the world happens to rule out. They are phrases whose terms lose their meaning once the conditions those terms require are removed. For these words, the description and the thing described are not two separate things that might fail to match. To apply the word is already to presuppose the structure it names. Describing and presupposing are the same job, seen from two sides.
+
+A conceptualist objection says this shows only constraints on our concepts or language, not on Reality itself. This section does not settle that dispute: insofar as verbs like *remember*, *predict*, *read*, and *unread* state genuine claims about Reality rather than merely play inferential roles within a language, their application presupposes the asymmetries they encode. How those presuppositions are known, and the strongest deflationary alternatives, wait for Chapters 2 and 4.
+
+Now the second foreclosure, running alongside the first. A capacity that runs one way can be transgressed from either side: not only by reading against the direction, but by trying to undo what reading along it has taken up. There is no undoing. What is done cannot be un-happened, un-placed, un-caused. You can return to a word, but you cannot read it again for the first time: the first reading is behind you, and no rereading reaches back to remove it. The page can be closed, the line struck through, the book shut — each a new act laid over what came before, not a retraction of it. A line struck through adds a cancellation to the record; it does not reach back to unread the reading. No later reading makes the first reading never have occurred. No later reading unbinds a word from the sense it delivered. One direction, two transgressions. The positive is unitary; the negative is dual. That single positive is what the next section names.
+
+This foreclosure is modal, not merely descriptive: what it rules out is ruled out of every configuration it could take on. What Reality forecloses is included in no configuration. Reading a word without room for its letters could not really be the case; no circumstance opens up room where there is none, turning it into an interval you could still read across. That foreclosure is not just very unlikely, or hard to bring about in practice; it is impossible by its structure. A proposition Reality forecloses in this way has a definite modal standing, the one [§1.2](groundwork.html#sec-1-2) names *impossibility*.
+
+### 1.1.2 Reality Permits {#sec-1-1-2}
+
+If impossibility is what Reality forecloses, possibility is what it opens, one boundary seen from either side. Each foreclosure is inseparable from a capacity: not an added feature, but the same role under its positive description. What reading forecloses, reading also requires: the same three roles, seen now from the other side.
+
+i. *Reading on from where you began.* The word you started from is behind, the word now facing you comes right after it, the words to come are not yet reached. That ordering runs forward. A before gives way to an after, and each word is reached only by leaving the one before it.
+
+ii. *Reading toward a word you are not yet at.* The word you read from and the word you read toward keep their own places, here and there on the page, and the reading goes through only because the two are genuinely distinct places, not one place described twice. That apartness is an interval: a here and a there made two places rather than one.
+
+iii. *Reading with the sense carried across.* You bear the sense across, from the word left behind to the word reached: each word's sense joins what is already held, none of it let go to make room for what comes next. That carrying is the link between where you leave and where you land: the interval crossed rather than merely measured.
+
+And the second foreclosure mirrors too: once taken, a reading holds — the words read stay read, the sense not given back. The same capacity that carries you forward also leaves nothing along the way unread.
+
+What Reality opens in this way has a definite modal standing too, the one [§1.2](groundwork.html#sec-1-2) names *possibility*.
+
+### 1.1.3 Reality Grounds {#sec-1-1-3}
+
+Reading already uses three things without naming them: a direction the line takes, an interval it spans, the carrying that closes it. These three roles are succession, distinction, and exchange. The first two sections give how Reality constrains; this one gives what it is, in the sense of how it is built: not a thing lying beneath the constraining, but the structure the constraining runs on. These might be taken for three features Reality happens to have. If they were, removing them should leave a bare version of Reality behind. But stripping them does not leave a simpler Reality. It removes what makes *possibility-talk* intelligible at all.
+
+Strip succession: no before and after, and therefore no sense in which anything could *occur* or *be done*. Strip distinction: no here rather than there, no this rather than that, and therefore no candidate state to be specified. Strip exchange: no bearing, no transfer, no linkage by which one state could give way to another.
+
+To specify a way things could be at all is to specify a determinate configuration, this state rather than that. Without succession, distinction, and exchange there is no determinate configuration to describe, and nothing for modal vocabulary to pick out: no ‘one way rather than another’ to range over. What goes missing is not some particular way things are, swapped for a stranger one; it is the contrast any possibility-claim needs, this rather than that, with nothing left to carry it.
+
+These three names carry forward into [§1.3](groundwork.html#sec-1-3) and return in [§1.4](groundwork.html#sec-1-4) as the three Conditions (Temporality, Spatiality, Physicality), borne in Reality by Time, Space, and Substance. The roles (succession, distinction, and exchange) name what change requires; the Conditions and their bearers name the structure in which that requiring is real.
+
+The grounding here is not *ipsum esse subsistens* ("being-itself-subsisting") renamed. Classical theism's ground is simple: without parts, without internal articulation, the same across every aspect one might name. That commitment is the working-out of perfect-being theology and *actus purus* ("pure act"), not a freestanding axiom. The tradition has known its internal disputes about how thoroughly the simplicity runs (Aquinas, Plantinga, and Swinburne do not hold the doctrine in the same form); Chapter 5 takes up the engagement at strength. Reality's grounding is articulated: succession, distinction, and exchange are not structures Reality happens to have but the constitutive structures Reality cannot fail to have. The inversion the book argues is not over the structures the tradition attributed to its ground (necessity, sufficiency, indifference to the contingent) but over what those structures belong to. They belong to Reality itself, not to a subject standing outside it.
+
+Two readings are open here, and choosing between them is a priority question, closed at [§4.1.10](metaphysical-rivals.html#sec-4-1-10). On one, the three roles are necessary because Reality essentially is that way — part of what Reality is, in Fine's sense of *real definition* (an account of what a thing essentially is, not of what its word means). On the other, they are merely necessary as a structural feature of the modal field, without an essence-prior-to-modality. The constitutive language above ('cannot fail to have,' 'what it is') names the structural shape of the primitive modal field, not an essence prior to it from which the modal facts derive.
+
+Any candidate for what lies beneath the roles (a creator, a necessary ground, a primordial state, a brute fact) must be offered as possible. The trouble is that the offering already occurs within succession, distinction, and exchange: the candidate has to be named, distinguished from what it grounds, and related to the possibility it is meant to explain. That is pressure, not refutation; the fuller defense belongs to Chapter 2.[^1-1-3-grounding-pressure] The comparison with naturalism that takes the cosmos as a brute fact, without any further necessity posit, is engaged at strength in Chapter 4. Chapter 2 identifies whether the demand that any candidate be offered as possible functions as a Principle of Sufficient Reason premise, a weaker explanatory norm, or a modal-status constraint; the engine driving the argument is named there, not here.
+
+And the roles do not come and go. For the roles to lapse (for Reality to step outside the direction, the difference, the link, even briefly) is for there to be no direction within which the lapse could occur, no interval across which it could be measured, no linkage by which anything on the far side could connect to anything on this side. The alternative to Reality running is not a different Reality. It is the absence of the conditions any alternative would need.
+
+[^1-1-3-grounding-pressure]: A line of objection holds that the relevant kind of grounding is precisely not a succession (not even in logical space) but atemporal: a relation of metaphysical dependence that runs from ground to grounded without requiring temporal priority. Even granted at full strength, the objection does not relieve the local burden: any candidate for what makes possibility possible must be nameable, and naming requires the roles it was supposed to provide. Succession, distinction, and exchange do not arrive one by one; they arrive together, and when they arrive, possibility is the name for their being in place together. The atemporal-grounding position is engaged at strength in [§5.1.1](rival-ultimates.html#sec-5-1-1).
+
+## 1.2 Modal Status {#sec-1-2}
+
+The argument runs on five modal words (*possible*, *impossible*, *necessary*, *contingent*, and *actual*), each fixed to a single sense from here on. Two are primitive at this pre-formal stage: possibility and impossibility, the permitting and foreclosing already met in [§1.1](groundwork.html#sec-1-1). Necessity and contingency are built from them. Actuality (which member of the possible field is realized) stands alongside the other four, tied to the primitive pair only by the rule that whatever is actual is thereby possible. Taking the two as primitive (rather than grounding modality in essence, as an essentialist would) is a substantive choice, defended in [§4.1.10](metaphysical-rivals.html#sec-4-1-10). (Formally, only possibility is retained as primitive: impossibility is fixed as its negation, ¬◇P, once [§1.2.2](groundwork.html#sec-1-2-2) states the modal machinery and Appendix A locks the D-spine; the pre-formal pair and the formal derivation pick out the same ground at two levels of resolution.)
+
+Claims cast in these five words are claims of modal logic, the branch concerned with what must be the case and what could be. Two symbols stand alongside those of ordinary logic (◇ for possibility, □ for necessity), but the prose runs in English throughout, and the symbolic apparatus is developed in Appendix A.
+
+### 1.2.1 Possibility {#sec-1-2-1}
+
+Of the five statuses, possibility is the one most blurred by ordinary use: *could* runs together what logic allows, what the mind can picture, and what the evidence leaves open. The argument needs a narrower sense.
+
+::: {.definition}
+**Possibility** · *Definition*
+
+A proposition is possible when it really could be the case (◇P).
+
+
+:::
+
+The definition's weight sits on the word *really*: a proposition is possible when Reality permits it to be the case, not merely when logic allows it, a mind can picture it, or the evidence has not ruled it out. That sense is what this book names *real possibility*: the same modality the field calls *alethic possibility* (or *metaphysical possibility*). Real possibility and real impossibility are the two genuine modal determinations Reality settles: *real* marks the determination's standing, not its polarity.
+
+It could be that God alone is real, that nature alone is real, that God and a created nature are both real, or some other configuration. *Real* names what is really the case, regardless of which of those configurations obtains. Even the claim that God is real does not bypass Reality as ground: God being real, if it obtains, just is Reality being such-that-God-is-real. Whether real possibility is itself modally primitive or reduces to a deeper essence or real definition is the priority question, closed at [§4.1.10](metaphysical-rivals.html#sec-4-1-10). This section fixes the modal vocabulary; the priority question is carried downstream.
+
+*Real possibility* is structural-role-anchored: its reference is fixed by the role it plays (being a determination Reality settles), not by stipulation and not by picking out a natural kind. That makes it different from the standard Kripkean cases. Proper names such as *Hesperus*, the evening star, rigidly pick out one individual; definite descriptions such as *the tallest building* pick out whatever satisfies a condition; natural-kind terms such as *water* pick out a kind by its underlying nature [@kripke1980, Lecture III]. Structural-role terms fix reference by what the role requires. That strategy is the same for *Reality* and *real possibility*; the natural-kind parallel between this strategy and Kripke's treatment is taken up at [§2.6](the-argument.html#sec-2-6) and [§2.6.12](the-argument.html#sec-2-6-12). The upshot: real possibility is metaphysical possibility as it really is, not metaphysical possibility as it is epistemically conceived.
+
+Five nearby notions are easily conflated with real possibility: logical possibility, conceivability, epistemic possibility, nomological possibility, and probability.
+
+*Real possibility* is narrower than *logical possibility*. Every real possibility is logically possible (what is real never contradicts itself), but not every logically coherent description names something real. Logical possibility is a necessary condition for real possibility, not a sufficient one. The Kripkean case [@kripke1980, Lecture III] is *water = H2O*: 'water is not H2O' is logically coherent (no contradiction in the words), but if water just is H2O, the description names no real possibility, even though one can entertain it in thought. The example adopts Kripke's rigid-designation account of natural-kind identity as a working commitment; the structural parallel between the necessary a posteriori (truths known through experience but, if true, necessary) and the book's Necessity of Nature result is taken up at [§2.6](the-argument.html#sec-2-6) and [§2.6.12](the-argument.html#sec-2-6-12).
+
+Real possibility is not the same as *conceivability*. What thought can entertain is a fact about the reach of imagination, and imagination is not constrained by what could really be. Many conceivable arrangements name nothing real.
+
+There is a more technical version of this worry. Some philosophers, following Chalmers, ask whether a refined, idealized notion of conceivability (what would still seem coherent at the limit of careful reflection, as opposed to what merely seems coherent at first glance) might track a genuine kind of possibility after all, and whether that kind needs to be held apart from the real possibility fixed here. That question, and the two-dimensional framework built to handle it, is taken up at [§4.1.2](metaphysical-rivals.html#sec-4-1-2).
+
+Real possibility is not the same as *epistemic possibility*. What is open relative to one's evidence is a fact about a knower, not a fact about the world. Two reasoners with different evidence can disagree about epistemic possibility while agreeing entirely about what could really be. Take a treasure chest buried in Central Park: epistemically open (no one has checked every square foot), and also really possible (a buried chest is the kind of thing Reality permits). Now imagine instead a chest that refills itself with treasure every time it is closed. The description is logically coherent, the picture conceivable, and to a reader who has not worked out the physics it can be epistemically open too. Familiar physics may rule it out nomologically, but that alone does not settle whether it is really possible. A law-relative exclusion is not yet a metaphysical one. Now imagine a third, in a different register entirely: a chest both full and empty at the same time. The description cancels itself; the words pick out no chest at all — not a chest Reality happens to lack, but no chest named in the first place. The rest of the book sets out why these distinctions matter; for now the point is that neither what is open to a knower's evidence nor what familiar laws permit determines what is open to Reality.
+
+A note on register before the last two. The modalities just distinguished (conceivability, epistemic possibility) are doxastic or knower-relative: facts about what a mind can represent or what evidence permits, not facts about modal space. The modal claims throughout this book are *alethic*: they concern what really holds, independently of any mind's reach. This distinction runs through the argument. Doxastic modality, what a thinker takes to be possible, appears in Chapter 8 as a downstream product of the structural conditions that this argument establishes, not as a ground for those claims. The evidential basis by which the book secures its foundational modal claims is the bilateral performative witness developed at [§2.2](the-argument.html#sec-2-2) (Cartesian Certainty, *Cogito Ergo Muto*); modal-metaphysical knowledge here is not built from doxastic raw material.
+
+Real possibility is not equivalent to *nomological possibility* on the standard reading of the laws. *Nomological possibility* means *permitted by the laws of nature*, what some account of the laws says could occur. Those laws, as commonly characterized, may rule out things that really could be, and may fail to rule out things that really could not; the two extensions overlap but neither contains the other. Whether the deep reading of the laws coincides with real possibility is taken up in [§2.6](the-argument.html#sec-2-6).
+
+Real possibility is not the same as *probability*. Probability measures how often, or how reliably, something turns up among what could be the case. It presupposes possibility but is not equivalent to it: nothing has a probability greater than zero that is not first possible. *Possible* settles whether the thing is a candidate at all; *probable* sorts the candidates.
+
+One more distinction. "Possible" says that something could really be the case, not that the conditions to bring it about are always at hand. The possibility of reading is one thing; the occasion to read is another. Possibility does not promise the occasion. And one consequence: necessary truths count as possible. If something could not fail to be the case, then in particular it could be the case, and that is all possibility requires.
+
+### 1.2.2 Impossibility {#sec-1-2-2}
+
+Impossibility, possibility's mirror image, marks what Reality forecloses. Where possibility names what Reality leaves open, impossibility names what it rules out altogether.
+
+::: {.definition}
+**Impossibility** · *Definition*
+
+A proposition is impossible when it really could not be the case (¬◇P).
+
+
+:::
+
+The notation makes the dependence explicit: impossibility is the negation of possibility (¬◇P), so it adds no content of its own beyond what possibility has already fixed. To call a proposition impossible is to say there is no configuration Reality permits in which it holds: not that it merely fails to obtain, but that it could not be. The plainest cases are the self-cancelling ones (a square circle, a proposition both true and false at once), which name no way things could be, because the conditions they state exclude one another. Real impossibility is the outer boundary the remaining statuses are drawn against: necessity is possible truth whose failure is impossible, contingency possible truth whose negation is also possible.
+
+### 1.2.3 Necessity {#sec-1-2-3}
+
+With possibility and impossibility fixed, call a proposition *necessary* when its failure is excluded across every configuration Reality permits, and *contingent* when both it and its negation remain permitted. The strict defense of the modal machinery that supports these classifications is carried in Chapter 2; the point here is to state the target statuses in the sense the argument will use them.
+
+::: {.definition}
+**Necessity** · *Definition*
+
+A proposition is necessary when it really could not fail to be the case (□P).
+
+
+:::
+
+What is necessary does not lapse. Logical truths are necessary: there is no configuration with a square circle, no chest that is both full and empty at the same time. The descriptions cancel themselves; they pick out no object. Arithmetical truths are necessary the same way from the other side: 2 + 2 = 4 in every configuration, so its negation, 2 + 2 = 5, is no self-cancelling description, only a proposition false in all of them. Metaphysical claims of the form "X is necessarily the case" work the same way: X is not just true here, but holds across every configuration there could be.
+
+Necessity can also attach to possibility itself. The form □◇P says that P's modal permission does not vary with which world is under evaluation, but P must be fixed precisely; the case that follows shows why. Let P be the proposition that some reading occurs. This text will someday be unreadable, as every text eventually will be; sooner or later, the future closes off every occasion to read this token. That loss does not make a reading-instance impossible. Nor does □◇P say that every possible reality contains a reader or a readable object: it fixes the possibility of a reading-world, not the contents of every world. The permission is not the occasion.
+
+The classification sharpens once the possible side is divided. Within what is possible, some propositions hold in every configuration (the necessary), and some hold in only some (the contingent). Set against the impossible, this gives a natural three-way partition (necessary, contingent, impossible) that is mutually exclusive and exhaustive. *Possible* spans the first two: it means *not impossible*.
+
+Necessity marks one half of the possible field, the propositions that hold across all of it. The other half — those that hold in some configurations but not all — is contingency, the next status to name.
+
+### 1.2.4 Contingency {#sec-1-2-4}
+
+One further status turns on whether a proposition could have been otherwise.
+
+::: {.definition}
+**Contingency** · *Definition*
+
+A proposition is contingent when it really could be the case and really could fail to be (◇P ∧ ◇¬P).
+
+
+:::
+
+Contingency is the modal status that tracks arrangement-dependence: a contingent proposition is one whose truth varies with which configuration obtains. The definition makes two demands, not one: a contingent proposition could be the case (◇P) *and* could fail to be (◇¬P). Possibility by itself does not suffice: a necessary truth is possible too. What singles out contingency is that the negation stays open as well: the matter could have gone either way. This is the status of nearly everything ordinary. That you are reading now rather than asleep, that this sentence stands in these words rather than others, that history took this course rather than another it permitted: each could have been otherwise, and each is therefore contingent. The contrast with necessity is exact: a necessary truth holds in every configuration Reality permits, so its negation is foreclosed; a contingent truth holds in some and fails in others, so neither it nor its negation is foreclosed. Reality's structure settles both modal statuses: necessity by foreclosing the negation, contingency by leaving both sides open. Actuality settles which side of a contingent proposition obtains in the realized configuration.
+
+### 1.2.5 Actuality {#sec-1-2-5}
+
+The first four statuses sort how a proposition stands to what Reality permits; the last marks which permitted configuration is actually realized.
+
+::: {.definition}
+**Actuality** · *Definition*
+
+A proposition is actual when it is true of the realized configuration.
+
+
+:::
+
+What is *actual* is what is *real* in the realized sense. That you are reading this is actual. You might have been asleep, or elsewhere, or reading something else. Those alternatives are possible; the actual configuration is the one you are in. Every actual fact is possible (actuality implies possibility), but not every possibility is actual. Conflating actuality with necessity (treating what happens to be true as if it could not have failed to be) is the *modal-collapse error*. Actuality also carries no symbol of its own. The two symbols of [§1.2](groundwork.html#sec-1-2) (◇ and □) supply the notation for the other four statuses, but actuality needs none: a proposition asserted outright is already asserted of the realized configuration. What actuality itself consists in (whether it marks an absolute feature of the realized configuration or merely indexes the world one occupies, as on Lewis's indexical theory) is taken up in [§4.4](metaphysical-rivals.html#sec-4-4).
+
+### 1.2.6 Statuses Together {#sec-1-2-6}
+
+The five statuses form a closed modal grammar. Impossibility is what really could not be the case; possibility has content only against it; necessity is possible truth whose failure is impossible; contingency is possible truth whose negation is also possible; actuality is the realized member within the possible field. The grammar therefore includes contingency as a status, but it does not yet establish that some proposition bears that status in every configuration Reality permits. The stronger claim — that contingent propositions necessarily exist while each particular contingent fact remains contingent — is the *contingency-within-necessity* thesis taken up at [§2.8.4](the-argument.html#sec-2-8-4). It is reserved here rather than inferred from the vocabulary alone.
+
+One further principle the argument will use, and Chapter 2 will defend, is this: the modal status of a proposition does not shift with which configuration obtains. In *de dicto* terms (about the proposition itself, not about a particular thing the proposition refers to), the status is invariant: what is possible anywhere is possible everywhere, what is necessary anywhere is necessary everywhere. The literature files this rule under *S5 iteration* (the modal-logic principle that what is possible or necessary is itself necessarily possible or necessary), and Appendix A formalizes it under that name.
+
+The name can mislead, so the reading intended here is worth fixing before the rule does any work. The claim is not that a box may be stacked on a diamond and the stack evaluated by climbing an accessibility relation between worlds. It is that whatever is possible, *its possibility is necessary*: possibility is a determination Reality settles ([§1.2.1](groundwork.html#sec-1-2-1)), and the rule records that such a determination does not vary with the configuration from which it is reported. Modal status answers to what Reality consists in, not to how any world is arranged ([§2.1.3](the-argument.html#sec-2-1-3)). Both readings validate the same formula. They differ over what makes it true, and therefore over where the rule can be challenged — which is why the defense at [§2.1.5](the-argument.html#sec-2-1-5) concerns the scope of real possibility rather than the shape of an accessibility relation.
+
+Three commitments are reserved here rather than discharged.
+
+i. *The modal system.* The choice of S5 over weaker modal systems (T, S4, B, and their variants) is itself contested in the modal-logic literature; the defense arrives in [§2.1.5](the-argument.html#sec-2-1-5), and the theistic line that would reject S5 specifically to block this argument is addressed in [§2.1.9](the-argument.html#sec-2-1-9).
+
+ii. *The Plantinga parallel.* The same possible-necessity-to-necessity step drives Plantinga's modal ontological argument; the book engages it at [§5.1.7](rival-ultimates.html#sec-5-1-7), where its own necessity is derived from the modal status of change rather than from a possibility premise about maximal greatness.
+
+iii. *The quantifier domain.* When the argument deploys these modal statuses across quantified change-claims at Ch 2 P3 onward, one further choice becomes load-bearing: whether the same objects exist at every world (constant-domain semantics) or the domains vary across worlds (variable-domain). On the constant-domain option, the Barcan and Converse-Barcan formulas, which link the quantifiers to the modal operators, come out valid. That question is engaged at [§4.4.6](metaphysical-rivals.html#sec-4-4-6) against Williamson's necessitism, with the formal apparatus in Appendix A.4.
+
+So much for what is reserved. The actual is not merely the permitted, not merely what could be, but what *is*: the configuration taken, the one you are in right now. Descartes asked what could survive the most radical doubt: not the senses, not memory, not the external world as ordinarily described. What survived was not a fact about what might be but a fact about what *is*: something is actually happening, something is actually being thought. The cogito does not establish a possibility. It establishes an actuality. And an actuality cannot be doubted away, because doubting is itself an instance of it.
+
+That certainty carries something with it. The actual configuration you are certain of now is not the one you were certain of a moment ago. The reading has moved; the thought has shifted. What is undeniably actual has undeniably *changed*. The certainty of the actual does not deliver a static point. It delivers a moving one. What changes is which configuration is actual, not the modal status of anything in it. And what moves is not merely possible change, not merely permitted change, but actual change: the fact everything else in this argument runs on.
+
+What change is, and what Reality must be like for it to obtain, is the next question.
+
+## 1.3 Change {#sec-1-3}
+
+The Introduction's appeal to conceiving was already an appeal to change: to conceive is to pass from one cognitive state to another. Change is the primitive; conceiving is one instance of it.
+
+Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), you are still *somewhere*; something is still *shifting*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
+
+The full defense of the witness, and the modal derivation that lifts it into a necessity claim about Reality's structure, comes in Chapter 2: [§2.2](the-argument.html#sec-2-2) establishes the bilateral witnesses, [§2.3](the-argument.html#sec-2-3) lifts that possibility into necessity, [§2.4](the-argument.html#sec-2-4) derives what the possibility of change requires, and §[§2.5](the-argument.html#sec-2-5)–2.6 identify the Conditions. For now, change supplies the actuality-datum from which the derivation begins. The immediate question is what Reality must be like for change to be possible; [§1.4](groundwork.html#sec-1-4) takes up that question.
+
+The Reality analysis extracted three roles (succession, distinction, exchange) from what Reality must provide for possibility ([§1.1](groundwork.html#sec-1-1)). The same three emerge from a second direction: from what change requires.
+
+::: {.definition}
+**Change** · **C** · *Definition*
+
+One state, then another.
+
+
+:::
+
+The "then" in the definition does not yet name a temporal interval. It names only the bare ordering any sequence of two states requires: that they occur in an order, that one is not the other. Whether ordering of that kind must be temporal is precisely what [§1.4](groundwork.html#sec-1-4) settles.[^1-3-0-ch4-time-change]
+
+i. *Succession.* If one state follows another, there must be a before and after. "Then" runs in one direction. A bare sequence of labels carries order, but the word *before* does not tell you how long before, or whether anything lasts between the states at all. Whether this bare ordering carries genuine duration (an interval that can be longer or shorter, a moment or a millennium) is what [§1.4](groundwork.html#sec-1-4) settles when it names Temporality. At this stage succession requires only the ordering itself: a before and an after.
+
+ii. *Distinction.* If one state differs from another, the two must be distinct. If they are identical, nothing changed. Distinctness is not a matter of description. Two states might share every description and still be two things; one thing might be picked out by two different descriptions and still be one. What matters is whether the states are really apart, not how they are described. Distinction requires a real separation, an interval that keeps the states from merging.
+
+iii. *Exchange.* Succession and distinction can be read off the bare definition; exchange cannot, and that is exactly its status. Picture a sequence with succession and distinction and nothing else: one state, then a wholly unconnected other (a cat, then a galaxy, then the number seven). There is order, and there is difference, but nothing crosses between them. That is a slideshow, not a change. It is what Russell's 'at-at' theory of motion says change reduces to: an object at different places at different times, with nothing crossing in between (the frozen-instant picture of Zeno's arrow). What separates a change from a slideshow is that something is carried across the interval: what the first state held, the second takes up. This is the further requirement exchange names: *what connects departure to arrival*. It is not succession (the ordering) or distinction (the difference) but the substitution itself. Think of a wave crossing water: no drop travels with it, yet the wave moves on. Each stretch of water passes its motion to the next, and the wave continues because the motion is taken up, not because anything is carried bodily across. Whether this requirement is genuinely non-optional (whether the bare-succession view that stops at "one state, then another" is really deficient) is not settled here by analysis of the word; it is named now and discharged at [§2.4](the-argument.html#sec-2-4) (and against the Humean reading at [§4.1.4](metaphysical-rivals.html#sec-4-1-4)). The illustration fixes the structural role exchange picks out and imports neither productive-causation metaphysics nor a persisting thing that does the crossing.
+
+Exchange takes the most unpacking of the three. What holds a change together? Something carries over: the first state does not simply disappear while an unrelated second state arrives.
+
+The carrying can be registered from within an act. Hold a thought across the arrival of the next and the first does not simply lapse; it is borne forward by what is having it. The same structure appears in embodied action: push a door and encounter resistance, grip a railing and feel it bear weight, carry a burden and feel the carrying. These are not merely impressions of events that follow one another. They register the exchange from within rather than infer it from outside.
+
+The claim remains limited. Exchange names the carrying-forward that distinguishes change from a bare sequence; it does not yet decide what metaphysical account of that carrying is correct. Any alternative must nevertheless explain how a genuine change differs from an ordered series of unconnected states.[^1-3-0-exchange-humean] Chapter 4 tests whether the three-role analysis survives the rival accounts (§[§4.1](metaphysical-rivals.html#sec-4-1)–4.4) and gathers the result in [§4.5](metaphysical-rivals.html#sec-4-5).
+
+The definition is descriptive, not engineered. It is not the weakest concept the word *change* might be made to bear; what it defines is the change Reality demonstrably contains (the reading of this sentence, the breathing across it, any observable transition), named with the fewest words that pick it out unambiguously. Alternative concepts engineered to lack succession, or distinction, or exchange describe something else; whatever they describe, it is not the change Reality contains. The minimalism is the discipline of the description: no causation imported, no persistence presupposed, no identity-through-time stipulated (no commitment about what makes a thing the same thing across the change). These are what the later derivations must earn from the change itself, not pre-load into the word naming it. Anyone who grants that anything has ever happened accepts the definition, whether they think causation is a law of nature, a habit of the mind, or the work of a creator. The definition commits to none of those positions. It commits only to the occurrence.
+
+Succession and distinction are read off the change by analysis, not added to it: the bare definition already carries an ordering and a difference. Exchange is different in status: it is the further requirement that separates a genuine change from a bare sequence of unconnected states, named here but defended downstream rather than read off the word. For each role the reader's check is whether it is extracted from the change being described or imported beside it.
+
+The contestation over what change is runs deep. Process metaphysicians and dispositional realists treat change as primitive and productive; Russellian and Lewisian reductionists treat it as nothing but ordered states; Humean regularity views treat the carrying as a projection from constant conjunction; Aristotelian act-and-potency views treat it as the actualization of a potential. The definition stands neutral among them all. The structural description names what Reality contains; the metaphysical reading is reserved for [§2.4](the-argument.html#sec-2-4) and [§4.1.4](metaphysical-rivals.html#sec-4-1-4), where the live alternatives are engaged on their own terms. Two readings are open here, and choosing between them is a priority question, closed at [§4.1.10](metaphysical-rivals.html#sec-4-1-10). On one, the three requirements (succession, distinction, exchange) belong to the real definition of Reality's change in Fine's sense (part of what change essentially is). On the other, they are merely necessary for change without an essence-prior-to-modality.
+
+[^1-3-0-ch4-time-change]: For Ch 4 engagements on the time / change interface read against the change-as-primitive thesis developed here, see the [§4.2](metaphysical-rivals.html#sec-4-2) cluster: McTaggart's argument that time itself is unreal ([§4.2.5](metaphysical-rivals.html#sec-4-2-5)), block-universe / B-theory readings ([§4.2.6](metaphysical-rivals.html#sec-4-2-6)), Lewis on temporary intrinsics ([§4.2.7](metaphysical-rivals.html#sec-4-2-7)), emergent-time accounts ([§4.2.3](metaphysical-rivals.html#sec-4-2-3)), Sider's stage theory ([§4.2.8](metaphysical-rivals.html#sec-4-2-8)), Platonism on abstract structure ([§4.2.4](metaphysical-rivals.html#sec-4-2-4)), changeless-ground accounts ([§4.2.1](metaphysical-rivals.html#sec-4-2-1)), and Shoemaker on time without change ([§4.2.2](metaphysical-rivals.html#sec-4-2-2)).
+
+[^1-3-0-exchange-humean]: On whether the exchange a change requires is anything more than Humean constant conjunction. Grant the Humean reading at full strength: the phenomenology of resistance is not by itself evidence of a persisting medium, and the impression-reading (constant conjunction plus a felt residue) is a live option the argument owes a reply to. Even there, the argument still owes an account of why exchange is a third requirement alongside succession and distinction rather than a projection onto bare succession. That burden is not discharged by the definition; it is taken up through the Cartesian-certainty closure on change ([§2.2](the-argument.html#sec-2-2)), while [§4.1.4](metaphysical-rivals.html#sec-4-1-4) engages Humean constant-conjunction, primitive-asymmetry, and Best System accounts of the persistence-medium requirement on their own terms.
+
+## 1.4 Three Conditions {#sec-1-4}
+
+Every change requires three things of whatever undergoes it: a before and an after to run between, genuinely distinct states to move among, and something that carries across from the one to the next. The previous section drew these three roles (succession, distinction, exchange) from the bare fact that change occurs ([§1.3](groundwork.html#sec-1-3)); here they take their proper names. Temporality is what makes a change's sequence irreversible, Spatiality what keeps the states it moves between genuinely distinct, Physicality what lets each state carry over into the next: the three Conditions on any non-vacuous reality, each defended at full strength in Chapter 2.
+
+Succession, distinction, and exchange do not come apart. The reading of this page is one activity, not three. It runs forward: each sentence follows the last into a sequence that cannot be reordered. It runs across: the words on the page and the mind reading them are separated by an interval the meaning must cross. And it carries: each word hands off to the next. Imagine the opposite: each word annihilated the instant it is left behind, with nothing connecting the leaving to the arriving. The sentence would collapse behind itself rather than continue forward. You do not experience the sequence, the separation, and the carrying as three separate features of reading. They are one thing: a line running from the first word to this one. Remove any one and the reading does not weaken; it stops altogether. The reading is offered here as illustration, not as the proof: the load-bearing derivation runs from the bare fact of change, independent of any particular example ([§2.4](the-argument.html#sec-2-4)), and is re-run from below without leaning on a reader at all ([§3.2](convergence.html#sec-3-2)).
+
+The Conditions are inseparable because they are not three ingredients that merely combine into an activity. All three constitute the reading of this sentence, and the same inseparability is present in the words used to describe it.
+
+Take the word *forward*: temporal (what comes next), spatial (what lies ahead), and physical (each word bringing the next) all at once. The pages behind you are *behind* in both senses (spatially in the binding, temporally already read), and the pages ahead are *ahead* in both. *Behind* and *in front* do not choose between the dimensions; in the reading, every before is also an elsewhere.
+
+Each Condition is a structural role: what makes succession, distinction, or exchange possible. Paired with each is its *bearer*, the thing that actually has the role: Time for Temporality, Space for Spatiality, Substance for Physicality. The two are layers of one fact.
+
+### 1.4.1 Time {#sec-1-4-1}
+
+What any succession runs in is *Time*. A before and an after are not yet a genuine order: for the earlier to give onto the later, rather than stand as two labels that could be swapped, there has to be an order that runs one way and that a state can occupy. That occupiable order is Time.
+
+Time bears *Temporality*, the Condition that makes *succession* possible, the first role change named in [§1.3](groundwork.html#sec-1-3). It must do three things at once: run one way, reach across the whole sequence rather than only between neighbors, and let what comes before bear on what comes after.
+
+i. *Asymmetry.* The before/after relation runs one way. A-before-B is not B-before-A; the two are not interchangeable labels for the same relation. The line just read cannot be un-read, not for lack of technology, but because *un-reading* names no act. Asymmetry gives temporal order its direction.
+
+ii. *Transitivity.* The ordering composes. If A precedes B and B precedes C, then A precedes C: the first sentence remains before the last, regardless of how many sentences sit between. Without transitivity, “before” would be a local fact between adjacent states only, and Time would dissolve into a heap of comparisons that cannot be stitched into a sequence.
+
+iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of consequences rather than labels.
+
+The forward foreclosures in [§1.1](groundwork.html#sec-1-1) — you cannot plan for yesterday or remember the future — already displayed Time’s signature. Succession named the same fact from inside Change ([§1.3](groundwork.html#sec-1-3)). Time adds duration and directed weight: a list of labels has order, but no interval and no answer to how the first bears on the second.
+
+What is structural in that addition, and what is not, should be fixed while the meaning is being fixed. The order is structural: that states stand one before another, directed and composable, is what Time *is*. The measure is not: how much interval there is — the clock, the count, the metric — is content a particular world supplies, and duration rides on succession rather than the reverse. On the account introduced here, a moment is a position in the order of states rather than a vessel that remains when the states are removed; moments are told apart by which state occupies them. That account supports a stronger downstream claim: where nothing differs — no state, no arrangement, no bearing of before on after — multiplying one moment into many requires primitive temporal individuation that the present definition does not supply. It does not yet establish that no rival account can supply such individuation. Shoemaker's time-without-change case is engaged at [§4.2.2](metaphysical-rivals.html#sec-4-2-2), and [§7.6.5](nature-alone.html#sec-7-6-5) argues for the framework's conclusion that a wholly changeless stretch, however long it is described as lasting, is a single moment.
+
+The relation Time secures is *Precedence*: one state genuinely stands before another. Time here names the order in which moments are distinct, directed, and lasting. This chapter fixes that meaning. Chapter 2 asks whether Temporality, together with Spatiality and Physicality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide between the A-theory and B-theory of time. Both require an ordered succession. Nor does it treat Time as a self-standing container independent of what occurs; the later philosophy-of-physics discussion takes up those questions on their own ground.
+
+::: {.untyped}
+**Temporality** · **T** · *Condition*
+
+The Condition that makes succession possible: whatever it takes for before to genuinely produce after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
+
+
+:::
+
+### 1.4.2 Space {#sec-1-4-2}
+
+What any distinction stands in is *Space*. Two states can be called different and still not stand apart: for here and there to be genuinely distinct, rather than one position wearing two names, there has to be a real interval that something can occupy and cross. That occupiable interval is Space.
+
+Space bears *Spatiality*, the Condition that makes *distinction* possible, the second role change named in [§1.3](groundwork.html#sec-1-3). It must do three things at once: set positions a real interval apart, keep complete configurations from coinciding in one position, and allow relation to pass across the interval.
+
+i. *Extension.* Positions are separated by a real interval, not merely by different labels. The text in front of you stands apart from you: separated by air, by the focal distance of the eye, and by whatever medium carries print to the gaze. “Here” and “there” name two places, not one place described twice.
+
+ii. *Exclusivity.* Each position holds one complete configuration at a time. A closed book cannot be read because the page now facing the reader is already occupied by another page pressed flat against it. Without exclusivity, distinct configurations could coincide with nothing to separate them, and their distinction would be distinction in name only.
+
+iii. *Traversability.* The interval is crossable. It is not merely a logical gap between two terms but a distance through which attention, motion, or influence can pass. An interval that nothing could cross would leave its two sides sealed off: no relation could run between them.
+
+The examples of [§1.1](groundwork.html#sec-1-1) and [§1.3](groundwork.html#sec-1-3) come together here. Space is what makes separation real rather than descriptive. Extension keeps two places from collapsing into one; exclusivity keeps multiple configurations from collapsing within one place; traversability makes the interval a path for relation rather than a wall.
+
+The relation Space secures is *Separation*: here and there stand genuinely apart. This chapter fixes that meaning. Chapter 2 asks whether Spatiality, together with Temporality and Physicality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide whether space is a self-standing structure or nothing over and above relations among bodies. It commits only to the point needed here: genuine distinction requires real separation, and a separation across which relation can occur.
+
+::: {.untyped}
+**Spatiality** · **S** · *Condition*
+
+The Condition that makes distinction possible: whatever it takes for here and there to stand genuinely apart across a real, crossable interval, rather than one position wearing two names. Borne in Reality by Space.
+
+
+:::
+
+### 1.4.3 Substance {#sec-1-4-3}
+
+What carries across is *Substance*. Ordered, distinct states can still sit side by side: nothing yet passes from one to the next. For one state to give something to another, rather than lapse while an unrelated successor arrives, there has to be a real carrying relation. *Substance* names what occupies the carrier-role in that relation. This does not yet decide whether the occupant is best understood as a persisting object, a process, a trope, a bundle, or a Humean pattern, or whether the relation is productive causation; those are downstream questions.
+
+Substance bears *Physicality*, the Condition that makes *exchange* possible, the third role change named in [§1.3](groundwork.html#sec-1-3). The stronger account defended downstream takes exchange to require three things at once: distinct terms, something that genuinely bears and transmits what is carried, and continuity through the transition.
+
+i. *Distinctness.* The terms of exchange must be distinguishable: what carries and what takes up the carrying cannot collapse into one undifferentiated state. The same being may occupy both roles at different stages; self-interaction and internal change are not excluded. What exchange requires is numerical non-identity between its relata as states or roles, not necessarily between two beings and not merely as spatial separation.
+
+ii. *Substantiality.* Substantiality requires a being that genuinely carries and transmits causal properties, not a mere name for a relation. The page carries the print: it holds it against erasure and makes it available to the reader’s gaze. A supposed carrier with nothing to transmit would be an empty placeholder where carrying ought to be.
+
+iii. *Persistence.* The carrying remains continuous through the transition. This is a continuity condition on exchange, not yet a theory of which entity persists or what secures its identity through time. The page does not vanish after one word and reappear for the next; without continuity, the page that holds the first word and the page that holds the second would be two pages, and nothing would have been carried forward. Persistence does not require a frozen core untouched by change. It requires an unbroken continuity of carrying.
+
+Substantiality and persistence are close but distinct. Substantiality concerns whether something can carry anything at all; persistence concerns whether it is the same carrier on both sides of the transition. Together with distinctness, the two features specify what it is for exchange to be real.
+
+The capacity to carry is not itself the temporal ordering across which it is exercised: Temporality supplies the before-and-after order, while Physicality supplies what has a determinate capacity to be carried or made effective in that order. A physical theory may therefore describe the fundamental realizer in an atemporal vocabulary and still owe an account of how a determinate capacity is realized in the emergent order; removing fundamental clock-time does not by itself erase the carrier-role.
+
+The relation Substance supplies is the causal-bearing role: one state can be connected to what happens in another. Whether that connection is best analyzed as productive causation, Humean regularity, process continuity, or another account is earned downstream rather than built into the role here. This chapter fixes the meaning of Substance as what bears continuity through change. Chapter 2 asks whether Physicality, together with Temporality and Spatiality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide what kind of entity a substance ultimately is. The later discussion takes up the disputes among substance, trope, bundle, and process accounts. The point here is prior to those alternatives: if anything is carried through change, there must be a real carrier.
+
+::: {.untyped}
+**Physicality** · **Φ** · *Condition*
+
+The Condition that makes exchange possible: whatever it takes for one state to genuinely carry something into the next, rather than lapsing while an unrelated successor arrives. Borne in Reality by Substance.
+
+
+:::
+
+### 1.4.4 Triconditional Structure {#sec-1-4-4}
+
+Time, Space, and Substance arrive together. A change requires all three at once: something must persist, through an ordered succession, across real distinctions. Naming them separately does not divide what the change itself requires; it gives three aspects of one fact their three names.
+
+The connection is visible in the concepts themselves. Succession requires distinction: an order needs states that can be told apart. Distinction requires succession: an interval that can be crossed is one across which something passes from here to there, and that passage has a before and an after. Exchange requires both: something must carry through what is distinct into what comes next. Each term therefore reaches toward the other two.
+
+| What change requires | The relation it makes possible |
+| --- | --- |
+| **Time** | Precedence: one state genuinely stands before another |
+| **Space** | Separation: here and there genuinely stand apart |
+| **Substance** | Cause: one state genuinely connects to what happens in another |
+
+Taken together, Time, Space, and Substance compose a single structure. That whole has a name.
+
+::: {.definition}
+**Nature** · *Definition*
+
+The joint structure of Time, Space, and Substance: what any genuine change requires.
+
+
+:::
+
+*Joint* is the word doing the work. Nature is not a fourth thing standing alongside Time, Space, and Substance, nor the bare list of them; it names the three in their inseparability, the structure whose relations the table above displays one at a time. Wherever a genuine change occurs, the whole structure is engaged: precedence, separation, and cause are exercised together or not at all.
+
+Getting from London to Paris makes the same point concretely. The trip requires a route that stays intact for the whole crossing, a duration elapsing in one direction, and a traveler who survives to the far end. No particular way of crossing is required — go by water, by tunnel, by air, or even swim it — but whichever one is actually taken, none of it escapes the three underlying Conditions. Erase the distance and there is no way across; erase Paris and there is nowhere to arrive; erase the traveler and nobody gets there. Drop any one and the trip does not shorten or become harder. It simply isn't possible.
+
+Naming Nature settles only what the word means. That Nature must exist, that its three Conditions (Temporality, Spatiality, and Physicality) hold of necessity, that there could never have been nothing at all: those stronger claims are Chapter 2's, reached by asking what follows if change is genuinely possible. Whether the universe, in the widest sense, simply is Nature, and which account of time, space, or substance is ultimately correct, wait just as long. What this chapter needed is narrower: without Time, Space, and Substance together, there is no change for an argument to begin from.
+
+## 1.5 Existence {#sec-1-5}
+
+To say that a thing *exists*, or that a property *is instantiated*, looks like the thinnest claim available: that something is simply there, a positing that commits one to nothing about what it is. Applied to real contents, it is not thin. To exist, in the sense fixed at [§1.1](groundwork.html#sec-1-1), *is* to instantiate Temporality, Spatiality, and Physicality: to stand within succession, distinction, and exchange rather than over against them. *Exists* does not stand above the Conditions and reach down to posit something apart from them; it carries them with it. This is a definition, but not a stipulation. It is not true by fiat. Read as mere relabeling it would say nothing. It carries content because its terms will be earned. The three Conditions are derived from the bare fact of change ([§2.4](the-argument.html#sec-2-4)) and bound into one structure by the cross-entailment among them ([§2.6.7](the-argument.html#sec-2-6-7)). Necessary Occupancy ([§2.8.6](the-argument.html#sec-2-8-6)) discharges the result, where existence itself is shown to be occupancy of the necessary structure. A definition whose definiens is proved necessary is where the substantive claim of the book sits.
+
+What holds for *exists* holds for the vocabulary it belongs to. A philosopher writes that one event *causes* another, that distinctness *obtains* between two real states, that a beam *bears* the load above it, that the whole *consists in* its parts in the right relation. Each italicized verb is doing work the sentence cannot do without. They are operators: the working vocabulary of analytic philosophy, how the discipline points at what is the case. Some are uncontested in the field; others are sharply contested. Each, applied to real contents, carries the same Conditions *exists* does.
+
+These operators fall into families, and the boundaries between them are blurry: *consists in* and *grounds* overlap; *bears* and *causes* shade into each other in the productive reading. The sections that follow take the families one at a time.
+
+### 1.5.1 Existence and Instantiation {#sec-1-5-1}
+
+A state of affairs *obtains* when it is the case; a relation *holds* between the things it relates; a property *holds of* its bearer; *is the case* is the most general: propositions assert what is the case, and what is the case is what propositions point at. *Exists* and *is instantiated* belong to the same family, with *exists* attached to particulars and *is instantiated* attached to universals. Take one case across the family: the cat is on the mat. The cat *exists*; the mat *exists*; the property of *being-on* is *instantiated* by the pair; the relation *holds* between the cat and the mat; the state of affairs that the cat is on the mat *obtains*; that the cat is on the mat *is the case*. The family looks transparent and is not. Each operator requires something to be there for the operator to apply: a state, the things a relation relates, a bearer, a how-things-are. (Here *exists* carries its ordinary, contingent reading: the cat exists but might not have. On a rival view in the metaphysics of modality, necessitism, the cat necessarily *is something* and is only contingently a concrete cat; that alternative is taken up at [§4.4.6](metaphysical-rivals.html#sec-4-4-6).)
+
+::: {.definition}
+**Existence** · *Definition*
+
+To exist is to occupy a when, a where, and a what: to stand in Time, Space, and Substance rather than outside them. A thing's existing just *is* that standing, not something extra added on top of what the thing already is.
+
+
+:::
+
+The definition's three demands are the ones [§1.4](groundwork.html#sec-1-4) named: a when is a position in Time's order, a where a place in Space's interval, a what a standing in Substance's carrying. The cat of the family survey exists in exactly this sense: it is sometime, somewhere, something, and its existing is not a further fact alongside those three but the three taken together. That is what the definition's closing clause rules out: existence as an extra ingredient a thing could have or lack while its when, where, and what stayed fixed. Whether anything could stand *outside* the three (whether there is a Null State to fall back to), and whether the Conditions they bear (Temporality, Spatiality, Physicality, the vocabulary [§1.4](groundwork.html#sec-1-4) fixed) are jointly required in every possible reality, are Chapter 2's questions; this section fixes the sense in which they are asked.
+
+### 1.5.2 Constitution {#sec-1-5-2}
+
+::: {.definition}
+**Constitution** · *Definition*
+
+The relation between a thing and what it is made up of, read from either side: the clay *constitutes* the statue, and the statue *consists in* the clay.
+
+
+:::
+
+*X consists in Y* reads the relation top-down: X is what Y, taken together or in the relevant relation, makes up. *Y constitutes X* reads it bottom-up, the same relation from the other side. The canonical case: the statue *consists in* the clay arranged statue-wise; the clay *constitutes* the statue. The operator also runs at higher levels of abstraction. A role or structural requirement *consists in* what it amounts to: *exchange consists in carrying-forward*; *change consists in succession, distinction, and exchange*. The pattern is the same (X is what Y, in the relevant relation, makes up), applied to roles and structural requirements rather than to material parts. The constitution operator runs across both readings, material constitution among tokens (the statue and its clay) and role-analytic constitution of structural requirements (exchange and carrying-forward), and the survey here covers both.
+
+The two readings differ in their metaphysical commitments. Material constitution is mereological and token-level; role-analytic constitution is hyperintensional, able to tell two notions apart even when they hold of exactly the same things — a distinction finer than mere co-extension. The identity of X as what Y amounts to is not merely a matter of co-extension but of what X essentially is, in the sense operative at [§4.1.10](metaphysical-rivals.html#sec-4-1-10). The priority question taken up there is this: whether role-analytic constitution bottoms out in an essence prior to modality, or whether the modal field is primitive and role-analytic constitution describes its shape.
+
+### 1.5.3 Inference {#sec-1-5-3}
+
+::: {.definition}
+**Entailment** · *Definition*
+
+One claim guarantees another: *P entails Q* means there is no way for P to be true while Q is false.
+
+
+:::
+
+Two readings should be distinguished at the outset: the *metalogical* reading (no interpretation or model in which P holds and Q fails, a formal-semantic relation) and the *modal-metaphysical* reading (no possible world in which P obtains and Q fails, an alethic relation). Throughout this book *entails* carries the modal-metaphysical reading unless the context is explicitly formal-logical; the Quinean concern that the slide between the two is illicit is addressed at §[§4.1.6](metaphysical-rivals.html#sec-4-1-6)–4.1.8. The textbook case: *Socrates is a bachelor* entails *Socrates is unmarried*. There is no possibility of the first holding while the second fails. *P implies Q* and *Q follows from P* name the same relation in most uses. *P necessitates Q* is the strong modal version: P's holding requires Q's holding in the alethic/metaphysical sense fixed at [§1.1](groundwork.html#sec-1-1), not logical necessity (truth across all interpretations) and not nomological necessity (consistency with natural law). The operators are read formally as truth carrying over: in any case where P holds, Q holds too. The relation among the kinds of modality is the subject of [§2.6](the-argument.html#sec-2-6).
+
+### 1.5.4 Supervenience {#sec-1-5-4}
+
+::: {.definition}
+**Supervenience** · *Definition*
+
+One range of facts is fixed by another: A *supervenes on* B when there can be no difference in A without some difference in B.
+
+
+:::
+
+The relation is not symmetric, but neither is it asymmetric: as defined it is reflexive and transitive, so the one-way dependence belongs to the canonical case rather than to the operator itself. The names track the morphology: the *supervenient* (A) sits on top, the *subvenient* (B) sits beneath. A varies only as B varies; B may vary without A varying. The textbook case is the mental supervening on the physical: two physically identical configurations cannot differ in their mental states, but the physical can vary in ways the mental does not track.
+
+### 1.5.5 Ground and Dependence {#sec-1-5-5}
+
+::: {.definition}
+**Grounding** · *Definition*
+
+Non-causal dependence: X *grounds* Y when Y holds *because of* X, where the *because* is metaphysical, not causal or temporal.
+
+
+:::
+
+*Y depends on X* is the converse; *X is metaphysically prior to Y* names priority. This vocabulary is the working language of a recent literature: grounding emerged as a distinct philosophical category in the early 2000s, with Fine, Schaffer, and Rosen as its principal architects. The canonical case is Fine's singleton: the set {Socrates} is grounded in Socrates, not the other way around. Socrates does not exist *because of* his singleton; the singleton exists *because* Socrates does. The dependence runs one way only, and that one-way *because of* is what grounding picks out. P and Q together ground their conjunction; the conjunction does not ground either P or Q. Adjacent operators (*fixes*, *makes the case*) name determination: specifying X is enough to settle Y.
+
+Concrete necessary-foundation accounts (Rasmussen's grounding of contingent existence in a necessary being [@prussRasmussen2018] is the canonical contemporary case) diverge from the Necessity of Nature line of argument at [§5.1.1](rival-ultimates.html#sec-5-1-1), where the engagement runs at full strength. A note on modal-apparatus ancestry: the arguments of Ch 2 that establish □(T∧S∧Φ) deploy the S5 states-of-affairs framework Plantinga develops [-@plantinga1974b], the existential-inversion argument-form Rasmussen employs, and the act/potency derivation Feser develops [-@feser2017]. The conclusion they reach is more specific than a necessary being (T∧S∧Φ), and they run without personal-theist commitments at any stage. The argument-form inheritance is real and acknowledged; the stage-divergence is taken up at [§5.1.1](rival-ultimates.html#sec-5-1-1).
+
+### 1.5.6 Causation {#sec-1-5-6}
+
+::: {.definition}
+**Causation** · *Definition*
+
+One event brings about another: *X causes Y*. What the *bringing about* amounts to, mere regularity or real production, is the standing dispute.
+
+
+:::
+
+Causation is the most contested operator in the family. Hume read it minimally: *X causes Y* reduces to constant conjunction, X-events reliably followed by Y-events, plus a felt expectation projected by the observer. Anti-Humean readings treat causation as a productive relation: one event genuinely makes another happen, and the felt push-and-yield is part of what causation is. The canonical case is Hume's billiard ball: one ball strikes another and the second moves. The Humean sees only contact, motion, and our expectation of the pattern; the anti-Humean sees one ball *making* the other move. *Produces*, *brings about*, *gives rise to*, *issues from* foreground production rather than regularity. The Humean reads them as habits of speech standing on top of constant conjunction; the anti-Humean reads them as picking out a real productive relation. Either way, the operators are how the field talks about one event making another happen. The book inherits from Hume the methodological discipline he made central (the careful refusal to slide from the felt to the structural without an argument), and disagrees with him metaphysically on whether causation is regularity or production; the metaphysical disagreement is taken up at §[§2.4](the-argument.html#sec-2-4) and 4.1.4.
+
+### 1.5.7 Medium of Transmission {#sec-1-5-7}
+
+::: {.definition}
+**Medium** · *Definition*
+
+What carries or sustains something across: a beam *bears* a load, a wire *carries* a current. A medium can bear without producing.
+
+
+:::
+
+*Bears*, *carries*, *transmits*, *supports*, *sustains*: verbs of medium, common in philosophy of physics (the field carries the force) and in ordinary metaphysical prose (the relation bears its term). A medium can bear without producing. On productive accounts of causation, production also requires something to bear or transmit what is produced; regularity accounts deny that any further productive relation is needed. Here *medium* names this general transmission operator, not a role-term for Nature or a synonym for the bearer of Physicality, which is Substance ([§1.4.3](groundwork.html#sec-1-4-3)).
+
+### 1.5.8 Persistence {#sec-1-5-8}
+
+::: {.definition}
+**Persistence** · *Definition*
+
+Existing across more than one time or through a change, whether by enduring, perduring, or another continuity relation.
+
+
+:::
+
+*Persists*, *endures*, *perdures*, *remains*, *continues*: operators of persistence. *Persistence* is the generic category. Endurantism holds that a thing is wholly present at every moment of its existence; perdurantism holds that it persists by having temporal parts. The terms also appear in ordinary metaphysical prose to name what survives a transition. Heraclitus's river is the canonical case: a river persists while its water turns over, and the question of how it does so is what the endurantist / perdurantist split tries to resolve.
+
+### 1.5.9 What the Operators Require {#sec-1-5-9}
+
+The operators do their metaphysical work when they are applied to real contents within Reality, when the discipline reaches for what is actually the case. That is the claim's scope. Operator-use considered formally apart from any subject matter is not what the claim addresses: logic and set theory running their operators over abstract material.
+
+So restricted, the operators require what any change requires: Time, Space, and Substance. Take *causes*: it links events that are distinct, ordered as before and after, and connected by what runs from one to the other. *Obtains*, *consists in*, *entails*, *grounds*, *bears*, and *persists* likewise presuppose the structure in which a real state of affairs can be distinguished, ordered, and carried through. The operators are not a vocabulary that stands above what they describe and reaches down to organize it; they are how the field talks about the structure they require to do their work.
+
+The claim is not a reduction of grounding, essence, or any other operator to Time, Space, and Substance. Grounding as a metaphysical, hyperintensional dependence relation [@fine2012; @schaffer2009] remains sui generis. Section 4.1.10 tests whether an essence- or grounding-prior account can stand before the modal field: its trilemma excludes sources whose own status is already specified within that field, while leaving the committed essence-prior or transcendence theorist as a live dispute. Chapter 2 supplies the formal register for the present claim: it asks whether Temporality, Spatiality, and Physicality, the Conditions the triad bears ([§1.4](groundwork.html#sec-1-4)), are necessary in every possible reality.
+
+With that, the Groundwork is complete: Reality, the modal statuses, change, and existence are now fixed in the senses the argument will use. None of it has yet been defended in full force — that is where Chapter 2 begins.

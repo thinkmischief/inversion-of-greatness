@@ -1,0 +1,116 @@
+---
+title: "How to Cite"
+notion-id: 66931fe6-dace-494c-a6d6-f36154cdeaaa
+slug: "how-to-cite"
+role: chrome
+nav-section: ["Resources", "Footer"]
+nav-order: 40
+body-classes: site-page
+search: false
+surfaces: ["Site"]
+---
+
+## Citing the book now
+
+Until the first Zenodo deposit is available, cite the current online version:
+
+```plain text
+Procyon. 2026. The Inversion of Greatness. Accessed Month Day, Year. https://inversionofgreatness.org
+```
+
+## Future archived releases
+
+Zenodo has not yet issued a concept DOI or a version DOI for the project. Once the first archived snapshot is deposited, use the concept DOI by default when citing *The Inversion of Greatness* as a continuing work. Use a version DOI only when an exact historical snapshot matters.
+
+### Project as a whole
+
+```plain text
+Procyon. YYYY. The Inversion of Greatness. https://doi.org/[concept-doi]
+```
+
+### Archived snapshot
+
+```plain text
+Procyon. YYYY. The Inversion of Greatness (working manuscript, version of YYYY-MM-DD). https://doi.org/[version-doi]
+```
+
+## Persistent identifiers
+
+- **Concept DOI** (work-level, latest version): pending Zenodo deposit.
+- **Version DOIs**: minted per release.
+- **ORCID**: [0009-0005-3526-0915](https://orcid.org/0009-0005-3526-0915)
+- **Project canonical URL**: [https://inversionofgreatness.org](https://inversionofgreatness.org/)
+
+## Versioning notes
+
+- The **concept DOI** always resolves to the most recent version.
+- A **version DOI** resolves to a specific, immutable snapshot.
+- Cite the concept DOI by default, including when discussing the project as a continuing scholarly work. Cite a version DOI only when a reader needs to identify the exact archived text consulted.
+- When citing the live web version (not a Zenodo snapshot), include both the URL and the date accessed.
+- **Editions** are cut only when both a floor and a trigger are met: at least six months since the last edition, and enough substantive engagement to warrant a genuine (not cosmetic) revision.
+- Between editions, the working manuscript stays publicly available as a dated Zenodo snapshot under its own version DOI; once both conditions are met, that snapshot becomes the next numbered edition and a fresh working manuscript opens.
+- For the dated record of releases and what each changed, see the Changelog page.
+
+::: {.callout-note}
+**Web build only — everything below this line is build/repo material.** The `.zenodo.json` file is the canonical source for the GitHub → Zenodo deposit metadata and is not part of the rendered site page.
+
+
+:::
+
+## Repository file — `.zenodo.json`
+
+The block below is the canonical contents of the `.zenodo.json` file at the root of the public repository. This overrides Zenodo's GitHub-integration defaults (which otherwise guess a title from the repo name and tag as generic "Software") with the real title, author, ORCID, license, description, and keywords. Paste verbatim into the repo root, commit it, then cut the first tagged release.
+
+```json
+{
+  "title": "The Inversion of Greatness: From the Nature of Necessity to Maximum Possibility",
+  "description": "<p><em>The Inversion of Greatness</em> is a work of analytic metaphysics and philosophy of religion that reopens the classical question of what, if anything, exists necessarily. Where the cosmological and ontological traditions locate that necessity in a maximally great being — a God standing outside time, space, and matter as the source of all that is possible — this book argues the tradition asked the right question and misplaced the answer. Rather than assuming modal logic to get the argument off the ground, the book builds that ground first: it derives the claim that whatever is possible is necessarily possible instead of taking it as a starting axiom, then argues that change is really possible, and that any possible change requires time, space, and substance — so these three form the necessary structure of any world whatsoever, a structure the book calls Nature. It then argues that no proposed ground more fundamental than Nature, including a transcendent God, can occupy that position without already presupposing the very structure it claims to explain. The greatness classical theism reserved for God — eternity, self-existence, being the source of all possibility — is relocated to Nature itself. The argument is then extended outward: to a convergence with contemporary physics in which the cosmological singularity marks a boundary of description rather than a boundary of being, to an account of consciousness as Nature registering itself from within, and to a political theory in which freedom is the maximum shared possibility a society secures once basic material and civic needs are met. Along the way, the book argues that reality and the universe are identical, and that nothing supernatural is required or possible. A closing section applies the completed argument to classical theological doctrines, including a new treatment of the problem of evil.</p>",
+  "creators": [
+    {
+      "name": "Procyon",
+      "orcid": "0009-0005-3526-0915"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "modal metaphysics",
+    "necessity",
+    "modal logic",
+    "S5",
+    "philosophy of religion",
+    "classical theism",
+    "naturalism",
+    "philosophy of cosmology",
+    "philosophy of mind",
+    "Necessity of Nature"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://inversionofgreatness.org",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "notes": "This is the living working manuscript. Cite the concept DOI for the project as a continuing work; cite the version DOI only when an exact dated snapshot matters. See https://inversionofgreatness.org/how-to-cite."
+}
+```
+
+**Before cutting an actual numbered edition** (per the versioning notes above — at least six months since the last edition, plus a genuine revision trigger), change `"publication_type"` from `"preprint"` to `"book"` so the archived record correctly reflects a stable edition rather than a working snapshot. Re-verify field names against Zenodo's current metadata schema before the first commit, since exact enums can shift.
+
+## Bibliography files
+
+A BibTeX and a CSL JSON file for the project will be published on the site for direct download into reference managers. Until then, the live site can be cited in BibTeX as:
+
+```javascript
+@misc{inversionofgreatness,
+  author = {Procyon},
+  title  = {The Inversion of Greatness},
+  year   = {2026},
+  note   = {Working manuscript, accessed Month Day, Year},
+  url    = {https://inversionofgreatness.org}
+}
+```

@@ -1,0 +1,38 @@
+---
+title: "2.6 Triconditionality of Nature"
+notion-id: 9f0fcf71-7e32-4a83-9352-c0c6918cfe30
+slug: "conditions-as-nature"
+index: 20600
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Time, Space, and Substance can look like three separate ingredients that happen to travel together. This section tests their unity under three readings: possibility, cross-entailment, and being. The unity claim is strongest within the realizer-level structure of genuine change, where full Condition-instantiation along any one axis co-instantiates the others. It is not the unrestricted claim that every abstract order, geometry, or bearer already instantiates all three.
+
+The Structural Requirement (§2.4) identified the modal constraint with T∧S∧Φ. The biconditional ◇C ↔ T∧S∧Φ (§2.6.10) is one structural fact, not two. It is **identity**, not mere co-extension, with three readings (the Modal Identity, the Triconditional Cross-Entailment, the Ontological Identity) that pick out the same Nature from three different sides.
+
+The identity claim is not licensed by biconditional form alone. Necessary co-extension between two distinct structural facts would deliver a necessary biconditional without delivering identity. The licensing condition here is stronger: the two sides have no independent ground. The same structural condition that makes change possible is what T∧S∧Φ names; there is no further fact one side reports that the other does not. Where two descriptions pick out the same modal constraint with no remainder, the difference is not between two facts but between two readings of one fact: the identity is structural, not numerical.[^identity-scope]
+
+This is what forecloses Humean recombination **within the change-realizer domain**. Recombination operates on distinct existences that can be varied independently. Where T, S, and Φ are the mutually implicating roles of one genuine change-realizer, deleting one does not leave a thinner change-realizer; it leaves a different kind of abstract structure. The theorem does not forbid recombination among contingent occupants or among thin abstract analogues. Lewis's mosaic deletes the connection and keeps the structure that the connection was; the Ontological Identity is why the deletion never takes. (Lewis's concrete-worlds variant of the move is met at §4.4.1.)
+
+*Temporal direction note.* The T pillar throughout this chapter (directed, causal-order succession) is B-series in McTaggart's terms: asymmetric causal ordering, not A-series becoming or a moving-now. Whether directed succession requires an irreducibly A-series component, and whether McTaggart's positive proposal (the C-series, a non-temporal structural ordering from which temporal appearance derives) captures what Temporality consists in without genuine temporal addition, are addressed at §4.2.5 (McTaggart's unreality of time) and §4.2.6 (block universe / B-theory).
+
+*Notation.* Four formal shapes recur across this section's preview and should be kept distinct. The plain biconditional ◇C ↔ T∧S∧Φ (§2.6.10) is the structural fact change-possibility and the Conditions share: one fact read from two sides. The necessitated biconditional □(◇C ↔ T∧S∧Φ), the Modal Identity (§2.6.6), is that one structural fact holding under necessitation. The theorem-level identities N ↔ □(T∧S∧Φ), N ↔ □◇C, and □(T∧S∧Φ) ↔ □◇C identify Nature with the necessitated co-instantiation read along three sides: modal, nomological, ontological. The first form is a biconditional; the second is its necessitation; the third set are the chapter's central theorem read three ways.
+
+In the theorem below, N abbreviates Nature: the necessary presence of Temporality, Spatiality, and Physicality.
+
+::: {.theorem}
+**Triconditional Identity** · **T5** · *Theorem 5*
+
+Nature is the necessary co-instantiation: point at any of the three and you are pointing at the others. The joint is treated as the book's fundamental primitive: T∧S∧Φ is not derived from something more fundamental, though the four lines of §2.4 give independent derivational paths to its identification. Whether □ itself is primitive ideology or derived (a consequence of structural incapacity rather than a primitive modal operator) is addressed at §2.10. N ↔ □(T∧S∧Φ), N ↔ □◇C, □(T∧S∧Φ) ↔ □◇C. (T5, previewed from §2.6.10)
+
+
+:::
+
+The Triconditional Identity is the formal spine of the *Necessity of Nature* (§2.8) and the foundation on which the Null State Preclusion and the Necessary Occupancy Result are built at §2.8.6.
+
+**Condition-Individuation** closes the section at §2.6.11: an external methodological screen that explains why exactly three Conditions, not two or four. Condition-Individuation is methodological closure on the substantive work of §2.6.1–2.6.10.
+
+**Conditioned-Nature** closes the section semantically at §2.6.12: a reading of Theorem 5 into the genitive *the nature of X*, showing that the chapter title *The Necessity of Nature* and its reverse *the nature of necessity* refer to the same N. Conditioned-Nature is semantic closure on Theorem 5's identity, paired with the methodological closure on its count at §2.6.11.
+
+[^identity-scope]: The identity of Nature with the necessitated co-instantiation of the Conditions is metaphysical-structural: the same modal constraint picked out with no remainder by the two descriptions (change-possibility and T∧S∧Φ). It is not a claim about what remains ideally conceivable under a primary intension, and the Modal Identity that follows is secondary / metaphysical necessity: necessity in the real modal structure, not closure of primary conceivability or of what is epistemically open. The two-dimensional question whether the non-identity remains primarily conceivable even where the secondary identity holds is engaged at §4.1.2.

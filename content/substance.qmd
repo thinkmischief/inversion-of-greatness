@@ -1,0 +1,14 @@
+---
+title: "7.4 Substance"
+notion-id: 2a954b83-09b9-4301-84c2-214f677b4e73
+slug: "substance"
+index: 70400
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Through every change, nothing simply drops out of existence, and nothing new appears from absolute nothingness. The delicate move is to separate two claims that sound alike: one a finding of ordinary physics, open to revision; the other structural, and not up for revision.
+
+A candle burns down; the wax does not vanish but scatters, as carbon dioxide and water vapor and heat, across the room in accountable quantities. A particle collides; the products carry off, to the last unit of energy and momentum, what came in. The bookkeeping closes everywhere physicists have looked, and here the two claims pull apart. The first is the empirical claim that the specific conservation laws of present physics (mass-energy, momentum, electric charge, and others) hold within measurement precision wherever they have been tested; this is contingent on which symmetries this universe instantiates and is corrigible against further measurement. The second is the structural claim the modal framework adds: not that any specific quantity is conserved, but that no causal relatum passes into or out of absolute nothingness, because there is nowhere for a vanishing thing to have gone and nowhere for a new one to have come from. This is weaker and more exact than a conservation law, and it can hold even where a quantity dilutes or fails to be globally conserved.
+
+It is this no-passage-to-nothing, not conservation as such, that is structurally necessary. The specific conserved quantities (energy, momentum, angular momentum) depend on this universe’s specific symmetries, and the connection between symmetries and conserved quantities is itself a result of present physics, captured by Noether's [-@noether1918] theorem: every continuous symmetry of a physical system's action corresponds to a conserved quantity, so that invariance under time-translation gives energy conservation, invariance under spatial translation gives momentum conservation, invariance under rotation gives angular-momentum conservation, and so on. What is not contingent is that no causal relatum passes into or out of absolute nothingness across any transition, whether or not any fixed global quantity persists (in a generic expanding spacetime none need, §7.4.4). A physical process in which causal relata (the entities standing in cause-and-effect relations: the particles, fields, energies, and configurations whose interactions a physics has to track if it is to track interaction at all) appeared from or disappeared into absolute nothingness would not merely violate a conservation law; it would require passage through what is not a state at all. The structural claim is independent of which specific quantities physics ends up listing as conserved, and survives any future revision of that list.

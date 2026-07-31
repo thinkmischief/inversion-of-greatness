@@ -1,0 +1,12 @@
+---
+title: "5.2 Doctrines of the Divine Nature"
+notion-id: fe8909c4-c515-4a4a-8f5e-139749226356
+slug: "doctrines-divine-nature"
+index: 50200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster gathers the doctrines of the divine nature: the constructions built to keep the divine ground ultimate without regress, simple without composition, and independent of the structure it grounds. Divine simplicity (§5.2.1) holds the ground free of all composition; the via negativa (§5.2.2) secures it by denial, saying only what it is not.
+
+The question is the one the chapter presses throughout: can the doctrine hold its ground apart from structure without quietly relying on structure to do so? The finding is again relocation rather than refutation. Each doctrine, in securing the ground's independence, reintroduces the very structural conditions it was meant to set the ground above.

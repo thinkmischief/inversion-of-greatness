@@ -1,0 +1,18 @@
+---
+title: "1.5.7 Medium of Transmission"
+notion-id: 42d65535-5f78-46fe-91cc-a7350b2b135f
+slug: "medium-of-transmission"
+index: 10507
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Medium** · *Definition*
+
+What carries or sustains something across: a beam *bears* a load, a wire *carries* a current. A medium can bear without producing.
+
+
+:::
+
+*Bears*, *carries*, *transmits*, *supports*, *sustains*: verbs of medium, common in philosophy of physics (the field carries the force) and in ordinary metaphysical prose (the relation bears its term). A medium can bear without producing. On productive accounts of causation, production also requires something to bear or transmit what is produced; regularity accounts deny that any further productive relation is needed. Here *medium* names this general transmission operator, not a role-term for Nature or a synonym for the bearer of Physicality, which is Substance (§1.4.3).

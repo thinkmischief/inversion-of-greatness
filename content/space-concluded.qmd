@@ -1,0 +1,30 @@
+---
+title: "7.3.5 What is Concluded"
+notion-id: 4dcbc795-6c1a-43e4-badb-a264aad11c93
+slug: "space-concluded"
+index: 70305
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+A number of familiar positions about Spatiality are foreclosed by the structural claim.
+
+Pure substantivalism in its strong form (the view that Spatiality is a container whose existence is wholly independent of anything that could happen in it) is foreclosed by the composition argument above. A container with nothing to contain is indistinguishable from no container; the extensional aspect requires the relational aspect in order to be extension at all.
+
+Pure relationalism in its strong form (the view that Spatiality is nothing over and above actual relations between actual bodies) is foreclosed for the symmetric reason. A set of relations with no manifold to run through is a logical structure, not Spatiality; and the empirical evidence for the physical reality of the manifold (metric as field, topology as detectable) cannot be accommodated if the manifold is merely a projection from relational facts.
+
+Spatial instantiation from nothing (the idea that Spatiality might have come into being from a condition of no-Spatiality) is foreclosed for the same reason as Physicality’s creation *ex nihilo* (Latin for from nothing; the doctrine that some entity emerged from absolute non-being) (§7.4): neither no-Spatiality nor no-Physicality is a condition Nature could have been in and from which it could have departed. Cosmological origin scenarios in which Spatiality emerges describe its emergence within Nature itself (§2.7), not from absolute spatial absence. §7.6 takes up the cosmological picture this entails.
+
+What is foreclosed strictly here is the elimination of relational distinction itself: a state without here and there is not a state Spatiality permits. Permanent heat death as the global thermodynamic endpoint of Temporality is a different question, taken up in §7.6.
+
+Geometric monism (the view that the specific geometry of actual space is itself necessary) is foreclosed by the level at which the structural claim operates. Euclidean, hyperbolic, and elliptic geometries (the three constant-curvature options for a connected manifold: zero curvature, negative curvature, and positive curvature respectively) are equally consistent specifications of relational extension; what the argument fixes is the structural condition any geometry presupposes (distinguishable regions standing in determinate relation), not the metric by which those relations are measured. Extension is necessary; metric is contingent.
+
+The traditional supplement (a container God first stretches out and then populates with creatures) is, on this account, not a wrong answer to a real question. It is an answer to a question Nature's structure has already dissolved. Extension is not a structure imposed on Nature from above; Nature, as the necessary structural ground (§2.8.5), has no above. Spatiality is one of the three structural roles Nature instantiates. Nature suffices, because Spatiality is already what the supposition of an external source of extension was trying to supply.
+
+The specific geometry of actual Spatiality (Euclidean, hyperbolic, elliptic, or some other curvature regime) is contingent and empirical, fixed by the metric this universe instantiates rather than by the structural claim. The structural argument fixes that there is a manifold supporting relational extension; *which* metric runs on it is for physics to determine.
+
+How many extended dimensions Spatiality runs is similarly open. The three macroscopic spatial dimensions plus the additional compactified dimensions of contemporary unification programs (string-theoretic Calabi–Yau compactifications; large-extra-dimension scenarios) are empirical questions, not modal ones. The structural claim entails extension, not dimensionality.
+
+The connection between local relational extension and global topology is also empirically open: whether Spatiality at the largest scale is open, closed, or flat, and whether it carries non-trivial topology (multiply-connected, wormhole-bearing, or otherwise), is fixed by observation and theory rather than by the structural argument.
+
+And the question of whether the cosmological-scale singularity is a stable zero-extension terminus (foreclosed strictly by the argument above) versus whether *cyclic* recurrence specifically obtains is settled in §7.6 under separate weights: the modal preclusion of a terminus is strict; the cyclic conclusion is abductive.

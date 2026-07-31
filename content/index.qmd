@@ -1,0 +1,1982 @@
+---
+title: "Index"
+notion-id: 3375bc8e-f244-8060-873b-e8c015b54f47
+slug: "index"
+index: 125000
+role: apparatus
+nav-section: ["References"]
+nav-order: 30
+surfaces: ["Print", "Web — Book"]
+---
+
+A-theory of time, §6.3.2, §7.2.1, §7.2.2; *see also* B-theory of time; Presentism
+
+Abduction, §8.4.1, §8.4.3, §8.4.4
+
+Absence of X, §2.8
+
+Abstractism (about possible worlds), §2.1.5
+
+Absurdism, §8.8, §8.8.1, §8.8.5
+
+Actor-network theory, §8.11.1
+
+Actuality, §1.2, Glossary
+
+*Actus essendi*, §6.2.1
+
+*Actus purus*, §6.3.1, §6.7.1, §8.9.1, §8.9.5
+
+Adams, Marilyn McCord, E.1.5 Soul-Making Theodicy; E.1.6 Defeat of Horrendous Evil. Philosopher of religion; horrendous evils, defeat, and God. Distinct from Robert Merrihew Adams.
+
+Adams, Robert Merrihew, §2.4.7, §4.3.12
+
+Adamson, Peter, §6 Relocating Greatness; §5.1.3; §6.3.1. Peter Adamson on Avicenna and the Islamic philosophical tradition, including the necessary-existent framework.
+
+Adorno, Theodor, §8.13.1, §8.13.5
+
+Aesthetic experience, §8.13.1
+
+*Aeviternus*, §6.3.2
+
+*Agape and eros*, §6.8.2, §6.9.1
+
+Agency, *see* Causality (divine); Will (first-person)
+
+Agency detection, §8.14, §8.14.5
+
+Agent causation, §8.9.1
+
+Agriculture, §9.6, §9.6.1–§9.6.5
+
+Aharonov–Bohm effect, §7.3.4, §7.5.2
+
+AI-generated art, §8.13.1, §8.13.5
+
+Al-Ghazali, §5, §6, §6.7.1
+
+Allison, Dale C., §6.8.4 Revelation; Resurrection Excursus; E.5.4 Final Judgment. Dale Allison on memory- and expectation-shaped resurrection reports and an apocalyptic-Jesus reading.
+
+Allport, Gordon W., §9.2 Belonging; §9.2.2 What is Required; §9.2.4 What is Confirmed. Social psychologist; contact hypothesis and the conditions under which intergroup contact reduces prejudice.
+
+Alston, William, §8.14, §8.14.1
+
+Analogy of being, §6.8.3
+
+Analytic / synthetic distinction, §1.1, §2.4.2
+
+*Anatta*, §8.5, §8.5.4
+
+Anderson, Elizabeth, §9.1, §9.4, §9.6, §9.7, §9.10, §9.11, §9.12, §9.13, §9.15
+
+Animal communication, §8.10, §8.10.1, §8.10.4
+
+Animal tool use, §8.11, §8.11.4
+
+Animalism, §8.5.1
+
+Anselm, §6.1, §6.7.3, §6.8.3, §6.9.2, §8.14.5
+
+anthropopathism, §6.7.3
+
+Anti-natalism, §8.6.1, §8.8.1
+
+Apel, Karl-Otto, §2.2 Cartesian Certainty. Karl-Otto Apel on discourse ethics and the a priori presuppositions of the communication community.
+
+Appraisal theory, §8.2.1
+
+Aquinas, Thomas, §2.8.4, §5, §5.2.1, §5.1.3, §4.2.9, §6.2.1, §6.3.1, §6.4.2, §6.7.1, §6.7.3, §6.8.3, §6.8.4, §6.9.2, §6.2.2, §6.6, §8.3.5, §8.6.5, §8.9.1, §8.14.5, Excursus E.5.1, Excursus E.4.1
+
+Argument from contingency, §5.1.1, §4.1.3; *see also* Contingency; PSR (Principle of Sufficient Reason); Rasmussen
+
+Argument from Logical Laws, §5.1.9
+
+Aristotle, §2.6.11, §4.2.2, §4.2.4, §6.4.1, §6.7.2, §6.8.4, §6.9.2, §6.5.2, §7.4.2, §8.2.4, §8.4, §8.4.1, §8.8.3, §8.9.1, §8.9.5, §8.12.1
+
+Arminianism, §6.7.4
+
+Arminius, Jacobus, §6.7.4
+
+Armstrong, David M., §4.4.1 Modal Realism; §4.4.4 Modal Fictionalism. David Armstrong's combinatorialism, universals, laws, and states-of-affairs metaphysics.
+
+Arrow of time, §7.2.3, §7.2.4
+
+Art, §8.13
+
+Asad, Talal, §8.14.1
+
+Aseity, §6.1, §6.10, Glossary
+
+Aseity Forfeiture, §6.1, §6.10, Appendix B item 18, Glossary Result
+
+Ash'arism, §6.7.1, §6.9.1
+
+Aspatial existence (¬S), §6.1, §6.8.1, §6.10, Appendix B item 15; *see also* Atemporality (¬T); Immateriality (¬Φ); Supernatural Preclusion; Space
+
+Atemporality (¬T), §6.1, §6.3.2, §6.4.2, §6.10, Appendix B item 15; *see also* Aspatial existence (¬S); Immateriality (¬Φ); Supernatural Preclusion; Time
+
+Atran, Scott, §8.14.1, §8.14.5
+
+Augustine, §5.2.1, §6.3.2, §6.7.3, §6.9.2, §8.6.5, §8.8.1, §8.9.1, §9.2.1
+
+Austin, J. L., §8.10.5
+
+Autonomy, §8.12, §8.12.2
+
+Autonomy of technique, §8.11.1
+
+Autopoiesis, §7.8, §8.7.4
+
+Avicenna, §5.1.1, §5.2.1
+
+Awareness (divine), §6.4.1
+
+Axial age, §8.14, §8.14.4
+
+B-theory of time, §6.3.2, §7.2.1, §7.2.2; *see also* A-theory of time; Block universe; Eternalism
+
+Bacterial cognition, §7.8, Appendix D
+
+Badness of death, §8.7.1, §8.7.3, §8.7.5
+
+Bagdikian, Ben H., §9.4.2 Information required. Bagdikian on media-ownership concentration and the contraction of narrative diversity under concentrated control.
+
+Bañezian physical premotion, §6.7.4
+
+Barrett, Justin, §8.14, §8.14.1, §8.14.5
+
+Barth, Karl, §6.8.3, §6.8.4
+
+Barthian Christological election, §6.7.4
+
+Basic emotion theory, §8.2.1
+
+Bayesian epistemology, §8.4.1
+
+Beatitude (divine), §6.5.2
+
+Beaudoin, John, §4.2.9
+
+Beauty, §8.13, §8.13.5
+
+Beauvoir, §8.7.1, §8.8, §8.8.1
+
+Becker, Ernest, §8.7, §8.7.1, §8.7.4, §8.7.5
+
+*Befindlichkeit*, §8.2.4
+
+Beitz, Charles R., §9.11 Defense. Charles Beitz on international political theory and political equality in the cosmopolitan-international-justice tradition.
+
+Bell inequality, §4.3.8, §7.4.4, Appendix D
+
+Bell, Clive, §8.13.1
+
+Belonging, §9.2, §9.2.1–§9.2.5
+
+Benardete paradoxes, §5.1.2 Cosmological Argument; §7.6 Singularity. Paradox family involving a beginningless staggered set whose members act only if no earlier member has; the Grim Reaper is its best-known form. See also Grim Reaper.
+
+Benatar, David, §8.6, §8.6.1, §8.8.1, §9.14
+
+Benevolence (divine), §6.9.1, Appendix B item 17, Appendix D, Glossary; *see also* Inversion
+
+Benjamin, Walter, §8.13.1
+
+Benkler, Yochai, §9.2, §9.2.1, §9.2.3, §9.2.4, §9.2.5, §9.4, §9.4.1, §9.4.3, §9.4.4, §9.4.5
+
+Bentham, §8.1.1, §8.12.1
+
+Bergmann, Michael, E.1.2 Skeptical Theism. Michael Bergmann's epistemology of skeptical theism and its attempted quarantine from ordinary moral practice.
+
+Bergson, §8.1, §8.1.1, §8.1.5
+
+Berkeley, George, §4.3.5 Idealism; §6.1 Greatness. Early modern philosopher; Berkeleyan idealism and immaterialism (esse est percipi).
+
+Berlin, Isaiah, §9.1.1 What is Disputed. Political theorist; negative liberty and the negative-rights register in the rights debate.
+
+Best possible world, §4.4.9, §6.7.2; *see also* Buridan's ass; Leibniz
+
+Bird, Alexander, §8.3 Knowledge. Alexander Bird on social knowledge and distributed epistemic holdings; used in the Modal Convergence discussion.
+
+Block, Ned, §4.1.2 Two-Dimensional Semantics. Ned Block on conceptual-role semantics and the access-versus-phenomenal consciousness distinction.
+
+Boltzmann brains, §2.2.2 Actuality's Reach; §7.6.4 Confirmation. Boltzmann-brain fluctuation scenario; even a fleeting observer must instantiate T, S, and Φ.
+
+Bourdieu, Pierre, §9.9.1 Education disputed. Pierre Bourdieu and Passeron on cultural-capital reproduction and credentialing as class-hierarchy reproduction.
+
+Bratman, Michael E., Ch. 8 Expanding the Field. Michael Bratman on intention, plans, and shared agency in the chapter's account of will and collective action.
+
+Brennan, Jason, §9.3 Representation. Jason Brennan's epistocratic critique of democracy; the framework distinguishes direction-recognition from policy-means competence.
+
+Brentano, Franz, §6.4.1 Awareness. Franz Brentano's intentionality tradition: self-relating awareness and the mark of the mental.
+
+Buchanan, James M., §9.7 Economy. James M. Buchanan on public-choice theory and constitutional political economy; distinct from Allen Buchanan.
+
+*Bénard cells*, §7.8, Appendix D
+
+Big Bang, §7.6, §7.7
+
+Bilateral Self-Sustenance of Modal Structure, §2.1.3, §2.1.5, §2.1.6, Appendix D, Glossary Lemma 1
+
+Bilateral Symmetry, §6.1, Appendix B item 16, Glossary Principles
+
+Black, Max, §4.3.12
+
+Blackburn, Simon, §8.12.1, §8.12.5
+
+Block universe, §4.2.6, §7.2.1, §7.2.2, §7.5.1; *see also* Eternalism; B-theory of time
+
+Boethius, §4.2.1, §6.3.2, §6.4.2, §6.7.2, §6.7.3
+
+Boltzmann, §7.2.4, §7.6.4
+
+Borde–Guth–Vilenkin theorem, §7.6, §7.7
+
+Borgmann, Albert, §8.11.1
+
+Bostrom, Nick, §2.2.2, §4.3.5, §8.11.1
+
+Bouncing cosmology, §7.7, Appendix D
+
+Bounded rationality, §8.4.1
+
+Boyd, Richard, §8.12.1, §8.12.5
+
+Boyer, Pascal, §8.14, §8.14.1, §8.14.5
+
+Brandom, Robert, §4.4.5, §8.10.1, §8.10.5
+
+Brink, David, §8.12.1, §8.12.5
+
+Bundle Theory, §4.3.10, §7.4.2
+
+Buridan's ass, §6.7.2; *see also* Best possible world
+
+Burke, Edmund, §8.13
+
+Butler, Judith, §8.6.1, §8.6.5
+
+Cajetan, Thomas de Vio, §6.3.4, §6.8.3, Glossary
+
+Callender, Craig, §1.4.1, §7.2.3
+
+Calvin, John, §6.7.4, §6.8.4, Excursus E.2.4
+
+Cambridge change, §6.3.3
+
+Camus, §8.8, §8.8.1, §8.8.5
+
+Cantorian argument against omniscience, §6.4.2; *see also* Grim, Patrick; Omniscience (divine)
+
+Capabilities approach, §9.1, §9.10, §9.15; *see also* Nussbaum; Sen
+
+Caplan, Bryan, §9.3 Representation. Bryan Caplan's voter-irrationality critique in The Myth of the Rational Voter, engaged in the epistocracy discussion.
+
+Care ethics, §8.12.1
+
+Carnap, Rudolf, §2.10.2 Stratified Architecture. Rudolf Carnap and logical positivism on metaphysics; the book preserves disciplinary rigor while locating metaphysics at the root layer.
+
+Carroll, Sean, §7.6.4 Confirmation; §2.2.2 Actuality's Reach. Sean Carroll on the arrow of time, Boltzmann brains, naturalism, and cosmological fine-tuning.
+
+Cartesian Certainty, §2.2; *see also* *Cogito ergo muto*
+
+Cartwright, Nancy, §2.8.1 Laws as Constitutive. Nancy Cartwright's dappled-world account: local capacities in nomological machines still require T, S, and Φ.
+
+Causal finitism, §5.1.2 Cosmological Argument; §7.6 Singularity. Thesis that infinite causal histories are impossible; the book grants its possible force while denying that it establishes the Kalām's external-cause conclusion.
+
+Causality (divine), §6.7.2
+
+Causation, §1.3, §1.5.6, §5, §7.4, Glossary
+
+Cave, allegory of the (Plato), §2.4.1 Constituting Modal Structure. Plato's cave inverted: correction is fuller grasp of the one T–S–Φ Reality, not ascent to an exterior realm.
+
+Chalmers, David, §1.2.1, §2, §3.3.4, §4.1.2, §4.1.8, §4.3.1, §4.3.3, §4.3.2, §4.3.4, §6.4.1, §8.2, §8.3, §8.3.1, §8.3.5, §8.10.5, §8.11, §8.11.5; *see also* Hard Problem of Consciousness; Russellian Monism
+
+Change, §1.3, §2.1.3, §2.3, §2.4.6, §2.6.6, Glossary
+
+Chinese Room argument, §8.10.1, §8.10.5; *see also* Searle
+
+Chomsky, Noam, §8.10, §8.10.1, §8.10.4, §8.10.5
+
+Churchland, Paul, §4.3.2, §8.1.1, §8.4.1
+
+Clark, Andy, §8.11, §8.11.5; *see also* Extended mind
+
+Classical God, §6.1, §6.10, Appendix B items 16–20, Glossary; *see also* Maximally Great Being (MGB); God-Precluded
+
+Classical theism, §8.14.5
+
+Closed Recursive Self-Production, §7.8, Glossary
+
+Co-instantiation Result, *see* Mutual Containment Result
+
+Coase, Ronald H., §9.5.3 Environment predicted. Ronald Coase on social cost, transaction costs, and externalities; engaged alongside free-market environmentalism.
+
+Coates, Ta-Nehisi, §9.13 Justice. Ta-Nehisi Coates's reparations argument, especially redlining's compounding deprivation in the reparative-justice discussion.
+
+Cobb, John B., Jr., §4.4.8 Whiteheadian Process Metaphysics; §6 Relocating Greatness. John B. Cobb Jr. on process theology and the Whiteheadian inheritance account.
+
+*Cogito ergo muto*, §2.2.1, §2.8.2
+
+Cognitive science of religion, §8.14.1, §8.14.4, §8.14.5; *see also* Agency detection
+
+Cohen, Joshua, §9.3 Representation; §9.3.2 Required. Joshua Cohen on deliberative democracy and equal recognition in representation.
+
+Collingwood, R. G., §8.13.1
+
+Combinatorialism, §4.4.3
+
+Comparative thanatology, §8.7, §8.7.1, §8.7.4
+
+Compatibilism, §6.7.2, §6.7.4, §8.9.1, §8.9.5
+
+Compositionality, §8.10.2, §8.10.5
+
+*Conatus*, §7.1, §8.1, §8.1.1, §8.8.3, §8.12.3
+
+Conceivability, §1.1, §3.3.4, §4.1.2; *see also* Possibility
+
+Concept-Essence Identity, §2.6.6, §6.2.1, Glossary Named Results
+
+Concurrence (divine), §6.7.1, §6.7.4
+
+Concurrentism, §4.2.9
+
+Condition-Individuation, §2.6.11
+
+Conditioned-Nature, §2.6.12, Glossary Named Results; *see also* Nature of Necessity
+
+Consciousness, §7.8, §4.3, §6.4.1, Glossary; *see also* Reflexive awareness
+
+Consequentialism, §8.12.1
+
+Conservation laws, §7.4.3, §7.5.3
+
+Constitution, §1.5.2, Glossary
+
+Constitutive Grounding Non-Propagation, §4.4.9
+
+Constitutive Instantiation, §2.6.7, §2.2.2
+
+Constructionism (emotion), §8.2.1
+
+Content externalism, §4.1.1, §8.3; *see also* Swampman
+
+Contingency, §1.2, Glossary; *see also* Argument from contingency
+
+Contractualism, §8.12.1, §8.12.5
+
+Convergence of the Twelve Domains, §9.14
+
+Convergence Shows, What the, §3.5
+
+Convergent Individualism, §9
+
+Convergent Sustenance, §9; *see also* Convergence of the Twelve Domains
+
+Cosmic History, §7.7, §7.7.1–§7.7.5
+
+Cosmic microwave background (CMB), §7.7, Appendix D
+
+Cosmopsychism, §4.3.4, §8
+
+Craig, William Lane, §5.1.2, §6.3.2, §6.4.2, §7.6, §7.6.1, §7.6.5, §8.8, §8.8.1, §8.8.5; *see also* Kalām Cosmological Argument
+
+*Creatio ex nihilo*, §6.3.3, §6.7.1
+
+Crisp, Oliver D., §6.7.3 Interaction and related atonement sections. Oliver Crisp on incarnation and atonement in the two-natures discussion.
+
+Critical theory, §8.13.1
+
+Cumulative culture, §8.11, §8.11.2, §8.11.4
+
+Cycle, §7.6, §7.6.1–§7.6.5, §2.3, §2.8, Appendix B item 22, Glossary
+
+Cyclic cosmology, *see* Cycle
+
+cyclist, mathematical, see mathematical cyclist
+
+Dainton, Barry, §4.2.2 Shoemaker's Time Without Change. Barry Dainton on time, consciousness, and the stream of experience in the time-without-change survey.
+
+Damasio, Antonio, §8.2, §8.2.1, §8.2.2, §8.2.4, §8.3, §8.5.4, §8.9.4
+
+Daniels, Norman, §9.10 Healthcare. Norman Daniels on just healthcare, just health, and the normal-opportunity-range argument.
+
+Danto, Arthur, §8.13.1, §8.13.5
+
+*Dasein*, §4.3.5, §8.7
+
+Dasgupta, Shamik, §2.4.7, §4.3.12
+
+Davidson, Donald, §8.3, §8.9.1, §8.9.5, §8.10, §8.10.1, §8.10.2, §8.10.5
+
+Davis, Angela Y., §9.12 Enforcement; §9.13 Justice. Angela Davis on prison abolition and the carceral state's historical record; distinct from Stephen T. Davis.
+
+Dawkins, Richard, §8.14.1, §8.14.5; *see also* New Atheism
+
+de Waal, Frans, §8.5.5, §8.12.3, §8.12.4
+
+Decoherence, §7.2.4, Appendix D
+
+Deduction, §8.4, §8.4.1, §8.4.3, §8.4.4
+
+Default mode network, §8.5, §8.5.1, §8.5.3, §8.5.4, §8.14.4
+
+Defense, §9.11, §9.11.1–§9.11.5
+
+Deixis, §8.10.3
+
+Della Rocca, Michael, §2.7.3 PSR Regress. Michael Della Rocca's universal PSR/grounding demand is assessed as presupposing the structural conditions it would ground.
+
+Dennett, Daniel, §4.3.2, §8, §8.3, §8.5.5, §8.14.1, §8.14.5
+
+Deontology, §8.12.1
+
+Descartes, §1.2.6, §2.2, §2.2.1, §2.8.2, §5.1.9, §4.3.1, §6.3.1, §6.7.1, §8.3.1, §8.4, §8.4.1
+
+Describability (divine), *see* Word (divine)
+
+Description (divine), *see* Word (divine)
+
+Determinism, §8.9.1, §8.9.5
+
+*Deus sive natura*, §6.2.2, §8.14
+
+Deutsch, Eliot, §4.3.5 Idealism; Ch. 6. Eliot Deutsch on Advaita Vedānta and comparative philosophy, including the acosmic non-dualism challenge.
+
+Deutsch, Karl W., §9.2 Belonging. Karl W. Deutsch on security communities and political integration; distinct from Eliot Deutsch and David Deutsch.
+
+Dewey, John, §8.13.1, §8.14.1, §8.14.5, §9.9.1
+
+Dickie, George, §8.13.1, §8.13.5
+
+Dipolar theism, §5.3.3, §6.3.1, §6.3.2, §6.3.4, §6.8.2, §6.2.4
+
+Dissipative structures, §7.8, §8.12.3
+
+Distinction, §1.3, §2.3, §2.4.7, §4.2, Glossary
+
+Distributed Correction, §9.14, Glossary Result
+
+Divers, John, §4.4.1 Modal Realism; §4.4.4 Modal Fictionalism. John Divers on possible-worlds metaphysics and Lewisian/fictionalist variants.
+
+Divine attributes, *see* Classical God; specific attributes (Eternity, Knowledge, Power, etc.)
+
+Divine command theory, §8.12.5
+
+Divine conservation, §4.2.9
+
+Divine hiddenness, §6.8.4; *see also* Schellenberg
+
+Divine simplicity, *see* Simplicity (divine)
+
+Dreyfus, Hubert, §8.3.4, §8.11.1
+
+Drive, §8.1, §8.1.1–§8.1.5
+
+Dual-process theory, §8.4.1
+
+Dunbar, Robin, §8.10
+
+Duns Scotus, John, §5.2.1, §6.8.3; *see also* Univocity of being
+
+Durkheim, Émile, §8.8.5, §8.14.5
+
+Dutton, Denis, §8.13, §8.13.1, §8.13.4; *see also* Evolutionary aesthetics
+
+Earman, John, §7.3.1 Space disputed and Ch. 7 cosmology. John Earman on spacetime, symmetry, and thermodynamic asymmetry.
+
+Eckhart, Meister, §5.2.2, §6.8.3, §8.14, §8.14.1, §8.14.4, §8.14.5; *see also* Via negativa
+
+Economy, §9.7, §9.7.1–§9.7.5
+
+Education, §9.9, §9.9.1–§9.9.5
+
+Edwards, Jonathan, §6.7.4
+
+Ego death, §8.5, §8.5.3, §8.5.4
+
+Ehrman, Bart D., §6.8.4 Revelation; E.5.4 Final Judgment. Bart D. Ehrman on transmission, redaction, canonization, and the apocalyptic-Jesus reading.
+
+Einstein, §7.3, §7.5.1
+
+Eklund, Matti, §4.1.8
+
+*Élan vital*, §8.1, §8.1.1
+
+Election (divine), §6.7.4
+
+Eliade, Mircea, §8.14.5
+
+Eliminativism, §4.3.2, §8.1.1, §8.5.5
+
+Ellul, Jacques, §8.11.1; *see also* Autonomy of technique
+
+Embedded deity, §6.1, §6.10, Glossary
+
+Embodied cognition, §8.3, §8.3.4
+
+Emergent Time, §4.2.3
+
+Empathy, §8.12, §8.12.3
+
+Empirical predictions, Appendix D, §7.2–§7.8
+
+Enforcement, §9.12, §9.12.1–§9.12.5
+
+Enframing (Gestell), §8.11.1
+
+Enoch, David, §8.12.1, §8.12.5
+
+*Ens necessarium*, §6.3.1
+
+Entailment, §1.5.3, Glossary
+
+Entropy, §7.2.3, §7.2.4
+
+Environment, §9.5, §9.5.1–§9.5.5
+
+Epicurus, §8.7, §8.7.1, §8.7.3, §8.7.5
+
+Epistemic possibility, §8.4
+
+Epistemic Floor, §9, Glossary Result
+
+Equality before the law, §9.13 Justice. Equality before the law is substantive rather than formal: comparable wrongs must receive comparable responses regardless of wealth, with adequately resourced defense as a condition of equal standing.
+
+Error theory, §8.12.1, §8.12.5
+
+ET-simultaneity, §6.3.2, §6.4.2, §6.7.2
+
+Eternal recurrence, §8.7.5
+
+Eternalism, §7.2.1, §7.2.2; *see also* Block universe; B-theory of time
+
+Eternity, *see* Tensity (divine)
+
+Ethics (Spinoza), Textual citations to Spinoza's Ethics (1677/1996): §2.9 (Precedent Convergence), §5.3.1 (Spinozist Pantheism), §4.4.9 (Modal Collapse Objection), §6.2.2 (Unity), §8.1 (Drive), §8.1.1. Theology: Coda (What God Could the Evidence Allow?). Distinct entry from the person Spinoza, which indexes his broader philosophical role across the book.
+
+Euclidean Axiom, §2.1.4, §2.1.6, Glossary Principles
+
+Eudaimonia, §8.8.3
+
+Euthyphro dilemma, §6.9.1, §6.2.4
+
+Everett, Hugh, §4.3.8, §7.7.4
+
+Evil-God challenge, Excursus E.1.8
+
+Evolutionary aesthetics, §8.13.1, §8.13.4
+
+Evolutionary debunking argument, §8.12.1, §8.12.5
+
+Exchange, §1.3, §2.3, §2.4.8, §5, Glossary
+
+Exclusivity of Nature, §2.8.6, §2.7, §3.2.6, Appendix B item 13, Glossary Theorem 7
+
+Existence, §1.5, §1.5.1
+
+Existential inertia, §4.2.9
+
+Existential risk, §8.11.1
+
+Existentialism, §8.8, §8.8.1
+
+Expression theory of art, §8.13.1
+
+Expressivism, §8.12.1, §8.12.5
+
+Extended mind, §8.11, §8.11.5
+
+Exterior Modal Map, §8.11, §5.1.5, Glossary; *see also* Modal Map
+
+Exterior modal maps, §8.11, §8.11.2
+
+Fact of Nature, *see* Triconditional Identity
+
+Fatalism, §7.7, Appendix D
+
+Feeling, §8.2, §8.2.1–§8.2.5
+
+Feinberg, Joel, §9.4 Information. Joel Feinberg's child's right to an open future and information rights that bind against intermediate authorities.
+
+Feser, Edward, §4.2.9
+
+Field, §7.5.2, §7.3, Glossary
+
+Final cause, §6.7.2
+
+Fine, Kit, §4.4.9
+
+Fine-tuning, §5.1.5, §7.7, Appendix D
+
+First-person / Third-person, §7.1, §8.4.4, §8.7.2, Glossary; *see also* Reflexive awareness
+
+Fischer, John Martin, §9.13 Justice and its free-will discussion. John Martin Fischer on moral responsibility and semicompatibilism, with Mark Ravizza.
+
+Fishkin, James S., §9.2.4 Belonging confirmed. James S. Fishkin on deliberative polling and face-to-face venues that inform recognized public direction.
+
+Flint, Thomas P., §6.4.2 Divine Knowledge; §6.7.4 Sovereignty; §6.5. Molinism, divine providence, and maximal power, with Alfred Freddoso.
+
+Fodor, Jerry A., §2.10.2 Stratified Architecture. Jerry Fodor on special sciences and levels of organization in the anti-reductive scientific architecture.
+
+Foot, Philippa, §8.12.1
+
+Foreclosed positions, Appendix D, §3.1–§3.5, §7.6–§7.8
+
+Foreign terms, *see* Glossary, Foreign and Technical Terms
+
+Foreknowledge, §6.4.2
+
+Formalism (aesthetics), §8.13.1
+
+*Fostering (and corroding)*, §8.12, §8.12.2
+
+Foucault, §8.6.1, §8.6.5
+
+Four-mode framing, §7.1
+
+Frankfurt cases, §8.9.1, §8.9.5
+
+Frankfurt, Harry, §7.7.1, §7.7.2, §8, §8.4.4, §8.8, §8.8.1, §8.9.1, §8.9.5, §8.12, §9.13.1
+
+Frankish, Keith, §4.3.2, §8, §8.3, §8.5.5
+
+Frankl, Viktor, §8.8.4
+
+Freddoso, Alfred J., §4.2.9
+
+Free will, §8.9, §8.9.1, §8.9.2, §8.9.5
+
+Frege, Gottlob, §2.6.2, §2.10.3, §4.2.4, §4.4.10, §8.4, §8.4.1, §8.10, §8.10.1, §8.10.2, §8.10.5
+
+Freire, Paulo, §9.9 Education. Paulo Freire's dialogical critical pedagogy as capacity cultivation rather than content transfer.
+
+French, Steven, §2.6.8 Ontological Identity. Steven French on ontic structural realism and the metaphysics of physics, allied with but distinct from the book's structural account.
+
+Freud, §8.1, §8.1.1, §8.14.5
+
+Friedman, Milton, §9.7 Economy and §9.9 Education. Milton Friedman on free-market liberalism, vouchers, and the land-value-tax convergence.
+
+Frozen-world test, §2.4.11, Appendix B item 7
+
+Garland-Thomson, Rosemarie, §9.10 Healthcare. Rosemarie Garland-Thomson on disability, selection, and the disability-rights critique of selectionist regimes.
+
+Gasking, Douglas, §4.4.10
+
+Gauge symmetry, §7.3.4, §7.5.4, Appendix D
+
+General relativity, §7.3, §7.5.1
+
+Gettier problem, §8.3, §8.3.1, §8.3.4
+
+Gettier, Edmund, §8.3, §8.3.1, §8.3.3, §8.3.4
+
+Gibbard, Allan, §4.1.6, §8.12.1, §8.12.5
+
+Gigerenzer, Gerd, §8.4.1
+
+Gilens, Martin, §9.3.3 Representation predicted. Martin Gilens, with Benjamin Page, on wealth-filtered political influence and policy tracking.
+
+Gilligan, Carol, §8.12.1
+
+Gilmore, Ruth Wilson, §9.13 Justice and related carceral analysis. Ruth Wilson Gilmore on prison expansion, abolitionist theory, and the carceral state.
+
+God, *see* Classical God; Embedded deity; Maximally Great Being (MGB); Three Conceptions of God
+
+God-Precluded, §6.10, Appendix B item 20, Glossary; *see also* Classical God; No Exit
+
+Goff, Philip, §4.3.3, §4.3.4, §8, §8.2; *see also* Russellian Monism
+
+Golden Rule, §8.12.3, §8.12.4
+
+Goldman, Alvin, §8.3.1, §8.3.3, §8.11
+
+Goodman, Nelson, §4.3.11 Mereological Nihilism. Nelson Goodman on the new riddle of induction and the classical mereological tradition.
+
+Gossip, §8.10
+
+Great-making properties, §6.1, §6.2.4; *see also* Maximally Great Being (MGB); Perfection (divine)
+
+Grice, Paul, §8.10.5
+
+Grim, Patrick, §6.4.2; *see also* Cantorian argument against omniscience; Omniscience (divine)
+
+Grim Reaper paradox, §5.1.2 Cosmological Argument; §7.6 Singularity. Benardete-style paradox deployed for causal finitism; the book addresses its categorial limits, its S/Φ assumptions, and its future-symmetry implications.
+
+Grounding, §1.5.5, §4.1.10, §5.1.1, Glossary
+
+Growing block, §7.2.1; *see also* Presentism; Eternalism
+
+Grünbaum, Adolf, §7.6.5 Singularity concluded. Adolf Grünbaum on physical cosmology, creation questions, and critiques of theological interpretations of the Big Bang.
+
+Habermas, Gary R., §6.8.4 Revelation and The Resurrection excursus. Gary R. Habermas on the minimal-facts resurrection argument, presented and assessed as part of the evidential case.
+
+Habermas, Jürgen, §2.2, §2.4.3, §9.1, §9.1.4, §9.2, §9.2.4, §9.3, §9.3.1, §9.3.2, §9.3.4, §9.4, §9.4.1, §9.4.4, §9.12, §9.13, §9.15
+
+Hacking, Ian, §5.1.5 Fine-Tuning Argument. Ian Hacking on observer selection and the inverse gambler's fallacy in multiverse-to-design inference.
+
+Haecceity, §4.3.12, §6.2.2
+
+Haidt, Jonathan, §8.12.1, §8.12.4
+
+Hale, Bob, §4.1.7 Modal Conventionalism. Bob Hale's critique of conventionalist accounts of necessity and necessary beings.
+
+Hamilton (principle of stationary action), §7.5.4, Appendix D
+
+Haraway, Donna, §8.11.1; *see also* Posthumanism
+
+Hardin, Garrett, §9.5.3 Environment predicted. Garrett Hardin's tragedy of the commons, qualified by Ostrom's collective-management cases.
+
+Hard incompatibilism, §8.9.1, §8.9.5
+
+Hard Problem of Consciousness, §4.3.1
+
+Hare, John E., §5.1.10 Moral Argument; E.3.4 Moral Gap. Moral philosopher; the moral-gap argument for divine assistance and its structural reconstruction.
+
+Harman, Gilbert, §4.1.2 Two-Dimensional Semantics. Philosopher; moral relativism, inference to the best explanation, and conceptual-role semantics in the semantic debate.
+
+Harm principle, §8.12, §8.12.1
+
+Hart, H. L. A., §8.9.4, §8.9.5
+
+Hartshorne, Charles, §5.3.3, §6.3.2, §6.3.3, §6.3.4, §6.8.2, §6.9.1, §6.2.4, §8.14.5
+
+Hasker, William, §6.2.1 Simplicity; §6.4.2 Knowledge. Philosopher of religion; open theism and emergent dualism in the divine-knowledge and simplicity debates.
+
+Haslanger, Sally, §9.2.1 What is Disputed. Philosopher; social construction and ameliorative analysis, invoked against treating membership boundaries as natural or brute.
+
+Hauerwas, Stanley, Hauerwas's Christian nonviolence is part of the pacifist challenge to the recognition-based account of defense at §§9.11–9.11.1.
+
+Hawking, §7.6
+
+Hawking points, §7.6, Appendix D
+
+Hayek, Friedrich A., Classical-liberal political economy and the knowledge problem in §9.7 and §9.7.1; the duty-bearer objection to positive rights in §9.1 and §9.1.1.
+
+Healey, Richard, Healey's effective-theory reading of the quantum-gravity interface frames the type/token seam at §§7.7.1–7.7.2 and the unresolved coupling question at §7.7.5.
+
+Healthcare, §9.10, §9.10.1–§9.10.5
+
+Hedonism, §8.1.1
+
+Hegel, §7.1, §9.2, §9.2.1
+
+Heidegger, §2.2.3, §4.3.5, §8.2.4, §8.7, §8.7.1, §8.7.4, §8.8.3, §8.11.1, §8.13.1
+
+Held, David, Held's cosmopolitan and transnational-institutionalist challenge is staged in the defense discussion at §§9.11–9.11.1.
+
+Heller, Mark, §4.2.7 The Problem of Temporary Intrinsics; §4.2.8 Stage Theory. Metaphysician; four-dimensionalism, stage theory, and material objects.
+
+Helm, Paul, Helm's Reformed defense of divine eternity is engaged at §6.3.2; his effect-only defense of impassible mercy is engaged in the divine-righteousness analysis at §6.9.2.
+
+Hempel, Carl G., Hempel's unity-of-science work is engaged in the stratified-architecture account at §2.10.2, which relocates the scientific root below physics to the three logical Conditions.
+
+Heraclitus, §1.5.8, §7.1
+
+Herman, Edward S., Herman and Chomsky's propaganda model informs the ownership-concentration condition at §9.4.2, the empirical confirmation of narrative distortion at §9.4.4, and the critical political-economy position in §9.4.1.
+
+Hick, John, §6.2.2, §8.14.1, §8.14.5, Excursus E.1.5
+
+Hilbert's Hotel, §5.1.2 Cosmological Argument; §7.6 Singularity. Hilbert's Grand Hotel paradox, used in the completed-infinity and Kalām discussions.
+
+Hintikka, Jaakko, Hintikka's performative reading of the Cogito clarifies the change witness in §§2.2–2.2.1.
+
+Hirsch, Eli, §4.1.8
+
+Hirschman, Albert O., §9.1 Rights. Economist; exit, voice, and loyalty as the dynamics of reciprocity, reform, and institutional failure.
+
+Hobbes, §8.9.1, §8.12.5, §9.12
+
+Hoffman, Joshua, Hoffmann and Rosenkrantz's work on divine attributes informs the omnipresence analysis at §6.8.1 and the perfect-being discussion at §6.2.4.
+
+Holiness (divine), §6.5.1
+
+Holographic principle, §7.4.4, §7.5.2
+
+Housing, Principal §9.8; the political conditions of secure, non-displacing dwelling and the social infrastructure that makes belonging materially available.
+
+Hudson, Hud, Hudson's four-dimensionalist metaphysics is engaged in the persistence debates at §§4.2.7–4.2.8 and in the omnipresence analysis at §6.8.1.
+
+Huemer, Michael, Huemer's aesthetic-epistemic simplicity principle is engaged in the Swinburne simplicity argument at §5.1.4, where the book locates aesthetic simplicity within structurally embedded evaluation.
+
+Hume, §1.5.6, §2.6.11, §4.1.3, §4.1.4, §5.1.2, §6.8.4, §8.2, §8.2.1, §8.2.4, §8.2.5, §8.4, §8.4.1, §8.8.1, §8.9.1, §8.12, §8.12.1, §8.12.3, §8.12.5, Intro., Excursus E.4.3
+
+Husserl, §2.2.3, §6.4.1, §8.2.4
+
+Idealism, §4.3.5, §6.1
+
+Identity, §8.5
+
+Identity (divine), *see* Simplicity (divine)
+
+Identity (first-person), §8.5, §8.5.1–§8.5.5, Glossary; *see also* Reflexive awareness
+
+Identity of indiscernibles, §4.3.12, §6.2.1, §6.2.2
+
+Identity of Reality and Nature, §7.9, §1.4.4, §2.8.5
+
+Illusionism, §4.3.2, §8.5.5
+
+Immateriality (¬Φ), §6.1, §6.7.1, §6.10, Appendix B item 15; *see also* Atemporality (¬T); Aspatial existence (¬S); Supernatural Preclusion; Substance
+
+Immutability (divine), §6.3.3; *see also* Tensity (divine); Impassibility (divine)
+
+Impassibility (divine), §6.3.4; *see also* Immutability (divine)
+
+Impeccability, §6.9.1
+
+Impermanence, §8.7, §8.7.1
+
+Impossibility, §1.1, §2.1, §2.2; *see also* Possibility; Necessity
+
+Incarnation, §6.3.3, §6.3.4
+
+Incompossibility of divine attributes, §6.2.4
+
+Indeterminacy of translation, §8.10.1, §8.10.5
+
+Individual existence, *see* Occupancy Condition
+
+Induction, §8.4.1, §8.4.3, §8.4.4
+
+Infinity (divine), §6.2.3
+
+Information, §9.4, §9.4.1–§9.4.5
+
+Information paradox, §7.4.4, Appendix D
+
+Information-Theoretic Foundationalism, §4.1.5
+
+Informed consent, §8.9.4, §8.9.5
+
+Installing the Framework, §9.15
+
+Instantiation, §1.5, §1.5.1; see also Existence
+
+Institutional theory of art, §8.13.1, §8.13.5
+
+Instrumentalism (technology), §8.11, §8.11.1, §8.11.2
+
+Intelligent Design, §5.1.6, §7.8
+
+Intelligibility, §8.4.3
+
+Interaction (divine), §6.7.3
+
+Inversion, §6, Appendix B item 17, Glossary
+
+Inverted spectrum, The inverted-spectrum and fading-qualia challenges to the recursion account of affect are addressed at §8.2, with the detailed structural-residue defense routed to §8.3 §A2.
+
+*Ipsum esse subsistens*, §6.2.1
+
+Is/ought gap, §8.12, §8.12.1, §8.12.3, §8.12.5
+
+Jackson, Frank, §4.3.1, §8.3.1, §8.3.4, §8.3.5; *see also* Knowledge argument
+
+James, William, §5.1.11, §8.2.1, §8.2.4, §8.3.4, §8.14.1, §8.14.4, §8.14.5
+
+James-Lange theory, §8.2.1, §8.2.4
+
+Jonas, Hans, §8.12.3
+
+Joyce, Richard, §8.12.1, §8.12.5; *see also* Evolutionary debunking argument; Moral nihilism
+
+Jurisdictional Dilemma, §3.5
+
+Justice, §9.13, §9.13.1–§9.13.5
+
+Kaba, Mariame, Kaba's prison-abolitionist organizing is engaged in the enforcement debate at §§9.12–9.12.1 and in the justice debate at §§9.13–9.13.1.
+
+Kafer, Alison, Kafer's disability-rights critique of selectionist regimes is engaged as ongoing policy-design pressure in the healthcare and reproductive-autonomy discussions at §§9.10–9.10.1.
+
+Kahneman, Daniel, §8.4.1, §8.12
+
+Kalām Cosmological Argument, §5.1.2, §7.6; *see also* Craig, William Lane
+
+Kane, Robert, §7.7.1, §7.7.2, §8.9.1
+
+Kant, §2.2.3, §2.10.3, §4.3.5, §5.1.3, §6.2.1, §6.3.1, §8.4, §8.4.1, §8.12.1, §8.13, §9.11.1, §9.13.1, Intro., Excursus E.2.3
+
+Kim, Jaegwon, §2.10.2, The Stratified Architecture: Kim's levels-of-reality work and Mind in a Physical World (1998) are used as a non-reductive stratification precedent that still places physics at the foundational level.
+
+Kimmerer, Robin Wall, Kimmerer's Indigenous environmental philosophy and kinship-with-land framing are engaged in the intergenerational-stewardship account at §§9.5–9.5.1 and in the agricultural stewardship account at §9.6.
+
+Klein, Naomi, Klein's analysis of disaster capitalism and defense-industry capture informs the political-economy critique of defense at §9.11.
+
+Klinenberg, Eric, Klinenberg's social-infrastructure work supports the civic-infrastructure and resilience arguments in Belonging at §§9.2.1–9.2.4.
+
+Knowledge, §8.3
+
+Knowledge (divine), *see* Omniscience (divine)
+
+Knowledge (first-person), §8.3, §8.3.1–§8.3.5; *see also* Modal Field; Modal Convergence Theorem; Will (first-person)
+
+Knowledge argument, §8.3.1, §8.3.4, §8.3.5
+
+Knowledge by acquaintance, §8.3, §8.3.1, §8.3.3, §8.3.4, §8.3.5
+
+Koons, Robert C., Koons's cosmological and formal-metaphysical arguments are engaged in the PSR analysis (§4.1.3), the cosmological argument (§5.1.2), and Rasmussen's foundation argument (§5.1.1).
+
+Korsgaard, Christine, §8.12.1, §8.12.5, §9.6, §9.6.5; *see also* Moral constructivism
+
+Kraay, Klaas, Kraay's work on theistic multiverse and no-best-world problems is engaged in the divine-causality analysis at §6.7.2 and in the modal-structure-unity discussion at §6.2.2.
+
+Kripke, §1.1, §1.2.1, §2, §2.1.4, §2.4, §2.6.6, §2.8.5, §3.4.2, §4.1.1, §4.3.1, §4.4, §5.1.5, §8.3, §8.4, §8.10, §8.10.1, §8.10.5, Intro.
+
+Kvanvig, Jonathan L., §4.2.9
+
+Laclau, Ernesto, Post-Marxist political theory; hegemony and radical democracy, with Mouffe (Hegemony and Socialist Strategy 1985). §9.15.
+
+Ladyman, James, §2.4, §2.6.8, §2.10.2, §2.10.3, §4.1.5, §4.3.3, §4.3.6, §4.3.9, §4.4.7, §6.1, §8.3
+
+Lagrange, §7.5.4, Appendix D
+
+Landemore, Hélène, Landemore's epistemic and open-democracy work is engaged across the representation framework: dispute (§9.3.1), design requirements (§9.3.2), empirical confirmation (§9.3.4), and continuous-recognition architecture (§9.3).
+
+Langton, Rae, Langton's Kantian Humility is engaged in the witness-reach analysis at §2.2.3 and in the idealism discussion at §4.3.5.
+
+Language, §8.10, §8.10.1–§8.10.5
+
+Laplacean determinism, §7.7, Appendix D
+
+Large language models, §8.10.1, §8.10.5, §8.11, §8.11.5
+
+Latour, Bruno, §8.11.1
+
+Law of Excluded Middle (LEM), §2.6.11, §2.10.1
+
+Law of Modal Persistence, §2.1.7, Glossary Principles
+
+Leftow, Brian, §4.1.10, §4.2.1, §5, §5.2.1, §5.1.3, §5.1.9, §5.2.2, §5.1.8, §6.2.1, §6.3.1, §6.3.2, §6.4.2, §6.7.1, §6.7.2, §6.7.4, §6.8.3, §6.2.2
+
+Leibniz, §4.1.3, §4.4.9, §5.1.1, §6.7.2, §8.15
+
+Leśniewski, Stanisław, §2.10.1 Three Distinct Logics; §4.3.11 Mereological Nihilism. Logician; mereology and the formal foundations of the substantial-logic axis.
+
+Levinas, Emmanuel, §6.5.1 Holiness. Phenomenologist; ethics as first philosophy and the face-to-face encounter with the Other, cited in the analysis of divine otherness.
+
+Levine, Joseph, §4.3.1 The Hard Problem of Consciousness. Philosopher of mind who named the explanatory gap between physical description and phenomenal experience.
+
+Lewis, C. S., Excursus E.1.5
+
+Lewis, David, §2.1.4, §2.4.1, §4.2.7, §4.3.12, §4.4, §4.4.1, §4.4.7, §8.3.1, §8.7.1, §8.10.1, §8.10.5
+
+Libertarian free will, §8.9.1, §8.9.5
+
+Libertarianism (free will), §6.7.4
+
+Libido, §8.1, §8.1.1
+
+Licona, Michael R., Licona's resurrection case is engaged in the revelation discussion at §6.8.4 and steelmanned, then assessed, in E.5.3 The Resurrection.
+
+Life, §7.8, §7.8.1–§7.8.5; *see also* Consciousness
+
+Life (divine), §6.6
+
+Lijphart, Arend, Lijphart's comparative consensus-democracy work is engaged in the representation dispute (§9.3.1) and confirmation record (§9.3.4).
+
+Linford, Daniel J., §4.2.9
+
+Linguistic Ersatzism, §4.4.2
+
+Linguistic relativity, §8.10, §8.10.1, §8.10.5
+
+Locke, §2.6.12, §8.5, §8.5.1, §8.5.5, §8.7.1, §9.1, §9.1.1, §9.13, §9.13.1, §9.13.2, §9.13.5
+
+Loewer, Barry, Loewer's Humean account of laws and the Mentaculus is engaged in the Physicality argument at §2.4.8 and in the Humean-contingency discussion at §4.1.4.
+
+Logic, §8.4, §8.4.4
+
+Logical possibility, §8.4
+
+*Logos*, §7.1
+
+Lomborg, Bjørn, Lomborg's cost-benefit critique of environmental policy is engaged in the environmental-policy dispute at §§9.5.1 and 9.5.3.
+
+Loop quantum gravity (LQG), §7.6, Appendix D
+
+Lorentz invariance, §7.5.4
+
+Lowe, E. J., §2.10.1 Three Distinct Logics; §§4.2.7–4.2.8. Philosopher of four-category ontology, substance, identity, and persistence.
+
+Lucretius, §7.1, §8.7, §8.7.1
+
+Lüdemann, Gerd, Lüdemann's primary-vision and chain-reaction account of resurrection appearances is substantively engaged in E.5.3 The Resurrection.
+
+MacIntyre, Alasdair, §8.5, §8.5.1, §8.8.1, §8.12.1
+
+Mackie, J. L., §5.1.10, §8.12.1, §8.12.5; *see also* Error theory
+
+Maddy, Penelope, §§4.2.4 and 4.2.8. Philosopher of mathematics; naturalism and set theory in the structural-metaphysics discussions.
+
+Madhyamaka, §5.3.4
+
+Maimonides, §5.2.1, §5.2.2, §6.8.3, §8.14
+
+Maitzen, Stephen, Maitzen's arguments on divine hiddenness, intervention, and PSR are substantively engaged in E.3.1, E.1.2, and §2.7.3.
+
+Manne, Kate, §8.6.5
+
+*Maranasati*, §8.7, §8.7.1, §8.7.4
+
+Marcus, Ruth Barcan, Barcan Marcus's quantified-modal-logic work and the Barcan formula are engaged in the modal-variants overview (§4.4) and the necessitism analysis (§4.4.6).
+
+Marion, Jean-Luc, Marion's post-Heideggerian and apophatic theology is engaged in the divine-simplicity discussion (§6.2.1) and Via Negativa (§5.2.2).
+
+Marshall, T. H., Marshall's citizenship and social-rights tradition is engaged in Rights (§§9.1–9.1.4) and in the Economy's social-rights architecture (§9.7).
+
+Marx, §8.11.1, §8.13.1, §9.7.1, §9.7.5, §9.15
+
+Mass–energy equivalence, §7.4.1, §7.4.4
+
+mathematical cyclist, §2.8.5
+
+Mathematical Universe Hypothesis, §4.3.7
+
+Mathematics, §7.1
+
+Maturana, Humberto R., §7.8 Life; §§7.8.1–7.8.3. Biologist and theorist of autopoiesis; self-producing closure and the biology of cognition.
+
+Maudlin, Tim, §4.2 Emergent Time; §4.3.8 Non-Locality; Chapter 7 Time. Philosopher of physics on relativity, quantum non-locality, and the metaphysics of time.
+
+Mavrodes, George I., §5.1.10 Moral Argument. Philosopher of religion on omnipotence, moral grounding, and religious epistemology.
+
+Maximal greatness, R21, the "Maximal Greatness" result (Result of T6 and T7): the Anselmian superlative inverted. Developed as Plantinga's modal maximand at §5.1.7 and inverted at §6.1 (Greatness); stated as R21 at the Chapter 9 root (§9 Maximum Possibility), where it names maximum possibility as a maintained standing.
+
+Maximally Great Being (MGB), §6.1, §6.10, Appendix B item 16, Glossary; *see also* Classical God; Perfect-being theology; Great-making properties
+
+Maxwell, §7.3.4, Appendix D
+
+McCann, Hugh J., §4.2.9
+
+McDowell, John, McDowell's therapeutic quietism in epistemology and philosophy of mind is directly engaged in §4.1.9.
+
+McGinnis, Jon, McGinnis's work on Avicenna's continuous-creation account is substantively engaged in §5.1.3.
+
+McLuhan, Marshall, §8.11.1
+
+McMahan, Jeff, McMahan's revisionist ethics of killing and combatant liability is engaged in the defense and just-war discussions at §§9.11–9.11.1.
+
+McTaggart, J. M. E., §2.6, §3.5.3, §4.2.5, §4.2.2, §7.2.1
+
+Meaning, §8.8, §8.8.1–§8.8.5
+
+*Meditatio mortis*, §8.7, §8.7.1, §8.7.4
+
+Medium, §1.5.7, §2.4, Glossary; *see also* Nature; Necessity of Nature
+
+Mellor, D. H., §4.2 Time; §7.2.1 What is Disputed. Philosopher of the tenseless B-theory of time and metaphysics of persistence.
+
+*Memento mori*, §8.7, §8.7.1, §8.7.4, §8.7.5
+
+*Mens rea*, §8.9.4
+
+Mereological nihilism, §4.3.11
+
+Merleau-Ponty, §8.2.4, §8.8.3, §8.13.1
+
+Merricks, Trenton, Merricks's compositional arguments, including persons and overdetermination, are substantively engaged in §4.3.11.
+
+Meta-problem of consciousness, §8
+
+Metalogical Position, §2.10.3; *see also* Three Logical Strata
+
+Metaontological Deflationism, §4.1.8
+
+Metaphysical possibility, §8.4
+
+Methodological Convergence, §7.1, Appendix B item 21
+
+Metz, Thaddeus, §8.8.1, §8.8.4
+
+Metzger, Bruce M., Metzger's account of New Testament canon formation is cited in the testimonial-transmission analysis in E.5.3 The Resurrection.
+
+Metzinger, Thomas, §8.5.1
+
+Meyer, Stephen C., Meyer's information-based intelligent-design argument is engaged in §5.1.6 and in the Life dispute at §7.8.1.
+
+Mill, John Stuart, §8.12, §8.12.1, §8.12.2, §9.4.1; *see also* Harm principle; Consequentialism
+
+Millikan, Ruth, §8.1.1, §8.10.5
+
+Mills, Charles, §9.14
+
+Minkowski, §4.2.6, §7.5.1, Appendix D
+
+Miracle, §6.7.1, §6.7.2
+
+Mirror self-recognition, §8.5.1, §8.5.3
+
+Mixed relation, §6.8.2
+
+Modal Access, §8, Glossary; *see also* Modal Field; Modal Memory
+
+Modal alignment, §8.3; See also Modal convergence; Modal field; Modal network.
+
+Modal Aspect, *see* Modal Identity
+
+Modal Bivalence, §2.1.1, §2.1
+
+Modal Certainty, §2.1.3, §2.1.4
+
+Modal Collapse Objection, §4.4.9, §4.2.9
+
+Modal Closure, §2.8.4
+
+Modal commons, §8.3
+
+Modal Conditions (P5 of the proof), §2.6, §2.4, §2.6.6
+
+Modal Constitution, §2.1.3
+
+Modal Constraint, §2.1.3, §2.3; *see also* Modal Conditions (P5 of the proof)
+
+Modal contamination, §8.3; See also Modal convergence; Modal fidelity; Modal weight; Modal network.
+
+Modal Conventionalism, §4.1.7
+
+Modal depth, §8.9, §8.9.2, §8.9.3, §8.9.5
+
+Modal Exclusivity, §4.1.10
+
+Modal expression, §8.3; See also Modal representation; Modal network; Modal contamination.
+
+Modal Expressivism, §4.4.5
+
+Modal fictionalism, §4.4.4, §3.3.3
+
+Modal fidelity, §8.3; See also Modal depth; Modal field; Modal contamination.
+
+Modal Field, §8.3, §7.9, §8, §8.2, §8.4, §8.5, §8.6, §8.7, §8.8, §8.9, §8.10, §8.11, §8.12, §8.13, §8.14, Glossary; *see also* Modal Map; Modal Memory; Modal Convergence
+
+Modal freedom, §8.9
+
+Modal Identity, §2.6.6, Appendix B item 7, Glossary Theorem 2
+
+Modal Invariance, Principle of, §2.1.7, Glossary Principles
+
+Modal logic, §1.1, §2.1, §2.1.4, §2.1.5
+
+Modal Map, §8.11, §5.1.5, Glossary; *see also* Exterior Modal Map
+
+Modal Memory, §8, §8.2, Glossary; *see also* Modal Access; Modal Field; Modal Map
+
+Modal network, §8.11 Technology. The collective, externally supported network of modal representations assembled, corrected, and inherited across bodies.
+
+Modal Pressure, §2.6.10, §8, §8.1, §8.2, Glossary
+
+Modal Realism (Lewisian), §4.4.1; *see also* Lewis, David
+
+Modal representation, §8.3; See also Modal weight; Modal expression; Modal field; Modal structure.
+
+Modal Status, §1.2, §1.1, §2.1, §2.1.3, Glossary
+
+Modal structure, §8.3
+
+Modal Convergence, §8.3, §8.10, §9; *see also* Modal Convergence Theorem
+
+Modal Convergence Theorem, §8.3
+
+Modal weight, §8.3; See also Modal representation; Modal fidelity; Modal contamination.
+
+Molina, Luis de, §6.4.2, §6.7.4
+
+Molinism, §6.9.2
+
+Moltmann, Jürgen, §6.3.4
+
+Moore, G. E., §8.12.5; *see also* Open question argument
+
+Moral argument, §5.1.10
+
+Moral constructivism, §8.12.1, §8.12.5
+
+Moral nihilism, §8.12.5
+
+Moral realism, §8.12.1, §8.12.5
+
+Moral relativism, §8.12.1
+
+Moral status, §8.12.1, §8.12.2
+
+Morality, §8.12, §8.12.1–§8.12.5
+
+Moreland, J. P., §8.3 Knowledge; E.4.2 Scripture and Prophecy. Philosopher of religion on consciousness and natural theology.
+
+Morris, Thomas V., §5.1.8, §5.1.9, §6, §6.1, §6.2.1, §6.2.4, §6.3.1, §6.7.3, §6.8.3, §6.9.2, Excursus E.5.2
+
+Morriston, Wes, §5.1.2, §5.1.3
+
+Moss, Candida, E.5.3 The Resurrection. Historian of early Christianity; cited on the late development of martyrdom accounts.
+
+Mortality, §8.7, §8.7.1–§8.7.5; *see also* *Sein-zum-Tode*
+
+Mouffe, Chantal, §9.3, §9.14, §9.15
+
+Mu'tazilism, §6.9.1
+
+Mullins, R. T., §5.2.1, §6.3.1, §6.3.3, §6.7.1, §6.7.2, §6.7.3, §6.9.2
+
+Mumford, Stephen, §2.5 Causal Power; §2.4.2 Laws. Metaphysician of dispositions and laws of nature.
+
+Murphy, Mark C., §§6.1–6.2 Greatness, Simplicity, and Perfection. Philosopher of religion on divine authority, divine agency, and moral theology.
+
+Murray, John, §6.9 Providence; E.2.2 Original Sin. Reformed theologian on redemption, imputation, and original sin.
+
+Mutual Containment Result, §2.6.5, §2.6.7, Appendix B item 9, Glossary Result
+
+Mutual Maintenance, §9.15
+
+Mutual Sustenance, Theorem 10 (T10), stated at §9 root and developed through §9.14 Convergence.
+
+Mystical experience, §8.14, §8.14.1, §8.14.4, §8.14.5
+
+Nagarjuna, §4.2.8, §5.3.4, §8.14.5; *see also* Non-dualism (śūnyatā / Advaita)
+
+Nagel, Thomas, §4.3.1, §4.3.2, §6.4.1, §8, §8.3, §8.3.1, §8.3.3, §8.3.4, §8.7.1, §8.8, §8.8.1, §8.8.5
+
+Named Results, *see* Glossary, Named Results
+
+Narrative identity, §8.5, §8.5.1, §8.8.1
+
+Natural Identity, *see* Triconditional Identity
+
+Natural law, §8.6.1, §8.6.5
+
+Nature, §1.4.4, §2.6, §2.8, §2.8.5, Glossary
+
+Nature of Necessity, §2.6.12, Glossary Named Results; *see also* Necessity of Nature; Conditioned-Nature
+
+Near-death experience, §8.7.4, Appendix D
+
+Necessary Occupancy, §2.8.6, Appendix B item 14, Glossary Result
+
+Necessary Possibility, §2.1.10; *see also* Euclidean Axiom
+
+Necessitism, §4.4.6; *see also* Williamson, Timothy
+
+Necessity, §1.2, §2.1.4, §2.3, §2.6, Glossary; *see also* Modal logic; Possibility
+
+Necessity (divine), §6.3.1
+
+Necessity entails Possibility, §2.1.4, Glossary Result
+
+Necessity of Nature, §2.8, §2.4, §2.8.5, Appendix B item 12, Glossary Theorem 6
+
+Negation Seal, §2.1.5
+
+Neoplatonism, §5.3.2; *see also* Plotinus
+
+New Atheism, §8.14.1, §8.14.5
+
+Newton, §7.3.1
+
+Nietzsche, §8.1, §8.1.1, §8.1.5, §8.7.5, §8.8.1, §8.13, §8.14.5
+
+Nihilism, §8.8, §8.8.1, §8.8.5
+
+No Bare Plurality, §2.4.7
+
+No Exit, §6.10; *see also* God-Precluded; Three-Horn Dilemma
+
+*Noesis noeseos noesis*, §6.4.1
+
+Noether, §7.1, §7.4, §7.4.4, §7.5.3, §7.5.4
+
+Nomological Aspect, *see* Triconditional Cross-Entailment
+
+Nomological Identity, *see* Triconditional Cross-Entailment
+
+Nomological possibility, §8.4
+
+Non-dualism (śūnyatā / Advaita), §8.14.5
+
+Nordhaus, William, Nordhaus's cost-benefit and prioritization approach to environmental policy is substantively engaged in §9.5.1 and carried into the prediction framework at §9.5.3.
+
+Norton, John D., Norton's work on spacetime and the hole argument is engaged in the substantivalism-relationalism synthesis at §7.3.2.
+
+Nozick, Robert, §8.1.1, §9, §9.1.1, §9.7.1, §9.7.3, §9.7.4, §9.13.1, §9.13.3, §9.13.4, §9.13.5
+
+Numinous, §8.14.5
+
+Nussbaum, Martha, §8.2.1, §8.2.4, §8.2.5, §9.1.1, §9.1.5, §9.3.1, §9.5.1, §9.6.1, §9.7.1, §9.10, §9.10.1, §9.11.1
+
+Occasionalism, §4.2.9, §6.7.1, §6.7.2
+
+Occupancy Condition, *see* Necessary Occupancy
+
+O'Connor, Timothy, §8.9 Will. Philosopher of agent-causal libertarianism; the framework treats agent-causation as either structure-grounded selection or luck.
+
+Olson, Eric, §8.5, §8.5.1, §8.7.1
+
+Olson, Mancur, Olson's public-choice rollback analysis is substantively engaged in the installation debate at §9.15.
+
+Omnipotence, *see* Power (divine)
+
+Omnipresence, §6.8.1
+
+Omniscience (divine), §6.4.2
+
+Ontological argument, §6.3.1, §6.2.4
+
+Ontological Identity, §2.6.8, Appendix B item 10, Glossary Theorem 4
+
+Oord, Thomas Jay, §5.3 Process Theism. Theologian of open and relational theology, emphasizing uncontrolling love and divine receptivity.
+
+Open question argument, §8.12.5
+
+Open theism, §6.1, §6.7.3, §6.10
+
+Operators (metaphysical), §1.5, §1.5.9; see also Causation; Grounding; Entailment; Constitution; Medium
+
+Oppy, Graham, §2, §2.7.3, §2.9, §2.9.3, §3.3.4, §4.1, §4.4.7, §5.1.2, §5.1.4, §5.1.7, §6.2.4, §6.10, §7, Intro.
+
+Original position / veil of ignorance (Rawls), §9.1 Rights; §9.14 Convergence. Rawls's original-position method and veil of ignorance; the framework derives universalizability from mutual registration instead.
+
+Original sin, §6.9.2
+
+Ostrom, Elinor, §9.5 Environment; §9.7 Economy. Political economist of common-pool resource governance and collective action.
+
+Otto, Rudolf, §6.5.1, §8.14.1, §8.14.5; *see also* Numinous
+
+Paine, Thomas, §6.8.4
+
+Paley, William, §6.8.4
+
+Panentheism, §6.1, §6.10
+
+Panksepp, Jaak, §8.1, §8.1.4, §8.2, §8.2.1
+
+Panpsychism, §6.1, §8, §8.2, Appendix D
+
+Pantheism, §6.8.1, §6.2.2
+
+Parasitic mind control, §8.5, §8.5.1, §8.5.2, §8.5.3, §8.5.4
+
+Parasitic Negation, §2.1.5
+
+Parfit, Derek, §8.5, §8.5.1, §8.5.5, §8.7.1, §8.8.3, §8.12.1, §8.12.5
+
+Pascal, Blaise, Pascal and the Pensées wager are directly engaged in §5.1.11.
+
+Pascal's Wager, §5.1.11
+
+Passibilism, §6.3.4
+
+Past Hypothesis, §7.2.3, §7.2.4
+
+Past-eternity, §7.9, §7.6, Appendix D
+
+Pawl, Timothy, Pawl's work on weak immutability and conciliar Christology is directly engaged in §§6.3.3 and 6.7.3.
+
+Peirce, Charles Sanders, §8.4, §8.4.1, §8.10.3
+
+Penal substitution, §6.9.2
+
+Penrose, §7.6, §7.6.1, §7.6.5
+
+Penrose-Diósi collapse, §7.7, Appendix D
+
+Pereboom, Derk, §4.3.3, §8.9.1, §8.9.5, Excursus E.3.2
+
+Perennial philosophy, §8.14.1, §8.14.5
+
+Perfect-being theology, §6.1, §6.8.3, §6.10; *see also* Maximally Great Being (MGB); Anselm; Great-making properties
+
+Perfection (divine), §6.2.4; *see also* Maximally Great Being (MGB)
+
+Performative Self-Refutation, §2.1.3, §2.2, §3.3.1, Glossary Named Results
+
+*Perichoresis*, §6.2.1
+
+Persistence, §1.3, §1.4, §1.5.8, §5, Glossary
+
+Personal identity, §8.5, §8.5.1, §8.5.5
+
+Pettit, Philip, §9.1, §9.3.1, §9.15; *see also* Republicanism
+
+Phenomenological Convergence, §8.14.2, §8.14.3; *see also* Spirituality
+
+Philosophical zombie, §8.3, §8.3.1, §8.3.5
+
+Physical, Glossary
+
+Physical Identity, *see* Ontological Identity
+
+Physical Triconditional, *see* Ontological Identity
+
+Physicality, *see* Substance, Glossary
+
+Physics, §7.1–§7.5
+
+Pinker, Steven, §8.12.4
+
+Pizzi, Claudio, §5.1.1, §4.1.11
+
+Plantinga, §1.5.5, §2.1.7, §2.1.9, §2.8.3, §4.3.6, §4.4, §4.4.10, §4.4.2, §5.2.1, §5.1.7, §5.1.11, §6.2.1, §6.7.3, §6.8.4, §6.9.2, §6.2.4, §6.10, §8.14.1, Excursus E.1.4
+
+Plantinga, Cornelius, Jr., §6.2.2, §6.8.2
+
+Plato, §4.2.4, §8.3.1, §8.4, §8.4.1
+
+Platonism, §4.2.4
+
+Plotinus, §5.3.2, §6.8.3
+
+Pogge, Thomas, §9.11
+
+Polytheism, §6.2.2
+
+Possibility, §1.1, §2.1, §2.1.3, §8.4, Glossary; *see also* Necessity; Impossibility; Modal logic
+
+Possible World, §2.1.5, Glossary
+
+Posthumanism, §8.11.1
+
+Power (divine), §6.7.1
+
+Pre-established harmony, §8.15
+
+Pre-reflective self-awareness, §8.1, Glossary; *see also* Reflexive awareness
+
+Precedents Converge, §2.9
+
+Predestination, §6.7.4
+
+Predication, §8.10.2, §8.10.3
+
+Predictive processing, §8.2, §8.2.4, §8.3, §8.4.1, §8.5.4, §8.9.4
+
+Presence (divine), §6.8.1
+
+Presentism, §7.2.1, §7.2.2; *see also* A-theory of time; Growing block; Eternalism
+
+Prigogine, §7.8, §7.8.1, §7.8.2, §7.8.4, §8.7.4, §8.12.3
+
+Principle of alternate possibilities, §8.9.1, §8.9.5
+
+Principle of least action, §7.5.4
+
+Prior, A. N., Prior's tense logic and temporal-metaphysics work are substantively engaged in the three-logics discussion (§2.10.1) and divine-immutability analysis (§6.3.3).
+
+Private language argument, §8.10.1, §8.10.5
+
+Privation theory of evil, §6.9.1
+
+Probability, §5.1.5, Glossary
+
+Problem of evil, §6.9.1, §6.2.4
+
+Procedural knowledge, §8.3, §8.3.2, §8.3.3, §8.3.4
+
+Process metaphysics, §4.4.8, §5.3.3, §6.1, §6.10, §7.1
+
+Process theology, §5.3.3, §8.14.5; *see also* Process metaphysics; Whitehead
+
+Propaganda, §8.13.5
+
+Providence, §6.7.4
+
+Pruss, Alexander, §2.7.3, §2.9.3, §4.1.3, §4.4.9, §5.1.1, §5.2.1, §5.1.2, §5.1.4, §4.1.11, §6.1, §6.3.1, §6.7.1, §6.7.2, §6.7.4, §6.9.2
+
+Pseudo-Dionysius, §5.2.2, §6.8.2, §6.8.3, §6.9.1, §8.14, §8.14.1, §8.14.5
+
+PSR (Principle of Sufficient Reason), §2.7, §2.7.3, §4.1.3, Glossary Principles
+
+Psychological continuity, §8.5.1, §8.5.5
+
+Putnam, Hilary, §4.2.4, §4.2.6, §4.3.6, §8.3.5
+
+Putnam, Robert D., §9.2, §9.2.1, §9.2.4, §9.4.1, §9.4.4, §9.13.1, §9.13.4
+
+Quantum field theory (QFT), §4.3.8, §7.4, §7.4.4, §7.5, §7.5.2, Appendix D
+
+Quantum mechanics (QM), §7.4.4, §7.6, §7.7, Appendix D
+
+Quine, §2.6.11, §2.10.1, §2.10.3, §4.1.6, §4.1.7, §4.1.8, §4.2.8, §4.2.4, §4.3.6, §4.4.7, §8.4, §8.10, §8.10.1, §8.10.5
+
+Quinean modal skepticism, §4.1.6
+
+Railton, Peter, §8.12.5
+
+Rasmussen, §1.5.5, §2.7.3, §2.8.4, §2.8.5, §2.9, §2.9.3, §4.1.3, §4.4.9, §5, §5.1.1, §5.2.1, §5.1.2, §5.1.4, §4.1.11, §6.3.1, §6.7.1, §6.7.2, §6.7.4; *see also* Argument from contingency
+
+Rawls, John, §9.4, §9.13, §9.14
+
+Raworth, Kate, Raworth's Doughnut Economics is substantively engaged as an installation example in §9.15.
+
+Rea, Michael, §6.2.2 Unity: Rea 2009 on analytic models of Trinitarian unity. §6.9.2 Righteousness: Rea 2007 on original sin and inherited guilt.
+
+Reactive attitudes, §8.9.5
+
+Real / Reality, §1.1, §2.1, Glossary
+
+Reasoning, §8.4
+
+Reasons-responsiveness, §8.9.1
+
+Reciprocal altruism, §8.12.4
+
+Recurrence, *see* Cycle; Eternal recurrence
+
+Recursive Depth → Phenomenal Interiority, §8, Glossary; *see also* Consciousness; Reflexive awareness
+
+Reference (linguistics), §8.10.2, §8.10.3, §8.10.5
+
+Reflective self-awareness, §8.1, Glossary; *see also* Reflexive awareness
+
+Reflexive awareness, §8.1, Glossary; *see also* Pre-reflective self-awareness; Reflective self-awareness
+
+Regan, Tom, Regan's rights-based animal ethics is substantively engaged in the agriculture framework (§9.6) and dispute section (§9.6.1).
+
+Relatability (divine), §6.8.2
+
+Relation (divine), *see* Relatability (divine)
+
+Relationalism, §7.3.1
+
+Reliabilism, §8.3.1, §8.3.3
+
+Religious naturalism, §8.14.1, §8.14.5
+
+Religious pluralism, §6.2.2, §8.14.1, §8.14.5
+
+Representation, §9.3, §9.3.1–§9.3.5
+
+Republicanism, §9.1, §9.15; *see also* Pettit, Philip
+
+Revelation (divine), §6.8.4
+
+Revised conception of God, *see* Embedded deity; Three Conceptions of God
+
+Ricoeur, Paul, §8.5, §8.5.1, §8.8.1
+
+Righteousness (divine), §6.9.2
+
+Rights, §9.1, §9.1.1–§9.1.5
+
+Rorty, Richard, §8.3.5
+
+Rosen, Gideon, §4.4.9
+
+Russell, Bertrand, §4.3.10, §7.4.2, §8.3.1, §8.3.3, §8.4, §8.4.1, §8.10.1, §8.10.5
+
+Russellian Monism, §4.3.3, §6.1, §8, §8.2
+
+Ryle, Gilbert, §8.3.1, §8.3.3
+
+S5, §2.1.4, §2.1.5, Appendix B item 16, Glossary Principles
+
+S5 Bottleneck, §2.1.5
+
+Salience, §8.2.3
+
+Samuelson, Paul A., Samuelson's public-goods framework is substantively engaged in the economy account (§9.7) and its dispute section (§9.7.1).
+
+Sandel, Michael, §9.15
+
+Sartre, §8.2.4, §8.7.1, §8.8, §8.8.1, §8.8.5
+
+Saussure, Ferdinand de, §8.10, §8.10.1, §8.10.5
+
+Scanlon, T. M., §8.12.1, §8.12.5, §9.15
+
+Schaffer, Jonathan, §1.5.5, §1.5.9, §2.2.2, §2.4.1, §2.4.3, §2.6.6, §4.1.7, §4.1.10, §4.3.4, §4.3.11, §4.4.7, §4.4.9
+
+Schellenberg, J. L., §6.8.4, Excursus E.3.1
+
+Schleiermacher, Friedrich, §8.14.5
+
+Schmid, Joseph C., §4.2.9
+
+Schopenhauer, §4.3.5, §8.1, §8.1.1, §8.6, §8.6.1, §8.13
+
+Schumpeter, Joseph A., Schumpeter's competitive-elite theory is substantively engaged in the economy dispute (§9.7.1) and representation framework (§9.3).
+
+Scriptural conception of God, §6.9.2, Glossary
+
+Searle, John, §8.10.1, §8.10.5
+
+Second law of thermodynamics, §7.2.3, §7.2.4
+
+Second-personal knowledge, §6.4.1, §6.4.2, §6.9.1
+
+SEEKING system, §8.1, §8.1.4
+
+Seeskin, Kenneth, Seeskin's work on Maimonides and negative theology is substantively engaged in Via Negativa (§5.2.2) and the Chapter 6 framing.
+
+*Sein-zum-Tode*, §8.7, §8.7.1, §8.7.4
+
+Self-determination theory, §8.8.4
+
+Self-model theory, §8.5, §8.5.1
+
+Self-modeling, §7.8, §8
+
+Sellars, Wilfrid, Sellars's myth of the given and space-of-reasons position is substantively engaged in the Triunity of Nature discussion (§2.6.9).
+
+Sempiternity, §6.3.2
+
+Sen, Amartya, §9.1, §9.7.1, §9.10, §9.15; *see also* Capabilities approach; Nussbaum
+
+Sexuality, §8.6
+
+Shackel, Nicholas, Originator of the unsatisfiable-pair diagnosis of Benardete paradoxes, deployed in the causal-finitism discussion at §5.1.2.
+
+Shafer-Landau, Russ, §8.12.1, §8.12.5
+
+Shankara, §6, §8.14.5
+
+Shapiro, Stewart, Shapiro's mathematical structuralism is substantively engaged in the Platonism discussion (§4.2.4) and Structural Realism (§4.3.9).
+
+Shared interiority, §8.10, §8.10.5
+
+Ship of Theseus, The Ship of Theseus is substantively used to develop continuity-based identity in §8.5.
+
+Shirky, Clay, §9.2, §9.2.1, §9.2.3, §9.2.4, §9.2.5, §9.4, §9.4.1, §9.4.3, §9.4.4, §9.4.5
+
+Shoemaker, Sydney, §4.2.2
+
+Shue, Henry, Shue's basic-rights argument is substantively engaged in the Rights pillar (§9.1) and its dispute section (§9.1.1).
+
+Sidelle, Alan, Sidelle's modal conventionalism is substantively engaged in §4.1.7.
+
+Sider, Theodore, §2.6.4, §4.2.2, §4.2.8, §4.2.6, §4.3.11, §4.4.7; *see also* Structural Realism
+
+Simon, Herbert, §8.4.1
+
+Simons, Peter, Simons's mereology is substantively engaged in the three-logics discussion (§2.10.1) and mereological-nihilism treatment (§4.3.11).
+
+Simplicity (divine), §5.2.1, §6.2.1, §6.10
+
+Simulation argument (Bostrom), §2.2.2 Actuality's Reach; §4.1; §5.1.5 Fine-Tuning. Simulation hypothesis; any host that realizes simulated persistence still instantiates T, S, and Φ.
+
+Simultaneous Causation, §5.1.3
+
+Singer, Peter, §8.12.1, §9.6, §9.6.5
+
+Singularity (cosmological), §7.6
+
+Skeptical theism, §6.9.2
+
+Skepticism, §8.3.1, §8.3.5
+
+Skow, Bradford, §4.3.12
+
+Smart, J. J. C., Smart's B-theory and block-universe work is substantively engaged in the Block Universe analysis (§4.2.6).
+
+Smith, Adam, Smith's political economy and moral-sentiments work are substantively engaged in the economy framework (§9.7) and dispute section (§9.7.1).
+
+Smolin, Lee, Smolin's temporal naturalism and defense of time's fundamentality are substantively engaged in §2.8.4 and §4.2.3.
+
+Sobel, Jordan Howard, Sobel's symmetry objection to the modal ontological argument is substantively distinguished and engaged in §5.1.7.
+
+Sober, Elliott, Sober's work on simplicity and the design inference is substantively engaged in §5.1.4 and §7.8.1.
+
+Social construction of technology, §8.11.1; *see also* Actor-network theory
+
+Social constructionism, §8.6.1, §8.6.5, §8.14.1
+
+Social identity, §8.5, §8.5.1
+
+Sociobiology, §8.6.1, §8.6.5
+
+Somatic-marker hypothesis, §8.2.1, §8.2.4
+
+Sorites paradox, §2.1.1
+
+Sosa, Ernest, §8.3.1, §8.3.3
+
+Soul-Making Theodicy, Excursus E.1.5; *see also* Hick, John
+
+Sovereignty, §6.7.4
+
+*Soziale Marktwirtschaft*, §9.7
+
+Space, §1.3, §1.4, §2.5, §7.3, §7.3.1–§7.3.5, Glossary Spatiality
+
+Spacetime, §7.3, §7.5.1, Appendix D, Glossary
+
+Spatial logic, §2.10.1
+
+Spatiality, *see* Space, Glossary
+
+Special relativity, §7.3.1, §7.5.1
+
+Speech act theory, §8.10.5
+
+Spinoza, §2.9, §4.3.4, §4.4.9, §5.3.1, §4.2.9, §6.2.2, §7.1, §8.1, §8.1.1, §8.1.3, §8.1.5, §8.2, §8.2.4, §8.8.3, §8.12.3, §8.14, §8.14.1
+
+Spirituality, §8.14, §8.14.1–§8.14.5
+
+*Spiritus*, §7.8, §8.14.3
+
+Spontaneous language genesis, §8.10.4
+
+Stace, W. T., §8.14.1, §8.14.4, §8.14.5
+
+Stalnaker, Robert, Stalnaker's abstract possible-worlds account is substantively engaged in the Modal Realism discussion (§4.4.1).
+
+Standard Model, §7.4, §7.4.4, Appendix D
+
+Stanley, Jason, §8.3 Knowledge: Stanley and Williamson on knowing-how, and Stanley on practical interests in knowledge; the section uses these positions in its account of the forms and stakes of held grasp.
+
+Stern, Josef, §5.2.2 Via Negativa: Stern 2013 on Maimonidean predicate-denial and the Guide's apophatic semantics. §6 chapter root: Maimonides's negative theology is named as a cross-traditional instance of the chapter's structural pressure.
+
+Stone paradox, §6.7.1
+
+Stratified Architecture, §2.10.2; *see also* Three Logical Strata
+
+Strawson, Galen, §4.3.3, §8, §8.5.1, §8.5.5, §8.9.1
+
+Strawson, P. F., §6.1, §8.9.5
+
+Street, Sharon, §8.12.1, §8.12.5
+
+Structural Realism, §4.3.9, §4.4.7, §6.1, §7.4.2, §8.3
+
+Structural Requirement, §2.4
+
+Structural Role, Glossary
+
+Stump, Eleonore, §6.4.1, §6.7.3, §6.7.4, §6.8.2, §6.9.2, §8.9.1, §8.9.5, Excursus E.1.6
+
+Sublime, §8.13; *see also* Tragedy (aesthetics); Beauty
+
+Subsistence, §9
+
+Substance, §1.3, §1.4, §2.5, §7.4, §7.4.1–§7.4.5, Glossary Physicality
+
+Substantial logic, §2.10.1
+
+Substance dualism, §7.8, Appendix D
+
+Substantivalism, §7.3.1
+
+Subtraction argument, §3.2.6
+
+Succession, *see* Time
+
+Suchocki, Marjorie, Suchocki's process-theology development is substantively engaged in the Process Theology analysis (§5.3.3).
+
+*Summum bonum*, §6.9.1
+
+Sunstein, Cass R., §9.4.4 What is Confirmed: Sunstein's [Republic.com](http://republic.com/) (2001) anticipates filter-bubble, cascade, and group-polarization dynamics in engagement-optimized information environments.
+
+Superdeterminism, §7.4.4, Appendix D
+
+Supernatural Preclusion, §6.1, §6.10, Appendix B item 15, Glossary Theorem 8
+
+Supervenience, §1.5.4, Glossary
+
+Sustained Energy Throughput, §7.8, Glossary
+
+Swampman, §8.3; *see also* Content externalism; Davidson, Donald
+
+Swinburne, Richard, §5.1.4, §5.1.5, §6.1, §6.2.1, §6.8.3, §6.9.1, §6.9.2, §6.2.4, §6.10, §8.3.5, §8.8, §8.8.1, §8.8.5, §8.14.1, §8.14.4, Excursus E.1.5, Excursus E.1.7, Excursus E.4.1
+
+Synthesis, §7.9, §8.15
+
+Tao (Taoism), §8.14.5 (named once in the impersonae list within the discussion of Hick's pluralism: Brahman, Tao, Nirvāṇa, śūnyatā). Valid as a single-locus index entry; a dedicated Taoist engagement remains a separate editorial decision.
+
+Tarski, Alfred, §2.10.1 Three Distinct Logics: Tarski 1959 as a foundation of spatial/topological logic. §4.3.11 Mereological Nihilism: Tarski 1929 in the classical-mereology lineage.
+
+Taylor, Charles, §8.8.1
+
+Technology, §8.11, §8.11.1–§8.11.5
+
+Tegmark, Max, §4.3.6 Unreasonable Effectiveness of Mathematics; §4.3.7 Mathematical Universe Hypothesis; §4.3.9 Structural Realism. Tegmark's mathematical-universe proposal is distinguished from the book's shared-structure account.
+
+Teleosemantics, §8.1.1, §8.10.5
+
+Temporality, *see* Time, Glossary
+
+Temporality (divine), *see* Tensity (divine)
+
+Tensity (divine), §6.3.2
+
+Terror management theory, §8.7.1, §8.7.4, §8.7.5
+
+Theistic activism, §6.3.1, §6.7.1
+
+Theistic realism, §8.14.1
+
+Theodicy, §6.9.1
+
+Theorems, *see* Glossary, Theorems
+
+Theory of mind, §8.5, §8.5.1, §8.5.2, §8.5.3
+
+Third-person, *see* First-person / Third-person
+
+Thomasson, Amie, §4.1.8
+
+Three Conceptions of God, §6.2.4, §6.10; *see also* Classical God; Embedded deity; Scriptural conception of God
+
+Three Logical Strata, §2.10, §2.10.1–§2.10.3; *see also* Metalogical Position; Stratified Architecture
+
+Three-Horn Dilemma, §6.10, Appendix B item 19, Glossary; *see also* God-Precluded; No Exit
+
+Through w* Argument, §6.1, Appendix B item 16, Glossary; *see also* Bilateral Symmetry; w* (world-star)
+
+Time, §1.3, §1.4, §2.5, §4.2, §7.2, §7.2.1–§7.2.5, Glossary Temporality
+
+Token, §7.7, Appendix D, Glossary
+
+Tomasello, Michael, §8.10.1, §8.10.4, §8.10.5, §8.11.4
+
+Tooley, Michael, §4.2.5
+
+*Tota simul*, §6.3.2, §6.7.3
+
+Tragedy (aesthetics), §8.13; *see also* Sublime
+
+Transcendental argument for God, §5.1.9
+
+Transcript of denial, *see* Performative Self-Refutation
+
+Transhumanism, §8.11.1; *see also* Posthumanism
+
+Transition Closure, §2.1.6
+
+Triconditional Cross-Entailment, §2.6.7, Appendix B item 8, Glossary Theorem 3
+
+Triconditional Identity, §2.6, §2.6.10, §2.8.5, Appendix B item 11, Glossary Theorem 5
+
+Trinity, §6.2.1, §6.8.2, §6.2.2
+
+Triunity of Nature, §2.6.9, Glossary Named Results
+
+Trolley problem, The trolley problem receives a sustained upstream-justice inversion in §9.13.
+
+Trope Theory, §4.3.10, §7.4.2
+
+Tushnet, Mark, §9.1.4 What is Confirmed: Tushnet 2008, Weak Courts, Strong Rights, in the social-rights constitutionalization and enforcement literature. §9.13 Justice: Tushnet's rights-enforcement work bears on the legal architecture connecting substantive rights to institutional remedies.
+
+Tversky, Amos, §8.4.1, §8.12
+
+Twin Earth, §2.4.2 Structural Gap; §4.1.1 Rigid Designation. Putnam's Twin Earth distinguishes descriptive role from natural-kind essence; used to test — and reject — a hidden-filler gap for structural roles.
+
+Two-Dimensional Semantics, §4.1.2
+
+Tye, Michael, Tye's representational account of awareness is substantively engaged in the divine-awareness analysis (§6.4.1) and Feeling discussion (§8.2.1).
+
+Type, §7.7, Appendix D, Glossary
+
+Unity (divine), §6.2.2; *see also* Simplicity (divine)
+
+Universal grammar, §8.10.1, §8.10.4, §8.10.5
+
+Univocity of being, §6.8.3
+
+Unmoved mover, §6.3.3, §6.7.2
+
+Unreasonable effectiveness of mathematics, §4.3.6, §8.4.3
+
+Unsatisfiable pair diagnosis (UPD), Shackel's diagnosis that Benardete paradoxes encode jointly unsatisfiable conditions, so no causal-finitist metaphysical thesis follows; deployed at §5.1.2 with Schmid and Malpass's non-causal variant.
+
+Urgency, §8.2.3
+
+Vacuity Argument, §3.2.5
+
+Vacuum, §2.7, §7.4.4, §7.5.2, Glossary
+
+Valence, §8.2, §8.2.3
+
+van Hamme, Carlos, Van Hamme's modal objection to a necessary personal God is substantively engaged in the Modal Ontological Argument analysis (§5.1.7).
+
+van Inwagen, Peter, §3.2.4, §4.3.11, §4.4.9, §8.9.1, Excursus E.1.5
+
+Van Til, Cornelius, Van Til's presuppositionalist transcendental argument is substantively engaged in §5.1.9.
+
+Varela, Francisco J., Varela's autopoiesis is substantively engaged in the Life account (§7.8).
+
+*Via negativa*, §5.2.2, §6.8.3, §8.14, §8.14.1, §8.14.5
+
+Virtue epistemology, §8.3.1, §8.3.3
+
+Virtue ethics, §8.12.1
+
+Vitalism, §7.8, §7.8.1, §8.1, §8.1.1, §8.1.5
+
+Volitional necessity, §8.9.1, §8.9.5
+
+Vygotsky, Lev S., Vygotsky's developmental account is substantively engaged in the Education discussion (§9.9).
+
+w* (world-star), §6.1, Appendix B item 16, Glossary Key Concepts
+
+*Wajib al-wujud*, §6.3.1
+
+Walzer, Michael, Walzer's just-war theory and spheres-of-justice framework are substantively engaged in §§9.11 and 9.2.1.
+
+Way Argument, §3.2.5
+
+Way–Possibility Convertibility, §3.2.5, §4.1.10, §5.2.1, Glossary
+
+Weakness of will (akrasia), §8.9.1, §8.9.5
+
+Weinandy, Thomas G., Weinandy's defense of divine impassibility is substantively engaged in the Impassibility analysis (§6.3.4).
+
+Whitehead, §4.2.4, §4.4.8, §5.3.3, §7.1, §7.4.2, §8.14.5
+
+Whyte, Kyle Powys, Whyte's Indigenous environmental philosophy is substantively engaged in the Environment dispute discussion (§9.5.1).
+
+Wielenberg, Erik, §8.12.5
+
+Will (first-person), §8.9, §8.9.1–§8.9.5; *see also* Knowledge (first-person)
+
+Will (Schopenhauer), §3.4
+
+Will register, §8.9
+
+Will to power, §8.1, §8.1.1
+
+Williams, Bernard, §8.5.1, §8.7.1, Excursus E.2.3, Excursus E.3.4, Excursus E.5.1
+
+Williamson, Timothy, §2.1.3, §2.1.4, §2.3, §2.9, §4.1.6, §4.1.10, §4.4, §4.4.6, §4.4.7, §8.3, §8.3.1, §8.3.3, Appendix A
+
+Wittgenstein, Ludwig, §2.10.3, §4.1.9, §4.2.4, §8.10, §8.10.1, §8.10.2, §8.10.5
+
+Wittgensteinian Quietism, §4.1.9
+
+Wolf, Susan, §8.8.1, §8.8.3, §8.8.4, §8.8.5, §8.9.1
+
+Wolterstorff, Nicholas, §5.2.1, §6.3.2, §6.7.2, §6.7.3, §6.8.2
+
+Woodward, James, §4.1.4 Humean Contingency. James Woodward's interventionist theory is used to press agent-side access to causal efficacy and regularity-establishing interventions.
+
+Woodward, Richard, §4.4.4 Modal Fictionalism. Richard Woodward's defense of modal fictionalism addresses the charge that the fiction is artificially constructed.
+
+Word (divine), §6.8.3; *see also* *Via negativa*
+
+Worrall, John, §4.3.9 Structural Realism. Worrall's epistemic structural realism: what survives theory change is relational/mathematical structure rather than a specific ontology of objects.
+
+Wright, Erik Olin, §9.7.1 Economy disputed. Erik Olin Wright's structural-conflict tradition frames capital's extraction as structural rather than a merely correctable policy flaw.
+
+Wright, N. T., Wright's resurrection argument is substantively engaged and answered in E.5.3 The Resurrection.
+
+Wykstra, Stephen J., Wykstra's skeptical-theist approach is substantively engaged in E.1.2 Skeptical Theism and §6.9.2.
+
+Young, Iris Marion, Young's structural-injustice account is substantively engaged in the Rights analysis (§9.1).
+
+Zagzebski, Linda, §8.3 Knowledge. Linda Zagzebski's virtue epistemology; intellectual virtues and foreknowledge issues used in the knowledge debate.
+
+Zahavi, Dan, §8.5.1
+
+Zehr, Howard, Zehr's restorative-justice framework is substantively engaged in the Justice analysis (§9.13).
+
+Zeno of Elea, §2.2.1 Change Is Actual. Zeno's Dichotomy, Achilles, and Arrow paradoxes deny motion; answered by the performative actuality of succession.
+
+Zeno's paradoxes, §2.2.1
+
+Zombie (philosophical), §7.8
+
+Φ (Physicality), *see* Physicality; *see also* Substance
+
+↔ / → (conditionals), Appendix A; *see also* Modal logic
+
+∅ (absolute nothingness), §2.7, §2.7.1, §2.7.2, §3.2.6, Glossary: Null State (∅)
+
+∧ / ∨ / ¬ (logical connectives), Appendix A
+
+◇ / □ (modal operators), §2.1, §2.2, §2.4, Appendix A, Glossary

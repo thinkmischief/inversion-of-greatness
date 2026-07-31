@@ -1,0 +1,28 @@
+---
+title: "3.5.4 S5 Lives Upstream"
+notion-id: c909e179-0749-4f12-803d-6e830af48459
+slug: "s5-lives-upstream"
+index: 30540
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Chapter 3 reaches the role-level necessity of the Triconditions without using the Euclidean axiom. A different question is whether it also reaches □◇C without S5. The tempting line runs backward from the Conditions to the possibility of change.
+
+::: {.argument}
+**The Reverse-Lift Diagnostic** · *from Triconditional Necessity toward Necessary Possibility of Change*
+
+1. Stage 2 re-establishes, without S5, that every possible world instantiates direction, difference, and bearer: □(T∧S∧Φ), at role-resolution (§§3.2–3.3).
+1. The Sufficiency of Structure establishes that the fully typed Conditions entail the possibility of Change: (T∧S∧Φ) → ◇C (§2.4.10), with the frozen-world case tested at §2.4.11.
+1. If Stage 2 independently delivered T, S, and Φ at that full type-resolution, universal modus ponens would yield □◇C. That would be the Reverse Lift.
+1. It does not yet do so. Stage 2 directly earns directed order, difference, and bearer. The upgrades to temporal succession, spatial extension, and causal persistence are carried at §3.5.3, and those upgrades currently use □◇C.
+1. Using those upgrades to invoke the Sufficiency of Structure and then using the Sufficiency of Structure to derive □◇C would be circular.
+1. Therefore the Reverse Lift is valid only conditionally: it corroborates □◇C for a reader who independently grants the full type-resolution or the Modal Identity, but it is not a new S5-free proof of □◇C.
+
+:::
+
+This diagnosis strengthens the chapter by refusing a false independence claim. The no-onset argument (§3.1.2) blocks emergence from a capacityless state, and the performative witness (§3.1.3) establishes ◇C wherever reasoning occurs. Neither supplies cross-world invariance. Without an independent type-bridge, proposition-wise □◇C remains upstream with T1.
+
+What Chapter 3 establishes without S5 is still substantial: the role-level necessity of direction, difference, and bearer, and the identity of Reality with that necessary structure. Once □◇C is supplied, the type-pins at §3.5.3 transmit it into temporal, spatial, and causal-persistent form. The order of dependence is now explicit rather than folded into the convergence claim.
+
+Nothing bars an S5 line from appearing here so long as it is labeled correctly. Section §3.5.5 grants the modal result Chapter 2 earned and lets the Bottleneck confirm the same ground from above. It reinforces the convergence; it does not masquerade as an independent S5-free derivation.

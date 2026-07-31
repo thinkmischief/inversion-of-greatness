@@ -1,0 +1,16 @@
+---
+title: "2.8.2 Nature Cannot Be Denied"
+notion-id: 75b1b61e-8a79-4f78-a69c-e51d54a753c8
+slug: "nature-cannot-be-denied"
+index: 20802
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The performative point of §2.2.1 applies once more, now at the chapter's close. It does not re-establish the necessity already derived: that work is done. What it confirms is that the derived necessity cannot be coherently denied: to dismiss Nature as a cognitive projection is itself a change of mental state, and to formulate the thought that Nature might not have existed is to instantiate the Conditions whose non-existence is being proposed. Descartes' *cogito* used the act of thinking to prove the existence of a thinking subject. This point is narrower, and it is one application of the performative-catch principle established at §2.2.1: to think is to change, which instantiates Temporality, Spatiality, and Physicality.
+
+*Cogito ergo muto*: I think, therefore I change.
+
+The strongest single case of the denial form is the conversion event itself. To come to conclude that any X is illusory is to perform a change of mind: a before-state in which the thesis was not held, an after-state in which it is, a bearer who is the same across both, and a synthesis integrating the consideration that produced the change. The conversion event has T, S, Φ, and synthesis baked into its concept, not into its accidental features. The illusionist about time (§4.2.5), about Forms (§4.2.4), about imagination's spatial structure (§4.3.5), about the persisting self (§8.5) cannot have *come to hold* the thesis without performing the very kind of event whose structural conditions the thesis denies. The denial is refuted by the conversion to the denial, before any further argument is needed.[^cogito-ergo-muto-ch4]
+
+[^cogito-ergo-muto-ch4]: The performative-confirmation reading (whether the cogito-style move at the chapter's close adds anything beyond §2.2.1, and whether thinking-is-changing genuinely instantiates T, S, and Φ) is engaged in Chapter 4. The strongest opponents of the *thinking is changing* premise are eliminativism and illusionism about mental states (§4.3.2), while idealism accepts the premise but reads the change as wholly mental rather than as structural T∧S∧Φ (§4.3.5).

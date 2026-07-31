@@ -1,0 +1,38 @@
+---
+title: "2.10.2 The Stratified Architecture"
+notion-id: 2e5bd6f0-4372-40ef-a909-212d183f0e3f
+slug: "stratified-architecture"
+index: 21002
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The three logics established in §2.10.1 are not one tier among other disciplines. Together they form the root of a stratified scientific architecture. Temporal, spatial, and substantial logic regiment claims along three irreducible existence-axes; every further inquiry therefore operates within their joint constraints.
+
+The stratification adds no new premise to the proof. It draws out the architecture implicit in the three-logic result. A discipline occupies a higher stratum by adding distinctive content, vocabulary, and methods to the constraints supplied below. Lower strata constrain what can coherently be said at higher ones, but they do not derive the higher strata's characteristic claims.
+
+*The strata.*
+
+- *Root layer.* LEM applied at existence-axes. The bare logical floor; bivalent existence-claims are determinate at each of the three axes.
+- *Layer 1.* The three logics. Temporal, spatial, substantial: each carving its axis's native structure within LEM-bivalence. Condition-Individuation's irreducibility clause keeps them distinct.
+- *Layer 2.* Physics. Empirical-nomological work within the joint engagement of all three logics. Conservation laws, dynamics, field equations, particles, constants: physics-specific content that operates within the three-logic scaffold but is not derivable from it.
+- *Layer 3.* Higher empirical sciences. Chemistry (patterns of atomic Φ-beings governed by physics), biology (organized Φ-systems exhibiting metabolism, reproduction), astronomy (large-scale T-S-Φ patterns), each engaging some subset of physics's content as input.
+- *Layer 4.* Human and social sciences. Psychology, sociology, economics, history: patterns within the lower layers' content.
+
+At each layer the deeper layers act as constraints, not as content. Physics does not derive from the three logics; it operates within them. Chemistry does not derive from physics; it operates within physics's nomological content. The architecture is stratified rather than reductive: no stratum reduces to the one beneath; each contributes distinctive claims, vocabulary, and methods constrained by but not supplied by the deeper strata.
+
+*Physics is empirical-nomological work within the three logics, not identical to them.* This is worth stating sharply because the temptation to identify physics with the three logics is real and the identification is mistaken. Physics presupposes and uses the three logics: any physical claim is about a Φ-being at an S-position over T-succession, regimented by the inferential apparatus the three logics supply. But physics adds empirical content (specific laws, constants, particles, fields), nomological structure (causation, dynamics, conservation principles), specific mathematical apparatus (calculus, differential geometry, tensor analysis, group theory), and methodology (experiment, prediction, theory-revision). The three logics supply none of this. They supply the framework within which all of this is conducted.
+
+The cleaner formulation: physics is *empirical-nomological investigation conducted within the joint apparatus of temporal, spatial, and substantial logic*. Not identity (physics = three logics combined), but containment (physics = three logics + empirical-nomological work). This formulation also tightens the anti-physicalism of §2.8.3: physicalism conflates Layer 2's content (specific laws, particles) with the root layer and Layer 1 (the three logics that physics is conducted within). The mistake is treating Layer 2's content as foundational when its foundations lie a stratum below.
+
+*The location of metaphysics.* The stratification places metaphysics correctly. Metaphysics is not a high-level science built on top of physics; it is not in competition with physics over the same explanatory territory; it is not empty speculation about what physics already settles. Metaphysics is the discipline whose object is the root layer and Layer 1: the three Conditions and Condition-Individuation's individuation of them. Its method is conceptual analysis of LEM-application, irreducibility-testing across candidate axes, and the structural derivations Chapter 2 conducts. That method has its own validity-conditions and its own object, distinct from physics's.
+
+Critics who treat metaphysics as disguised physics or empty speculation include logical positivists [@carnap1928 *The Logical Structure of the World*; @carnap1932 *The Elimination of Metaphysics Through Logical Analysis of Language*], Quine in some moods [-@quine1948], and naturalized metaphysicians who locate metaphysics within or below empirical science [@ladymanRoss2007 *Every Thing Must Go*]. Each criticism preserves part of the right discipline while locating it at the wrong level.
+
+Positivism is right that metaphysical claims require clear criteria; Chapter 2 supplies them through explicit conceptual and structural derivations. Quine is right that ontology should track the values of bound variables in our best theories; the further claim is that those values must instantiate the three Conditions. Ladyman and Ross are right that metaphysics should answer to the structure scientific inquiry presupposes; the disagreement concerns where that structure lies.
+
+On the present architecture, physics already presupposes the three-logical root. It cannot investigate that root without employing the very logic under examination. Metaphysics therefore has a distinct object and method. It is neither disguised physics nor speculation unconstrained by physics.
+
+The stratification also explains why the unity-of-science program had the right intuition but the wrong root. The intuition [@carnap1934 *The Unity of Science*; @neurath1944 *Foundations of the Social Sciences*; @hempel1969 *Reduction: Ontological and Linguistic Facets*; @oppenheimPutnam1958 *Unity of Science as a Working Hypothesis*] was that there is a single underlying structure that the sciences all rely on. The mistake was putting physics at the bottom.[^stratified-architecture-ch4] The framework's correction: the root is the three logics, and physics is Layer 2, not Layer 0. Levels-of-reality work [@putnam1967 *Psychological Predicates*; @fodor1974 *Special Sciences*; @wimsatt1976 *Reductionism, Levels of Organization, and the Mind-Body Problem*; @kim1998 *Mind in a Physical World*] comes closer; it recognizes stratification without strict reduction, but still typically treats physics as the foundational level rather than as Layer 2 above the three logics. The framework's stratification keeps the levels-of-reality insight while relocating the foundation.
+
+[^stratified-architecture-ch4]: The stratified architecture (physics as Layer 2 rather than Layer 0, metaphysics as the discipline of the root layer and Layer 1, and the anti-physicalist relocation of the foundation) is engaged in Chapter 4. Structural realism (Ladyman & Ross's *Every Thing Must Go*) is the naturalized-metaphysics position the framework partially agrees with and parts from on where the joints lie (§4.3.9); Quine, on ontology tracking bound-variable values, meets the framework's reply that the values must instantiate the three Conditions (§4.1.6); Tegmark asks whether the root is mathematical rather than logical (§4.3.7); eliminativism presses on metaphysics as a legitimate discipline (§4.3.2); and governing-law accounts (Armstrong, Dretske, and Tooley's necessitation-relation accounts) are the non-Humean alternative on whether laws govern Layer 2 (§4.1.4).

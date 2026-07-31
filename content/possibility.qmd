@@ -1,0 +1,42 @@
+---
+title: "1.2.1 Possibility"
+notion-id: 4df56ced-4d57-475f-b52d-d691470241e8
+slug: "possibility"
+index: 10201
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Of the five statuses, possibility is the one most blurred by ordinary use: *could* runs together what logic allows, what the mind can picture, and what the evidence leaves open. The argument needs a narrower sense.
+
+::: {.definition}
+**Possibility** · *Definition*
+
+A proposition is possible when it really could be the case (◇P).
+
+
+:::
+
+The definition's weight sits on the word *really*: a proposition is possible when Reality permits it to be the case, not merely when logic allows it, a mind can picture it, or the evidence has not ruled it out. That sense is what this book names *real possibility*: the same modality the field calls *alethic possibility* (or *metaphysical possibility*). Real possibility and real impossibility are the two genuine modal determinations Reality settles: *real* marks the determination's standing, not its polarity.
+
+It could be that God alone is real, that nature alone is real, that God and a created nature are both real, or some other configuration. *Real* names what is really the case, regardless of which of those configurations obtains. Even the claim that God is real does not bypass Reality as ground: God being real, if it obtains, just is Reality being such-that-God-is-real. Whether real possibility is itself modally primitive or reduces to a deeper essence or real definition is the priority question, closed at §4.1.10. This section fixes the modal vocabulary; the priority question is carried downstream.
+
+*Real possibility* is structural-role-anchored: its reference is fixed by the role it plays (being a determination Reality settles), not by stipulation and not by picking out a natural kind. That makes it different from the standard Kripkean cases. Proper names such as *Hesperus*, the evening star, rigidly pick out one individual; definite descriptions such as *the tallest building* pick out whatever satisfies a condition; natural-kind terms such as *water* pick out a kind by its underlying nature [@kripke1980, Lecture III]. Structural-role terms fix reference by what the role requires. That strategy is the same for *Reality* and *real possibility*; the natural-kind parallel between this strategy and Kripke's treatment is taken up at §2.6 and §2.6.12. The upshot: real possibility is metaphysical possibility as it really is, not metaphysical possibility as it is epistemically conceived.
+
+Five nearby notions are easily conflated with real possibility: logical possibility, conceivability, epistemic possibility, nomological possibility, and probability.
+
+*Real possibility* is narrower than *logical possibility*. Every real possibility is logically possible (what is real never contradicts itself), but not every logically coherent description names something real. Logical possibility is a necessary condition for real possibility, not a sufficient one. The Kripkean case [@kripke1980, Lecture III] is *water = H2O*: 'water is not H2O' is logically coherent (no contradiction in the words), but if water just is H2O, the description names no real possibility, even though one can entertain it in thought. The example adopts Kripke's rigid-designation account of natural-kind identity as a working commitment; the structural parallel between the necessary a posteriori (truths known through experience but, if true, necessary) and the book's Necessity of Nature result is taken up at §2.6 and §2.6.12.
+
+Real possibility is not the same as *conceivability*. What thought can entertain is a fact about the reach of imagination, and imagination is not constrained by what could really be. Many conceivable arrangements name nothing real.
+
+There is a more technical version of this worry. Some philosophers, following Chalmers, ask whether a refined, idealized notion of conceivability (what would still seem coherent at the limit of careful reflection, as opposed to what merely seems coherent at first glance) might track a genuine kind of possibility after all, and whether that kind needs to be held apart from the real possibility fixed here. That question, and the two-dimensional framework built to handle it, is taken up at §4.1.2.
+
+Real possibility is not the same as *epistemic possibility*. What is open relative to one's evidence is a fact about a knower, not a fact about the world. Two reasoners with different evidence can disagree about epistemic possibility while agreeing entirely about what could really be. Take a treasure chest buried in Central Park: epistemically open (no one has checked every square foot), and also really possible (a buried chest is the kind of thing Reality permits). Now imagine instead a chest that refills itself with treasure every time it is closed. The description is logically coherent, the picture conceivable, and to a reader who has not worked out the physics it can be epistemically open too. Familiar physics may rule it out nomologically, but that alone does not settle whether it is really possible. A law-relative exclusion is not yet a metaphysical one. Now imagine a third, in a different register entirely: a chest both full and empty at the same time. The description cancels itself; the words pick out no chest at all — not a chest Reality happens to lack, but no chest named in the first place. The rest of the book sets out why these distinctions matter; for now the point is that neither what is open to a knower's evidence nor what familiar laws permit determines what is open to Reality.
+
+A note on register before the last two. The modalities just distinguished (conceivability, epistemic possibility) are doxastic or knower-relative: facts about what a mind can represent or what evidence permits, not facts about modal space. The modal claims throughout this book are *alethic*: they concern what really holds, independently of any mind's reach. This distinction runs through the argument. Doxastic modality, what a thinker takes to be possible, appears in Chapter 8 as a downstream product of the structural conditions that this argument establishes, not as a ground for those claims. The evidential basis by which the book secures its foundational modal claims is the bilateral performative witness developed at §2.2 (Cartesian Certainty, *Cogito Ergo Muto*); modal-metaphysical knowledge here is not built from doxastic raw material.
+
+Real possibility is not equivalent to *nomological possibility* on the standard reading of the laws. *Nomological possibility* means *permitted by the laws of nature*, what some account of the laws says could occur. Those laws, as commonly characterized, may rule out things that really could be, and may fail to rule out things that really could not; the two extensions overlap but neither contains the other. Whether the deep reading of the laws coincides with real possibility is taken up in §2.6.
+
+Real possibility is not the same as *probability*. Probability measures how often, or how reliably, something turns up among what could be the case. It presupposes possibility but is not equivalent to it: nothing has a probability greater than zero that is not first possible. *Possible* settles whether the thing is a candidate at all; *probable* sorts the candidates.
+
+One more distinction. "Possible" says that something could really be the case, not that the conditions to bring it about are always at hand. The possibility of reading is one thing; the occasion to read is another. Possibility does not promise the occasion. And one consequence: necessary truths count as possible. If something could not fail to be the case, then in particular it could be the case, and that is all possibility requires.

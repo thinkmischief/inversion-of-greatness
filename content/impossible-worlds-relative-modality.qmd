@@ -1,0 +1,43 @@
+---
+title: "4.1.14 Impossible Worlds and Relative Modality"
+notion-id: 7e9453ce-76f9-4c9c-bd17-afcf5ec16d26
+slug: "impossible-worlds-relative-modality"
+index: 40114
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Two pressures are often filed together and should be separated, because they attack different parts of the same sentence. One enlarges the space of worlds to include impossible ones [@priest2005; @bertoJago2019; @nolan1997]. The other relativizes the quantifier to a contextually supplied background [@kratzer2012]. The first asks whether □(T∧S∧Φ) has been quantifying over too little. The second asks whether its □ means anything absolute at all.
+
+*First.* The non-normal worlds form is the technically sharpest objection in this section, and it is aimed at the S5 derivation rather than at the structural conclusion. Non-normal worlds are the standard device for invalidating the rule of necessitation: at such a world, logical truths may fail, and modal formulas are evaluated by stipulation rather than by the accessibility clause. Admit them and the characteristic S5 axiom is no longer guaranteed, since ◇C may hold at the actual world while □◇C fails at a non-normal one. A semantics that includes them yields a non-normal modal logic in which the lift the argument uses is simply unavailable.
+
+The reply has two stages, and the first is a redirection rather than a defense. The book does not need the lift. §3.5.4 and §3.5.5 reach the conclusion along a route that does not run through S5 at all, and a critic who blocks the lift by admitting non-normal worlds still arrives at the same place. The S5 derivation is one line among several, and the semantic objection reaches one line.
+
+The second stage is the substantive one. An impossible world is admitted as a *representation* of an inconsistent content, not as a genuine alternative way for reality to be. @nolan1997 makes the point in defending the modest approach: impossible worlds earn their keep as representational devices for reasoning about inconsistent scenarios, and admitting them carries no commitment to their being possibilities. But a representational device is an item with content, and content is structured. The reply developed against linguistic ersatzism at §4.4.2 applies here without modification: distinct representations must be distinct (the S-role), must be individuated and evaluated (the T-role), and must be borne by something that carries the content (the Φ-role). Enlarging the space of representations enlarges the space of representations. The □ in □(T∧S∧Φ) ranges over genuine alternatives, and no number of additional representations adds one.
+
+A further point closes the limit case. An impossible world at which T, S, and Φ all fail is not merely an inconsistent scenario but the null state, and the argument of §3.2.6 is that the null state is unspecifiable rather than merely inconsistent. The distinction matters exactly here, because the impossible-worlds theorist is professionally in the business of hosting inconsistent contents. A round square is hostable: it has parts to describe, and the description can be given and then found contradictory. The null state has no parts to describe, and §3.3.3 makes the corresponding point against the fictionalist. An impossible-worlds semantics can host any content that can be stated. What it cannot do is supply a content where none can be stated, and that is the case the necessity claim turns on.
+
+*Second.* The hyperintensionality form is the actual motivation behind most of the literature, and the honest response is concession rather than reply. @bertoJago2019 argue that necessity is too coarse a sieve for many of the distinctions metaphysics needs: necessarily equivalent contents are not thereby the same content, and a framework whose finest grain is necessary equivalence will misdescribe the differences between them.
+
+That is granted without reservation, and nothing in the argument resists it. The claim defended is that T, S, and Φ obtain at every genuine alternative. It is not the claim that they are constitutive in a hyperintensional sense, nor that the propositions expressing them are individuated by anything finer than necessity. Whether a further, more discriminating notion is required to state what the structural conditions *are*, as opposed to where they obtain, is the essence-prior question, and it is engaged at §4.1.10 rather than settled here. Hyperintensional distinctions cut below the necessity claim without cutting into it.
+
+*Third.* The relative-modality form runs from linguistic semantics. On the standard account [@kratzer2012], a modal expression is interpreted relative to a contextually supplied modal base together with an ordering source, and the many flavours of necessity (epistemic, deontic, nomic, metaphysical) are one machine supplied with different backgrounds. If that is right, metaphysical necessity is not a privileged absolute but one setting among many, and □(T∧S∧Φ) reduces to a claim about what follows given a particular background. Another background, another verdict.
+
+The reply is that context-relativity in this framework operates on the *restriction*, not on the *domain*. A modal base selects a subset of the worlds to quantify over; it does not introduce worlds that were not there. The structural claim is about what every member of the domain instantiates, and a subset of a set whose members all instantiate the conditions has no member that fails to. Varying the background varies which necessities are salient and which are worth asserting. It cannot vary what a world is.
+
+::: {.premise}
+**Restriction Adds Nothing** · *Premises*
+
+1. A modal base restricts the worlds quantified over to some subset of the global domain (Kratzer semantics).
+1. □(T∧S∧Φ) states that every member of the global domain instantiates the structural conditions.
+1. Every subset of the global domain has only members of the global domain.
+1. So no choice of modal base delivers a world lacking the conditions.
+1. Context-relativity therefore varies which necessities are asserted, not what any world is.
+
+:::
+
+The conclusion generalizes past Kratzer's framework specifically. Any relativization that proceeds by restricting a domain inherits the argument, because restriction is a subset operation and a subset operation cannot manufacture a member. A relativization that instead *replaces* the domain, supplying worlds the global domain lacks, is no longer a restriction and owes an account of where the new worlds came from and in what sense they are alternatives. That account is the one §4.4.1 and §4.4.2 already press for, and the demand is unchanged by relabeling the framework as semantic rather than metaphysical.
+
+One clarification of scope is owed. Nothing above denies that there are genuinely relative modalities, or that most ordinary uses of *must* and *can* are relative in exactly Kratzer's way. The §4.4 overview grants this already. The claim is narrower: that a relative modality is a restriction on the field rather than a rival to it, and that the field is what the structural conclusion describes.
+
+*What closes.* Impossible worlds and relative modality both appear to widen or shift the quantifier and neither does. Non-normal worlds block one derivation of S5, which the argument can afford because §3.5.4 supplies a route that never used it, and they otherwise multiply representations rather than alternatives; the representations are themselves structured, so the multiplication runs the ersatzist's problem again. Hyperintensionality is conceded outright and leaves the necessity claim standing at its own grain. Kratzer-style relativization restricts a domain it does not populate, and a restriction cannot produce a world the domain lacked. What all three share is a move from the formal apparatus to the metaphysics, and in each case the apparatus turns out to be describing the field rather than adding to it.

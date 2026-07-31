@@ -1,0 +1,18 @@
+---
+title: "2.4.11 The Frozen-World Test"
+notion-id: e6c1ff90-0386-4a7d-9504-a523685c72b5
+slug: "frozen-world"
+index: 20411
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Suppose a world has the right-looking structure but is permanently frozen: nothing ever changes, nothing can change. It looks like a world that instantiates T, S, and Φ with change ruled out: a standing counterexample to the converse (§2.4.10). The appearance dissolves the moment the Conditions are read as defined.
+
+They require causal structure (directed succession, traversable extension, causal persistence), and a frozen world has static ordering, geometry, and fixed configuration, but none of the causal dimensions that make the Conditions what they are.
+
+The same diagnosis applies individually to each Condition. Temporality without directedness is not paralyzed Temporality but static ordering, and static ordering is not Temporality, because Temporality (§1.4) is causally structured succession with direction and weight; a structure stripped of direction has lost what makes succession a succession rather than a fixed sequence-relation among items. Spatiality without traversability is not paralyzed Spatiality but static geometry, and static geometry is not Spatiality, because Spatiality (§1.4) is relational extension across which traversal is possible; a geometry stripped of traversability is a set of points standing in fixed distance-relations, not relational extension in the constitutive sense. Physicality without causal connection is not paralyzed Physicality but fixed configuration, and fixed configuration is not Physicality, because Physicality (§1.4) is causal persistence (a substance carrying causal power across T-succession through S-extension); a configuration stripped of causal capacity has lost what makes substance carry causal power rather than occupy a labeled position in a fixed array. Strip causality out and you do not get a frozen version of T, S, and Φ. You get something else entirely: three new structural specifications that share the names but not the constitutive content of the Conditions.
+
+*What is foreclosed.* The consequence for the converse (§2.4.10) is direct: a world that genuinely instantiates the Conditions cannot fail to permit change, because the Conditions just are what permitting change consists in. The frozen-world scenario describes the absence of the Conditions, not their unusual mode.[^frozen-world-ch4]
+
+[^frozen-world-ch4]: Shoemaker’s canonical staggered-freeze argument for time without change is engaged at §4.2.2.

@@ -1,0 +1,56 @@
+---
+title: "Symbols"
+notion-id: 5ec9c8e5-a348-44cd-9787-2786f9002d5f
+slug: "symbols"
+index: 121750
+role: apparatus
+nav-section: ["References"]
+nav-order: 34
+surfaces: ["Print", "Web — Book"]
+---
+
+The notation used throughout the argument, collected for reference. Each symbol is defined in full where it is introduced; the italic tag at the end of an entry points to the section where it first appears.
+
+## The Conditions
+
+**T** · *Temporality *· The Condition of Reality such that succession is necessarily possible. *First use: §1.4.*
+
+**S** · *Spatiality *· The Condition of Reality such that distinction is necessarily possible. *First use: §1.4.*
+
+**Φ** · *Physicality *· The Condition of Reality such that exchange is necessarily possible. *First use: §1.4.*
+
+**T(x), S(x), Φ(x)** · *Predicate form *· Applied to an individual *x*, each says that *x* instantiates the corresponding Condition.
+
+**Exists(x)** · *Existence predicate *· Exists(x) =df T(x) ∧ S(x) ∧ Φ(x). To exist is to instantiate all three Conditions. *First use: §1.5.*
+
+## Structural terms
+
+**C** · *Change *· Schematic letter for the change-event. *First use: §1.3.*
+
+**N** · *Nature *· N =df T ∧ S ∧ Φ. The definition is box-free; the necessity □(T ∧ S ∧ Φ) is the earned result Triconditional Necessity (§2.5). *First use: §1.4.4.*
+
+**R** · *Reality *· The totality of what is real, identified with Nature in □(R = N). *First use: §1.1.*
+
+**∅** · *Null State *· Absolute nothingness. *First use: §2.7.1.*
+
+**G** · *Classical God *· The Maximally Great Being, defined by negation of the structural roles: ¬T, ¬S, ¬Φ. Subject of the modal-ontological arguments ◇□G and ◇□¬G. *First use: §6.1.*
+
+## Logical notation
+
+**□** · *Necessity operator *· □P is true just when P holds across every configuration of Reality. *First use: §1.2.*
+
+**◇** · *Possibility operator *· ◇P is true just when P holds in at least one configuration of Reality. *First use: §1.2.*
+
+**∧ ∨ ¬ → ↔** · *Logical connectives *· Conjunction, disjunction, negation, material conditional, biconditional.
+
+**∀ ∃** · *Quantifiers *· ∀ is the universal quantifier, read *for all*; ∃ is the existential quantifier, read *there exists*.
+
+**∴** · *Therefore *· Reserved for the conclusion lines of formal syllogisms.
+
+**=df** · *Defined as *· Introduces a stipulative definition.
+
+## Variables
+
+**P, Q** · *Propositional variables *· Schematic propositional variables, ranging over contentful claims. *First use: §1.2.*
+
+**w, w′, w₀, w₁, w₂, w∗** · *Possible-world variables *· w is the generic world; w′ the counterworld of the §2.1.5 negation reductio; w₀ the candidate world posited to lack the structural Conditions at §2.7.4; w₁, w₂, … enumerated worlds; w∗ the dual world introduced under bilateral symmetry at §6.1 and Appendix B item 16. *First use: §2.1.5.*

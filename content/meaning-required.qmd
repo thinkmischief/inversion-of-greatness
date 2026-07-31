@@ -1,0 +1,30 @@
+---
+title: "8.8.2 What is Required"
+notion-id: 088e03ac-be39-4b76-a3bc-8ce6da8d0368
+slug: "meaning-required"
+index: 80802
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*First-person perspective on orientation.* Meaning is the internal registration of orientation: the recognition, by a being that can take its own life as an object of thought, that what it is doing reaches forward through a world that does not end with it. Any account must locate meaning in the subjective character of orientation rather than as an external property of objects or projects. The structural requirement is that the account treat meaning as part of what such a being’s activity consists in, with registering direction as the activity meaning *is*.
+
+*Structural fact distinct from content.* Meaning's content (what a being is oriented toward) and meaning's basic form (that there is direction at all, felt from inside, with weight) are distinct. Any account must distinguish them rather than collapsing one into the other. The requirement is to treat the *that* of orientation as arising once a life can reflect on itself — and therefore not as contingent on any particular object of orientation — while the *what* is supplied by a person’s history, situation, and projects.
+
+*Connection to consciousness and self-representation.* Once consciousness has been identified at §7.8 as the inner aspect of a system representing itself, meaning becomes the next consequence: what consciousness is when it registers its own direction within the world. Any account must derive meaning from that structural account rather than treating it as a separate domain. The structural requirement is that the account locate meaning at the depth where the recursion has folded back far enough to register its own direction as direction.
+
+*Connection to knowledge.* Knowledge concerns whether the model fits; meaning concerns where the model is heading. Any account must distinguish accuracy-tracking (knowledge) from direction-tracking (meaning) while explaining their relation. The structural requirement is that the account preserve the bridge: meaning operates on the same model knowledge stabilizes, with the two registers picking up different structural features of the same orientation.
+
+*Connection to drive.* Meaning operates on what drive (§8.1) supplies as forward pressure. Drive is the baseline forward pressure pre-differentiation; meaning is the registration of where that pressure is heading once the recursion is deep enough to register direction. Any account must accommodate the dependence rather than treating meaning as autonomous from motivation. The structural requirement is that the account derive meaning from drive at the depth where the registering becomes possible.
+
+*Robustness to the withdrawal of supernatural anchors.* The inversion (Chs. 6–7) forecloses the supernatural anchors theistic accounts of meaning have relied on. Any account must support meaning that survives the withdrawal of those anchors rather than collapsing into nihilism. The structural requirement is that the account locate meaning's source in features of the subject and the medium that do not require supernatural supplementation: the recursion at sufficient depth, registering direction within the structure it is part of.
+
+*Non-arbitrariness within the account.* While meaning's content is contingent, not all directions fit equally well. Some projects cohere better than others with a person’s bodily needs, social situation, and real possibilities. Any account must explain this without treating all projects as equally meaningful or imposing a single mandatory project on everyone.
+
+*Distinctness from happiness and moral worth.* Wolf's (2010) central contribution is the identification of meaning as a third evaluative dimension — not reducible to happiness (the condition of feeling good) or to moral worth (the condition of doing right) — that has its own structure and its own demands. Any adequate account must preserve this distinctness rather than collapsing meaning into either of the other two dimensions. The structural requirement is that the account show how orientation-at-depth constitutes a register neither identical to valenced-feeling (§8.2) nor to the reciprocal-coupling norm (§8.12), while explaining how all three draw on the same modal field.
+
+*Depth-graded distribution.* Meaning at the level of registering one's life as a whole requires the self-aware depth §8.1 names. Shallower forms of direction-registering run at shallower depths — the cricket oriented toward water, the elephant oriented toward its herd, the chimpanzee oriented toward its current task. Any account must accommodate the gradient rather than restricting meaning to the human case. The structural requirement is that the account distinguish what runs at each depth and identify the threshold at which life-as-a-whole meaning becomes available.
+
+*Coherence with mortality.* Meaning belongs to a life that will end. Any account must accommodate this finitude rather than treating meaning as if a person were immortal. Its weight, urgency, and directedness arise from a life that can understand its own limits.
+
+Taken together these requirements name the explanatory program the framework §8.8 defends: a first-person perspective on orientation, a distinction between structural conditions and particular contents, links to consciousness, knowledge, drive, mortality, and a proposed non-arbitrariness. They are not neutral requirements accepted across theories of meaning. Whether meaning is grounded in self-modeling, how it relates to moral worth and happiness, and whether non-human or non-biological systems have meaningful lives remain contested. The framework argues for this package rather than treating it as established.

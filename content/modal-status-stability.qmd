@@ -1,0 +1,48 @@
+---
+title: "2.1.4 Modal Stability"
+notion-id: e39db5bb-d0b0-42ad-99e0-9c5ee4460bda
+slug: "modal-status-stability"
+index: 20104
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Modal Stability follows once real possibility is evaluated over one fixed domain rather than over a different horizon at each world. This section states that dependency formally.
+
+Let W be the complete domain of worlds Reality permits: the total range of real possibilities. For any proposition P:
+
+- ◇P means that P is true at some world in W.
+- □P means that P is true at every world in W.
+
+The domain W is fixed across evaluation. Moving the point at which a formula is evaluated does not replace Reality's range of possibilities with another range. This is the substantive globality claim; the Bottleneck (§2.1.5) defends it against world-relative alternatives.
+
+::: {.argument}
+**Modal Stability** · *The Fixed-Domain Derivation*
+
+1. *T.* If □P, then P is true at every world in W. The world of evaluation is a member of W, so P is true there: □P → P.
+1. *S4.* If □P, then P is true throughout W. Since every world evaluates necessity over that same W, □P is true at every world: □P → □□P.
+1. *B.* If P is true at a world w, then w itself witnesses ◇P. Since every world evaluates possibility over the same W containing w, ◇P is true at every world: P → □◇P.
+1. T, S4, and B over the normal modal base yield S5. In particular, whatever is possible is necessarily possible: ◇P → □◇P.
+1. The bilateral companion follows over the same fixed domain: if no world in W makes P true, that absence is unchanged at every point of evaluation. ¬◇P → □¬◇P.
+
+:::
+
+The derivation does not use Temporality, Spatiality, or Physicality, and therefore does not assume the later conclusion that those Conditions hold in every world. It uses only the meaning of real possibility fixed in §1.2.1: a modal determination Reality settles over its complete range of permitted ways. The Conditions will later be derived as the content that range necessarily realizes; they are not a premise in fixing the range's globality.
+
+::: {.corollary}
+**Necessity entails Possibility** · **R1** · *Result of the T-Axiom and the Actuality–Possibility Principle*
+
+Whatever is necessary is possible. □P → ◇P.
+
+
+:::
+
+The result composes T (□P → P) with actuality implying possibility (P → ◇P). Contraposed, ¬◇P → ¬□P: what is not possible is not necessary.
+
+The fixed-domain reading is equivalent, in ordinary Kripke semantics, to universal accessibility within W. Kripke [-@kripke1963] supplies the model-theoretic form; Williamson [-@williamson2013] defends S5 for metaphysical necessity. The present account identifies the philosophical commitment beneath that form: *real possibility* ranges over Reality's possibilities as a whole, not over a local horizon owned by each world.
+
+This leaves a precise point of contestation. A critic may insist that possibility is fundamentally world-relative, with each world carrying its own accessible domain. That is not a counterexample inside the present operator; it is a rival account of what ◇ means. The Bottleneck takes up that rival directly and asks whether local reachability and real possibility have been conflated.
+
+*What is established.* Given one fixed domain W of real possibilities, T, S4, B, the Euclidean principle, and its bilateral companion follow without appealing to the Triconditions. S5 is therefore downstream of global real possibility, not upstream of the Necessity of Nature.[^s5-derivation-ch4]
+
+[^s5-derivation-ch4]: World-relative and rival-domain readings are engaged through Lewis (§4.4.1), Williamson (§4.4.6), modal collapse (§4.4.9), Sider (§4.4.7), and the source-of-possibility question (§4.1.10).

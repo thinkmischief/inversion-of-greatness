@@ -1,0 +1,12 @@
+---
+title: "7.5.4 Symmetry"
+notion-id: 92ae4fff-6748-432c-9dd5-7933d9f043f4
+slug: "symmetry"
+index: 70504
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The three roles bind into one structure in the book's modal analysis. Physical theories ordinarily represent physical states as localized or otherwise structured in spacetime, and their dynamics relate physical quantities across temporal and spatial relations. This is not the empirical claim that every spacetime point must carry nonzero physical content: general relativity permits vacuum solutions, and the book's role-level claim does not legislate a local field value at every coordinate point. The relevant point is narrower: where a theory describes physical change, it does so through relations among temporal order, spatial or configuration-space structure, and physical degrees of freedom.
+
+That many successful theories are symmetry constrained is an important physical analogue, while the particular symmetries remain contingent. Noether’s theorem links continuous global symmetries of an action to conserved currents: spatial translation symmetry yields momentum conservation, rotational symmetry yields angular-momentum conservation, and global phase symmetry yields charge conservation. Local gauge symmetry is a redundancy of field description with a more subtle relation to conserved charge. Variational or action-based formulations are widely used across classical mechanics, field theory, and general relativity, but are not a proof that every fundamental formulation must take this form. Lorentz invariance organizes the relation of time and space in special relativity; gauge structures organize Standard Model interactions [@wigner1939; @gross1996]. These results are compatible with the book's triadic role analysis without establishing that every possible physics must instantiate the same empirical symmetries or local ontology.

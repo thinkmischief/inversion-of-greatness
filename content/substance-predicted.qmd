@@ -1,0 +1,12 @@
+---
+title: "7.4.3 What is Predicted"
+notion-id: 23c16cc5-1a38-4b40-8e5f-1b331c8db054
+slug: "substance-predicted"
+index: 70403
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Physicality (Φ, the third structural condition of Nature, derived in its exchange role at §2.4.8 and integrated into the Conditions-as-Nature sequence in §2.6) is necessarily instantiated by the Necessity of Nature (§2.8.5). Its quantity cannot pass through zero, because zero is not a value Substance can take: it is the absence of the bearer, and where the bearer fails, Physicality fails as a Condition. By the Necessity of Nature, Physicality cannot fail. Conservation, as such, is therefore not a contingent regularity Nature happens to exhibit. The fact that something persists (that Nature carries forward) is structural; the specific quantities conserved (energy, momentum, charge, baryon number) are what this universe's symmetries select to register that fact.
+
+A second line arrives from Change. Exchange is one of the three constitutive requirements of Change (§1.3), and exchange requires something to be exchanged. If no stock persisted across transitions, there would be nothing for succession to redistribute: only a series of disconnected states without the continuity that makes them a series at all. Succession needs exchange; exchange needs persisting relata; and the persisting relata are Substance, the bearer through which Physicality holds as a Condition. The two lines (instantiation from §§2.4.8–2.6 and exchange from §1.3) converge on the same structural feature, which is again the overdetermination pattern §3 exploits.

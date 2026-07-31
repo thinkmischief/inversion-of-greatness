@@ -1,0 +1,87 @@
+/* ============================================================
+   The Cave — named dark mode (Plato's cave / firelit ascent)
+   ============================================================
+   Same loading/scoping rules as sepia.css — see that file's header
+   comment. Forces DARK polarity (settings dropdown JS sets
+   body.quarto-dark when this theme is selected) — this file's
+   selector (html[data-book-theme="cave"] body — two type selectors
+   plus an attribute, specificity 0-1-2) genuinely outranks procyon.css's
+   own body.quarto-dark block (one type selector plus a class,
+   0-1-1), so it wins regardless of load order. The attribute lives on
+   <html> rather than <body> specifically so it can be set in <head>
+   before <body> even exists (see include-in-header below) — the same
+   pre-paint trick already used for focus mode, avoiding a flash of
+   the wrong theme on load.
+
+   Per the Reader Themes idea log: "This is roughly where the live
+   site already sits; it's essentially tuned. The warmer near-black
+   and slightly softened text are the only nudges." So this is
+   procyon.css's own body.quarto-dark block, nudged on exactly the
+   two values the idea log calls out (bg warmer/darker, body text
+   slightly softer) — not an independent palette. Everything else
+   (links, semantic block colors) intentionally left matching
+   Procyon Dark, since the idea log doesn't ask for those to move. */
+
+html[data-book-theme="cave"] body {
+	background-color: #181510;
+	--book-chrome-bg-solid: #181510;
+	--book-bg: #201c15;
+	--book-text: #e6dfcc;
+	--book-heading: #f5f1e8;
+	--book-link: #d4a857;
+	--book-link-rgb: 212, 168, 87;
+	--book-border: #2e2a20;
+	--book-border-soft: #241f18;
+	--book-muted: #a3a29a;
+	--book-muted-rgb: 163, 162, 154;
+	--book-scrollbar: #423c2e;
+	--book-code-bg: rgba(255, 255, 255, 0.08);
+	--book-margin-text: #bcb6a4;
+	--book-margin-strong: #e8e3da;
+	--book-breadcrumb-sep: #7a7461;
+	--book-premise-label: #7fa8d8;
+	--book-premise-cite: #9aa1ab;
+	--book-callout-shadow: rgba(0, 0, 0, 0.3);
+	--book-callout-header-border: rgba(255, 255, 255, 0.12);
+
+	--book-definition-border: #5b8fd4;
+	--book-definition-bg: #1c2330;
+	--book-theorem-border: #d16a6a;
+	--book-theorem-bg: #2c1917;
+	--book-note-border: #8b96a8;
+	--book-note-bg: #201f22;
+	--book-warning-border: #d49a4f;
+	--book-warning-bg: #2c2416;
+	--book-caution-border: #5fb88a;
+	--book-caution-bg: #18261d;
+
+	--book-chassis-border: #7d7a70;
+	--book-chassis-bg: #201c15;
+	--book-sb-definition-border: #A9A9A9;
+	--book-sb-identification-border: #8D97B2;
+	--book-sb-principle-border: #BB9FAA;
+	--book-sb-theorem-border: #BC8683;
+	--book-sb-lemma-border: #D4A286;
+	--book-sb-premise-border: #AB9E93;
+	--book-sb-corollary-border: #A28DAB;
+	--book-sb-condition-border: #77A3A2;
+	--book-sb-argument-border: #9a958e;
+	--book-sb-untyped-border: #A9A9A9;
+	--book-sb-quickref-border: #a89f8f;
+	--book-sb-quickref-bg: #241f18;
+
+	/* Chrome (navbar/sidebars/dropdown menus) — completes the
+	   --book-chrome-bg-solid override already above (this theme's own
+	   warmer/darker nudge on Procyon Dark's chrome) with the rest of the
+	   chrome variable set, matching the same warm-near-black family as
+	   this theme's own --book-bg/--book-text. Hover accent stays the
+	   same gold as Procyon Dark's own chrome — the idea log doesn't ask
+	   for that to move, same reasoning the file header gives for links/
+	   semantic-block colors above. */
+	--book-chrome-bg: rgba(24, 21, 16, 0.88);
+	--book-chrome-scrollbar: #423c2e;
+	--book-chrome-text: #e6dfcc;
+	--book-chrome-text-rgb: 230, 223, 204;
+	--book-chrome-text-hover: #d4a857;
+	--book-chrome-text-hover-rgb: 212, 168, 87;
+}

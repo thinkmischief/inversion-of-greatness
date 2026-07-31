@@ -1,0 +1,12 @@
+---
+title: "3.4.5 Downstream of the Seal"
+notion-id: fcdcfb64-0ca0-479c-bb58-503c28204ae8
+slug: "downstream-of-the-seal"
+index: 30450
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+There is a fifth, tighter result waiting in the wings: that change-possibility and the conditions are not merely co-necessary but *one fact under two descriptions*, the generic identity ◇C ↔ (T ∧ S ∧ Φ) (the Sufficiency of Structure seal). The identity is tempting because it sharpens the whole picture into a single line: *◇C = T ∧ S ∧ Φ = Reality*, one necessary fact under three names.
+
+But it is placed *after* the capstone, not before it. Its backward direction (Sufficiency of Structure) is the one genuinely contested joint; the frozen-world and B-theory objections press exactly there. Because the identity sits downstream, disputing it cannot reach R = N: the maximality argument above, reinforced by constitution and exhaustion, has already established that result without it. Sufficiency of Structure is argued in Chapter 2 at §2.4.10; §2.6.10 uses it within the later Triconditional Identity. Here the point is only to mark where the contested backward direction attaches.

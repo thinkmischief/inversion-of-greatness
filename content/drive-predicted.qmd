@@ -1,0 +1,14 @@
+---
+title: "8.1.3 What is Predicted"
+notion-id: b4be1e3c-3767-4e11-a1d6-075f48cb28b2
+slug: "drive-predicted"
+index: 80103
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*Drive is the vantage on the thermodynamic fact before differentiation.* Every living system is a self-producing recursion coupled to a sustained energy gradient, reaching for throughput to maintain its own closure. That is the outside description. From inside (at any depth sufficient to have an inside at all) the same fact registers as forward pressure: the basic orientation of the organism toward the world, prior to any particular object, prior to any particular emotion, prior to any specific valenced response. This is not yet fear or joy or grief. It is the charge that precedes and underlies all of those, the baseline state of a living system that is, constitutively, not at rest.
+
+Spinoza named it *conatus*: the striving by which each finite thing perseveres in its being. But perseverance understates it. The organism does not merely maintain itself; it presses outward into the environment beyond what maintenance strictly requires. A bacterium follows a chemical gradient toward nutrients it does not need for immediate survival. A well-fed crow investigates a novel object. A satiated otter slides down a riverbank repeatedly. The throughput does not merely sustain the closure; the closure orients toward more throughput and broader engagement with the environment. This forward pressure beyond maintenance is what the structural account predicts: the recursion is not neutral. It is coupled to an energy gradient, and that coupling is not passive: it is active, forward-leaning, seeking. The organism is constituted by reaching for throughput. That reaching is drive.
+
+The structural account proposes that some forms of self-maintaining organization can be described as an orientation toward conditions of continued organization, and that richer motivational life emerges with greater recursive and neural complexity. This is a philosophical model, not an empirical result establishing felt drive in every living system. At shallow biological levels, approach and avoidance may be described functionally as tropism or regulation; whether they involve any first-person aspect is disputed. The claim that appetite, desire, aversion, care, and curiosity are differentiated forms of a common undifferentiated pressure is a positive thesis for the later Chapter 8 argument to earn, not a conclusion supplied by thermodynamics alone.

@@ -1,0 +1,22 @@
+---
+title: "9.4.2 What is Required"
+notion-id: 7be938ba-9b5c-43e3-9496-cf8eb2a2aa3f
+slug: "information-required"
+index: 90402
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+For the information environment to carry mutual recognition at the scale of a political community (the mediation layer through which the §9.2 face-to-face base scales to population size), a structural-necessity inventory specific to the mediation layer can be derived. Drop any one and the rest do not suffice; what the information environment has to deliver to scale the base rather than consume it is the conditions taken together.
+
+*Mediated channel.* The face-to-face base scales into a wider system of newspapers, broadcast, and digital infrastructure that carries recognition beyond what direct encounter can reach. The mediated channel is required alongside the base, not in lieu of it; the two registers are jointly constitutive. A community-architecture that runs only on the face-to-face base fails to scale; one that runs only on the mediated channel loses the ground-truth the base supplies.
+
+*Public anchoring.* Both channels require public-square infrastructure that operates outside engagement-optimization and outside concentrated private control: public broadcasting with structural independence from advertising and direct political pressure, public libraries with their full digital-and-physical role, comprehensive public education, and civic-information infrastructure. These are collective investment in the same register as the legal system or the public-health system, not a discretionary subsidy. (The face-to-face third places, community centers, and neighborhood-scale institutions that anchor the base are developed at §9.2.)
+
+*Engagement-optimization preclusion at primary scale.* Platforms occupying the role of primary information-environment infrastructure cannot run on revenue models that optimize for attention-capture, because engagement-optimization and mutual-recognition optimize against each other on the same axis. Engagement-optimization rewards salience, urgency, and outrage: inputs §8.12 identifies as the least reliable guide to what is actually the case. Small-scale engagement-optimized platforms can exist within an information environment whose primary infrastructure is non-engagement-optimized; the structural failure emerges where engagement-optimization occupies the primary role (Vosoughi, Roy, and Aral 2018; Brady et al. 2017).
+
+*Ownership-concentration limits.* The distribution of recognized narratives across an information environment reflects the ownership structure of that environment. Where ownership concentrates beyond thresholds at which narrative-diversity contracts and narrative-distortion in the direction of owner-aligned preferences expands, the constraint is violated. Specific concentration thresholds belong to the implementation literature; the structural condition is that some such thresholds be maintained (Bagdikian 2004; Herman and Chomsky 1988).
+
+*State-censorship preclusion distinguished from platform-moderation license.* The recognition-quality requirement that grounds the §9.3 direction-recognition protects against state censorship of speech. The same requirement licenses platform-moderation as legitimate stewardship of the platform’s contribution to the information environment. The two are different categories on the framework’s terms; conflating them produces simultaneous failure to protect discourse from state censorship and failure to protect discourse from engagement-optimization-driven degradation.
+
+Together, these conditions are what the information environment must deliver to carry mutual recognition at population scale, jointly with the §9.2 base it scales: no one of them omittable without the rest failing to carry the base. §9.4.3 is where those conditions become testable predictions.

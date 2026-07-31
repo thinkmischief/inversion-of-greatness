@@ -1,0 +1,14 @@
+---
+title: "1.5 Existence"
+notion-id: 0b7107c9-d435-4dd4-a63b-bdf90717cee5
+slug: "existence"
+index: 10500
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+To say that a thing *exists*, or that a property *is instantiated*, looks like the thinnest claim available: that something is simply there, a positing that commits one to nothing about what it is. Applied to real contents, it is not thin. To exist, in the sense fixed at §1.1, *is* to instantiate Temporality, Spatiality, and Physicality: to stand within succession, distinction, and exchange rather than over against them. *Exists* does not stand above the Conditions and reach down to posit something apart from them; it carries them with it. This is a definition, but not a stipulation. It is not true by fiat. Read as mere relabeling it would say nothing. It carries content because its terms will be earned. The three Conditions are derived from the bare fact of change (§2.4) and bound into one structure by the cross-entailment among them (§2.6.7). Necessary Occupancy (§2.8.6) discharges the result, where existence itself is shown to be occupancy of the necessary structure. A definition whose definiens is proved necessary is where the substantive claim of the book sits.
+
+What holds for *exists* holds for the vocabulary it belongs to. A philosopher writes that one event *causes* another, that distinctness *obtains* between two real states, that a beam *bears* the load above it, that the whole *consists in* its parts in the right relation. Each italicized verb is doing work the sentence cannot do without. They are operators: the working vocabulary of analytic philosophy, how the discipline points at what is the case. Some are uncontested in the field; others are sharply contested. Each, applied to real contents, carries the same Conditions *exists* does.
+
+These operators fall into families, and the boundaries between them are blurry: *consists in* and *grounds* overlap; *bears* and *causes* shade into each other in the productive reading. The sections that follow take the families one at a time.

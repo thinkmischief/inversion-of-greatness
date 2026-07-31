@@ -1,0 +1,22 @@
+---
+title: "Copyright"
+search: false
+nav-section: ["Resources"]
+nav-order: 41
+---
+
+*The Inversion of Greatness: From the Nature of Necessity to Maximum Possibility*
+
+Copyright © 2026 Procyon.
+
+**Working manuscript (pre-review draft).** This is an open working manuscript, made available for engagement and review. It has not yet been edited or reviewed by another reader, and it is not a numbered edition. Numbered editions, each with its own DOI, will follow; for citation guidance, see How to Cite.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share and adapt the material for noncommercial purposes, provided you give appropriate credit, link to the license, and indicate whether changes were made. Commercial use is reserved to the author. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Source files and build tooling are licensed under the MIT License; the full license text is distributed with the project's source files, available from [https://inversionofgreatness.org](https://inversionofgreatness.org/).
+
+Quotations from third-party works are reproduced under fair use / fair dealing for purposes of criticism, comment, and scholarship, and are attributed to their sources in the References.
+
+Published online and free to read at [https://inversionofgreatness.org](https://inversionofgreatness.org/). Numbered editions with stable DOIs will be issued through Zenodo once the work has been engaged with.
+
+Produced from a single source with Quarto, an open-source publishing system.

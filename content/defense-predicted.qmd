@@ -1,0 +1,26 @@
+---
+title: "9.11.3 What is Predicted"
+notion-id: 86596871-b8f7-42e6-9d23-97ff1ebaceb2
+slug: "defense-predicted"
+index: 91103
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of defense as the political community's institutions for protecting itself against external coercion, coupled with the structural-extraction logic, generates predictions about how defense systems perform.
+
+*First.* Permanent defense-industry establishment produces structural extraction independent of actual security threats. Defense industries operating as permanent industries (rather than as wartime-mobilized capacity) generate structural-extraction patterns whose magnitudes track industry size more than they track actual threat assessments. The pattern is the framework's prediction confirmed before the framework was formulated, in Eisenhower's January 1961 farewell address: *"In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex."*
+
+*Second.* Defense-spending trajectories diverge from threat assessments in extraction-tolerant systems. In political communities that have tolerated structural extraction generally, defense-spending trajectories track defense-industry political weight rather than threat-assessment requirements. The divergence registers empirically as the spending-vs-threat-assessment gap.
+
+*Third.* Forever-war pattern emerges where defense-industry capture exceeds democratic oversight. Ongoing-conflict postures are structurally favored over conflict-resolution postures wherever defense-industry capture exceeds the institutions of democratic oversight. The pattern follows from the structural-extraction logic applied to defense political-economy: ongoing conflict generates ongoing demand for defense-industry output; conflict resolution reduces demand. Industry pressure tracks accordingly.
+
+*Fourth.* Veterans-care underinvestment tracks defense-industry overinvestment. The same structural pattern producing defense-industry overinvestment produces veterans-care underinvestment, because the two compete for political attention from overlapping constituencies and the industry side carries structurally larger political weight. Veterans-care quality is the inverse signature of the defense-industry-extraction pattern.
+
+*Fifth.* Domestic militarization (police militarization; surveillance-state expansion) tracks defense-industry capture. Defense-industry overcapacity pressures for domestic-deployment outlets when external-deployment opportunities contract. Police-militarization patterns, surveillance-state expansion, and the extension of defense-industry products and personnel into domestic-policy domains follow as functions of the same structural-extraction pattern at the boundary between defense and policing.
+
+*Sixth.* Nuclear-proliferation pressure tracks structural-extraction logic at the international level. Arms-race dynamics, nuclear-proliferation pressures, and the failure of disarmament efforts track defense-industry political weight at the international scale, not just the national scale. International defense-industry political-economy is among the most powerful forces against arms-control reform.
+
+*Seventh.* Defense-industry political resistance to demobilization is structurally maximal during peacetime. During periods of reduced external threat, the defense industry resists demobilization with political ferocity matching the resistance the health-insurance industry produces against floor-substitution alternatives. The two industries display the same structural pattern: occupying space the political community is structurally obliged to occupy directly, and resisting any reform that would reduce the industry's structural redundancy.
+
+The predictions stated in this subsection are made under engagement with the contested international-relations opposition traditions §9.11.1 names at premise: pacifism (Tolstoy, *The Kingdom of God Is Within You* 1894; Hauerwas, *The Peaceable Kingdom* 1983), realism (Morgenthau, *Politics Among Nations* 1948; Mearsheimer, *The Tragedy of Great Power Politics* 2001), and cosmopolitanism (Kant, *Perpetual Peace* 1795; Held, *Democracy and the Global Order* 1995). Those traditions are engaged at section length in §9.11.1, and the predictions stated here apply under that engagement. The *in bello* combatant-equality dispute (Walzer vs. McMahan) adjudicated in §9.11.2 is additionally staged at §9.11.1; the predictions here concern defense political-economy and do not turn on that adjudication.

@@ -1,0 +1,34 @@
+---
+title: "2.6.5 Mutual Containment"
+notion-id: 6f505a59-1be2-46f9-b649-f922730addf0
+slug: "conditions-co-instantiation"
+index: 20605
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The three pivot derivations of §§2.6.2–2.6.4 are now in hand, and they compress into a single result:
+
+::: {.corollary}
+**Mutual Containment** · **R7** · *Result of §§2.6.2–2.6.4*
+
+The three relations jointly establish that T, S, and Φ are not three independently defined Conditions that happen to require each other. Each Condition, when its definition is unpacked to its full logical content, reveals the other two as internal requirements rather than external correlates. Temporality's genuine state-distinctness requires Spatiality's relational structure. Spatiality's exclusive occupiability requires Physicality's causal capacity, because exclusive occupancy just is causal exclusion, and causal exclusion requires a medium that can act. Physicality's causal persistence requires Temporality's temporal succession. The mutual entailment is complete, symmetric, and analytic, derivable from the definitions alone without appeal to empirical facts about our universe.
+
+
+:::
+
+The entailment claimed is not that T, S, and Φ happen to co-occur with metaphysical necessity, as though they were three independent features that every possible world happens to contain. It is the result of the realizer move worked three times in the three pivot derivations: the full logical content of each Condition's definition, when unpacked, contains the other two as internal requirements. The Mutual Containment Result inherits directly from the three pivot derivations: T↔(S∧Φ) at §2.6.2, S↔(T∧Φ) at §2.6.3, and Φ↔(T∧S) at §2.6.4, each pivot supplying one of the three bilateral entailments; the present result compresses them into the joint claim. The convergent lines of §§2.6.2–2.6.4 are demonstrations of definitional containment, not inductive observations of co-occurrence, and they are demonstrations of a single move read from three pivots, not three independent arguments that happen to compose.
+
+The distinction matters: co-occurrence would leave the Conditions separable in principle even if inseparable in fact. Containment makes the separation incoherent, not as a feature of which worlds exist, but as a constraint on what *world* consists in.
+
+A causal power with no position has nothing to act on and nothing it acts from; a position with no persistence is no one's position, because nothing is there long enough to be somewhere; persistence with no succession is a state that never transitions: all of the subject, at once, nothing changed. Each role, taken by itself, is trying to describe something only the other two make describable. Mutual definitional containment, stripped of its vocabulary, is the claim that a thing is the three roles working at once, or it is nothing at all.
+
+What happens if one Condition is removed? Remove Physicality and ask what is changing: without a being, succession indexes nothing and extension contains nothing; the grammar of change survives, but the semantics do not. Remove Spatiality and ask where it is changing: Physicality flickers through states with no field of realization, a subject with a clock but nowhere to put it. Remove Temporality and ask when it is changing: Physicality extends through space in frozen diversity, difference without succession, a snapshot with no before or after. Each removal does not weaken Reality; it collapses it. The incoherence of that collapse is developed in §2.7.
+
+*The physics-register line.* The mutual entailment also receives confirmation from inside physics. @noether1918 established that every continuous symmetry of a physical system corresponds to a conservation law: symmetry in Temporality yields energy conservation, symmetry in Spatiality yields momentum conservation. Each conservation law is a statement about what persists across transformation: Φ, named in the vocabulary of physics. Within Lagrangian dynamics, T and S as continuous symmetries entail Φ as a conservation consequence. The line is confirmation rather than independent derivation: it presupposes the action principle and the Lagrangian framework that licenses the symmetry-to-conservation move, both of which are results within physical theory rather than premises of the present argument. The biconditional is derived from inside logic (the three preceding lines); Noether confirms it from inside physics. The conservation line is developed at full length at §7.5.3.
+
+Every step of any derivation moves from one state to the next, an ordering that cannot be reversed without losing the argument. Every proposition occupies a position the preceding one did not, a distinction inference requires to advance. Across those steps something must persist, a medium that holds derivation taut across all three coordinates. Inference does not describe the Triconditional Cross-Entailment; it instantiates it. A directed succession of thoughts, through a manifold of distinct propositions, sustained by a medium that persists from premise to conclusion, is not a description of the structure but an instance of it.
+
+One structural fact, read from three directions. The next section delivers it as the Modal Identity, the biconditional that combines the Structural Requirement, P3 (§§2.4.5–2.4.9), and the converse (§2.4.10). The Modal Identity and the Ontological Identity (§§2.6.6, 2.6.8) do not add a new structure on top of that result; they name the one this derivation has already forced.[^co-instantiation-ch4]
+
+[^co-instantiation-ch4]: The objections to the Mutual Containment claim (the denial that T, S, and Φ are independently separable) are engaged in Chapter 4: bundle theory and tropes, which deny compositional unity (§4.3.10), mereological nihilism, which denies that any joint instantiation runs deeper than the simples (§4.3.11), Sider's structuralism (§4.4.7), and structural realism (§4.3.9).

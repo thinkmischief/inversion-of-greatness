@@ -1,0 +1,14 @@
+---
+title: "4.2 Time, Change, and the Changeless"
+notion-id: d90a006b-93f0-4baa-a1b0-b6920650f1db
+slug: "time-change-changeless"
+index: 40200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster asks whether change can be absent from a real world. Each candidate is tested in the same way: does it genuinely describe a reality without change, or does it quietly restore the conditions that make change possible?
+
+The challenge bears most directly on the proof's claim that any reality permits change and on the identification of change-possibility with T∧S∧Φ. The subsections test whether a supposedly changeless account can do more than redescribe Time, Space, and Substance under another vocabulary.
+
+A preliminary note before the named engagements. Two general intuitions support the positions taken up below. The first is that change might be denied at the limit: that some level beneath, above, or beside the changing world is itself unchanging, and that the unchanging level is the truer one. The second is that the appearance of change might be misleading: what looks like succession may be juxtaposition, what looks like persistence may be pattern. The argument grants the intuitions as intuitions and contests what they license: the structural conditions are derived at §§2.4–2.7 from the actuality, possibility, and impossibility profile of change. Clearing the candidates below turns on the permission side alone: each is introduced as a reality from which change is absent, and each, on inspection, instantiates the conditions it was introduced to lack. That a candidate permits change suffices to answer it, and that sufficiency is the load-bearing claim for the cluster. The Frozen-World Test at §2.4.11 argues that fully typed structure makes change possible; it does not show that every world must contain an actual transition or that every changeless interval is ∅. A frozen or silent world may retain the capacities and role-structure required for change. The cluster therefore tests whether the candidates remove those capacities. The subsections press the weaker, sufficient point and leave the stronger result standing behind it.

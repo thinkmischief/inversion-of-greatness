@@ -1,0 +1,40 @@
+---
+title: "9.2.3 What is Predicted"
+notion-id: 4056f53f-c9c0-447a-adc0-3301a1140213
+slug: "belonging-predicted"
+index: 90203
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework predicts along both of Belonging’s axes. The substrate-extension obligation predicts how extensions of the floor behave according to what they cross with and whether they reach the bodies owed; the face-to-face base, drawing on the modal-field-updating mechanism (§8.4) and the structural-reciprocity binder (§8.12), predicts how political communities behave as that base is maintained or lost.
+
+The substrate-extension predictions come first.
+
+*Capacity-crossing extension outlasts content-conditioned extension.* Where two interventions deliver comparable resources but one conditions them on content (regime reform, market liberalization, an adopted body of law) and the other crosses only with capacity, the framework predicts the content-conditioned one generates more recipient friction, faster repudiation, and weaker durability, independent of resource magnitude.
+
+*Substrate withdrawal produces recognition-hardening.* Extending the floor to a population and then withdrawing it is predicted to produce measurable hardening (instability, intergroup hostility, recognition failure) worse than never extending it, because withdrawal installs into the field the evidence that the recognition was conditional.
+
+*Regime-captured delivery fails to produce the recognition extension predicts.* Resources routed through a regime that sits between the extending community and the member-bodies are predicted not to produce the recognition-accuracy and stability gains that substrate-extension to the bodies predicts; the gains track delivery-to-bodies, not aggregate transfer.
+
+The face-to-face-base predictions follow.
+
+*First.* Loss of face-to-face civic infrastructure produces a decline in recognition accuracy proportional to the loss. Where the membership clubs, congregations, local associations, and third places that hold the face-to-face base are lost, a population’s capacity to recognize the actual conditions of its members degrades in proportion to how much of the base is gone. The decline is predicted to appear even where digital infrastructure is simultaneously expanding: the loss dynamic does not wait on digital quality. (That no level of digital quality substitutes for the base, the standing ceiling as against this dynamic of loss, is the distinct claim of the eighth prediction.)
+
+*Second.* The sign of contact tracks its structure, not its quantity. Whether contact between groups produces tolerance or hardening depends on whether the productive-contact conditions obtain (equal status, cooperation, shared goals, institutional sanction), not on the sheer amount of contact. Increasing unstructured contact between unequal-status groups predicts increased wariness, not decreased; structured contact predicts the reverse.
+
+*Third.* Integration-as-policy outcomes track whether productive-contact conditions are supplied. Policies that co-locate populations without supplying productive-contact conditions predict weak or negative recognition effects; policies that build the productive-contact structure predict field-updating at scale. The variation in integration outcomes is predicted to track the contact structure, not the mere fact of integration.
+
+*Fourth.* Distributional stratification of the base reproduces recognition inequality. Where access to civic infrastructure is stratified across populations, the recognition the base produces is correspondingly stratified, and the stratification compounds across the political community’s other domains. Populations cut off from the base are predicted to be both less recognized and less able to recognize.
+
+*Fifth.* Face-to-face deliberative venues produce different (and better-tethered) recognized direction than purely digital aggregation. Where a question is put to a face-to-face deliberative venue rather than to digital aggregation, the recognized direction that results is predicted to differ systematically and, on the framework’s terms, to track the population’s actual conditions more accurately, because the deliberative venue preserves the distinct-position-across-asymmetric-exchange structure §8.12 requires.
+
+*Sixth.* Resilience to shocks tracks the strength of the face-to-face base. A population’s resilience under disaster, public-health emergency, and disinformation pressure is predicted to track the density and equity of its face-to-face civic infrastructure, because the base is what carries coordinated recognition when mediated channels are degraded or overwhelmed.
+
+*Seventh.* Inherited threat-calibration persists until field-updating exposure occurs. Wariness toward out-groups calibrated to ancestral resource-competition conditions is predicted to persist in a population until productive-contact exposure updates the modal field, and to fire harder, not softer, where contact is brief, unequal, or conflict-laden. Hostility is predicted to track the absence of field-updating exposure, not a fixed disposition.
+
+*Eighth.* The face-to-face base is non-substitutable regardless of digital quality. No improvement in the quality, reach, or personalization of digital infrastructure is predicted to substitute for a maintained face-to-face base at population scale. Communities that have lost the base are predicted to remain vulnerable to recognition failure in proportion to the loss, and communities that maintain or rebuild it are predicted to display measurably greater recognition resilience at comparable digital exposure.
+
+These predictions are made under engagement with the contested opposition traditions §9.2.1 names at premise: the cyber-utopian / networked-community defense (Benkler, *The Wealth of Networks* 2006; Shirky, *Here Comes Everybody* 2008) and Rawlsian political liberalism (Rawls, *Political Liberalism* 1993). Those traditions are engaged at section length in §9.2.1, granting that mediated and sub-population communities produce real recognition, and that citizens need not share a comprehensive doctrine, while parting from both on whether anything replaces the face-to-face base at population scale. The predictions stated here apply under that engagement.
+
+*What is predicted.* On the extension axis: substrate-only extension outlasts content-conditioned extension, withdrawal of an extended floor produces hardening, and regime-captured delivery fails to produce the recognition delivery-to-bodies would. On the base axis: a political community’s recognition accuracy, its integration outcomes, its resilience to shocks, and its vulnerability to inherited hostility all track the maintenance, structure, and equitable distribution of the face-to-face base, and none of them is recoverable by digital infrastructure alone. All of these are tested against the record at §9.2.4.

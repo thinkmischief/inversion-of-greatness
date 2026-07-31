@@ -1,0 +1,20 @@
+---
+title: "9.3.1 What is Disputed"
+notion-id: 7ea99aeb-6e70-44c0-aa2c-cff9ac236399
+slug: "representation-disputed"
+index: 90301
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+Representation theory divides at the root over what representation is *for*. The direction-recognition tradition reads representation as the mechanism by which a population's direction becomes visible, reasoned about, and known well enough to act on: the structural function representation performs in maintaining the political community as the community of its participants rather than its administrators. Three contemporary traditions deny this framing at its premise.
+
+Epistocracy (Brennan 2016; Caplan 2007) reads the direction-recognition framing as miscalibrated to information conditions: when the median voter is systematically uninformed about the issues their vote will decide, weighting votes equally recognizes confusion more accurately than direction. The right form for representation, on this reading, is competence-weighted rather than equally-weighted, and the equally-weighted default is the structural mistake.
+
+Schumpeterian elitism (Schumpeter 1942) reads representation not as direction-recognition at all but as the periodic competitive selection of leadership from among elites; the population's role is to choose between rival ruling teams. *Direction beyond competitive choice* is on this reading either incoherent or a misdescription of what democratic populations actually do: the demand that representation read direction confuses what representation has historically been with what reformers wish it were.
+
+Burkean trusteeship (Burke 1774; Pitkin 1967) reads the representative's job as the exercise of judgment rather than the integration of recognized direction: the constituency has interests and conditions the representative must judge how to serve, sometimes against expressed preferences when those preferences would damage the interests they protect. To read representation as direction-recognition is to misunderstand what fiduciary office actually requires.
+
+The direction-recognition tradition the section operates within reaches the same destination on multiple independent grounds. The deliberative-democratic tradition (Habermas [1992] 1996; Fishkin 2018) reads representation as constitutively coupled to deliberation: direction is recognized through deliberation, not aggregated raw. The comparative-consensus tradition (Lijphart [1999] 2012) reads consensus-democratic architectures as systematically outperforming majoritarian ones on representation quality and minority-preference inclusion. The republican-non-domination tradition (Pettit 1997, 2012) reads representation as the institutional form of non-domination: the conditions under which the population's direction is not subject to arbitrary override. The epistemic-democracy tradition (Landemore 2020) reads diverse cognitive aggregation as outperforming expert filtering on most population-scale questions. The capabilities tradition (Sen 1999; Nussbaum 2006) reaches representation through the question of which capabilities institutions have to maintain for representation to be substantive rather than formal.
+
+The dispute the section frames is whether representation can be a competence-weighted, elite-selecting, judgment-exercising fiduciary office rather than direction-recognition at the population scale (a thesis pressed by Brennan and Caplan, by Schumpeter, and by Burke and Pitkin) or whether direction-recognition is the structural function representation must perform if it is to be representation at all rather than direction-substitution by another name, a thesis pressed by Habermas through Landemore. What representation must deliver to count as representation (derived from the §8.3/§8.4/§8.9 grounding) is worked out by the structural-necessity argument at §9.3.2. *Thus the question stands disputed.*

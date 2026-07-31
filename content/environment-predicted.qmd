@@ -1,0 +1,28 @@
+---
+title: "9.5.3 What is Predicted"
+notion-id: e5962fe1-2868-48b9-aa4f-7472eaf1a9ad
+slug: "environment-predicted"
+index: 90503
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of environmental protection as the political community's intergenerational maintenance of the conditions on which all participation depends, joined to the structural-extraction logic and the §8.11 technology-condition account, generates its predictions about how environmental policy performs.
+
+*First.* Climate-action delay tracks fossil-fuel-industry extraction patterns: the magnitude and pace of climate-policy delay track the political weight of the fossil-fuel industry within the political community, not the empirical record on climate science. The Oreskes–Conway *Merchants of Doubt* pattern is the prediction confirmed before the framework was formulated.
+
+*Second.* Intergenerational extraction patterns run systematically larger than intra-generational ones. Future generations cannot have their direction recognized through any current representation system; the asymmetry produces systematically larger extraction patterns at the intergenerational interface than at the intra-generational one. Climate change, biodiversity loss, topsoil depletion, antimicrobial-resistance accumulation, and nuclear-waste accumulation are larger structural-extraction patterns than any intra-generational extraction pattern.
+
+*Third.* Unregulated environmental externalities track structural-extraction patterns. Under unconstrained profit-maximization, any productive activity producing environmental externalities externalizes costs onto the environment to the extent the political-economic order permits. The pattern is structural, not contingent on bad actors; internalization architecture is required as a structural condition.
+
+*Fourth.* Tragedy-of-the-commons patterns emerge for unmanaged shared resources. The pattern (Hardin 1968 at the strongest version; Ostrom 1990 at the more careful version) emerges for shared resources lacking either collective-management institutions or property-rights-with-internalization architecture. Effective collective-management institutions exist in many empirical cases (Ostrom's commons literature documents the pattern); pure-Hardin pessimism overestimates the inevitability.
+
+*Fifth.* Renewable-energy adoption tracks where the extraction-defense political economy is weakest. Adoption tracks the local strength of the fossil-fuel-industry political economy inversely: jurisdictions with weaker fossil-fuel political weight adopt renewables faster than those with stronger fossil-fuel political weight, controlling for resource availability and economic conditions.
+
+*Sixth.* Biodiversity loss tracks extraction pressure on habitat. Biodiversity-loss rates track the extraction pressure on habitat (deforestation, ocean overfishing, wetland conversion, pollution-driven habitat degradation) more than they track human-population variables alone. The pattern is visible empirically as the extraction-pressure-tracking signal in biodiversity time-series data.
+
+*Seventh.* The technology condition (§8.11) lands here as the test case. Whether the political community can scale environmental-maintenance infrastructure fast enough to meet the climate, biodiversity, and ecological-stability challenges is the test case for whether the framework's technology-as-constitutive-condition prediction succeeds or fails at the species scale. *"Technology is either going to break us or save us"* is the prediction in compressed form: technology under structural-extraction political economy breaks the conditions; technology under political-community maintenance saves them. The fork is the test.
+
+*Eighth.* Long-horizon environmental governance traditions outperform pure-market or pure-state governance. Traditions developed under longer-than-modern intergenerational accountability (Indigenous land-management traditions; long-running commons-management institutions Ostrom's literature documents) outperform pure-market and pure-state alternatives on long-run environmental outcomes, where the empirical comparison is available. The convergence on these traditions from the framework's structural derivation is one of the framework's confirmations from the most-distant premises.
+
+The predictions stated in this subsection are made under engagement with the contested environmental-policy traditions §9.5.1 names at premise: free-market environmentalism (Coase 1960; Anderson and Leal 1991), the deep-ecology tradition (Næss 1973; Devall and Sessions 1985), and the cost-benefit / prioritization tradition (Nordhaus 2013; Lomborg 2001). Those traditions are engaged at section length in §9.5.1, and the predictions stated here apply under that engagement.

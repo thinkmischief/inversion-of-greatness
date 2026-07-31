@@ -1,0 +1,16 @@
+---
+title: "3. Convergence"
+notion-id: e4dff091-e4a4-4a0c-9101-f413703af784
+slug: "convergence"
+index: 30000
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The last chapter reached the book's main conclusions by one canonical line of argument. The worry any careful reader has is the obvious one: what if that line has a flaw? This chapter tests which results can be rebuilt from independent materials, which can only be reinforced, and where a shared premise remains load-bearing. Convergence strengthens a conclusion only when the lines are genuinely distinct; multiplying versions of one inference adds no protection.
+
+The convergence is therefore uneven by design. Section §3.1 pressure-tests the necessary possibility of change without pretending that a temporal no-onset argument yields cross-world invariance. Its dilemma, no-onset closure, and performative witness remove major counterpictures and establish ◇C wherever the question is raised, while leaving the full □◇C result with T1 unless an independent type-bridge is supplied. Sections §§3.2–3.3 then perform the chapter's strongest S5-free work: they rebuild the necessity of direction, difference, and bearer at role-resolution from facthood, determinacy, modal content, denial, and the incoherence of ∅.
+
+Section §3.4 asks whether Reality could exceed that necessary structure. Maximality supplies the shortest weld. The residue dilemma supplies another class-wide line: whatever makes a difference instantiates the Conditions, while whatever makes none fails the opening account of the real. The Grounding Trilemma supplies a third line by showing that any proposed additional ground either reinstantiates the Triconditions, falls within Nature, or performs no grounding work; the residue dilemma catches the idler that final horn releases. Role co-reference reinforces the three lines from reference.
+
+Section §3.5 gathers the result without inflating its independence. It separates role from type, diagnoses why the tempting Reverse Lift cannot derive □◇C without circularity at the present type-seam, and then lets the S5 Bottleneck confirm the same ground from above. The chapter's strength is not that every road is freestanding. It is that every dependency is visible, the role-level Necessity of Nature survives without S5, and the remaining modal burden is isolated rather than hidden.

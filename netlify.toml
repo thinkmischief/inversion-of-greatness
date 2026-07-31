@@ -1,0 +1,6 @@
+[build]
+  publish = "_site"
+  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.9.38/quarto-1.9.38-linux-amd64.tar.gz && tar -xzf quarto-1.9.38-linux-amd64.tar.gz && export PATH=\"$PWD/quarto-1.9.38/bin:$PATH\" && npm install && node rebuild.js"
+
+[build.environment]
+  NODE_VERSION = "20"

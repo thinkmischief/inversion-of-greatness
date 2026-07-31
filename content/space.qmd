@@ -1,0 +1,12 @@
+---
+title: "7.3 Space"
+notion-id: 4449ef2f-3070-4190-9850-9c6ca92038d5
+slug: "space"
+index: 70300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Space is less a thing than a relation: the feature of the world that makes one place genuinely distinct from another. Without it, nothing would separate one arrangement of things from the next, and there would be no sense in which anything was anywhere at all.
+
+Here is not there. No two places are the same place, and no place is every place. The empirical fact of extension is not in dispute; the question is what extension actually is. The modal framework answers: Spatiality *is* the relational manifold (the connected extent of locations standing in determinate distance and direction relations to one another: the structural arena within which here-and-there distinctions register), not a container within which things are placed, not a catalogue of distances between pre-existing things, but the structural feature by which here and there differ at all. Whether that manifold is continuous or, at the Planck scale, discrete (§7.6.2) is a question physics has not settled; the structural claim (that here differs from there across a determinate interval) holds either way.

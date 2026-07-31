@@ -1,0 +1,177 @@
+% PDF semantic block environments — academic monograph style
+% Matched to the HTML CSS in styles/custom.css (Section 12).
+
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,breakable}
+\usepackage{tocvsec2}
+\usepackage{multicol}
+
+% Suppress indent of the paragraph immediately following a semantic box.
+% \noindent\ignorespaces glued directly onto \end{semanticX} — safe against
+% both mdframed (this file's first box implementation) and tcolorbox (the
+% current one, switched to below for its native per-side rule-width
+% support), tested in isolated xelatex reproductions against each.
+\newcommand{\suppressnextindent}{\noindent\ignorespaces}
+
+% Footnotes flush left, no indent — on request. LaTeX's kernel default
+% (\@makefntext) right-aligns the footnote mark inside an invisible
+% 1.8em box (\hb@xt@1.8em{\hss\@makefnmark}), which reads as a small
+% hanging indent before the mark and text both start. This drops that
+% box entirely: mark then text, flush against the true left margin.
+\makeatletter
+\renewcommand{\@makefntext}[1]{%
+  \setlength{\parindent}{0pt}%
+  \noindent\@makefnmark\ #1%
+}
+\makeatother
+
+% Per-type border colors — the exact light-mode --book-sb-*-border hex
+% values from styles/themes/procyon.css, so each box reads as the same
+% color family as its HTML counterpart. premise/argument/untyped share
+% definition's own gray on the website too (their own --book-sb-*-border
+% values are set to `var(--book-sb-definition-border)`), so they do here
+% as well — not separate colors by omission, matching that inheritance
+% intentionally. Also reused directly for the native "Note" callout
+% restyle below (--book-sb-untyped-border is the same #6B6B6B gray).
+\definecolor{sbDefinition}{HTML}{6B6B6B}
+\definecolor{sbCondition}{HTML}{2A5F9C}
+\definecolor{sbIdentification}{HTML}{3A6432}
+\definecolor{sbPrinciple}{HTML}{B4552E}
+\definecolor{sbLemma}{HTML}{7A2C9E}
+\definecolor{sbCorollary}{HTML}{1E6E78}
+\definecolor{sbTheorem}{HTML}{B8860B}
+\definecolor{sbQuickref}{HTML}{6B6560}
+
+% Shared box chassis — copied directly from Quarto's OWN native callout
+% geometry (Tip/Warning/Important/Caution, unchanged, immediately below
+% in this file), not approximated: on request, after several passes that
+% kept missing the mark ("don't they just have a style you can almost
+% copy... the only thing I want different is literally the colors and
+% the no icon") — read the ACTUAL parameters Quarto generates for its own
+% callouts straight out of this book's own compiled .tex (e.g. for Note:
+% "enhanced jigsaw, arc=.35mm, bottomrule=.15mm, bottomtitle=1mm,
+% colback=white, colbacktitle=COLOR!10!white, colframe=COLOR-frame,
+% coltitle=black, left=2mm, leftrule=.75mm, rightrule=.15mm,
+% title=ICON+TEXT, titlerule=0mm, toprule=.15mm, toptitle=1mm") and
+% matched every one of those values here — every earlier pass had
+% guessed at reasonable-looking numbers instead (9pt/7pt/6pt padding, a
+% separate borderline-west overlay for the left accent) and NEVER
+% actually matched Quarto's own numbers, which is exactly why the result
+% kept reading as "still not there" no matter how many individual
+% properties got nudged. leftrule alone (thicker than the other three
+% sides) is what gives the left accent — no separate overlay decoration
+% needed, and titlerule=0mm (Quarto's own value: no separate rule
+% distinct from the frame's own bottomrule closing the title band).
+% Only real, deliberate departures from Quarto's own values: title=#1
+% (dynamic per-instance text/argument, not a fixed icon+label), and
+% colbacktitle at 15% instead of Quarto's 10% (this book's own per-type
+% colors are less saturated than Quarto's Bootstrap-derived theme colors,
+% so 10% read as barely-there in an earlier check — 15% is the smallest
+% bump that stayed visible).
+\tcbset{
+  semanticboxbase/.style={
+    enhanced,
+    arc=0.35mm,
+    toprule=0.15mm, bottomrule=0.15mm, rightrule=0.15mm, leftrule=0.75mm,
+    colback=white,
+    coltitle=black,
+    left=2mm, right=2mm, top=2mm, bottom=2mm,
+    toptitle=1mm, bottomtitle=1mm,
+    titlerule=0mm,
+    before skip=10pt, after skip=10pt,
+    before upper={\setlength{\parindent}{0pt}},
+  }
+}
+
+\newtcolorbox{semanticboxdefinition}[1]{semanticboxbase, colframe=sbDefinition, colbacktitle=sbDefinition!15!white, title=#1}
+\newtcolorbox{semanticboxtheorem}[1]{semanticboxbase, colframe=sbTheorem, colbacktitle=sbTheorem!15!white, title=#1}
+\newtcolorbox{semanticboxlemma}[1]{semanticboxbase, colframe=sbLemma, colbacktitle=sbLemma!15!white, title=#1}
+\newtcolorbox{semanticboxcorollary}[1]{semanticboxbase, colframe=sbCorollary, colbacktitle=sbCorollary!15!white, title=#1}
+\newtcolorbox{semanticboxcondition}[1]{semanticboxbase, colframe=sbCondition, colbacktitle=sbCondition!15!white, title=#1}
+\newtcolorbox{semanticboxquickreference}[1]{semanticboxbase, colframe=sbQuickref, colbacktitle=sbQuickref!15!white, title=#1}
+\newtcolorbox{semanticboxidentification}[1]{semanticboxbase, colframe=sbIdentification, colbacktitle=sbIdentification!15!white, title=#1}
+\newtcolorbox{semanticboxprinciple}[1]{semanticboxbase, colframe=sbPrinciple, colbacktitle=sbPrinciple!15!white, title=#1}
+
+% Hanging-indent bibliography — PDF equivalent of the HTML
+% body.references-page CSS rule (styles/custom.css, section 15). Applied by
+% filters/semantic-blocks.lua to the chapter titled "References". First line
+% of each entry sits flush left; wrapped lines indent 1.5em, instead of
+% LaTeX's default first-line indent. \raggedright matches the HTML rule's
+% text-align: left — ragged right edge, not fully justified.
+\newenvironment{hangingrefs}{%
+  \begingroup
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{4pt}%
+  \everypar{\hangindent=1.5em\hangafter=1\relax}%
+  \raggedright
+}{%
+  \par\endgroup
+}
+
+% Zero first-line indent on every paragraph — PDF equivalent of the HTML
+% body.glossary-page CSS rule (styles/custom.css, section 16). Applied by
+% filters/semantic-blocks.lua to the Glossary chapter, a flat list of
+% one-paragraph entries where neither the book's normal first-line indent
+% nor a hanging indent belongs — every entry sits flush left, ragged right
+% (\raggedright), not fully justified, matching the HTML rule.
+\newenvironment{flushparagraphs}{%
+  \begingroup
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{5pt}%
+  \raggedright
+}{%
+  \par\endgroup
+}
+
+% Two-column, smaller-text subject index — PDF equivalent of the HTML
+% body.subject-index-page CSS rule (styles/custom.css, section 16b), with
+% the standard back-of-book-index layout (two columns, reduced size) added
+% on top. Applied by filters/semantic-blocks.lua to the Index chapter. Each
+% entry's first line sits flush left; a wrapped continuation line nests in
+% by 1em, matching the same 1em hanging indent used on the HTML index page.
+% \raggedright matches the HTML rule's text-align: left.
+\newenvironment{twocolindex}{%
+  \begingroup
+  \small
+  \setlength{\parindent}{0pt}%
+  \everypar{\hangindent=1em\hangafter=1\relax}%
+  \raggedright
+  \begin{multicols}{2}
+}{%
+  \end{multicols}
+  \endgroup
+}
+
+% Native Quarto "Note" callout — the only callout type actually used in
+% the book (the other four are kept in style-preview.qmd purely for
+% reference) — restyled in filters/semantic-blocks.lua to use the same
+% chassis as every semantic box above (Definition/Untyped's shared gray:
+% title band, left accent, full-width rule, white body), instead of
+% Quarto's own tcolorbox jigsaw/icon/title-band style. On request: "the
+% note too... it needs to have the same kind of thing." Callouts can run
+% long in normal prose, unlike the short structured semantic types above,
+% so — unlike semanticboxbase — this one stays breakable.
+\newtcolorbox{semanticboxnote}[1]{semanticboxbase, breakable, colframe=sbDefinition, colbacktitle=sbDefinition!15!white, title=#1}
+
+% Tables — most tables (simple shape: one header row, one body, no
+% multi-paragraph cells, no pandoc-assigned fractional column widths) are
+% now hand-emitted directly by filters/semantic-blocks.lua's Table()
+% function as a bordered longtable matching the same chassis as the
+% semantic boxes and Note: its own existing header row tinted gray via
+% colortbl's \rowcolor (not a separate title row), outer-edge vertical
+% bars, \hline rules — see that function's own header comment for why
+% this couldn't just be a tcolorbox wrapped around the existing output
+% (longtable's cross-page breaking doesn't survive being nested in any
+% other box). Any table that function declines (complex shape) falls
+% through to this booktabs-based styling instead, applying to Pandoc's
+% own default \begin{longtable} output: \heavyrulewidth/\lightrulewidth
+% thin the default booktabs rules, and every longtable (both kinds) gets
+% shrunk to \small, closer to the website's smaller table font-size
+% (0.83rem vs 1rem body).
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{etoolbox}
+\setlength{\heavyrulewidth}{0.9pt}
+\setlength{\lightrulewidth}{0.5pt}
+\AtBeginDocument{\AtBeginEnvironment{longtable}{\small}}

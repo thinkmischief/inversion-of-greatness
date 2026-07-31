@@ -1,0 +1,29 @@
+---
+title: "Contributors"
+notion-id: 0be53ca1-2a9d-4317-98a5-32144ad3350e
+slug: "contributors"
+role: chrome
+body-classes: site-page
+search: false
+surfaces: ["Site"]
+---
+
+This book is reviewed in the open, on the public site itself, ahead of a first edition. This page is its standing record of the people whose engagement has sharpened the argument — the public, edition-by-edition acknowledgment that open peer review depends on.
+
+## What is acknowledged here
+
+Two kinds of engagement earn a place on this page: corrections that enter the manuscript, and substantive objections that press a claim into a stronger form — even where the claim's substance does not change. Each entry names the contributor, records briefly what the contribution did, and notes the edition in which it was incorporated.
+
+## How names are handled
+
+Acknowledgment is by name by default, and the name used to sign a submission is the name used here. Anyone who would prefer not to be named should say so when writing. Anonymous contributions are equally welcome: a reviewer may respond anonymously and still be credited as an anonymous contributor. What is public is the substance of the exchange, not necessarily the identity behind it.
+
+## How to contribute
+
+Objections and responses are genuinely sought, in whatever form they arrive. They can reach me through the usual scholarly channels — a journal, a preprint server, a blog, or your own site — or through the contact form on the Contact page. See the **Engagement** section of the Contact page for the full account of how review is conducted.
+
+## Contributors by edition
+
+*No contributions recorded yet. As open review proceeds, each edition's contributors will be listed here, each with a short note on what their engagement changed and the edition in which it was incorporated.*
+
+Every substantive revision logged in the Changelog traces back to the engagement credited on this page.

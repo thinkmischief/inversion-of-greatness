@@ -1,0 +1,26 @@
+---
+title: "9.10.3 What is Predicted"
+notion-id: bd685f3e-14ef-45da-a20f-c1e3e7a8548e
+slug: "healthcare-predicted"
+index: 91003
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of healthcare as upstream of agentive participation, run with the structural-extraction derivation, generates predictions about how healthcare systems behave across institutional configurations.
+
+*First.* Where insurance occupies the sufficiency-floor space, the structural-extraction patterns at constitutive vulnerability will systematically appear. High administrative costs, denial incentives, gatekeeping, and profit margins extracted from sick, injured, and bereaved people are predicted as the default operating pattern of any privatized insurance industry occupying the floor. The pattern is not a contingent failure of bad actors; it follows mechanically from the structural redundancy of insurance for the floor combined with the profit-maximization pressure of private firms.
+
+*Second.* Healthcare outcomes will track upstream investment in collective health infrastructure more than they track per-capita spending. The political-community-as-maintenance account predicts that aggregate health outcomes (life expectancy, infant mortality, treatable-condition outcomes, preventable-disease prevalence) follow from the strength of the upstream maintenance infrastructure, not from the volume of downstream healthcare-economy spending. Systems that spend more on a fragmented privatized system are predicted to underperform systems that spend less on a cohesive collective-investment infrastructure.
+
+*Third.* Mental-health and substance-related conditions will be systematically under-treated where they are routed through criminalization rather than through healthcare. The routing-mismatch is predicted to produce more aggregate cost (justice-system burden, emergency-services burden, lost productivity, downstream criminalization of survival behaviors) than upstream-treatment routing would. The pattern should surface at high empirical visibility, because the routing failure has multiple downstream tracks where its costs become measurable.
+
+*Fourth.* Political communities that under-invest in healthcare for any sub-population will pay the costs in downstream domains. Uninsured populations, undocumented populations, prisoners, the chronically mentally ill, and similarly excluded populations are predicted to generate downstream costs in justice burden, emergency-room costs, communicable-disease spread, and lost productivity that exceed the upstream cost of maintaining baseline healthcare for them. The exclusion is predicted to cost the political community more, not less.
+
+*Fifth.* Privatized health-insurance-industry political resistance to collective-investment alternatives will be the most ferocious in the political landscape. The industry's structural redundancy is more thoroughly derived under the framework than for any other private-sector lobby, and the industry's revenue depends entirely on occupying space the political community is structurally obliged to occupy. Lobbying intensity, regulatory capture, and rhetorical resistance to floor-substitution alternatives follow from the industry's structural exposure rather than from any contingent political fact.
+
+*Sixth.* Drug-policy regimes optimized purely for prohibition will systematically underperform regimes combining harm reduction, treatment access, and upstream-conditions investment. Underperformance is predicted on the margins most relevant to health, justice burden, and participation maintenance: addiction prevalence, overdose mortality, criminal-justice burden, public-health metrics, and family stability. The prediction follows from the healthcare-as-upstream account combined with the upstream-justice coupling that §9.13 develops further.
+
+*Seventh.* Population-scale public-health responses (vaccination, communicable-disease control, sanitation) will outperform individual-scale market-mediated responses for the same conditions. The gap follows because population-scale conditions are not the kind of problem that decomposes into individual choice problems; collective-investment infrastructure is structurally fitted to the problem and individual market mechanisms are structurally mismatched to it.
+
+The predictions stated in this subsection are made under engagement with the contested classical-liberal-health-policy traditions §9.10.1 names at premise: Milton Friedman's medical-licensure and consumer-directed-care critique (*Capitalism and Freedom* 1962, chapter IX), the contemporary Cato-tradition health-policy position and Singapore medical-savings-account architecture, and the Pauly moral-hazard analysis (*The Economics of Moral Hazard* 1968). Those traditions are engaged at section length in §9.10.1, and the predictions stated here apply under that engagement.

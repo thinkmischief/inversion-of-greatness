@@ -1,0 +1,231 @@
+---
+title: "Appendix A: Modal Logic Primer"
+search: false
+nav-section: ["Appendices"]
+nav-order: 20
+---
+
+```{=latex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+```
+
+## How to read this appendix
+
+The book's argument runs in modal logic — the logic of what must be, what could be, and what could not have been. This appendix teaches exactly as much of that logic as the argument uses. Part 1 is the machinery — the operators, the five modal statuses, the kinds of necessity, the systems, the notation. Part 2 names the three standing debates the argument walks into. Part 3 is how this book settles them, and where it departs from the standard picture. Part 4 runs the central derivation in full, for readers who want to watch the machinery work.
+
+If modal logic is new to you, read Parts 1–3 in order; Part 4 will keep. If you come from the Kripke tradition, skim Part 1's tables for the notation and go straight to Parts 2 and 3 — the departures are the point. Either way, two reference tables in Part 1, *the five statuses* and *symbols at a glance*, are built to be flipped back to while reading the main text.
+
+::: {.callout-note}
+**If you read nothing else**
+
+Modal logic is the exact vocabulary for the difference between what *is* and what *must be*. Two operators do the work: **□P** (“necessarily P”) means P holds in *every* possible world; **◇P** (“possibly P”) means P holds in *at least one*. A *possible world* is just a complete way things could have been. From these come five statuses — necessary (□P), possible (◇P), impossible (¬◇P), contingent (◇P ∧ ◇¬P), and actual (P). Watch three traps: possible ≠ likely, necessary ≠ important, impossible ≠ very unlikely. The book works in the strongest standard system, **S5** (modal status is the same from every world). Its signature move is to derive the relevant S5 principle from a fixed global domain of real possibility rather than simply assume an accessibility relation. Everything drives at one claim: **□(T∧S∧Φ)** — Temporality, Spatiality, and Physicality are not merely present but *could not have been absent*.
+
+
+:::
+
+## Part 1: What modal logic is
+
+### Why the distinction matters
+
+Ordinary language blurs the difference between what *is* and what *must be*. "The sky is blue" and "triangles have three sides" look like the same kind of sentence, but the first could have been false and the second could not. Modal logic is the formal vocabulary that makes that difference exact — and the difference is not idle. The book's central argument turns on it: it aims to show that certain structural features of Reality are not merely present but *could not have been absent*. You cannot state that claim, let alone defend it, without a precise way to separate *happens to be* from *had to be*. That is what the vocabulary below buys you.
+
+### Possible worlds: the basic picture
+
+Modal logic's central device is the *possible world*: a complete way things could have been. The actual world is one possible world; others are ways reality could have gone but did not. Ways reality *could not* have gone are ruled out as impossible. Propositions are evaluated relative to worlds — true at some, false at others — and modal claims become claims about *how many* worlds a proposition holds in.
+
+Hold this picture loosely for now. Whether possible worlds are *real places* or just a way of speaking is itself one of the debates (Part 2), and it is the one this book has the most to say about (Part 3). For learning the vocabulary, treat a possible world as simply whatever you quantify over to state modal claims precisely.
+
+### The two operators
+
+Ordinary propositional logic has truth-functional connectives: ¬ (not), ∧ (and), ∨ (or), → (if-then), ↔ (if-and-only-if). Modal logic adds two operators that quantify over possible worlds:
+
+- *The box (□)* reads "necessarily." □P is true just when P holds in *every* possible world. Logical truths are necessary: □(P ∨ ¬P) holds because no world contains a proposition that is neither true nor false.
+- *The diamond (◇)* reads "possibly." ◇P is true just when P holds in *at least one* possible world. A world in which you become a concert pianist is possible; a world in which 2 + 2 = 5 is not.
+
+The two are interdefinable — something is necessary exactly when its negation is impossible, and possible exactly when its negation is not necessary:
+
+□P \equiv \neg◇\neg P \qquad ◇P \equiv \neg□\neg P
+
+Given either, the other follows; most texts keep both for readability.
+
+### False friends (clear these first)
+
+Everyday meanings will mislead you, and three need unlearning on the spot. **"Possible" does not mean "likely":** ◇P says P holds in *some* world, however improbable, so a fair coin landing heads a thousand times running is wildly unlikely but perfectly possible. **"Necessary" does not mean "important" or "required":** □P is not about what matters or what the rules demand, but about what holds in every world without exception. And **"impossible" does not mean "very unlikely":** ¬◇P is structural preclusion — *no* world contains it — so impossibility is a different kind of thing from a small probability, not a smaller one. A fourth, subtler trap — the *modal fallacy* — gets its own note below.
+
+### The five statuses
+
+With the operators fixed, the five modal statuses the book uses can be set out together. Necessity and possibility are taken as primitive; the other three are defined from them.
+
+| Status | Holds when | Formal |
+| --- | --- | --- |
+| Necessary | true in every possible world | □P |
+| Possible | true in at least one possible world | ◇P |
+| Impossible | true in no possible world | ¬◇P ≡ □¬P |
+| Contingent | possible, and its negation also possible | ◇P ∧ ◇¬P |
+| Actual | true in the actual world | P |
+
+The first four form the *modal square*: P is necessary exactly when ¬P is impossible, and contingent exactly when neither P nor ¬P is necessary. Actuality sits inside the square — whatever is actual is thereby possible (P → ◇P), but not the reverse.
+
+::: {.callout-note}
+**Quick check.** If a particular coin toss landed heads, that fact is actual and contingent: it happened, but it could have gone otherwise. That the coin *could* have landed tails is possible. That 2 + 2 = 5 is impossible. That every triangle has three sides is necessary. If those four verdicts are clear, the vocabulary needed for the book's argument is in hand.
+
+
+:::
+
+The impossibility that matters most for the argument is a specific one: **∅**, the proposed total absence of the structural roles. It counts as impossible not because it is unlikely but because it is precluded — [§2.8](the-argument.html#sec-2-8) argues that no possible world can realize it, the result declared as the *Exclusivity of Nature* ([§2.8.6](the-argument.html#sec-2-8-6)).
+
+**The modal fallacy.** The most common beginner error is the slide from *actual* to *necessary*: from "this is the case" to "this had to be the case." The configuration of atoms on this page is actual and contingent — it could have been otherwise. That each atom is identical to itself is necessary. Confusing the two flattens contingency into necessity, and it is a standing hazard in modal reasoning. (It is distinct from the *modal-collapse* worry of [§4.4.9](metaphysical-rivals.html#sec-4-4-9), which presses the converse: that S5 over-tightens necessity into actuality.)
+
+### Necessity comes in kinds
+
+The same box □ can express different claims depending on which worlds are allowed to count. *Logical necessity* holds in every world without exception — the truths of logic and mathematics. *Metaphysical necessity* holds in every world that could genuinely have obtained, whether or not it is a truth of logic: that water is H₂O (Kripke, *Naming and Necessity*, 1980), or that nothing is a round square. *Physical (nomological) necessity* holds in every world sharing the actual laws of nature, and is weaker than metaphysical necessity. *Epistemic necessity* — what must be so given what is known — is not about worlds at all and plays no role here.
+
+It helps to watch one claim slide across the kinds. *Nothing travels faster than light* is physically necessary — true in every world with our laws — but not metaphysically necessary, since worlds with different laws are genuinely possible. *Water is H₂O* is metaphysically necessary but not logically necessary: no genuinely possible world has watery stuff that isn't H₂O, yet its truth does not follow from logic alone. The kinds nest — every logical necessity is a metaphysical one, and every metaphysical necessity a physical one, but not conversely — so *logically necessary* is the strongest verdict a claim can get and *physically necessary* the weakest of the three.
+
+When this book writes □, it means metaphysical necessity — the *alethic* necessity of the standard literature, what the argument calls *real* necessity, the dual of the *real possibility* fixed at [§1.2](groundwork.html#sec-1-2). So □(T∧S∧Φ) is neither "follows from logic alone" nor "holds given the actual laws"; it is "no genuinely possible world lacks it."
+
+### The systems: K, T, S4, S5
+
+*Optional on a first pass.* A new reader can skim this section and retain one point: S5 says that modal status does not vary from world to world. Return to the ladder when the book begins explaining why that claim must be earned rather than assumed.
+
+Different systems of modal logic arise from different rules about which worlds count as *accessible* from which — which worlds are genuinely possible from the standpoint of a given world. The more generous the rule, the more the system proves. Each step adds a constraint, and each constraint answers to an intuition:
+
+| System | Adds | Schema | Frame condition | Reads / why you'd want it |
+| --- | --- | --- | --- | --- |
+| K |  —  | □(P → Q) → (□P → □Q) | none | necessity distributes over implication — the bare minimum any modal logic needs |
+| T | T | □P → P | reflexive | what is necessary is actually the case — drop this and "necessary" no longer implies "true" |
+| S4 | 4 | □P → □□P | transitive | what is necessary is necessarily necessary — necessity doesn't itself vary |
+| B | B | P → □◇P | symmetric | what is actual is necessarily possible — no world is cut off from ones that can reach it |
+| S5 | 5 | ◇P → □◇P | equivalence | what is possible is necessarily possible — modal status is the same from every world |
+
+The main chain runs K ⊂ T ⊂ S4 ⊂ S5, each adding its constraint to the last; B sits off the chain but supplies the axiom S5 also validates. The book uses **S5**, where accessibility is a full equivalence relation (reflexive, transitive, symmetric): relative to any world, modal status is invariant. One small consequence is worth naming: the T-axiom (□P → P) together with the P → ◇P principle of [§1.2](groundwork.html#sec-1-2) yields **Necessity entails Possibility**, □P → ◇P — stated at [§2.1.4](the-argument.html#sec-2-1-4) and used at [§6.1](relocating-greatness.html#sec-6-1) to block necessity-based rescues of the supernatural. *Why* S5 rather than a weaker system is Part 2's second debate — and Part 3 is where this book's answer differs from the usual one.
+
+A name to disarm in advance: S5's characteristic axiom, ◇P → □◇P, is called the **Euclidean** axiom. The label is technical — it comes from the *Euclidean property* of the accessibility relation, named by analogy to Euclid's Common Notion that things equal to the same thing are equal to each other. It has nothing to do with Euclidean geometry or the parallel postulate; encountering it commits you to no view about the shape of physical space.
+
+A reading to fix in advance, too, since the axiom is where readers most often acquire a picture the book does not hold. Written as ◇P → □◇P, the consequent looks like a box stacked on a diamond, to be evaluated by climbing an accessibility relation from world to world — and on that picture the axiom is a claim about the shape of the relation. That is the standard presentation, and it is not this book's. The claim here is the one the English states plainly: whatever is possible, *its possibility is necessary*. Possibility is a determination Reality settles ([§1.2.1](groundwork.html#sec-1-2-1)), and the axiom records that such a determination does not vary with the configuration from which it is reported ([§1.2.6](groundwork.html#sec-1-2-6), [§2.1.3](the-argument.html#sec-2-1-3)). Both readings validate the same formula; they differ over what makes it true, and therefore over where the axiom can be resisted. Part 3 returns to this, because it is why the book's defense concerns the scope of real possibility rather than the frame conditions in the table above.
+
+### The quantified layer: scope, and de dicto / de re
+
+Everything so far attaches operators to whole propositions. Quantified modal logic adds ∀x (for all x) and ∃x (there exists an x) and lets them interact with □ and ◇. This raises the question of *scope*: does a necessity govern a whole proposition, or a particular thing inside it? A de dicto necessity attaches to a proposition — *necessarily, if anyone is alive, someone is the oldest among them* (□∃x…) — which is true, since any world with living people has an eldest. A de re necessity attaches to a thing and follows it across worlds — *someone is such that they are necessarily the oldest* (∃x: □…) — which is false, since no one holds that title in every world.
+
+The book's central claim is de dicto: it is necessary *that* Temporality, Spatiality, and Physicality are instantiated, not that some particular individual necessarily bears them. Keeping the two apart is what lets the argument stay neutral on whether the *same individuals* exist across worlds — the Barcan question, taken up in Part 2.
+
+### Symbols at a glance
+
+| Symbol | Reads |
+| --- | --- |
+| ¬P | not P |
+| P ∧ Q | P and Q |
+| P ∨ Q | P or Q |
+| P → Q | if P then Q |
+| P ↔ Q | P if and only if Q |
+| □P | necessarily P — true in every possible world |
+| ◇P | possibly P — true in at least one possible world |
+| ≡ | is equivalent to (interdefinable) |
+| ∀x / ∃x | for all x / there exists an x |
+
+*A note on history.* The notation and its possible-worlds reading were built up across the twentieth century: Lewis and Langford (*Symbolic Logic*, 1932) gave the first axiomatic treatments; Kripke ("Semantical Analysis of Modal Logic," 1963) supplied the possible-worlds semantics that remains standard; Hughes and Cresswell (*A New Introduction to Modal Logic*, 1996) is the canonical graduate text, Girle (*Modal Logics and Philosophy*, 2009) a gentler entry.
+
+## Part 2: The debates
+
+Three disputes run through the field. A newcomer will hear them referenced; a specialist will want to know where the book stands. Here they are as *live questions*; Part 3 gives this book's answers.
+
+### Debate 1: Are possible worlds real?
+
+Everyone uses possible-worlds talk; not everyone agrees what it commits you to. David Lewis's *modal realism* ([§4.4.1](metaphysical-rivals.html#sec-4-4-1)) takes the talk at face value: other possible worlds are concrete places, as real as the actual one, just spatiotemporally disconnected from it. Most philosophers balk and take worlds to be something less robust — maximal consistent sets of propositions, abstract representations, useful fictions. The question is whether the picture that makes modal logic so tractable describes a plurality of *places* or a way of *representing* how one reality could go.
+
+What turns on it is ontological cost against explanatory power. Lewis's plenitude is extravagant — an infinity of concrete worlds — but it earns its keep by analyzing modality in wholly non-modal terms: “possibly P” becomes “some world, flatly, contains P.” The deflationary options buy modesty and face the reverse worry: if a world is just a maximal *consistent* set of propositions, consistency is itself a modal notion, so the analysis risks presupposing the very modality it meant to explain. It is this dilemma that the book's own account of what a world *is* (Part 3) is built to slip between.
+
+### Debate 2: Which system is correct, and why S5?
+
+Given the ladder K → T → S4 → S5, which system captures *metaphysical* necessity? The case for climbing all the way to S5 rests on a single intuition: for metaphysical modality, whether something is possible or necessary is not itself a contingent matter. Modal status should not shift depending on which world you evaluate it from. Follow that intuition and it pushes you up each rung in turn. Reflexivity (**T: □P → P**) is non-negotiable for a logic of how things must *be*, as opposed to what is merely known or permitted: if P is necessary, P is actually the case. Transitivity (**S4: □P → □□P**) says a necessity is not a local accident — if P is necessary, that necessity is itself necessary, and to deny it is to allow that something could have been necessary without having to be, which is strange for a metaphysical necessity whose ground does not vary. Symmetry (**B: P → □◇P**) says whatever is actual is necessarily possible, so no world can be cut off from the ones that can reach it; combined with transitivity, it yields the *Euclidean* condition and S5's characteristic axiom, ◇P → □◇P — if P is possible at all, it is possible from every world, so its possibility is necessary.
+
+Put together, these make modal status world-invariant and collapse iterated modalities (□□P ≡ □P, ◇◇P ≡ ◇P). That invariance is exactly what you want if metaphysical possibility and necessity are features of the space of possibilities as such, rather than facts that change from standpoint to standpoint. Williamson (*Modal Logic as Metaphysics*, 2013) presses this line, arguing S5 is the correct logic of metaphysical modality.
+
+The honest ledger: the whole case leans on that one premise — that modal status is non-contingent — and the premise is deniable. An opponent can dig in at S4, keeping necessity-of-necessity while rejecting the Euclidean axiom; or hold outright that some possibilities are themselves contingent (that P might be possible here yet impossible from some other genuinely possible world); or go further and admit *non-normal* worlds, at which the ordinary evaluation rules lapse and modal formulas are settled by stipulation — the standard technical device for invalidating necessitation, and the sharpest semantic route to blocking the lift. That last option is engaged at [§4.1.14](metaphysical-rivals.html#sec-4-1-14). On a fit-based argument there is no non-question-begging way to force such an opponent up to S5; the intuition is attractive but not compulsory. This is precisely why the book does not rest S5 on fit alone. Part 3 presents it as following from the book's fixed global domain of real possibility, so that the relevant invariance of modal status is a framework result rather than merely a preference for a strong system.
+
+### Debate 3: Domain constancy (the Barcan question)
+
+When a proposition quantifies (∀x, ∃x), is the domain the same in every world, or does it vary? *Possibilism / necessitism* holds it fixed — every individual that exists in any world exists in all of them (Williamson's necessitism is the modern form). *Actualism / contingentism* lets the domain grow and shrink world to world. The dispute shows up formally in the *Barcan Formula* and its converse:
+
+◇∃x: φ(x) \rightarrow ∃x: ◇φ(x) \qquad ∃x: ◇φ(x) \rightarrow ◇∃x: φ(x)
+
+Both are valid in S5 on constant domains and fail on variable ones, which is why they serve as the test of where a framework stands (the formulae are due to Ruth Barcan Marcus, 1946).
+
+What turns on it is whether merely possible things must in some sense already be there. Read the Barcan formula left to right: if there could have been something that φs, then there already is something that could φ. Constant domains keep the logic clean and validate both directions, but at a price a newcomer should feel — a fixed stock of individuals, so that a possible extra person is not a genuine addition to what exists but something already in the domain, merely uninstantiated. Variable domains honor the ordinary thought that different things could have existed, at the cost of messier quantifier rules and the loss of the Barcan directions. How the book avoids paying either price is Part 3's business.
+
+## Part 3: How this book resolves them
+
+Here the book departs from the standard presentation, and this is the part a reader from the Kripke tradition should slow down for. The usual order of explanation is: start with possible worlds, lay an accessibility relation over them, pick a system. This book runs the other way.
+
+The single move behind all three resolutions is the book's fixed-domain account: **real possibility ranges over one global domain W**, and ◇P is true when P holds at some world in W while □P is true when P holds at every world in W ([§2.1](the-argument.html#sec-2-1)). Worlds do not ground modal facts; they represent configurations within the framework's possibility domain. The scope of the structural Conditions is argued separately through the Structural Requirement, rather than being built into S5 by definition.
+
+With that in hand, the three debates come apart cleanly.
+
+On worlds (Debate 1), a possible world is a way of describing what Reality's structure allows — a representation that lives *inside* Reality, not a place Reality sits within. So the Lewis-versus-deflationism question does not carry weight here: nothing in the argument needs worlds to be real things, because worlds were never doing the grounding work. This also sidesteps the circularity that dogs deflationary worlds, since modal facts are grounded in what Reality structurally consists in, not in the *consistency* of sets of propositions, so no modal notion is smuggled in to build the worlds. ([§2.4.1](the-argument.html#sec-2-4-1) sharpens this by running Plato's cave in reverse.)
+
+On the system (Debate 2), S5 is not chosen merely because it is strong. The book derives its characteristic axiom from the fixed global domain W — a commitment defended at the Bottleneck ([§2.1.5](the-argument.html#sec-2-1-5)) rather than stipulated: if possibility is evaluated over the same global domain at every world, then ◇P → □◇P follows. The accessibility relation is the formal expression of that fixed-domain semantics, not a dial set by hand.
+
+This is also where the reading noted in Part 1 earns its keep. Because the necessity attaches to a modal *status* rather than to a nested formula, the debate cannot be settled by trading intuitions about frame conditions, and the book does not try to settle it that way. There is exactly one place a critic can stand: denying that real possibility ranges over a single global domain — holding instead that each world carries its own horizon. That objection is taken seriously and answered on its merits ([§2.1.5](the-argument.html#sec-2-1-5)), where the reply is that world-relative reachability is a different and legitimate modality whose variation leaves membership in W untouched. An opponent who rejects the fixed domain rejects the derivation; an opponent who grants it cannot then resist the axiom by preferring a weaker frame, because on this account the frame was never the thing being chosen. An opponent may still reject the framework's global-domain account; the point is that the book makes that commitment explicit rather than smuggling it in as a bare preference.
+
+On domains (Debate 3), the book's load-bearing claims quantify over *propositions* (Modal Bivalence), over *change-witnesses*, and over *structural conditions* — never over contingent individuals across worlds — so the Barcan question does not arise for them. What the framework does commit to is stronger in one respect and silent in another: T, S, and Φ are constitutive of what counts as a world at all (so no world lacks them), while *which* contingent individuals populate a world is left to vary, with no stance taken on whether that domain is constant. A reader who treats the Barcan formula as load-bearing will find the argument insensitive to it either way, so the book pays neither price: it neither stocks every world with a fixed roster of individuals nor takes on the messier logic of varying domains, because its necessities never quantify over contingent individuals to begin with. (Williamson's broader necessitism is engaged at [§4.4.6](metaphysical-rivals.html#sec-4-4-6).)
+
+**The book's modality at work: a ladder of shapes.** The vocabulary can be walked through one domain — shapes — without leaning on a plurality of worlds. A *round square* is **impossible**, ruled out not by logical form but by what extension is: no region can bear two incompatible boundary-determinations at once ([§2.4.7](the-argument.html#sec-2-4-7)). A *square* or a *triangle* is **possible**, each a coherent structure, ◇. That *squared or triangled things exist* is **possibly instantiated** — the existence-committing claim, distinct from the bare concept. And what all of this presupposes — that there is extension at all, with distinct positions to bound — climbs toward the **necessary structure** the argument isolates as the Structural Requirement ([§2.4](the-argument.html#sec-2-4)).
+
+The ladder is an intuition pump, not a proof: that a round square is impossible already presupposes the structure of space, so the sequence *illustrates* the book's modality and hands the derivation off to [§2.1](the-argument.html#sec-2-1), where S5 is earned rather than assumed.
+
+## Part 4: Worked example of the central derivation (optional)
+
+*Addressed to readers of the main argument; primer-only readers can stop at Part 3.*
+
+The central formal claim of the book is:
+
+□(T∧S∧Φ)
+
+Spelled out: Temporality, Spatiality, and Physicality (the structural Conditions of [§1.4](groundwork.html#sec-1-4)) are necessary — not "happen to be instantiated," but necessary, full stop. This is Theorem 6 (*Necessity of Nature*), declared at [§2.8.5](the-argument.html#sec-2-8-5). *Nature* is defined at [§1.4.4](groundwork.html#sec-1-4-4): N =df T∧S∧Φ.
+
+The derivation has one substantive engine: the possibility of change, secured by Cartesian Certainty, is lifted into necessity by the Necessary Possibility theorem and carried through the Structural Requirement to yield □(T∧S∧Φ). Everything else is bookkeeping.
+
+**Inference rules used.** *Modus ponens (MP):* from P and P → Q, infer Q. *Universal instantiation (UI):* from ∀x: φ(x), infer φ(a). *Necessitated conditional (K):* from □(P → Q), infer □P → □Q — the distribution axiom of the weakest normal system K, so it holds in S5 too.
+
+**The groundwork.** The lift from possibility to necessary possibility is not imported as an S5 axiom. Modal Bivalence (∀P: ◇P ∨ ¬◇P, [§2.1.1](the-argument.html#sec-2-1-1)) is paired with the fixed global real-possibility domain W: because ◇P means truth at some member of W, and W is the same domain at every world, ◇P → □◇P follows (T1, [§2.1.10](the-argument.html#sec-2-1-10)). The chain takes that as established.
+
+::: {.argument}
+**Necessity of Nature** · *The Cogito–S5 Pipeline*
+
+1. *Necessary Possibility.* Whatever is possible is necessarily possible. ◇P → □◇P. (T1, [§2.1.10](the-argument.html#sec-2-1-10))
+
+1. By universal instantiation, taking change for P. ◇C → □◇C.
+
+1. *Cartesian Certainty.* Change is really possible. ◇C. ([§2.2.1](the-argument.html#sec-2-2-1))
+
+1. By modus ponens on 2 and 3, the possibility of change is itself necessary. □◇C. (Lemma 3, [§2.3](the-argument.html#sec-2-3))
+
+1. *Structural Requirement.* Necessarily, change is not so much as possible unless T, S, and Φ are instantiated. □(◇C → (T∧S∧Φ)). ([§2.4](the-argument.html#sec-2-4))
+
+1. By the K-axiom, distributing the box over the conditional. □◇C → □(T∧S∧Φ).
+
+1. By modus ponens on 4 and 6. □(T∧S∧Φ). (Triconditional Necessity, [§2.5](the-argument.html#sec-2-5); Necessity of Nature, T6, [§2.8.5](the-argument.html#sec-2-8-5))
+
+:::
+
+**Where the load falls.** Modal Bivalence and Modal Constitution earn the Necessary Possibility theorem — deny either and the chain never starts ([§2.1](the-argument.html#sec-2-1)). Cartesian Certainty (line 3) is the only contact with actuality: reading this sentence is a change, and doubting that change occurs is itself a change, so the input cannot be coherently denied (*Cogito Ergo Muto*, [§2.2.1](the-argument.html#sec-2-2-1)). The Structural Requirement (line 5) is the load-bearing identification — the place a careful reader is most likely to stall — and §[§2.4](the-argument.html#sec-2-4)–2.6 are dedicated to it.
+
+**Reading the result.** The derivation does not say any *particular* thing must change. It says T, S, and Φ are instantiated in every possible arrangement of things: what is necessary is the structural Condition-set, not the contingent contents. Its companion result closes the door the other way: that the total absence ∅ cannot obtain is the *Exclusivity of Nature* (Theorem 7, [§2.8.6](the-argument.html#sec-2-8-6)).
+
+## Continue with the book
+
+Continue with the Introduction, then read Chapters 1–3 in order. Part 4 remains here when you want to see the central derivation run in formal form.
+
+## Further reading
+
+For independent study, these texts form a sensible progression:
+
+- **First independent text:** Rod Girle, *Modal Logics and Philosophy* (2009), the gentlest of the works cited here.
+- **Formal standard reference:** G. E. Hughes and M. J. Cresswell, *A New Introduction to Modal Logic* (1996).
+- **Advanced philosophical treatment:** Timothy Williamson, *Modal Logic as Metaphysics* (2013).
+- **Historical semantic turning point:** Saul Kripke, “Semantical Analysis of Modal Logic” (1963).
+
+```{=latex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{3}}
+```

@@ -1,0 +1,12 @@
+---
+title: "E.3 Divine Governance and Character"
+notion-id: 5de53ae5-538f-4fec-af0d-aeea9ce366c1
+slug: "divine-governance-and-character"
+index: 110300
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The third cluster gathers the doctrines of divine governance — how God is said to be present to creatures and to rule them: the silence of that presence (§E.3.1), its judicial arm (§E.3.2), its legislative claim (§E.3.3), the demand it makes of finite agents (§E.3.4), and its steering of history (§E.3.5).
+
+What the five share is the governing subject: each requires a being with address, will, and standing to command, judge, or foresee, and each is measured against results already in hand — the transfers of Chapter 6 leave no such subject, and §8.12 relocates the moral facts the governance was posited to secure.

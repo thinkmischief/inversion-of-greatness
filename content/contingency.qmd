@@ -1,0 +1,20 @@
+---
+title: "1.2.4 Contingency"
+notion-id: f63c4769-3f52-4453-9cfe-b4089dd388d5
+slug: "contingency"
+index: 10204
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+One further status turns on whether a proposition could have been otherwise.
+
+::: {.definition}
+**Contingency** · *Definition*
+
+A proposition is contingent when it really could be the case and really could fail to be (◇P ∧ ◇¬P).
+
+
+:::
+
+Contingency is the modal status that tracks arrangement-dependence: a contingent proposition is one whose truth varies with which configuration obtains. The definition makes two demands, not one: a contingent proposition could be the case (◇P) *and* could fail to be (◇¬P). Possibility by itself does not suffice: a necessary truth is possible too. What singles out contingency is that the negation stays open as well: the matter could have gone either way. This is the status of nearly everything ordinary. That you are reading now rather than asleep, that this sentence stands in these words rather than others, that history took this course rather than another it permitted: each could have been otherwise, and each is therefore contingent. The contrast with necessity is exact: a necessary truth holds in every configuration Reality permits, so its negation is foreclosed; a contingent truth holds in some and fails in others, so neither it nor its negation is foreclosed. Reality's structure settles both modal statuses: necessity by foreclosing the negation, contingency by leaving both sides open. Actuality settles which side of a contingent proposition obtains in the realized configuration.

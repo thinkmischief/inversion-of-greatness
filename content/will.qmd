@@ -1,0 +1,25 @@
+---
+title: "8.9 Will"
+notion-id: 8667310c-5a79-4965-8dcf-f96aef882f69
+slug: "will"
+index: 80900
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Will is the power to choose among the options you can actually see. The surprising part is that freedom is not a matter of somehow escaping cause and effect; it is what choosing becomes when a creature understands its own situation deeply: what is really possible, and what follows from what. So freedom comes in degrees. A choice made over a field you barely grasp, or under pressure that stops you from acting on what you do grasp, is barely free; a choice made with real understanding and real room to act is about as free as choosing gets. That means freedom can grow, with knowledge, upbringing, education, and everything else that widens the field you choose within.
+
+::: {.identification}
+**Will** · *Identification*
+
+Will is a living being's capacity to *select* among the options its modal field (§8.3) presents: the point at which causation has been mapped deeply enough, from inside, for that being to participate in which possible line becomes actual. Drive supplies direction, feeling valence, knowledge the stable map, reasoning the navigation, meaning the weighting; will is the selection that turns those possibilities into action. Freedom (*modal freedom*) is not standing outside causation. It has two dimensions: how deeply a person grasps the options they are choosing among (modal depth: what is possible, and what follows from what), and how much latitude they have to act on that understanding. A choice made over a barely registered field, or under constraint that blocks action on what is understood, is barely free; a choice made with deep understanding and room to act is as free as a living being can become. So freedom admits of degree, grows with understanding, and can be cultivated.
+*Status: an identity claim on the §7.8 self-modeling structure (Principle 5), defended by fit, not a stipulative definition and not a fresh derivation from the proof.*
+
+
+:::
+
+Will appears twice in the cascade. In its thin form, it has been present since drive: directedness through whatever field of possibility the being can register, however small. A bacterium moving up a gradient, an animal orienting away from threat, and a person trying to hold attention on a task all display forms of directedness, but the fields through which they move differ in depth. This section names will in its thick form: the capacity of a living being to act through a mapped and meaningful field of possibility.
+
+That is why will belongs here in the cascade: after drive, feeling, knowledge, reasoning, and meaning. A choice is only as free as the modal field (§8.3) through which the agent understands it. Thin will operates on a sparse field, thick will on a dense one, which is why parenting, education, and the cultivated breadth made available through language and art bear directly on the freedom of the resulting agent. Each is, mechanically, the deliberate installation of modal-field content the agent will later select from. Drive supplies direction; feeling supplies valence; knowledge stabilizes the map; reasoning navigates alternatives; meaning weights the map as worth pursuing or avoiding; will acts through it. The willing subject is not outside causation. They are the point at which causal conditions have been understood deeply enough for the person to participate in which possible line becomes actual.
+
+The chapter's structural reach is sharpest here. Everything traditionally placed above causation (libertarian exemption, divine simplicity, freedom transcendent of Nature) turns out to be what modal depth *within* Nature consists in at sufficient recursion. Will is the register where the inversion is hardest to accept and most precisely available: not because the framework denies the phenomenon the tradition has been naming, but because it locates the phenomenon one register deeper than the tradition placed it. Freedom is not what stands above the modal field; it is the modal freedom a sufficiently recursive being realizes within it: the modal depth it brings to its own selection, together with the latitude to carry that selection into act. The detailed dialectical engagement with libertarian, compatibilist, and semicompatibilist alternatives follows in §§8.9.1–.5. Language is taken up at §8.10 as the technology of shared interiority: one way willing beings externalize their models, claims, refusals, and invitations into another being's field.

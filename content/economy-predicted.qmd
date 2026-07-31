@@ -1,0 +1,28 @@
+---
+title: "9.7.3 What is Predicted"
+notion-id: 659c6c4b-ab60-4981-bdc7-397b32a883c7
+slug: "economy-predicted"
+index: 90703
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of economy as recognition-and-distribution infrastructure, read through the structural-extraction derivation, generates predictions that distinguishable empirical patterns should confirm or refute. This section names the predictions the framework commits to; the empirical literature is reviewed against them in §9.7.4.
+
+*First.* The wealthy will systematically underestimate their reliance on infrastructure and oppose proportionate-to-stake taxation despite benefiting most from it. Structural extraction is scale-symmetric: the largest beneficiaries of infrastructure are also the structurally-most-positioned to misperceive their reliance on it. Self-made-wealth narratives are empirically dominant at the top of the distribution, despite the framework's account of why such narratives are structurally incoherent.
+
+*Second.* Where insurance substitutes for collective investment in subsistence coverage, denial incentives, gatekeeping, administrative bloat, and profit-extracted-from-vulnerability will systematically appear. Insurance is structurally redundant for subsistence (per the upstream derivation); insurance industries occupying that space systematically display the patterns characteristic of structural extraction in any other captured domain.
+
+*Third.* Economies with greater institutional-extraction tolerance will systematically produce more aggregate suffering across measurable margins. Mortality, mental-health distress, social-trust collapse, and civic participation track structural-extraction tolerance, controlling for productivity. The relationship is causal through the political-community-failure mechanism, not coincidental.
+
+*Fourth.* Property-tax-based systems will systematically misalign incentives. Property tax redundantly taxes already-protected stake. Property-tax regimes therefore penalize improvement (improvements raise assessed value), displace fixed-income elders (assessed-value increases outpace fixed-income capacity), and create speculative land markets (the redundancy structure makes land-value extraction profitable independently of productive use).
+
+*Fifth.* Wage stagnation in extractive economies tracks the structural-extraction account directly. When extraction grows faster than productive wages, productive wages stagnate by definitional necessity. This is not because productivity has stalled but because the share of productivity returning to productive workers has shrunk. The relationship is mechanical, not contingent.
+
+*Sixth.* Trickle-down configurations will systematically fail to produce the bottom-up flows they predict. Structural extraction by construction precludes trickle. Extracted dividends do not flow back to the political community; they accumulate at extraction sites or exit to extra-arrangement holdings (offshore, alternative jurisdictions, financial-instrument abstractions). Decades-long natural experiments in trickle-down economic policy produce no aggregate trickle. The political function of trickle-down rhetoric is to license the extraction the rhetoric predicts will trickle.
+
+*Seventh.* Crisis-period extractions will be structurally larger than steady-state extractions. When the political community is under stress (financial crisis, pandemic, war), structural-extraction channels gain more degrees of freedom to operate: less oversight, more emergency authorizations, faster rule changes, and weaker public attention to non-crisis policy moves. Crisis-period accumulation at the top of the distribution is empirically larger than steady-state accumulation, controlling for productivity changes.
+
+*Eighth.* Recognition and admiration of wealth will track contribution-versus-extraction ratios more closely than absolute magnitude. A wealthy figure perceived as contributing to the political community will be admired; a wealthy figure of similar magnitude perceived as extracting from it will be resented. The framework derives, rather than asserts, why this should be the case (§8.12 mutual recognition); the empirical pattern across historic and contemporary cases is reviewed at §9.7.4.
+
+The predictions stated in this subsection are made under engagement with the three opposition traditions §9.7.1 names at premise: the classical-liberal / public-choice tradition (Hayek, Friedman, Buchanan and Tullock), strong-form libertarian entitlement theory (Nozick, Rothbard), and the Marxist / structural-conflict tradition (Marx, Harvey, Wright). Those traditions are engaged at section length in §9.7.1, and the predictions stated here apply under that engagement.

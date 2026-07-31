@@ -1,0 +1,12 @@
+---
+title: "6.3 Aseity and Modal Standing"
+notion-id: 66ec2921-b5ef-4ef0-99f0-c48caa3d01c7
+slug: "aseity-modal-standing"
+index: 60300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This cluster gathers the attributes that fix God's self-existence and modal-temporal standing: necessity (§6.3.1), eternity (§6.3.2), immutability (§6.3.3), and impassibility (§6.3.4). Each says how the divine being stands to time, change, and dependence: that God exists of itself, outside succession, beyond alteration, and unaffected from without.
+
+Pressed, each requires the structural conditions it was meant to escape — necessary existence, timeless standing, changelessness, and unaffectedness cannot be specified without reintroducing the succession, persistence, and exchange that T, S, and Φ name. Impassibility (§6.3.4) is a boundary-crossing: classified here by attribute-type, its inversion runs on the reach-arm, the demonstration that Nature cannot act on God.

@@ -1,0 +1,241 @@
+/* ============================================================
+   Book — EPUB Stylesheet
+   Colors match styles/themes/procyon.css's own --book-sb-*-border
+   values (light-mode set) — EPUB readers support prefers-color-scheme
+   inconsistently (many, especially e-ink devices, ignore it outright
+   or force their own palette regardless of author CSS), so this uses
+   one fixed light palette rather than trying to chase dark-mode
+   parity the way the website does.
+   ============================================================ */
+
+/* Body */
+body {
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    line-height: 1.3;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+h1 { font-size: 1.5em; text-align: center; }
+h2 { font-size: 1.2em; }
+h3 { font-size: 1.05em; font-style: italic; }
+
+/* Paragraphs — book-style indent */
+p {
+    margin: 0;
+    text-indent: 1.5em;
+    hyphens: auto;
+}
+
+/* Flush-left after headings and structural breaks */
+h1 + p, h2 + p, h3 + p, h4 + p,
+blockquote + p, ol + p, ul + p, figure + p {
+    text-indent: 0;
+}
+
+/* Margin notes — collapse to inline aside */
+.column-margin {
+    display: block;
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: #555;
+    border-left: 2px solid #bbb;
+    padding-left: 0.75em;
+    margin: 0.75em 0 0.75em 1.5em;
+}
+
+.column-margin p {
+    text-indent: 0;
+    margin: 0 0 0.4em;
+}
+
+/* ============================================================
+   Semantic argument-structure boxes — Definition/Theorem/Premise/
+   Lemma/Corollary/Condition/Argument/Identification/Principle. Every
+   box is authored "**Label** · *Type*" as its first paragraph (the
+   Callout Box Formatting Guide's own convention) followed by body
+   prose — Quarto's EPUB writer preserves the div's own class name
+   (.theorem, .definition, etc.) with no filter needed to do that, so
+   this just needs to color the border per type and set the first
+   paragraph apart as a title line. No JS-injected dot/handle/tag
+   flourish here the way the website gets (styles/custom.css's
+   .box-header, built by resources/book-scripts.html) — EPUB readers
+   don't reliably run embedded JS, so this stays plain: bold title,
+   thin rule underneath, same as the website's own underlying
+   box-header structure minus the decoration.
+   ============================================================ */
+.theorem, .premise, .lemma, .corollary, .definition, .condition,
+.argument, .identification, .principle, .quick-reference, .untyped {
+    border: 1px solid #6B6B6B;
+    background: none;
+    padding: 0.65em 1em 0.75em 1em;
+    margin: 1.2em 0;
+}
+
+.theorem p, .premise p, .lemma p, .corollary p,
+.definition p, .condition p, .argument p,
+.identification p, .principle p, .quick-reference p, .untyped p {
+    text-indent: 0;
+    margin: 0.5em 0 0;
+}
+
+.theorem > p:first-child, .premise > p:first-child, .lemma > p:first-child,
+.corollary > p:first-child, .definition > p:first-child, .condition > p:first-child,
+.argument > p:first-child, .identification > p:first-child, .principle > p:first-child,
+.quick-reference > p:first-child, .untyped > p:first-child {
+    margin-top: 0;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+}
+
+/* Per-type border color — same values as procyon.css's light-mode
+   --book-sb-*-border custom properties, just as literal hex, since
+   EPUB CSS can't rely on custom-property support across readers. */
+.definition, .argument, .premise, .untyped { border-color: #6B6B6B; }
+.condition                                 { border-color: #2A5F9C; }
+.identification                            { border-color: #3A6432; }
+.principle                                 { border-color: #B4552E; }
+.lemma                                     { border-color: #7A2C9E; }
+.corollary                                 { border-color: #1E6E78; }
+.theorem                                   { border-color: #B8860B; }
+.quick-reference                           { border-color: #6b6560; }
+
+/* Argument block — rules only, no side borders, matching the PDF's
+   own treatment of this one type as a lighter-weight wrapper than
+   the fully-boxed types. */
+.argument {
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #6B6B6B;
+    border-bottom: 1px solid #6B6B6B;
+}
+
+/* ============================================================
+   Standout line — the rhetorical-pause treatment (front-
+   introduction.qmd's closing beat). Same class names as the website
+   (styles/custom.css) and the PDF (filters/semantic-blocks.lua),
+   preserved natively by Quarto's EPUB writer with no filter needed —
+   just centered text with asymmetric spacing around it, same shape
+   as the other two formats, tuned in em rather than the website's
+   rem (EPUB readers frequently ignore rem sizing relative to their
+   own root, unlike a browser).
+   ============================================================ */
+.standout-line {
+    text-align: center;
+    margin: 1.8em 0;
+}
+.standout-line p {
+    text-indent: 0 !important;
+    margin: 0;
+}
+.standout-line.standout-tight {
+    margin-bottom: 1em;
+}
+.standout-line.standout-reveal {
+    margin-top: 1em;
+}
+
+/* ============================================================
+   Callouts — Quarto's native .callout/.callout-note wrapper. Same
+   first-paragraph title-line treatment as the semantic boxes above,
+   plain gray/neutral (this project's only live callout type is Note;
+   Tip/Warning/Important/Caution exist in the CSS purely for parity
+   with the website's own equivalent rules, not because any of them
+   are actually used in the book).
+   ============================================================ */
+.callout {
+    border: 1px solid #6B6B6B;
+    padding: 0.65em 1em 0.75em 1em;
+    margin: 1.2em 0;
+    background: none;
+}
+
+.callout-tip   { border-color: #2c5282; }
+.callout-important { border-color: #9b2c2c; }
+.callout-note  { border-color: #6B6B6B; }
+.callout-warning { border-color: #975a16; }
+.callout-caution { border-color: #2f855a; }
+
+.callout-header { display: none; }
+.callout-icon-container { display: none; }
+
+.callout p {
+    text-indent: 0;
+    margin: 0.5em 0 0;
+}
+.callout > .callout-body-container > p:first-child,
+.callout p:first-child {
+    margin-top: 0;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+}
+
+/* ============================================================
+   Reference pages — Bibliography/Subject Index/Glossary/Symbols.
+   Same hanging-indent treatment as the website's own body-class-
+   scoped rules (styles/custom.css §15/§16) and the PDF's hangingrefs/
+   twocolindex/flushparagraphs environments (styles/pdf-blocks.tex) —
+   body-classes carry through into EPUB the same way they do for
+   HTML, since both come from the same frontmatter mechanism
+   (merge-chapters.js's BODY_CLASSES). No multi-column layout here
+   the way the PDF's Index gets (twocolindex) — CSS columns are
+   unreliable across reflowable EPUB readers, especially on phones,
+   so this stays single-column hanging-indent for every reference
+   page rather than risking a broken column layout on some readers.
+   ============================================================ */
+body.references-page p {
+    text-indent: -1.5em;
+    padding-left: 1.5em;
+    margin: 0 0 0.5em;
+    font-size: 0.95em;
+}
+
+body.subject-index-page p {
+    text-indent: -1em;
+    padding-left: 1em;
+    margin: 0 0 0.3em;
+    font-size: 0.9em;
+}
+
+body.glossary-page p,
+body.symbols-page p {
+    text-indent: 0;
+    margin: 0 0 0.75em;
+}
+
+/* ============================================================
+   Lists
+   ============================================================ */
+ol, ul {
+    padding-left: 1.5em;
+    margin: 0.5em 0;
+}
+
+li {
+    margin-bottom: 0.25em;
+    line-height: 1.6;
+}
+
+/* Blockquotes */
+blockquote {
+    margin: 1em 1.5em;
+    padding: 0;
+    border: none;
+    font-style: italic;
+}
+
+/* Footnotes */
+.footnotes ol > li p {
+    text-indent: 0;
+    margin: 0;
+}

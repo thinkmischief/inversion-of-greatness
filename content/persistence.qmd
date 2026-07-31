@@ -1,0 +1,18 @@
+---
+title: "1.5.8 Persistence"
+notion-id: 39828d9b-fa54-4a68-8923-8bc707d3151b
+slug: "persistence"
+index: 10508
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Persistence** · *Definition*
+
+Existing across more than one time or through a change, whether by enduring, perduring, or another continuity relation.
+
+
+:::
+
+*Persists*, *endures*, *perdures*, *remains*, *continues*: operators of persistence. *Persistence* is the generic category. Endurantism holds that a thing is wholly present at every moment of its existence; perdurantism holds that it persists by having temporal parts. The terms also appear in ordinary metaphysical prose to name what survives a transition. Heraclitus's river is the canonical case: a river persists while its water turns over, and the question of how it does so is what the endurantist / perdurantist split tries to resolve.

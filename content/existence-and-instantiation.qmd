@@ -1,0 +1,20 @@
+---
+title: "1.5.1 Existence and Instantiation"
+notion-id: fae6bee4-5b6a-4174-acf4-ee5eeca56950
+slug: "existence-and-instantiation"
+index: 10501
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+A state of affairs *obtains* when it is the case; a relation *holds* between the things it relates; a property *holds of* its bearer; *is the case* is the most general: propositions assert what is the case, and what is the case is what propositions point at. *Exists* and *is instantiated* belong to the same family, with *exists* attached to particulars and *is instantiated* attached to universals. Take one case across the family: the cat is on the mat. The cat *exists*; the mat *exists*; the property of *being-on* is *instantiated* by the pair; the relation *holds* between the cat and the mat; the state of affairs that the cat is on the mat *obtains*; that the cat is on the mat *is the case*. The family looks transparent and is not. Each operator requires something to be there for the operator to apply: a state, the things a relation relates, a bearer, a how-things-are. (Here *exists* carries its ordinary, contingent reading: the cat exists but might not have. On a rival view in the metaphysics of modality, necessitism, the cat necessarily *is something* and is only contingently a concrete cat; that alternative is taken up at §4.4.6.)
+
+::: {.definition}
+**Existence** · *Definition*
+
+To exist is to occupy a when, a where, and a what: to stand in Time, Space, and Substance rather than outside them. A thing's existing just *is* that standing, not something extra added on top of what the thing already is.
+
+
+:::
+
+The definition's three demands are the ones §1.4 named: a when is a position in Time's order, a where a place in Space's interval, a what a standing in Substance's carrying. The cat of the family survey exists in exactly this sense: it is sometime, somewhere, something, and its existing is not a further fact alongside those three but the three taken together. That is what the definition's closing clause rules out: existence as an extra ingredient a thing could have or lack while its when, where, and what stayed fixed. Whether anything could stand *outside* the three (whether there is a Null State to fall back to), and whether the Conditions they bear (Temporality, Spatiality, Physicality, the vocabulary §1.4 fixed) are jointly required in every possible reality, are Chapter 2's questions; this section fixes the sense in which they are asked.

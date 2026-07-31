@@ -1,0 +1,28 @@
+---
+title: "9.13.3 What is Predicted"
+notion-id: faccd730-744e-4564-8bcf-c825b278ed6c
+slug: "justice-predicted"
+index: 91303
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of justice as repair of mutual-recognition failures, set beside the upstream-justice coupling and the property-as-stewardship reframing, generates predictions distinguishable from competing accounts of justice.
+
+*First.* Property-crime rates will spike during periods of perceived legitimacy collapse. When the political community is widely seen as having failed (economic crisis with concentrated extraction, exposed institutional capture, mass downward mobility) the framework predicts a measurable increase in property-crime rates, especially in property-destruction patterns rather than survival-theft patterns. The two patterns are predicted to track different upstream conditions and to be empirically separable.
+
+*Second.* High-trust societies will have lower vandalism rates than low-trust societies, controlling for wealth disparity. The framework's account of vandalism as mutual-recognition failure predicts that the rate of mutual-recognition in a society (high trust, low trust) governs the vandalism rate more than the wealth gap does. Two societies with comparable wealth gaps but different trust levels are predicted to have substantially different vandalism rates.
+
+*Third.* Survival theft and pure vandalism are empirically separable. Survival theft (theft of food, medicine, baseline goods) is predicted to track sufficiency-floor failure; pure vandalism is predicted to track mutual-recognition failure independently. The framework predicts that policy interventions targeting one will produce smaller effects on the other than a single-mechanism account would predict. The empirical separability is itself a prediction.
+
+*Fourth.* Pure-incarceration justice systems without restitution will systematically underperform restitution-incorporating systems. Recidivism rates, victim satisfaction, community-trust measures, and aggregate cost are all predicted to favor restitution-incorporating systems over pure-incarceration alternatives. The framework predicts that the gap is not narrow; it is structural and will be visible across implementations.
+
+*Fifth.* Upstream-justice investment produces larger reductions in justice-system burden than equivalent downstream-justice investment. The framework predicts that dollar-for-dollar investment in mental-health treatment, addiction treatment, housing-first programs, and economic-sufficiency floor produces larger justice-burden reductions than equivalent investment in policing, prosecution, or incarceration. The prediction is that *everybody wins* is a measurable empirical fact, not a rhetorical flourish.
+
+*Sixth.* Drug-related crime tracks treatment availability more than prohibition severity. The framework predicts that the volume of drug-related crime in a jurisdiction is governed more by the availability of treatment, harm reduction, and underlying conditions than by the severity of the criminal-justice response. Increasing prohibition severity in jurisdictions with poor treatment access is predicted to fail to reduce drug-related crime; increasing treatment access in jurisdictions with high prohibition severity is predicted to succeed even before prohibition is reduced.
+
+*Seventh.* Justice-system extraction patterns will appear at every scale. The framework predicts that institutional-scale extraction in the justice system (private-prison contracts; civil-asset-forfeiture revenue; cash-bail systems extracting from people awaiting trial; for-profit-probation extracting from those on supervision) will display the same structural pattern as institutional extraction in any other captured domain, and that the pattern will be visible empirically as profit-margins extracted from people in coercive positions vis-à-vis the system. Individual-scale extraction (gaming the system; perjury; corruption inside justice institutions) is predicted to track institutional-scale extraction symmetrically.
+
+*Eighth.* Restorative-justice programs will produce better outcomes than retributive programs in cases where mutual recognition can be re-established. The framework predicts that restorative-justice approaches (victim-offender dialogue, community accountability conferences, contribution-based sentencing) will outperform retributive approaches in cases involving identifiable victims and offenders capable of mutual recognition. Where mutual recognition is structurally impossible (psychopathy, repeat-offender patterns refusing engagement, dangerous-to-others cases), restorative approaches are predicted to underperform; the framework does not predict universal restorative-justice success.
+
+The predictions stated in this subsection are made under engagement with the contested punishment-theory opposition traditions §9.13.1 names at premise: retributivism (Kant, *Doctrine of Right* 1797, §49; Moore, *Placing Blame* 1997; Duff, *Punishment, Communication, and Community* 2001), abolitionism (Davis, *Are Prisons Obsolete?* 2003; Gilmore, *Golden Gulag* 2007; Kaba, *We Do This 'Til We Free Us* 2021), and restorative-maximalism (Zehr, *Changing Lenses* 1990; Braithwaite, *Crime, Shame and Reintegration* 1989). Those traditions are engaged at section length in §9.13.1, and the predictions stated here apply under that engagement.

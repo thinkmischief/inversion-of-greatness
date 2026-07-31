@@ -1,0 +1,510 @@
+/* ============================================================
+   Reader Themes — draft batch, pulled from the Reader Themes
+   database (Notion)
+   ============================================================
+   14 themes (9 light, 5 dark), imported wholesale for a reader to
+   preview and narrow down — not individually vetted the way Procyon
+   Light/Dark, Sepia, High Contrast, The Cave, and Mary's Room (all in
+   sibling files in this same directory) already are.
+
+   Cleanup pass (2026-07-12): 8 themes removed outright — Aquinas,
+   Daylight, Hume, Nietzsche, Plato, The Chinese Room, and Wittgenstein
+   were all marked Status: Shelved in the Notion database (a reader had
+   already ruled them out, not just left them undecided); Kant:
+   Königsberg Gray had been deleted from the database entirely (no
+   entry left under any name) and its own colors didn't match any of
+   the newer additions either, so it's gone too. Two more were renamed
+   in place, not removed — Hegel: Twilight Indigo → Twilight, Cioran:
+   Ashen Insomnia → Insomnia — confirmed by exact color match against
+   the Notion database's own new entries under those shorter names
+   (both entries' Content surface/Body text/Accent/etc. are identical
+   to the old id's own values, just retitled). Three brand-new draft
+   entries were added — Tabula Rasa, Diotima: Symposium Rose, Beauvoir:
+   Left Bank Violet — all light-polarity, all Status: Draft in Notion.
+   A fourth new entry, Zeno's Paradox, is deliberately NOT here: its own
+   Notion record has no static palette at all ("Inherits selected
+   mode," "theme control opacity halves each click") — a genuine
+   interactive mechanic, not a color set, and remains explicit backlog
+   per the original scoping decision (see the Reader Themes Idea Log).
+
+   ============================================================
+   procyon-dark-classic — archived, not in the active Palette menu
+   ============================================================
+   Procyon Dark's own original values (styles/themes/procyon.css,
+   body.quarto-dark block) before 2026-07-13's update — body text
+   #d5d1c6 → #e4e0d5 (brightened, per Notion's "Procyon Dark" entry
+   in the Reader Themes database, "at Procyon's request") and
+   background #1e1e1e → #181818 (darkened further, decided after
+   comparing the two live via a temporary procyon-dark-preview theme
+   — the same id/mechanism this block now is, repurposed as the
+   archive once the comparison resolved in the new values' favor).
+   Kept, not deleted, in case the original is ever wanted back — same
+   "code intact, not selectable" treatment scroll-mode already gets
+   (this file's own header comment): pulled from THEME_IDS
+   (resources/book-scripts.html) so it doesn't appear in the Palette
+   menu, everything else left as-is. */
+html[data-book-theme="procyon-dark-classic"] body {
+	--book-chrome-bg-solid: #141414;
+	--book-bg: #1e1e1e;
+	--book-text: #d5d1c6;
+	--book-heading: #f5f1e8;
+	--book-link: #d4a857;
+	--book-link-rgb: 212, 168, 87;
+	--book-border: #2a2a2a;
+	--book-border-soft: #212121;
+	--book-muted: #9fa0a6;
+	--book-muted-rgb: 159, 160, 166;
+	--book-scrollbar: #3a3a3e;
+	--book-code-bg: rgba(255, 255, 255, 0.08);
+	--book-margin-text: #b8b2a8;
+	--book-margin-strong: #e8e3da;
+	--book-breadcrumb-sep: #7a746a;
+	--book-premise-label: #7fa8d8;
+	--book-premise-cite: #9aa1ab;
+	--book-callout-shadow: rgba(0, 0, 0, 0.3);
+	--book-callout-header-border: rgba(255, 255, 255, 0.12);
+}
+
+/* ============================================================
+   Each block sets the core tokens the Notion database tracks
+   (background, body text, heading, accent/link, muted, border) plus a
+   full chrome set (navbar/sidebars/dropdown menus) so every theme
+   reskins the whole site, not just the reading column — a reader
+   explicitly asked for this after an earlier pass left chrome
+   permanently dark-neutral everywhere. Chrome isn't from the Notion
+   database (it only specifies a Chrome value for the two Mode-layer
+   entries already shipped, Procyon Light/Dark) — derived instead by
+   blending each theme's own accent color toward black (~86% black for
+   the solid fill, ~72% for the scrollbar, ~86% white for the on-chrome
+   text), the same "dark app-shell tinted toward the theme's own hue"
+   approach Sepia/Mary's Room/The Cave already use, just computed
+   rather than hand-picked per theme. --book-chrome-text-hover reuses
+   the theme's own accent color directly, so the active/hover state in
+   the navbar and settings menus matches the same color as links in the
+   reading column.
+
+   Still not the full ~35-variable set those five hand-tuned files each
+   carry (callout-box colors, semantic-block border colors, margin-note
+   colors, etc.) — those are deliberately left unset, same as
+   procyon.css's own header comment describes ("you don't have to
+   redefine all of them — anything you omit falls through to whatever
+   loaded before it"): a light theme here falls through to :root's own
+   callout values, a dark one to body.quarto-dark's, both already
+   legible against any reasonably-contrasted background. That's real
+   follow-up work for whichever of these survive a reader's own pass
+   through them, not part of this preview batch.
+
+   Selector/specificity/pre-paint reasoning: identical to every other
+   file in this directory — see cave.css's header comment. Polarity
+   (light/dark) for each of these is set in _quarto.yml's THEME_DARK
+   map, not here.
+   ============================================================ */
+
+/* ── Light (9) ────────────────────────────────────────────────── */
+
+html[data-book-theme="stoa"] body {
+	--book-bg: #f6f8f8;
+	--book-text: #2e373d;
+	--book-heading: #27313a;
+	--book-link: #5d6e7d;
+	--book-link-rgb: 93, 110, 125;
+	--book-muted: #69767e;
+	--book-muted-rgb: 105, 118, 126;
+	--book-border: #cfd6d8;
+	--book-border-soft: #dbe1e2;
+
+	--book-chrome-bg: rgba(13, 15, 18, 0.88);
+	--book-chrome-bg-solid: #0d0f12;
+	--book-chrome-scrollbar: #1a1f23;
+	--book-chrome-text: #e8ebed;
+	--book-chrome-text-rgb: 232, 235, 237;
+	--book-chrome-text-hover: #5d6e7d;
+	--book-chrome-text-hover-rgb: 93, 110, 125;
+}
+
+html[data-book-theme="ship-of-theseus"] body {
+	--book-bg: #f0eadf;
+	--book-text: #342d26;
+	--book-heading: #2c2925;
+	--book-link: #5d7881;
+	--book-link-rgb: 93, 120, 129;
+	--book-muted: #6d6860;
+	--book-muted-rgb: 109, 104, 96;
+	--book-border: #b9a98e;
+	--book-border-soft: #c8bba3;
+
+	--book-chrome-bg: rgba(13, 17, 18, 0.88);
+	--book-chrome-bg-solid: #0d1112;
+	--book-chrome-scrollbar: #1a2224;
+	--book-chrome-text: #e8eced;
+	--book-chrome-text-rgb: 232, 236, 237;
+	--book-chrome-text-hover: #5d7881;
+	--book-chrome-text-hover-rgb: 93, 120, 129;
+}
+
+html[data-book-theme="veil-of-ignorance"] body {
+	--book-bg: #f0efeb;
+	--book-text: #34363a;
+	--book-heading: #2b2e32;
+	--book-link: #7b8790;
+	--book-link-rgb: 123, 135, 144;
+	--book-muted: #73777d;
+	--book-muted-rgb: 115, 119, 125;
+	--book-border: #cfd0cd;
+	--book-border-soft: #dadbd8;
+
+	--book-chrome-bg: rgba(17, 19, 20, 0.88);
+	--book-chrome-bg-solid: #111314;
+	--book-chrome-scrollbar: #222628;
+	--book-chrome-text: #edeeef;
+	--book-chrome-text-rgb: 237, 238, 239;
+	--book-chrome-text-hover: #7b8790;
+	--book-chrome-text-hover-rgb: 123, 135, 144;
+}
+
+html[data-book-theme="experience-machine"] body {
+	--book-bg: #fff7fe;
+	--book-text: #332b39;
+	--book-heading: #28222d;
+	--book-link: #cd75b7;
+	--book-link-rgb: 205, 117, 183;
+	--book-muted: #756b79;
+	--book-muted-rgb: 117, 107, 121;
+	--book-border: #e5cfe1;
+	--book-border-soft: #eeddea;
+
+	--book-chrome-bg: rgba(29, 16, 26, 0.88);
+	--book-chrome-bg-solid: #1d101a;
+	--book-chrome-scrollbar: #392133;
+	--book-chrome-text: #f8ecf5;
+	--book-chrome-text-rgb: 248, 236, 245;
+	--book-chrome-text-hover: #cd75b7;
+	--book-chrome-text-hover-rgb: 205, 117, 183;
+}
+
+html[data-book-theme="spinoza"] body {
+	--book-bg: #f3f7ef;
+	--book-text: #173229;
+	--book-heading: #13261e;
+	--book-link: #1c6248;
+	--book-link-rgb: 28, 98, 72;
+	--book-muted: #5f7468;
+	--book-muted-rgb: 95, 116, 104;
+	--book-border: #c6d7c9;
+	--book-border-soft: #d5e2d7;
+
+	--book-chrome-bg: rgba(4, 14, 10, 0.88);
+	--book-chrome-bg-solid: #040e0a;
+	--book-chrome-scrollbar: #081b14;
+	--book-chrome-text: #dfe9e5;
+	--book-chrome-text-rgb: 223, 233, 229;
+	--book-chrome-text-hover: #1c6248;
+	--book-chrome-text-hover-rgb: 28, 98, 72;
+}
+
+html[data-book-theme="scroll-mode"] body {
+	--book-bg: #f3e9d2;
+	--book-text: #3b2f23;
+	--book-heading: #3b2f23;
+	--book-link: #9d7027;
+	--book-link-rgb: 157, 112, 39;
+	--book-muted: #776654;
+	--book-muted-rgb: 119, 102, 84;
+	--book-border: #d7c8aa;
+	--book-border-soft: #e2d5ba;
+
+	--book-chrome-bg: rgba(22, 16, 5, 0.88);
+	--book-chrome-bg-solid: #161005;
+	--book-chrome-scrollbar: #2c1f0b;
+	--book-chrome-text: #f1ebe1;
+	--book-chrome-text-rgb: 241, 235, 225;
+	--book-chrome-text-hover: #9d7027;
+	--book-chrome-text-hover-rgb: 157, 112, 39;
+}
+
+/* New 2026-07-12, per the Notion database's own new entries (header
+   comment) — chrome derived by the same verified formulas as every
+   other theme in this file (chrome-bg-solid = accent × 0.14,
+   chrome-scrollbar = accent × 0.28, chrome-text = accent × 0.14 +
+   white × 0.86, chrome-text-hover = accent), border-soft blended ~1/3
+   of the way from border toward bg (bisected against this file's own
+   already-shipped light entries, e.g. spinoza/stoa above, since the
+   Notion database doesn't track a border-soft field of its own). */
+/* Chrome deliberately breaks from every other theme in this file (dark
+   navbar/sidebars regardless of the reading column's own polarity,
+   per this project's own "permanently dark chrome surface" design
+   language) — a reader pointed out that a theme literally named
+   "blank slate" defeats its own concept if it still frames the page
+   in a dark navbar/sidebar shell. White chrome, dark-on-white text
+   (inverted from every other theme's light-on-dark chrome text),
+   letting the whole page read as one continuous blank sheet instead
+   of a light column inset in a dark frame. --book-border reused for
+   --book-chrome-scrollbar specifically so the scrollbar still reads
+   against the now-white chrome instead of vanishing into it. */
+html[data-book-theme="tabula-rasa"] body {
+	--book-bg: #ffffff;
+	--book-text: #1a1a1a;
+	--book-heading: #000000;
+	--book-link: #9a9a9a;
+	--book-link-rgb: 154, 154, 154;
+	--book-muted: #b8b8b8;
+	--book-muted-rgb: 184, 184, 184;
+	--book-border: #e6e6e6;
+	--book-border-soft: #eeeeee;
+
+	--book-chrome-bg: rgba(255, 255, 255, 0.92);
+	--book-chrome-bg-solid: #ffffff;
+	--book-chrome-scrollbar: #cccccc;
+	--book-chrome-text: #1a1a1a;
+	--book-chrome-text-rgb: 26, 26, 26;
+	--book-chrome-text-hover: #000000;
+	--book-chrome-text-hover-rgb: 0, 0, 0;
+}
+
+html[data-book-theme="diotima"] body {
+	--book-bg: #fdf6f7;
+	--book-text: #3a2430;
+	--book-heading: #2d1b24;
+	--book-link: #b5657a;
+	--book-link-rgb: 181, 101, 122;
+	--book-muted: #8a6b74;
+	--book-muted-rgb: 138, 107, 116;
+	--book-border: #e8d4d9;
+	--book-border-soft: #efdfe3;
+
+	--book-chrome-bg: rgba(25, 14, 17, 0.88);
+	--book-chrome-bg-solid: #190e11;
+	--book-chrome-scrollbar: #331c22;
+	--book-chrome-text: #f5e9ec;
+	--book-chrome-text-rgb: 245, 233, 236;
+	--book-chrome-text-hover: #b5657a;
+	--book-chrome-text-hover-rgb: 181, 101, 122;
+}
+
+html[data-book-theme="beauvoir"] body {
+	--book-bg: #f8f5fa;
+	--book-text: #2e2438;
+	--book-heading: #221a2b;
+	--book-link: #7c6a9c;
+	--book-link-rgb: 124, 106, 156;
+	--book-muted: #8d7f9a;
+	--book-muted-rgb: 141, 127, 154;
+	--book-border: #dcd2e5;
+	--book-border-soft: #e5deec;
+
+	--book-chrome-bg: rgba(17, 15, 22, 0.88);
+	--book-chrome-bg-solid: #110f16;
+	--book-chrome-scrollbar: #231e2c;
+	--book-chrome-text: #edeaf1;
+	--book-chrome-text-rgb: 237, 234, 241;
+	--book-chrome-text-hover: #7c6a9c;
+	--book-chrome-text-hover-rgb: 124, 106, 156;
+}
+
+/* ── Dark (5) ─────────────────────────────────────────────────── */
+
+html[data-book-theme="heidegger"] body {
+	--book-bg: #242b20;
+	--book-text: #e1dccf;
+	--book-heading: #f0eadc;
+	--book-link: #6b7a43;
+	--book-link-rgb: 107, 122, 67;
+	--book-muted: #a7aa98;
+	--book-muted-rgb: 167, 170, 152;
+	--book-border: #3b4534;
+	--book-border-soft: #313a2b;
+
+	--book-chrome-bg: rgba(15, 17, 9, 0.88);
+	--book-chrome-bg-solid: #0f1109;
+	--book-chrome-scrollbar: #1e2213;
+	--book-chrome-text: #eaece5;
+	--book-chrome-text-rgb: 234, 236, 229;
+	--book-chrome-text-hover: #6b7a43;
+	--book-chrome-text-hover-rgb: 107, 122, 67;
+}
+
+html[data-book-theme="evil-demon"] body {
+	--book-bg: #191c26;
+	--book-text: #d9dce5;
+	--book-heading: #f1f3f6;
+	--book-link: #7b6ea8;
+	--book-link-rgb: 123, 110, 168;
+	--book-muted: #9ba2b2;
+	--book-muted-rgb: 155, 162, 178;
+	--book-border: #303547;
+	--book-border-soft: #272b3a;
+
+	--book-chrome-bg: rgba(17, 15, 24, 0.88);
+	--book-chrome-bg-solid: #110f18;
+	--book-chrome-scrollbar: #221f2f;
+	--book-chrome-text: #edebf3;
+	--book-chrome-text-rgb: 237, 235, 243;
+	--book-chrome-text-hover: #7b6ea8;
+	--book-chrome-text-hover-rgb: 123, 110, 168;
+}
+
+/* Was "hegel" (Hegel: Twilight Indigo) — renamed in Notion to just
+   "Twilight" (header comment has the full cleanup-pass accounting).
+   Colors unchanged, exact match against the renamed Notion entry. */
+html[data-book-theme="twilight"] body {
+	--book-bg: #2a2c43;
+	--book-text: #e8e1e5;
+	--book-heading: #f3edf1;
+	--book-link: #8273a7;
+	--book-link-rgb: 130, 115, 167;
+	--book-muted: #a8a2b5;
+	--book-muted-rgb: 168, 162, 181;
+	--book-border: #42445d;
+	--book-border-soft: #363850;
+
+	--book-chrome-bg: rgba(18, 16, 23, 0.88);
+	--book-chrome-bg-solid: #121017;
+	--book-chrome-scrollbar: #24202f;
+	--book-chrome-text: #eeebf3;
+	--book-chrome-text-rgb: 238, 235, 243;
+	--book-chrome-text-hover: #8273a7;
+	--book-chrome-text-hover-rgb: 130, 115, 167;
+}
+
+/* Was "cioran" (Cioran: Ashen Insomnia) — renamed in Notion to just
+   "Insomnia" (header comment has the full cleanup-pass accounting).
+   Colors unchanged, exact match against the renamed Notion entry. */
+html[data-book-theme="insomnia"] body {
+	--book-bg: #2d2b29;
+	--book-text: #c9c3bb;
+	--book-heading: #e0dad1;
+	--book-link: #6a455a;
+	--book-link-rgb: 106, 69, 90;
+	--book-muted: #8d8882;
+	--book-muted-rgb: 141, 136, 130;
+	--book-border: #47433f;
+	--book-border-soft: #3a3733;
+
+	--book-chrome-bg: rgba(15, 10, 13, 0.88);
+	--book-chrome-bg-solid: #0f0a0d;
+	--book-chrome-scrollbar: #1e1319;
+	--book-chrome-text: #eae5e8;
+	--book-chrome-text-rgb: 234, 229, 232;
+	--book-chrome-text-hover: #6a455a;
+	--book-chrome-text-hover-rgb: 106, 69, 90;
+}
+
+/* Added later than the other 18 — same "core tokens only, chrome
+   derived" treatment (header comment), with one deliberate deviation:
+   this entry's own Notion record carries a populated "Header glow"
+   field (#c77dff, a light violet) that none of the other 23 themes in
+   this project have ever had set — every other theme reuses its own
+   plain Accent for --book-chrome-text-hover (confirmed against this
+   same file's own already-verified entries), but a distinct field
+   name specifically about the header/chrome strongly implies it was
+   meant for exactly that slot instead, so --book-chrome-text-hover
+   uses Header glow here, not Accent. Every other variable below still
+   follows the same verified formulas as the rest of this file
+   (chrome-bg-solid = accent × 0.14, chrome-scrollbar = accent × 0.28,
+   chrome-text = accent × 0.14 + white × 0.86 — bisected against
+   twilight's own already-shipped values above, exact match). */
+html[data-book-theme="cosmos"] body {
+	--book-bg: #15151f;
+	--book-text: #d7d4e2;
+	--book-heading: #f3f0fa;
+	--book-link: #2dd4bf;
+	--book-link-rgb: 45, 212, 191;
+	--book-muted: #8b88a0;
+	--book-muted-rgb: 139, 136, 160;
+	--book-border: #2a2a38;
+	--book-border-soft: #242430;
+
+	--book-chrome-bg: rgba(6, 30, 27, 0.88);
+	--book-chrome-bg-solid: #061e1b;
+	--book-chrome-scrollbar: #0d3b35;
+	--book-chrome-text: #e2f9f6;
+	--book-chrome-text-rgb: 226, 249, 246;
+	--book-chrome-text-hover: #c77dff;
+	--book-chrome-text-hover-rgb: 199, 125, 255;
+}
+
+/* Starfield — Cosmos only, on request ("maybe a couple of stars in
+   the background... don't worry about it if that's not possible").
+   Six small radial-gradient dots at varying size/opacity, tiled via
+   background-size — the standard pure-CSS "starfield" trick, no image
+   asset needed. Layered on top of each element's own existing
+   background-color (background-image and background-color are
+   independent layers; the color stays as the base/fallback, the dots
+   sit on top of it) rather than replacing it. Applied to body and the
+   navbar/both sidebars specifically, not just body on its own — those
+   three all carry their own solid --book-chrome-bg-solid fill (§9/§19,
+   styles/custom.css) that would otherwise fully hide body's own
+   background-image everywhere a reader actually looks. The reading
+   column itself is deliberately excluded: it reads as a physical page/
+   sheet floating on the chrome, not open space, per this project's own
+   "permanently dark chrome surface" design language (§2 BODY
+   TYPOGRAPHY, styles/custom.css) — stars belong in the space around
+   the sheet, not printed on it. */
+html[data-book-theme="cosmos"] body,
+html[data-book-theme="cosmos"] .navbar,
+html[data-book-theme="cosmos"] .sidebar,
+html[data-book-theme="cosmos"] #quarto-sidebar,
+html[data-book-theme="cosmos"] .sidebar-navigation,
+html[data-book-theme="cosmos"] nav.sidebar,
+html[data-book-theme="cosmos"] .bs-sidebar,
+html[data-book-theme="cosmos"] aside.sidebar,
+html[data-book-theme="cosmos"] .sidebar-menu-container,
+html[data-book-theme="cosmos"] #quarto-margin-sidebar {
+	background-image:
+		radial-gradient(1.4px 1.4px at 18px 24px, rgba(255, 255, 255, 0.85), transparent),
+		radial-gradient(1px 1px at 74px 96px, rgba(255, 255, 255, 0.6), transparent),
+		radial-gradient(1.2px 1.2px at 132px 38px, rgba(255, 255, 255, 0.7), transparent),
+		radial-gradient(1px 1px at 188px 132px, rgba(255, 255, 255, 0.55), transparent),
+		radial-gradient(1.3px 1.3px at 56px 158px, rgba(255, 255, 255, 0.75), transparent),
+		radial-gradient(1px 1px at 216px 70px, rgba(255, 255, 255, 0.5), transparent);
+	background-repeat: repeat;
+	background-size: 240px 190px;
+}
+
+/* Blue Sky — not from the Reader Themes database (Notion) like the
+   batch above; a reader's own direct request, inspired by an outside
+   reference ("the blue sky, blue theme, the dark one... solid looking
+   color scheme") but deliberately not a copy of it. Same core-tokens-
+   only tier as the rest of this file, though, so it lives here rather
+   than getting its own dedicated file the way the vetted five (procyon/
+   sepia/high-contrast/cave/marys-room, sibling files) do — see
+   resources/book-scripts.html's own THEME_LABELS comment for that
+   two-tier distinction.
+
+   Deep navy rather than Twilight's violet-leaning blue-gray (this
+   file's own twilight entry, above) — the two sit close in the same
+   family on purpose (both blue-dark), but this one is bluer and less
+   purple, and noticeably darker/richer ("solid looking" was the ask).
+   Accent is a clear, mid-brightness sky blue rather than Twilight's
+   muted violet or Cosmos' teal, kept in the same blue family as the
+   background rather than introducing a contrasting hue — "blue sky"
+   read as wanting one dominant color story, not an accent color that
+   fights it.
+
+   Chrome variables derived by the same formula every other entry in
+   this file uses (chrome-bg-solid = accent × 0.14, chrome-scrollbar =
+   accent × 0.28, chrome-text = accent × 0.14 + white × 0.86 — bisected
+   against twilight/insomnia's own already-shipped values), with
+   chrome-text-hover set to the plain accent color, not a separate
+   "Header glow" value the way Cosmos' entry uniquely does — this entry
+   has no such field to draw from, so it follows the more common
+   pattern instead. */
+html[data-book-theme="blue-sky"] body {
+	--book-bg: #131f33;
+	--book-text: #d8e2f0;
+	--book-heading: #eef3fa;
+	--book-link: #5b9bd5;
+	--book-link-rgb: 91, 155, 213;
+	--book-muted: #8a97ab;
+	--book-muted-rgb: 138, 151, 171;
+	--book-border: #24344a;
+	--book-border-soft: #1c2a3d;
+
+	--book-chrome-bg: rgba(13, 22, 30, 0.88);
+	--book-chrome-bg-solid: #0d161e;
+	--book-chrome-scrollbar: #192b3c;
+	--book-chrome-text: #e8f1f9;
+	--book-chrome-text-rgb: 232, 241, 249;
+	--book-chrome-text-hover: #5b9bd5;
+	--book-chrome-text-hover-rgb: 91, 155, 213;
+}

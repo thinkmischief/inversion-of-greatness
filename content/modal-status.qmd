@@ -1,0 +1,12 @@
+---
+title: "1.2 Modal Status"
+notion-id: 4c970932-0e65-44cd-bca3-dcc5d5d34ebf
+slug: "modal-status"
+index: 10200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The argument runs on five modal words (*possible*, *impossible*, *necessary*, *contingent*, and *actual*), each fixed to a single sense from here on. Two are primitive at this pre-formal stage: possibility and impossibility, the permitting and foreclosing already met in §1.1. Necessity and contingency are built from them. Actuality (which member of the possible field is realized) stands alongside the other four, tied to the primitive pair only by the rule that whatever is actual is thereby possible. Taking the two as primitive (rather than grounding modality in essence, as an essentialist would) is a substantive choice, defended in §4.1.10. (Formally, only possibility is retained as primitive: impossibility is fixed as its negation, ¬◇P, once §1.2.2 states the modal machinery and Appendix A locks the D-spine; the pre-formal pair and the formal derivation pick out the same ground at two levels of resolution.)
+
+Claims cast in these five words are claims of modal logic, the branch concerned with what must be the case and what could be. Two symbols stand alongside those of ordinary logic (◇ for possibility, □ for necessity), but the prose runs in English throughout, and the symbolic apparatus is developed in Appendix A.

@@ -1,0 +1,28 @@
+---
+title: "3.4.2 One Role, One Filler"
+notion-id: ddac7639-1a7e-4e92-8158-ca49849ddc7b
+slug: "one-role-one-filler"
+index: 30420
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+"Reality" is a structural-role term (§1.1): its reference is fixed not by pointing to an individual but by a role: *being what any real content belongs to*. Stage 2 showed what fills that role, in every world: T ∧ S ∧ Φ. That does not make this weld a wholly independent proof alongside maximality and exhaustion; it makes it the role-semantics version of the same identity.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** This weld reaches "Reality is Nature" through how the word Reality works. "Reality" isn't a name you fix by pointing at some individual; it refers by role—whatever any real content belongs to and presupposes. "Nature" names the three conditions, time, space, and persistence, under their positive description. And the argument has already shown that this role is filled, in every world, by exactly those three. Two terms anchored to one and the same role refer to the same thing in every world where they refer at all. So "Reality" and "Nature" name one thing, necessarily. The book is honest that this is role-based co-reference, not the rigid natural-kind necessity of "water is H₂O"—exactly as strong as the role-anchoring it rests on, no stronger.
+:::
+
+
+::: {.argument}
+**The Role-Semantics Weld** · *from structural-role co-reference to Reality being Nature*
+
+1. "Reality" refers by structural role — what any real content belongs to and presupposes (§1.1).
+1. "Nature" names the three Conditions (succession, distinction, exchange) under their positive description (§1.4).
+1. *(Stage 2) Triconditional necessity.* That role is filled, necessarily and everywhere, by T ∧ S ∧ Φ.
+1. Two terms anchored to one and the same role co-refer in every world at which they refer at all.
+1. So "Reality" and "Nature" co-refer necessarily (□(R = N)).
+
+:::
+
+*Dependency.* §1.1 (structural-role anchoring) + §1.4 + Stage 2. *Honest note:* this is structural-role co-reference, not the natural-kind rigidity of *water = H₂O*. As §1.1 makes explicit, "Reality" is not a natural-kind term in Kripke's typology but a structural-role term *continuous with* it; the necessity here is exactly as strong as the role-anchoring (no stronger), and the full natural-kind parallel is argued at §2.6 / §2.9.5, not assumed here.

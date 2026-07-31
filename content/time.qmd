@@ -1,0 +1,12 @@
+---
+title: "7.2 Time"
+notion-id: 27ed427c-e21f-4901-b583-58ab518763d4
+slug: "time"
+index: 70200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Time's one-way direction goes all the way down: having a 'before' and an 'after' is part of what time *is*, not a label stuck onto an otherwise direction-neutral background. Nothing outside nature has to wind time up or aim it forward; being a medium at all is already enough.
+
+Heat flows from hot to cold. Gas fills a vacuum. Broken eggs do not reassemble. The empirical asymmetry is not in dispute; the question is how deep it runs. The structural argument (the modal derivation of §2.4 and the §7 root) answers: deep enough that *before* and *after* are not labels a symmetric manifold happens to wear. They are what Temporality is, at the constitutive level. The thermodynamic asymmetry, the cosmological expansion, and (on interpretations that treat measurement as a real collapse) the irreversibility associated with quantum measurement are convergent empirical reports of that constitutive tilt rather than deductive consequences of it; the bridge from constitutive temporal asymmetry to specific cosmological endpoints passes through the argument §7.6 takes up. That tilt is constitutive of Nature (the Temporality-Spatiality-Physicality unity established by Conditions-as-Nature and Triconditionality of Nature in §§2.6.1–2.6.12, with its necessity stated at §2.8.5, read as a single structural substrate), not anything added to it from without.

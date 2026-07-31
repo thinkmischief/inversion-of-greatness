@@ -1,0 +1,25 @@
+---
+title: "Changelog"
+notion-id: f7c9b045-6f8f-40ec-a44f-5a013cfdb6f5
+slug: "changelog"
+role: chrome
+body-classes: site-page
+search: false
+surfaces: ["Site"]
+---
+
+The project is a living work. This page records every dated release with a version DOI and a short summary of what changed.
+
+## How versioning works
+
+Releases are version-stamped and archived on Zenodo, each under its own permanent DOI.
+
+Minor revisions (typo fixes, formatting, broken-link repair) update the live page without a new release entry. Substantive revisions — changes to a definition, a premise, a proof step, a derivation, or a constructive identification — trigger a new release with a new DOI and a dated entry below.
+
+## Releases
+
+*No public releases yet. The first public release will appear here with date, version, DOI, and a short summary of what is new and what has changed.*
+
+## How to cite a specific version
+
+See the How to Cite page for the project's citation conventions, including how to pin a citation to a specific version DOI rather than the live page.

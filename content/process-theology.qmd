@@ -1,0 +1,56 @@
+---
+title: "5.3.3 Process Theology"
+notion-id: 47903222-bc6c-4ed8-a11e-bfdb324c2c2b
+slug: "process-theology"
+index: 50303
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Process theology, developed by Charles Hartshorne (*The Divine Relativity* [@hartshorne1948]; *A Natural Theology for Our Time* [@hartshorne1967]) from Whitehead's metaphysics in *Process and Reality* [@whitehead1929], abandons the classical attributes in favor of a God who is temporal, related, and changing. Hartshorne's central technical move is dipolar theism: God has two natures, a primordial nature that grasps the eternal possibilities and a consequent nature that grows with the world's becoming. Divine perfection is reconceived. Omniscience is knowledge of all that has become, not of what will be (which is genuinely indeterminate). Omnipotence is the maximal persuasive power compatible with creaturely freedom, not coercive control. Eternity is everlastingness within time, not timelessness outside it.
+
+John Cobb and David Griffin's *Process Theology: An Introductory Exposition* [@cobbGriffin1976] gives the tradition its most influential systematic statement, and the position has been extended by Marjorie Suchocki (*God–Christ–Church* [@suchocki1982]; *The End of Evil* [@suchocki1988]), Joseph Bracken (*The Triune Symbol* [@bracken1985]; *Society and Spirit* [@bracken1991]) on social-trinitarian process theism, Roland Faber (*God as Poet of the World* [@faber2008]) on theopoetics, and Thomas Jay Oord (*The Uncontrolling Love of God* [@oord2015]) on essential kenosis.
+
+The position's significance for the present argument is that it is the theistic family closest to the present account: both reject the classical attributes of timelessness, immutability, simplicity, and impassibility; both insist on the reality of time, change, and relation as features any adequate metaphysics must accommodate.
+
+Where they part is over personhood and grounding. The process theist holds that the supreme exemplification of process is itself a person (the divine consequent nature is conscious, loving, and responsive) and that this person is the necessary ground of the world's becoming. The present argument is silent on the first claim and supplies a limited structural challenge to the second. Two distinct questions need separating, and each requires a distinct reply.
+
+The first question is whether, within Nature, there exists a maximally inclusive person who experiences every event and to whom every event matters. On this the present argument is silent. It establishes Nature's necessary features; it does not settle which configurations within Nature actually obtain.
+
+The choice between a process-theistic Nature (with a maximally inclusive divine person) and a non-process-theistic Nature (without) is downstream of what the argument settles, and turns on substantive empirical, phenomenological, and theological considerations rather than structural ones.
+
+The phenomenology of religious experience, the problem of evil and theodicy, the coherence of divine consequent-nature consciousness, the question whether anything in nature exhibits the universal-prehension structure Whitehead's metaphysics requires (prehension being Whitehead's technical term for the non-cognitive grasping by which each occasion of experience takes up its predecessors): these are the considerations that bear on the first question, and the present account does not adjudicate them.
+
+Hartshorne's argument from divine relativity, Cobb and Griffin's case for the religious adequacy of process theism, Suchocki's development of the eschatological consequent nature can stand or fall on their own terms. The present account neither requires nor forbids them.
+
+The second question is whether such a being could be what classical theism wanted God to be: the necessary ground of T, S, and Φ (the three structural conditions, borne by Time, Space, and Substance) rather than a configuration within them. On this the present argument is not silent, but its conclusion is limited: a process-theistic God clearly realizes temporal, relational, and active roles; whether those roles preclude every sense of divine ultimacy depends on the further theory of grounding and aseity the process theist offers.
+
+Hartshorne's dipolar theism is the test case. The primordial nature, on Hartshorne's account, grasps the eternal possibilities timelessly; the consequent nature grows with the world's becoming. The question is which nature is supposed to ground the world's structural conditions.
+
+If the primordial nature grounds them, the process theologian must explain how an abstract pole that orders possibilities grounds concrete becoming; this does not by itself collapse into classical theism. If the consequent nature grounds them, its growth with the world raises a circularity or mutual-dependence concern, though a process theorist may explicitly reject one-way classical grounding.
+
+Cobb and Griffin's reply [@cobbGriffin1976, ch. 2] is that the dipolar God is the ground of the *order* of becoming rather than of the structural conditions of becoming, but the distinction does not save the position. Order presupposes the structural conditions, and a God who grounds order while presupposing the conditions is not the necessary ground the classical project required.
+
+The dilemma tightens into a single result, one the attribute analyses of Chapter 6 rest on rather than re-derive. What makes the two poles *poles of one God*, on Hartshorne's own account, is a relation between them: the consequent nature prehends, includes, and grows from the primordial nature, and the primordial nature is the abstract ground the consequent nature concretely actualizes.
+
+That relation is not static co-instantiation but a directed dependence: grounding and prehension run from the primordial ordering of possibilities to the consequent nature's concrete inclusion of the world.
+
+The pole relation requires determinate difference, asymmetric order, and a bearer that unifies the poles. These are the book's thin structural roles. Identifying them with loaded spatial interval, temporal succession, and physical substance requires further argument, but dipolar theism plainly does not describe a wholly structureless ultimate.
+
+The same role-floor applies to the dipolar reconception of perfection as responsiveness. Perfect inclusion of and affectedness by the world require determinate receptivity and relation. This locates the divine consequent nature within an articulated process, but it does not by itself settle whether that process can be metaphysically fundamental.
+
+Hartshorne's God avoids the classical tensions of timeless simplicity by instantiating the structural roles at both poles and in their relation. The remaining question is whether such instantiation makes God merely an inhabitant or instead a necessary, co-constitutive feature of the process order. This result is deployed attribute by attribute across Chapter 6: each section names the local form the pole-relation takes for its predicate and refers the structural verdict back here.
+
+The second question is taken up at length in Chapter 6. The framework-invariant point is established at §6.1: a temporally embedded, causally extended, relationally constituted deity instantiates the structural conditions and therefore owes an account of whether its relation to them is dependence, identity, or co-constitution. It is closed as a binding cost at §6.10 (Horn 3): a God who exists in time and acts within the structure is a God who depends on the structure for that position.
+
+Process theology avoids the charge that its divine candidate lacks determinate temporal, relational, or active roles. It carries a serious aseity burden: a temporal, relational God appears dependent on the conditions of the process it inhabits. Process theists may respond by revising aseity rather than denying dependency; the present account records that cost without treating the revision as a contradiction.
+
+Suchocki's eschatological development of the consequent nature does not change this: an eschatological consummation is still a temporally extended event, and an eschatologically consummated God is still a configuration within Nature. Bracken's social-trinitarian extension multiplies the divine persons but does not relocate them outside Nature. Oord's essential kenosis specifies the modality of divine action without altering the metaphysical embedding. Each contemporary development of process theology preserves the central commitment (God is temporal, related, changing) and each, on the present analysis, preserves the consequence: such a God instantiates T, S, and Φ and owes the same account of whether its relation to them is dependence, identity, or co-constitution.
+
+A kindred position worth marking is open theism (Pinnock et al., *The Openness of God* [@pinnock1994]; Hasker, *God, Time, and Knowledge* [@hasker1989]). Open theism shares with process theology the rejection of timeless omniscience and the affirmation of genuine creaturely freedom, but typically retains creation *ex nihilo* and divine independence in ways process theology does not. The present reply raises the same question: an open-theist God who exists in time and knows the past while leaving the future open is structurally embedded, and the theorist must explain how that is compatible with the proposed grounding role. The aseity question is the same question for both positions.
+
+Process theology is the theistic position best positioned to accept the argument's structural commitments without contradiction, but the cost is a substantial revision of classical aseity (the divine attribute of existing from oneself alone, independent of anything else for one's being), and aseity is the load-bearing commitment of the classical project. Process theology provides a coherent way of being a theist after the present account; it does not provide grounds for accepting theism, and it does not preserve what the classical project was distinctively trying to secure.
+
+Whether the further commitments of process theology are independently warranted (whether the consequent nature exists, whether divine persuasion is the right account of God's action, whether eschatological consummation is the right account of history) are questions for the philosophy of religion rather than for the present account. The present account leaves the first question open; on the second, it establishes the structural instantiation and records the aseity cost.
+
+*What is established.* The process theologian who accepts the structural argument has a coherent position: a God who realizes temporal, relational, and active roles at maximum scope. This is not the classical aseity claim, and it requires either treating God as a configuration within Reality or articulating a revised account of ultimacy compatible with divine process. Hartshorne's move is therefore a genuine theological revision, not a mere preservation of the classical project. The present account records the cost: process theology does not straightforwardly preserve the grounding role classical theism assigned to God. Whether its revised religious and metaphysical picture is independently preferable remains a live philosophy-of-religion question.

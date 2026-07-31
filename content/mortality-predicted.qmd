@@ -1,0 +1,20 @@
+---
+title: "8.7.3 What is Predicted"
+notion-id: 4469e4a5-d37f-4d20-a9cc-cc704362241c
+slug: "mortality-predicted"
+index: 80703
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework proposes that living systems are finite self-maintaining processes and that mortality follows when the processes sustaining an organism irreversibly fail. This does not depend on establishing a recurrent cosmology, nor does present-day science establish that every sufficiently complex medium produces consciousness. The section develops a philosophical account of finitude rather than an empirical theorem about all possible conscious beings.
+
+A current is the closure of a self-producing recursion coupled to sustained energy throughput (§7.8). The closure is what makes it a current rather than a flame or a clock. The throughput is what keeps the closure going. Neither is permanent; both depend on conditions the current cannot guarantee. The recursion requires the throughput to keep producing itself, the throughput requires a gradient to dissipate, and the gradient requires a source the current cannot replenish without exhausting it. The framework treats the eventual failure of living self-maintenance as a central feature of terrestrial biological life. Whether mortality is metaphysically constitutive of every possible self-maintaining or conscious system is a further philosophical claim, not an established consequence of thermodynamics or biology. The account has three components.
+
+*Closure failure is the structural definition of death.* Death is not the current ceasing to exist — the matter persists, the energy persists, T, S, and Φ continue without interruption. Death is the closure of the self-producing recursion coming apart: the recursion stops closing on itself to produce its own conditions, the throughput's coupling ends, and what was a self-producing current is no longer that. The matter the recursion was made of is redistributed into other currents; the medium is undisturbed; the recursion is over.
+
+*Mortality is constitutive of the deep first-person perspective.* How the vantage opens at sufficient recursive depth was traced at §7.8. The depth at which the recursion folds back into itself is also the depth at which the current becomes capable of registering, from inside, that the recursion requires what it cannot guarantee. To be a current with the depth that affords vantage *is* to be a current whose continuation depends on conditions external to its own recursion. The same recursion that opens the vantage opens the vantage's awareness of its own ending. There is no version of the deep first-person perspective that does not include this awareness, because the awareness is a structural feature of the depth itself.
+
+*The closure leaves no surviving vantage.* A current whose self-producing recursion has come apart is not a current in a different state. It is no current at all. There is no vantage to which the recursion's failure is registered from inside, because the registering required the recursion. This is what dissolves the standard religious move and the standard philosophical fear in the same gesture: the survival of the current past its closure is not foreclosed by some particular failure of evidence but by what the current *is*. There is no remainder to bear an afterlife and no remainder to suffer the absence. Epicurus's argument is structurally sound at exactly the point the religious traditions have most strongly resisted it; his formulation — where we are, death is not, and where death is, we are not — holds on the structural reading.
+
+The framework generalizes from biological finitude to a broader claim about self-producing recursions, but the generalization is conjectural. Mortality in known organisms depends on contingent biological, ecological, technological, and historical conditions. Whether any possible conscious architecture must end, or could sustain itself indefinitely, remains open. The book's account offers one interpretation of why finitude is central to the human and animal forms of life we know.

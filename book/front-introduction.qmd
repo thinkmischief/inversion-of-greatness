@@ -1,0 +1,49 @@
+---
+title: "I. Introduction"
+pagetitle: "Introduction"
+body-classes: introduction-page
+---
+
+Something about reality makes reading this possible.
+
+Your eyes are able to move across the page, picking up the meaning of the words along the way. The understanding arrives in order: each word distinct in location and form, passing its meaning on to the next. 
+
+Reality also makes certain readings impossible. You cannot return to the moment before the reading began. The moment is spent the way it is made: once, and forward.
+
+*Reality permits. Reality prohibits.* 
+
+That reality has conditions at all is the fact everything else here rests on. Something either is or is not; and what is, has structure rather than formlessness. Ask what accounts for how reality is structured, and the answer cannot itself be one more contingent thing; otherwise the same question simply opens again beneath it. Whatever makes structured existence possible must be necessary: not one more item that happens to be, but the condition under which anything can be at all.
+
+The theistic tradition names that necessary condition God, with arguments of two general kinds. The first is *ontological*: Anselm defined God as that than which nothing greater can be conceived, and argued that the definition alone secured the conclusion: a being that merely happened to exist would be less than one that had to. The second is *cosmological*: Aquinas held that no chain of dependent things can ground itself, so something must not itself depend on anything further; Leibniz tightened the demand: nothing is without a *sufficient reason*, and the last reason must carry its reason in itself. Both arguments reach the same conclusion: a necessary being, standing outside the world as its ground.
+
+Neither argument has proved to be beyond dispute. Kant denied the first its first step: existence is not a predicate; nothing is thought into being by enriching its definition. Hume denied the second: no first cause can be read off experience alone. For two centuries the arguments reached an impasse: neither objection answered, neither argument abandoned.
+
+Its return required a different instrument. The old arguments had asked whether God followed from a definition, or whether the world required a first ground; the new setting asked what follows from necessity itself. Kripke (1980) gave that setting its modern rigor: a precise calculus of the possible, the impossible, and the necessary. With that instrument in hand, Plantinga (1974) rebuilt the ontological argument: if a necessary being is so much as possible, then it is actual. Oppy (1995) made the obvious counter-move: grant instead that it is possible there is no such being, and the same logic runs the other way. Plantinga conceded the symmetry and, on grounds he found the more credible, held to his side of it. And there the matter has largely stood.
+
+It stands because neither side has been able to break the symmetry from within. Both arguments appeal to the same standard: what can be coherently conceived. We can conceive of a necessary being on which nature depends; but we can just as readily conceive of necessity belonging to nature itself. The two pictures cannot both be right. What we can think outruns what can be.
+
+This book does not try to break the symmetry on the symmetry’s own terms: it finds the ground both sides already depend on. Whatever else can be doubted, the conceiving cannot, and not because we can picture it, but because it is already underway: the act is actual, and the actual is possible. To conceive is to pass from one thought to the next, to change, from one state to another. It requires what every change requires: time to occur in, space to occur across, something to undergo it. The disputants reach outward for a necessary ground beyond the world, while the ground they need is already in operation beneath them, underwriting the very act by which they dispute. That it is necessary, and not merely present, is what the argument will establish rather than assume. Take away the conditions and not one move of the argument, on either side, can be made.
+
+The wager of this book is that the tradition was right about necessity and wrong only about where to look. It searched outward and upward for a being free of every condition; the book instead begins with the conditions already at work in the reading of this page. Chapter 6 tests what follows for the classical divine attributes. Its results are named here only as a direction, not assumed as a premise.
+
+This relocation is not a subtraction. The book argues that necessity, permanence, order, meaning, value, and awe are not destroyed when they are no longer assigned to a being beyond the world; they are relocated onto Reality's own structure. From there the argument reaches outward into the forms of life that structure makes possible, and into the political conditions under which such lives can be lived together.
+
+The book is built from the ground up. Chapter 1 fixes the vocabulary of reality, modal status, change, and the structural roles any change requires. Chapter 2 runs the proof: the possibility of change, the modal machinery that secures its necessity, and the conditions that follow. Chapter 3 reaches the same result by convergent lines of argument; Chapters 4 and 5 test it against rival metaphysical pictures and the strongest theistic arguments.
+
+Chapter 6 then takes the classical divine attributes one by one and tests their claimed independence from the conditions the argument has established. Chapters 7–9 carry the result outward: first into empirical inquiry, then into lived experience, and finally into political life. Those later chapters argue at a lighter register than the strict core. Their claims remain open to correction without that correction traveling backward to unsettle the proof.
+
+One word has been carrying more weight than it has yet earned: *reality.* It is the book's first word and its standing question. By the end it will have a second name (one the argument earns rather than assumes) and the whole work can be read as the patient, exact disclosure of what reality, looked at directly, turns out to be.
+
+The conditions this book is about were already at work before you read a single word of it. You began this introduction inside them, not waiting for the chapters to come. Take a look at the opening line once more:
+
+::: {.standout-line .standout-tight}
+**Something about reality makes reading this possible.**
+
+
+:::
+
+::: {.standout-line .standout-reveal}
+Within that line is the inversion. Reality, making, and possibility — self-contained and whole. The word *God* absent. Everything that follows unpacks the intuition.
+
+
+:::

@@ -1,0 +1,12 @@
+---
+title: "8.1.4 What is Confirmed"
+notion-id: a988e4b7-96a1-4868-a448-0319d1e9549e
+slug: "drive-confirmed"
+index: 80104
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Panksepp's SEEKING system [@panksepp1998] is an influential affective-neuroscience model of exploratory and appetitive motivation. It links dopaminergic activity with curiosity, exploration, foraging, and anticipatory engagement, while later work continues to debate its precise boundaries and interpretation. The distinction between anticipatory wanting and consummatory liking is an important motivation finding; it does not by itself identify a first-person aspect with energy throughput or establish a single drive shared by every living system. The book treats SEEKING as one possible high-complexity realization relevant to its structural model, not as a direct neurological confirmation of that model.
+
+*Play and excess.* Play is phylogenetically widespread in some animal groups, including mammals and birds, with evidence and interpretation in other groups still debated [@loukola2017; @chittka2022]. Practice, exploration, social learning, and intrinsic-reward accounts remain active explanations. The book proposes that play may illuminate activity beyond immediate maintenance, but it does not follow that organisms play simply because energy surplus registers as worth playing, or that excitement is identical with the subjective character of energy surplus. Those are further phenomenological claims for the Chapter 8 model to argue.

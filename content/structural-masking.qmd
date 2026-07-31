@@ -1,0 +1,20 @@
+---
+title: "2.4.12 The Masking Test"
+notion-id: c00ee755-c034-41a0-ada0-edd68c6be21e
+slug: "structural-masking"
+index: 20412
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+T, S, and Φ are the structure within which dispositions and masks operate, not localized dispositions that can themselves be masked.
+
+A dispositionalist [@bird2007; @mumfordAnjum2011] might reply that the causal dimensions could be genuine but permanently unmanifested: fragility in a glass never struck. On the dispositionalist picture, masks and antidotes are familiar features of the world: a fragile glass wrapped in foam does not break when dropped, but its fragility is not thereby absent. So perhaps the structural Conditions could be present in the world while their characteristic outputs (succession, distinction, exchange) are universally masked.
+
+The disanalogy is structural. T, S, and Φ are not localized dispositions within Nature; they are the structural context within which every disposition, masking condition, and interference operates. The stronger reading that T∧S∧Φ *is* Nature in the full Triconditional sense is established at §2.6.10 with the Triconditional Identity theorem; the dialectical foreclosure here requires only the weaker structural-context-vs-localized-disposition distinction. A localized disposition (fragility, solubility, irritability) is a property attaching to a Φ-bearer at an S-position over T-succession; the structural context is what makes property-attaching possible at all. The masking machinery operates on properties within the structural context; it has no application to the structural context itself. A masking condition for the Conditions would require a structural outside to structure. There is no such outside. The fragility of the glass is masked by the foam because the foam, the glass, and the dropping all share the structure that lets a mask be a mask. Strip the structure and there is nothing for the mask to operate within.
+
+The same diagnosis applies to global-constraint variants: a necessary law that permits T, S, and Φ but forbids all transitions asserts the causal character of Nature while denying what that character structurally amounts to. A constraint that leaves the Conditions intact while blocking what they generate asserts and denies the same structural fact. The specification is incoherent, not difficult.
+
+*What is foreclosed.* The masking move is not rejected because it is theoretically misguided; the dispositionalist literature it draws from [@martin1994; @bird2007; @mumfordAnjum2011] is sound at the level it operates. It fails at the structural level because the move requires a structural outside that the very category of structure forecloses.[^structural-masking-ch4]
+
+[^structural-masking-ch4]: The masking-foreclosure result (that T, S, and Φ are the structural context within which every disposition and mask operates, not localized dispositions that can themselves be masked) is engaged in Chapter 4. Schaffer's priority monism is taken up through the constitutive-versus-productive grounding distinction in the Modal Collapse Objection (§4.4.9), and ontic structural realism engages structure-as-primitive from the relational side (§4.3.9).

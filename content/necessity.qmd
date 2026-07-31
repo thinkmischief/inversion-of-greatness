@@ -1,0 +1,26 @@
+---
+title: "1.2.3 Necessity"
+notion-id: 0b3f9604-6cf2-4b70-85d5-d1467aa41384
+slug: "necessity"
+index: 10203
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+With possibility and impossibility fixed, call a proposition *necessary* when its failure is excluded across every configuration Reality permits, and *contingent* when both it and its negation remain permitted. The strict defense of the modal machinery that supports these classifications is carried in Chapter 2; the point here is to state the target statuses in the sense the argument will use them.
+
+::: {.definition}
+**Necessity** · *Definition*
+
+A proposition is necessary when it really could not fail to be the case (□P).
+
+
+:::
+
+What is necessary does not lapse. Logical truths are necessary: there is no configuration with a square circle, no chest that is both full and empty at the same time. The descriptions cancel themselves; they pick out no object. Arithmetical truths are necessary the same way from the other side: 2 + 2 = 4 in every configuration, so its negation, 2 + 2 = 5, is no self-cancelling description, only a proposition false in all of them. Metaphysical claims of the form "X is necessarily the case" work the same way: X is not just true here, but holds across every configuration there could be.
+
+Necessity can also attach to possibility itself. The form □◇P says that P's modal permission does not vary with which world is under evaluation, but P must be fixed precisely; the case that follows shows why. Let P be the proposition that some reading occurs. This text will someday be unreadable, as every text eventually will be; sooner or later, the future closes off every occasion to read this token. That loss does not make a reading-instance impossible. Nor does □◇P say that every possible reality contains a reader or a readable object: it fixes the possibility of a reading-world, not the contents of every world. The permission is not the occasion.
+
+The classification sharpens once the possible side is divided. Within what is possible, some propositions hold in every configuration (the necessary), and some hold in only some (the contingent). Set against the impossible, this gives a natural three-way partition (necessary, contingent, impossible) that is mutually exclusive and exhaustive. *Possible* spans the first two: it means *not impossible*.
+
+Necessity marks one half of the possible field, the propositions that hold across all of it. The other half — those that hold in some configurations but not all — is contingency, the next status to name.

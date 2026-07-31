@@ -1,0 +1,20 @@
+---
+title: "E.4.3 Miracles"
+notion-id: 2aada303-ef7d-4adf-82fe-cf45ec6fe6f0
+slug: "miracles"
+index: 110403
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The miracle is the doctrine that collides most directly with the claim that Nature is all there is, and the one most easily mistaken for a dispute it is not part of. Like the other entries in this cluster, it inherits its result rather than arguing it: it takes over the ∅ of personal description (§6.1, Supernatural Preclusion) and the closure of Nature argued in Chapter 7. Its distinctive burden is to keep its own argument clear of Hume’s: the case against the miracle here is structural, not the evidential bar Hume made famous, and the entry fails if the two are allowed to blur.
+
+A miracle, classically, is an event exceeding the productive power of nature, brought about by a supernatural agent, for Aquinas an act *praeter* or *contra* the order of created things, attributable to God. Two conditions are presupposed: a supernatural agent who authors the event, and a standpoint outside Nature from which the intervention comes. The modern defense need not insist on "violation": Swinburne (1970), in *The Concept of Miracle*, gives conditions under which a non-repeatable counter-instance to a law of nature could be identified and reasonably ascribed to a divine agent.
+
+Hume’s argument has to be set aside first. *Hume (1748), in “Of Miracles,” argues that testimony can never suffice to establish one, an epistemic bar on rational belief, not a claim about what a miracle is.* The argument here is different in kind: a miracle understood as intervention by a wholly structureless active ground incurs the Chapter 6 burdens of agency, causality, and interaction. Chapter 7’s empirical account does not independently prove that no transcendent source exists; it asks what explanatory work such a source adds. A miracle claim is therefore neither dismissed as merely improbable nor declared structurally impossible without specifying the proposed agent and mode of action.
+
+Two presuppositions fail together. The first is a supernatural agent: there is no one under personal description to author the event, so the deed has no possible doer. The second is an exterior standpoint to intervene from. There is no outside to Nature: the Necessity of Nature and the Exclusivity of Nature (§2.8.5–§2.8.6) leave no second ground for such a standpoint to occupy, and the channel is precluded at §6.7.2–§6.7.3, so there is nothing the event could be an intervention *by* or *from*. *This is not Hume's point, and the argument does not need it:* whether testimony could ever be adequate never arises, because there is no referent for the testimony to be about.
+
+Islam’s mu'jiza (miracle, pl. mu'jizat) and Judaism’s nes (miracle) name the same event-type under different scripture: an occurrence exceeding nature's productive power, authored by a supernatural agent, from a standpoint outside Nature. Both fail on the same two conditions already foreclosed above — no one under personal description to author the event, and no outside to Nature to author it from — so the structural argument reaches every tradition's miracle claims without needing a separate pass for each; only the name of the event-type changes.
+
+*What is challenged.* The classical doctrine of miracle as intervention by a wholly structureless, externally situated agent faces an explanatory dilemma: specify a determinate intervener and causal relation, or withdraw the content needed for intervention. Revisionary or apophatic proposals may avoid one horn only by transforming the claim, and any particular miracle report still raises Hume’s separate evidential question. The entry does not claim to settle every conceivable account of divine action.

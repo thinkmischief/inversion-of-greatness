@@ -1,0 +1,20 @@
+---
+title: "8.2.4 What is Confirmed"
+notion-id: bf2719e7-9119-4a6a-b401-141abb5bec52
+slug: "feeling-confirmed"
+index: 80204
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The empirical record shows that affective and valuation-related processes are importantly involved in many forms of decision-making; it does not establish a single structural priority of affect over all reasoning. Damasio's clinical work [@damasio1994; @damasio1996; @damasio1999] highlights decision-making changes after ventromedial prefrontal damage. Such patients can retain many reasoning capacities while showing impaired real-world choice and valuation, but the interpretation of the Iowa Gambling Task (a card-selection task measuring risk-based decision-making under uncertain payoffs) and of the somatic-marker hypothesis remains debated [@maiaMcClelland2004; @dunn2006]. These findings are relevant to the book's model of valuation and deliberation; they are not a direct confirmation that deliberation without affective valence is impossible or that the book's structural account uniquely explains the deficit.
+
+Affective neuroscience maps subcortical circuits (the fear system, the panic/grief system, the care system) that operate on faster timescales than cortical deliberation and bias every higher process.[@ledoux1996; @ledoux2012; @solms2021] The architecture is older than the cortex, and the cortex evolved on top of it. The being's affective registration is not a top-down product of reflection; it is the substrate reflection runs on.
+
+Predictive-processing accounts treat feeling as the precision-weighting of internal-state predictions[@friston2010; @clark2013; @clark2016; @seth2013]: the being registers not just *what is the case* but *how much the case bears on its continuation*, and the registration of bearing is what affect consists in. This converges with the Damasio finding from a different theoretical direction: that valence is the form in which the model carries stakes.
+
+The phenomenological tradition documents what affect is from inside. Heidegger's *Befindlichkeit* [@heidegger1927], the way one finds oneself, the mood-attunement that is always already in place before any explicit thought, is the registration before reflection that the structural account names. Husserl's analyses of intentional feeling, Sartre's analysis of nausea, Merleau-Ponty's account of the body's pre-reflective grasp of its situation: each is working at a different angle on the same fact. Registration of state from inside precedes reflection on it, and shapes what reflection finds when it arrives.
+
+The historical philosophical record converges. Aristotle's *Nicomachean Ethics* II–III treats virtue as the cultivation of correct affective responses: the good person is not someone who reasons through every situation but someone whose feelings are already trained to track what matters. Spinoza's *Ethics* III–IV gives a geometry of the affects in which, on his formulation, only an affect can defeat an affect. Hume's *Treatise* II–III makes the famous claim that reason is the slave of the passions, which the structural account refines: reasoning elaborates what the affective layer has already registered rather than being subordinated by it. Nussbaum's *Upheavals of Thought* [@nussbaum2001] develops the contemporary case: emotions are evaluative judgments about what matters to the being's flourishing, not non-cognitive disturbances.
+
+On the structural reading, these traditions can be compared as different approaches to bodily state, valuation, mood, and reflection. Their substantive disagreements remain live. The book proposes that some forms of self-registration precede and shape reflection; this is an interpretive synthesis, not a consensus conclusion shared by every tradition cited.

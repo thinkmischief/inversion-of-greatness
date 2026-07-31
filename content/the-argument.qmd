@@ -1,0 +1,16 @@
+---
+title: "2. The Argument"
+notion-id: 2edfea33-bda8-4517-97bf-c0688b0a5e51
+slug: "the-argument"
+index: 20000
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Chapter 1 introduced the three Conditions any genuine change requires: Temporality, Spatiality, and Physicality, each paired with its bearer in Reality (Time, Space, and Substance). The question now is stronger: are they merely features of this world, or conditions any possible reality must meet?
+
+The proof turns on a single fact no one can consistently deny — that change is possible. From that fact, it argues that the three structural Conditions are not local features our universe happens to possess, but conditions any reality must meet.
+
+What makes this more than the assertion of that claim is the standard the chapter holds itself to. Each premise states its exact burden, distinguishes role-level from type-level content, and identifies the rival commitment a critic may reject. Some alternatives collapse; others remain coherent rival semantics and are carried forward rather than mislabeled as contradictions. The proof is built to be climbed one step at a time, beginning with the global modal domain it runs in (§2.1).
+
+By *Nature*, the chapter means the single structure these three Conditions jointly constitute — not three requirements that happen to coincide, and not a necessary being standing alongside contingent things. That this structure holds of necessity is not assumed here but earned step by step, and the stages are gathered into the finished line only at the close (§2.8).

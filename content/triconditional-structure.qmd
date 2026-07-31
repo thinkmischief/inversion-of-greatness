@@ -1,0 +1,34 @@
+---
+title: "1.4.4 Triconditional Structure"
+notion-id: c3d2efa5-1d8b-46dd-9018-e69713bf85c3
+slug: "triconditional-structure"
+index: 10404
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Time, Space, and Substance arrive together. A change requires all three at once: something must persist, through an ordered succession, across real distinctions. Naming them separately does not divide what the change itself requires; it gives three aspects of one fact their three names.
+
+The connection is visible in the concepts themselves. Succession requires distinction: an order needs states that can be told apart. Distinction requires succession: an interval that can be crossed is one across which something passes from here to there, and that passage has a before and an after. Exchange requires both: something must carry through what is distinct into what comes next. Each term therefore reaches toward the other two.
+
+| What change requires | The relation it makes possible |
+| --- | --- |
+| **Time** | Precedence: one state genuinely stands before another |
+| **Space** | Separation: here and there genuinely stand apart |
+| **Substance** | Cause: one state genuinely connects to what happens in another |
+
+Taken together, Time, Space, and Substance compose a single structure. That whole has a name.
+
+::: {.definition}
+**Nature** · *Definition*
+
+The joint structure of Time, Space, and Substance: what any genuine change requires.
+
+
+:::
+
+*Joint* is the word doing the work. Nature is not a fourth thing standing alongside Time, Space, and Substance, nor the bare list of them; it names the three in their inseparability, the structure whose relations the table above displays one at a time. Wherever a genuine change occurs, the whole structure is engaged: precedence, separation, and cause are exercised together or not at all.
+
+Getting from London to Paris makes the same point concretely. The trip requires a route that stays intact for the whole crossing, a duration elapsing in one direction, and a traveler who survives to the far end. No particular way of crossing is required — go by water, by tunnel, by air, or even swim it — but whichever one is actually taken, none of it escapes the three underlying Conditions. Erase the distance and there is no way across; erase Paris and there is nowhere to arrive; erase the traveler and nobody gets there. Drop any one and the trip does not shorten or become harder. It simply isn't possible.
+
+Naming Nature settles only what the word means. That Nature must exist, that its three Conditions (Temporality, Spatiality, and Physicality) hold of necessity, that there could never have been nothing at all: those stronger claims are Chapter 2's, reached by asking what follows if change is genuinely possible. Whether the universe, in the widest sense, simply is Nature, and which account of time, space, or substance is ultimately correct, wait just as long. What this chapter needed is narrower: without Time, Space, and Substance together, there is no change for an argument to begin from.

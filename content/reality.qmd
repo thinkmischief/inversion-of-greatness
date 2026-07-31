@@ -1,0 +1,26 @@
+---
+title: "1.1 Reality"
+notion-id: 14b94591-24e0-4039-bb98-2c333a8c1551
+slug: "reality"
+index: 10100
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The first term to fix is Reality itself, though not with any claim about what Reality is. Whether it is matter or mind or number, one or many, created or not, is the work of everything ahead. What can be fixed at the outset is not the thing that fills the role but the role itself: Reality's meaning is fixed by that role, not by stipulation. [^reality-role]
+
+::: {.definition}
+**Reality** · *Definition*
+
+The whole within which any thing is a thing: what anything real belongs to, and what gives the word *real* its content. The belonging is structural, not set-theoretic. Reality is not a member of some larger collection, and it is not a member of itself either — it is the whole within which membership is possible at all.
+
+
+:::
+
+To be real is to belong to that whole; to be unreal is to have no place in it at all. So for anything whatever, the question whether it is real has an answer — real, or not. That the answer never fails is what Reality constitutes.
+
+To point at Reality from outside, one would need a standpoint outside it. But any standpoint must itself be real, and to be real is already to belong to Reality, so there is no standpoint outside it to point from. An unreal one would be no standpoint at all. Pointing is only possible from inside.[^outside-nature] That constraint — no standpoint outside it — is also why Reality is best described in parts rather than pointed at as a whole. Three things, taken here in turn: what Reality precludes (§1.1.1), what it permits (§1.1.2), and what it grounds (§1.1.3). The first two are how Reality constrains. The third is what Reality is: the structure those two standings run on. For any proposition (a statement that is either true or false), foreclosing and opening fix the two modal standings §1.2 names *impossibility* and *possibility*.
+
+[^reality-role]: Fixing *Reality*'s meaning by the role it names makes it a *structural-role term*: its reference is fixed by what the role requires, not by which thing fills it. How structural-role anchoring sits relative to the referring strategies @kripke1980 treats is drawn out in §1.2, where *real possibility* is fixed.
+
+[^outside-nature]: An example sharpens this: even on a theist's own terms, to say God is real just means God belongs to Reality, not that God stands outside it. What the theist actually wants is the more modest claim that God stands outside *nature*, not outside Reality itself.

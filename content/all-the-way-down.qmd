@@ -1,0 +1,26 @@
+---
+title: "3.2.4 All the Way Down"
+notion-id: be73a7c3-86e8-4abe-95d2-32314c8951a6
+slug: "all-the-way-down"
+index: 30240
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The most austere escape grants the conclusion wherever structure is rich but denies that structure goes all the way down. Let the world be nothing but mereological nihilism's bare simples (no composites, no relations over and above the points) and the Triconditions can look like artifacts of a coarse description, due to vanish at the fundamental level. They do not vanish. Shrink the world to bare simples and the Triconditions survive the cut: any arrangement of simples still needs individuation, ordering, and a bearer.
+
+::: {.argument}
+**Closing the Bare-Simples Escape** · *from the bare simples to Triconditional Necessity*
+
+1. Suppose mereological nihilism: only simples, no composites.
+1. If simples are arranged or contrasted, they are individuated from one another (S).
+1. Any such arrangement *obtains rather than not*: obtaining is itself an asymmetric ordering, excluding its own non-obtaining, never the reverse (T; §3.2.1).
+1. And if those relations are *borne* rather than a bare Humean mosaic of labels, something sustains them (Φ), the step the bare mosaic contests, which this Move inherits rather than earns, the anti-Humean Φ being earned downstream at §2.4.8 (the causal-exchange derivation) and §4.1.4 (the Humean reading).
+1. So nihilism does not remove T, S, Φ at the fundamental level; it confirms them wherever arrangement is intelligible.
+1. So mereological nihilism is no counterexample to the Triconditional Necessity (□(T ∧ S ∧ Φ)).
+
+:::
+
+*The static case.* The nihilist's hardest case is a purely static, changeless arrangement of distinct simples: S (individuation) and Φ (a sustaining being) are secure, and the worry is whether T survives without change. It does, because the T-limb here is not change but the asymmetric-ordering *role*. The arrangement's obtaining-rather-than-not is the minimal instance of that role (the self-exclusion established at §3.2.1), present in any arrangement that obtains at all, static or not. So "changeless" removes temporal *content*, not the Temporality *role*.
+
+*Dependency.* §1.3 and §1.4 supply the ordinary triad; Chapter 2 supplies the formal T/S/Φ notation. The section handles primitive thisness (Adams) and mereological nihilism (van Inwagen, Dorr); the anti-Humean Φ the bare mosaic (Lewis) denies is earned at §4.1.4, on the causal-exchange derivation of Φ at §2.4.8. It defends the conclusion against a counterexample rather than proving it single-handed.

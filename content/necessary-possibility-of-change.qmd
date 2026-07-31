@@ -1,0 +1,35 @@
+---
+title: "2.3 Necessary Possibility of Change"
+notion-id: 6ddb9353-cf24-4d79-8d85-4a51fec715ec
+slug: "necessary-possibility-of-change"
+index: 20300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The possibility of change was secured at §2.2: ◇C, certain at the level of its own denial, but so far only as a fact about the actual world. The lift from there to necessity is a single application of the Necessary Possibility Theorem (§2.1.10): whatever is possible is necessarily possible, ◇P → □◇P. The Cartesian certainty of change supplies the antecedent, ◇C, and the two combine in a single inference:
+
+::: {.argument}
+**Necessary Possibility of Change** · *The Lift*
+
+1. *Necessary Possibility (T1).* Whatever is possible, its possibility is necessary. ◇P → □◇P. (§2.1.10)
+1. *Cartesian Certainty.* Change is possible, and certain at the very level of its own denial (to deny it would itself be a change). ◇C. (§2.2)
+1. **Necessary Possibility of Change (L3).** Therefore the possibility of change necessarily holds. □◇C
+
+:::
+
+Read together, the two premises close on a single result:
+
+::: {.lemma}
+**Necessary Possibility of Change** · **L3** · *Lemma toward Triconditional Necessity*
+
+The possibility of change is necessary: it holds not merely in the actual world but in every world within structural Reality, lifted from the Cartesian certainty of change by the Necessary Possibility Theorem. □◇C. (§2.1.10, §2.2)
+
+
+:::
+
+The necessity reached here is intermediate in a precise sense: stronger than the bare ◇C of §2.2 (the possibility now holds across all of the modal structure, not only here) and weaker than the conclusion the chapter is reaching for, the unconditional necessity of the structural Conditions (□(T∧S∧Φ), §2.5). □◇C is the necessitated antecedent that the Structural Requirement (the conditional □(◇C → T∧S∧Φ), established at §2.4) discharges by modus ponens into that conclusion. Without the lift performed here, only the conditional would be in hand; with it, the chain closes at §2.5.
+
+*Scope of the necessity.* What is necessary is the *possibility* of change, not any particular change. □◇C says that the possibility of change has the same modal standing in every world within structural Reality, not that any specific transition occurs, or must occur, in any world. The contingency of what changes, and how, is untouched: which changes are actual remains contingent, and the contingency that lives within Nature (this universe, this configuration, this distribution of contingent occupants) is preserved (§2.8.4). The lift necessitates the modal standing of change, and stops there.[^necessary-possibility-of-change-ch4] The contemporary near-neighbor is Williamson's necessitism, which accepts the same modal invariance but extends necessity to every existent; the divergence point is engaged directly at §4.4.6.
+
+[^necessary-possibility-of-change-ch4]: The objections to the lift itself (whether the possibility of change has a source, and whether modal invariance can bear this weight) are engaged in Chapter 4: whether possibility has a source (§4.1.10), the Principle of Sufficient Reason (§4.1.3) [@pruss2006], and Humean contingency (§4.1.4).

@@ -1,0 +1,26 @@
+---
+title: "7.4.5 What is Concluded"
+notion-id: 359b62da-7c30-4686-8fd7-cce79fd68317
+slug: "substance-concluded"
+index: 70405
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+A number of familiar metaphysical positions are foreclosed by the structural claim.
+
+Creation *ex nihilo* (the doctrine that the universe emerged from absolute nothingness) is foreclosed because there is no state from which the universe could have emerged. Nature has no coherent prior absence; absolute nothingness is not a condition something could have been in and from which it could have departed (§2.8). Whatever cosmological origin scenarios physics ultimately confirms, they cannot be scenarios in which the medium came from no medium.
+
+Miracles as violations of natural law are foreclosed by a structural observation. The medium's persistence is not a contingent regularity that a will could suspend; that Substance, the bearer of Physicality (Φ, the third structural condition of Nature), carries forward at all is what being a medium consists in. The specific natural laws this universe runs are contingent in their content but structure-bound in their existence. They are the expression of the medium’s persistence under the symmetries (the transformations under which the action functional governing the universe's dynamics remains unchanged, e.g., translation in time, translation in space, rotation in space) the universe instantiates. There is no gap in the structure through which an intervention could enter, because the structure's consistency is the structural fact, not a policy the structure enforces.
+
+Annihilation as a terminal condition (any scenario in which Physicality simply ceases) is foreclosed for the same reason creation *ex nihilo* is. Nothing in the medium can go nowhere, because nowhere is not a place anything can go. Annihilation would require passage into absolute nothingness, which is not a state. §7.6 develops the cosmological consequence.
+
+The traditional supplement (a creator who brings Physicality into being at t = 0 and could end it at any time thereafter) is, on this account, not a wrong answer to a real question. It is an answer to a question Nature's structure has already dissolved. Physicality is not contributed to Nature from outside. It is one of Nature’s three constitutive faces. Nature suffices, because Physicality is already what the supposition of an external source of Physicality was trying to supply.
+
+The specific list of conserved quantities (energy, momentum, electric charge, baryon number, lepton number, color charge, and the rest) is contingent on which symmetries this universe instantiates, and is corrigible against further experimental and theoretical revision. The structural claim that *some* form of conservation must obtain survives any future revision of the specific list.
+
+The ontological reading of the structured quantum vacuum (Casimir effect, vacuum polarization, virtual-particle effects, the cosmological constant) is empirically real but contested in the literature [@saunders2002; @earman2003]. What the structural argument entails is that the vacuum is not absolute nothingness: it is Substance in its lowest-energy configuration, the bearer of Physicality at minimum energy. *Which* microstructure the vacuum carries, and how it relates to the gravitational dynamics of the cosmological constant, are open empirical questions.
+
+The fine-tuning question at the token level (*why* the specific values of physical constants this universe instantiates) remains an open empirical question. The structural argument relocates the fine-tuning question (§2.7.3, §7.7) rather than dissolving it: the type cannot have failed to instantiate Physicality, but the specific values within Physicality's parameter space are not fixed by the structural claim.
+
+And the question of how matter-energy unification extends into a fully unified quantum-gravitational theory (the open program at the frontier of fundamental physics) is precisely where the slot-5 conclusions of this section press up against the open work of contemporary physics.

@@ -1,0 +1,81 @@
+/* ============================================================
+   Sepia ("Scroll") — warm parchment, low-glare long-form reading
+   ============================================================
+   Selectable from the settings menu, alongside Procyon Light/Dark,
+   High Contrast, The Cave, and Mary's Room. Scoped to
+   html[data-book-theme="sepia"] body rather than :root/body.quarto-dark
+   — the attribute lives on <html> so it can be set pre-paint in <head>
+   (see cave.css's header comment for the full reasoning on both the
+   selector's specificity and the pre-paint placement; same logic
+   applies to every theme file in this directory). Forces light
+   polarity (settings dropdown JS clears body.quarto-dark when this
+   theme is selected) — sepia has no dark variant here.
+
+   Values sourced from the "Reader Themes — Idea Log" (Notion,
+   2026-07-09): background ~#F3E9D2, body text dark umber ~#3B2F23.
+   Everything else below is derived to sit comfortably in that same
+   warm-parchment family — not independently re-researched per
+   variable, since this is an early test palette, not a locked theme. */
+
+html[data-book-theme="sepia"] body {
+	--book-bg: #f3e9d2;
+	--book-text: #3b2f23;
+	--book-heading: #2c2115;
+	--book-link: #8a5a2b;
+	--book-link-rgb: 138, 90, 43;
+	--book-border: #ddcba3;
+	--book-border-soft: #e6d7b3;
+	--book-muted: #7a6a4f;
+	--book-muted-rgb: 122, 106, 79;
+	--book-scrollbar: #c9b78c;
+	--book-code-bg: rgba(59, 47, 35, 0.06);
+	--book-margin-text: #5c4c37;
+	--book-margin-strong: #3b2f23;
+	--book-breadcrumb-sep: #a4906a;
+	--book-premise-label: #5a4a8a;
+	--book-premise-cite: #8a7a5f;
+	--book-callout-shadow: rgba(59, 47, 35, 0.08);
+	--book-callout-header-border: rgba(59, 47, 35, 0.12);
+
+	--book-definition-border: #4a6a8a;
+	--book-definition-bg: #eae2c9;
+	--book-theorem-border: #8a3a3a;
+	--book-theorem-bg: #ede0c4;
+	--book-note-border: #6a5a44;
+	--book-note-bg: #ece2c6;
+	--book-warning-border: #8a6a1a;
+	--book-warning-bg: #ede3c2;
+	--book-caution-border: #3a7a4a;
+	--book-caution-bg: #e9e2c8;
+
+	--book-chassis-border: #a4906a;
+	--book-chassis-bg: #eee5cc;
+	--book-sb-definition-border: #6b5b48;
+	--book-sb-identification-border: #4a5a7a;
+	--book-sb-principle-border: #8a5a6d;
+	--book-sb-theorem-border: #8c4a2a;
+	--book-sb-lemma-border: #a4661f;
+	--book-sb-premise-border: #6e5844;
+	--book-sb-corollary-border: #6e4a6e;
+	--book-sb-condition-border: #2f6b5f;
+	--book-sb-argument-border: #6a5a44;
+	--book-sb-untyped-border: #6b5b48;
+	--book-sb-quickref-border: #7a6a4f;
+	--book-sb-quickref-bg: #ece2c6;
+
+	/* Chrome (navbar/sidebars/dropdown menus) — warmed off Procyon's own
+	   neutral near-black to a dark umber-brown, so the chrome reads as
+	   part of this same warm-parchment family rather than staying a
+	   cold, theme-blind bar. Kept dark rather than flipped light (like
+	   the reading column above): the chrome is a fixed "app shell" a
+	   reader doesn't reread, same reasoning Procyon's own comment gives
+	   for not moving it with the light/dark toggle either — differs by
+	   hue per palette, not by polarity. */
+	--book-chrome-bg: rgba(43, 32, 22, 0.88);
+	--book-chrome-bg-solid: #2b2016;
+	--book-chrome-scrollbar: #5c4a34;
+	--book-chrome-text: #ede0c8;
+	--book-chrome-text-rgb: 237, 224, 200;
+	--book-chrome-text-hover: #d9a655;
+	--book-chrome-text-hover-rgb: 217, 166, 85;
+}

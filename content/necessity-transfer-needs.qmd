@@ -1,0 +1,18 @@
+---
+title: "2.1.9 What Necessity Transfer Needs"
+notion-id: 8b12060f-0e97-40fc-b02d-f181d424c377
+slug: "necessity-transfer-needs"
+index: 20109
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The modal ontological argument turns on the S5 transfer from possible necessity to necessity: ◇□P → □P. Within the present account, that transfer follows from the fixed global domain W of real possibilities. It does not follow merely because an attempted rejection linguistically presupposes the framework.
+
+Like the Euclidean principle before it (§2.1.4), the transfer is schematic. Grant that a proposition is necessary at some member of W. Because every world evaluates necessity over the same W, the proposition is necessary at every member: ◇□P → □P. The inference does not turn on whose proposition P is.
+
+A critic may reject this account only by offering a different semantics of real possibility — one on which necessity is evaluated over genuinely different global domains rather than over W. Merely using modal language to deny S5 does not refute the fixed-domain analysis, but neither does it make denial incoherent by itself. It states a competing modal theory that Chapter 4 evaluates in detail.
+
+The theist is therefore bound if the fixed-domain account is accepted, and the modal ontological argument itself supplies a particularly clear instance: ◇□G → □G. Whether that transfer delivers a theistic conclusion, and what it costs to resist it, is not adjudicated here; the full engagement with Plantinga's argument belongs to Chapter 5 (§5.1.7).
+
+*What inverts.* The move the tradition reserved for crowning a necessary being is a structural consequence of global real possibility. It binds every claim evaluated within W, the theist included; it is not a verdict directed against any claimant.

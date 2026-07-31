@@ -1,0 +1,12 @@
+---
+title: "7.2.3 What is Predicted"
+notion-id: 0c4468fb-4e08-4a1f-9f47-803b8c7f9edc
+slug: "time-predicted"
+index: 70203
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Succession (the requirement that the two states a change runs between stand in a definite before/after order, not merely apart from one another) is one of the three constitutive requirements of Change (§1.3). If *then* did not order states in one direction, there would be no exchange, only a pair of states in undirected order, which is not change but a static pair. Temporal asymmetry is therefore not a feature this universe's initial conditions happen to instantiate. It *is* a structural feature of Nature itself. A symmetric temporal manifold is not a universe whose arrow happens to be missing. It is not a universe. The asymmetry *is* the temporal register of the modal result: if Change is possible, then directed succession is required, and if Change is necessarily possible, then directed succession is necessarily instantiated (§§1.3–1.5). §7.7 (Cosmic History) and §7.8 (Life) develop what this section's compressed term *Gradient* names: the cumulative directional drift the necessary temporal asymmetry produces in this universe under invariant law and cycle-delivered initial conditions, the *cosmic-evolutionary trajectory* (§7.7: the directional macro-arc by which a cycle's contents elaborate from simpler to more complex arrangements under the constraints the structural conditions impose) and the *evolutionary trajectories* (§7.8: the same directional drift as it runs at biological scale, generating the kinds of arrangement-complexification natural selection records).
+
+The structural claim is precise. What it establishes is the constitutive asymmetry of Temporality: that succession runs in one direction, that states stand in ordered relation, that *then* is not reversible. Whether the thermodynamic asymmetry familiar from physics follows directly from that constitutive fact, or requires supplementation by additional premises such as the Past Hypothesis (the stipulation that the universe began in a macrostate of extremely low entropy) [@albert2000; @loewer2007], is a contested question the framework does not need to settle. Price [-@price1996] and Callender [-@callender2011] map the space of candidate explanations; the structural account is neutral among them. The arrow itself is settled. What occupies the arrow is a question for physics.

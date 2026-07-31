@@ -1,0 +1,12 @@
+---
+title: "7.4.1 What is Disputed"
+notion-id: 1e9b3e59-0d08-4eff-aef5-fea6dd02dfde
+slug: "substance-disputed"
+index: 70401
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The historical dichotomy between matter (discrete stuff that persists) and energy (dynamic capacity that flows) organized natural philosophy from the seventeenth century through the nineteenth. Matter was the being that bore properties; energy was what matter did. The two were treated as metaphysically distinct categories with different conservation principles, different measures, and different explanatory roles.
+
+The early modern dispute carries forward into contemporary disagreement over how to read the post-Einsteinian unification. Some readings treat mass-energy equivalence [@einstein1905] as showing that matter just *is* energy, dissolving one category into the other; others treat it as a translation rate between two genuinely distinct categories; still others treat field-theoretic and particle ontologies as mutually irreducible descriptions of layered substrates (Redhead [-@redhead1982]; Cao [-@cao1997]). The literature on the ontology of quantum field theory (French and Krause [-@frenchKrause2006]; Wallace [-@wallace2012]) continues the dispute in present terms.

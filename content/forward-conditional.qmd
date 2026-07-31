@@ -1,0 +1,38 @@
+---
+title: "2.4.5 Forward Conditional"
+notion-id: ff288c56-003c-43c6-9807-2aa1d43cff99
+slug: "forward-conditional"
+index: 20405
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The four lines converge on the same constitutive identification: the structural requirement T∧S∧Φ. The conditional that does the formal work is **◇C → (T∧S∧Φ)**: if change is possible, the three Conditions are instantiated. The conditional is framework-invariant: it holds across every adequate theory of Reality, not just the one our physics currently provides.
+
+The Conditions are not physical posits. They are logical minima. Whether the framework is General Relativity, quantum gravity, an informational substrate, or a multi-dimensional manifold, what the theory is called does not matter; what matters is what the theory must do.
+
+A *timeless* quantum gravity still requires state-transition structure: whether expressed as Hamiltonian evolution under canonical quantization, as constraint-satisfaction in Wheeler–DeWitt approaches where no global Hamiltonian appears, or as relational change between observables in Rovelli-style timeless formulations. The structural Condition the apparatus carries is what counts: ordered transition between distinguishable states. Different timeless-QG programs realize that structure differently; the framework-invariance claim is about the Condition, not about any one program's preferred mathematical realizer. An *information-only* substrate still requires discrete rules by which informational states are exchanged. A pure relational ontology still requires ordered dependence among relata. Each eliminates a physical posit. None eliminates the structural Condition the posit was filling. And the thought that proposes the replacement is itself one state succeeding another. The strongest version of this objection (that quantum gravity produces a fundamental description in which time does not appear as a variable at all) is addressed directly in §4.2.3.
+
+A theory that truly eliminated the Conditions would not be a superior physics. It would be an incoherent description: change without succession, distinction without extension, interaction without persistence.
+
+The distinction between a structural Condition and its physical realizer is what matters. The realizer can change. The Condition cannot:
+
+- *T-Invariance:* If Δ describes a transition between states, it must instantiate Temporality's asymmetry and transitivity.
+- *S-Invariance:* If Δ describes a distinction between relata, it must instantiate Spatiality's relational extension and exclusivity.
+- *Φ-Invariance:* If Δ describes an interaction or a persistence of influence, it must instantiate Physicality's causal capacity.
+
+Any theory that negates these Conditions while claiming to describe a Reality where change is possible is analytically incoherent: an attempt to describe a transition without a sequence, a distinction without extension, or an interaction without persistence. The act of imagining that attempt just performed all three.
+
+What counts as physical is not fixed by current scientific vocabulary. It is constrained by what any adequate vocabulary must describe. The labels may change. Structure is what the labels are about.
+
+*The interaction-definition objection.* The definition in §1.3 specifies causal transmission rather than mere regular correlation, a substantive commitment a Humean will resist at the definitional level. So the Δ argument runs in two tiers, and the scope of the framework-invariance claim differs across them.
+
+The first tier is framework-invariant *without qualification*: any adequate theory of a Reality where change is possible must instantiate T and S, because ordered succession and relational extension are required by change and movement under any non-Humean specification of those concepts, and indeed under Humean specifications as well, since regularity itself requires distinguishable states ordered in succession. T and S survive even if the Humean wins the definitional battle.
+
+The second tier (the derivation of Φ) is framework-invariant *conditional on the causal reading of* interaction *being correct*. The scope difference is load-bearing: a Humean who rejects causal transmission at the definitional level rejects Φ in its present derivation, but not T or S. The Humean reply must therefore be engaged on its own terms before the third Condition is fully secured. That condition is developed at §4.1.4, and the pressure is brief enough to preview here. If regularity is restricted to the actual pattern of succession, it does not by itself yield the counterfactual stability the modal proof needs. If the Humean adds such stability, the account owes an explanation of whether that addition reintroduces the modal necessity the position was meant to avoid. Neither option by itself reinstates causal transmission; §4.1.4 must supply the further argument for Physicality rather than treating regularity as definitionally counterfactual. The invariance of all three Conditions is not a stipulation. It is a consequence: conditional on a defense whose shape is already visible here, whose structural form is developed at §2.4.8, and whose modal form is carried at §4.1.4.
+
+The Conditions are falsifiable. Produce a coherent account of change without succession and T falls. Distinction without positional differentiation and S falls. Interaction without persistence and Φ falls. The claim stands or falls with whether the definitions hold.
+
+*What is established.* The theory and its vocabulary may change, but the requirements do not, because the requirements are what any coherent description of change must satisfy.[^framework-invariance-ch4]
+
+[^framework-invariance-ch4]: The framework-invariance claim is engaged in Chapter 4: the Principle of Sufficient Reason as an alternative ground (§4.1.3), whether possibility has a source distinct from the structural Conditions (§4.1.10), Tegmark's mathematical universe as a rival framework (§4.3.7), and structural realism as an alternative reading of the Conditions (§4.3.9).

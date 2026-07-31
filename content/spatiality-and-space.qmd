@@ -1,0 +1,32 @@
+---
+title: "1.4.2 Space"
+notion-id: 86d6925b-3fe2-4086-a846-3818fb8709fe
+slug: "spatiality-and-space"
+index: 10402
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+What any distinction stands in is *Space*. Two states can be called different and still not stand apart: for here and there to be genuinely distinct, rather than one position wearing two names, there has to be a real interval that something can occupy and cross. That occupiable interval is Space.
+
+Space bears *Spatiality*, the Condition that makes *distinction* possible, the second role change named in §1.3. It must do three things at once: set positions a real interval apart, keep complete configurations from coinciding in one position, and allow relation to pass across the interval.
+
+i. *Extension.* Positions are separated by a real interval, not merely by different labels. The text in front of you stands apart from you: separated by air, by the focal distance of the eye, and by whatever medium carries print to the gaze. “Here” and “there” name two places, not one place described twice.
+
+ii. *Exclusivity.* Each position holds one complete configuration at a time. A closed book cannot be read because the page now facing the reader is already occupied by another page pressed flat against it. Without exclusivity, distinct configurations could coincide with nothing to separate them, and their distinction would be distinction in name only.
+
+iii. *Traversability.* The interval is crossable. It is not merely a logical gap between two terms but a distance through which attention, motion, or influence can pass. An interval that nothing could cross would leave its two sides sealed off: no relation could run between them.
+
+The examples of §1.1 and §1.3 come together here. Space is what makes separation real rather than descriptive. Extension keeps two places from collapsing into one; exclusivity keeps multiple configurations from collapsing within one place; traversability makes the interval a path for relation rather than a wall.
+
+The relation Space secures is *Separation*: here and there stand genuinely apart. This chapter fixes that meaning. Chapter 2 asks whether Spatiality, together with Temporality and Physicality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide whether space is a self-standing structure or nothing over and above relations among bodies. It commits only to the point needed here: genuine distinction requires real separation, and a separation across which relation can occur.
+
+::: {.untyped}
+**Spatiality** · **S** · *Condition*
+
+The Condition that makes distinction possible: whatever it takes for here and there to stand genuinely apart across a real, crossable interval, rather than one position wearing two names. Borne in Reality by Space.
+
+
+:::

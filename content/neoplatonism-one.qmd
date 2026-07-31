@@ -1,0 +1,26 @@
+---
+title: "5.3.2 Neoplatonism"
+notion-id: f705b94f-0a25-4bc9-98ab-eb58584df8e9
+slug: "neoplatonism-one"
+index: 50302
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Plotinus (*Enneads* [@plotinus270]) and the Neoplatonic tradition place the ultimate ground beyond being itself. The One (τὸ Ἕν) is not a being among beings, not even the supreme being; it is the source from which being emanates, lying beyond all predication, including the predicates of existence and unity in the strict sense. Plotinus is willing to push apophasis (the via negativa: approaching the divine by denying predicates rather than affirming them) past where classical theism stops. Where Aquinas's God is being-itself (*ipsum esse*), Plotinus's One is prior to being and to *esse* alike.
+
+The position relocates the challenge rather than escaping it. If the One is the source from which Reality emanates, the account posits an ordering or dependence relation between source and derivative. Plotinian emanation is not ordinarily a temporal process, so succession cannot simply be assumed. The sharper burden concerns determinate sourcehood, derivative difference, and asymmetric dependence: how these obtain without turning the One into one relatum among others.
+
+Nor does the henological motive for positing the One (that a manifold of conditions must derive from a prior unity to be one structure rather than a heap) find purchase here: T, S, and Φ (the three structural conditions, borne by Time, Space, and Substance) are not an aggregate awaiting an external unifier but one Nature, identical under the Triconditional Identity (§2.6.10), so the unity the One is invoked to supply is already internal to the structural ground.
+
+The same analysis covers the inward arm of the Neoplatonic cycle. The reply to this point runs on procession (the outward emanation from the One) but the reversion by which all things turn back toward their source fares no better: reversion likewise expresses an ordered dependence of the derived upon its source, not necessarily a clock-time journey. It requires intelligible difference and direction, while the Neoplatonist owes an account of how those roles apply analogically without compromising the One's priority.
+
+Plotinus is alert to the difficulty, and the difficulty has able contemporary defenders, so the apophatic reply must be taken at full strength. Gerson (*Plotinus* [@gerson1994]) reconstructs the language of emanation as systematically analogical rather than literally predicative, and Perl (*Thinking Being* [@perl2014]) reads the One not as a further being standing behind beings but as the sheer intelligible presence in which beings consist, so that talk of a source names a relation of dependence internal to appearing rather than a process undergone by some super-entity.
+
+The *Enneads* insist that the language of emanation, derivation, and procession is improper: that nothing can really be said about the One, including that it is the source of anything. The strategy of strict apophasis preserves the One's transcendence by withdrawing every predicate, including the predicate of being a ground.
+
+The consequence should be stated with care. If the One is not asserted to stand in a determinate grounding relation, then the present argument has no object-level ground claim to refute. It can register that the philosophical practice of unsaying is structurally enacted, but that act-side point does not establish the One's structural character. If a Neoplatonist instead retains determinate claims of emanation, sourcehood, or dependence, those claims incur the grounding-role burden developed in this chapter. The engagement therefore yields a fork: apophatic silence leaves a theological or contemplative stance outside this chapter's positive grounding claims; articulated emanation enters the dialectic and must explain its relation.
+
+The contemporary readings do not escape this. Analogical predication is still predication: an analogy holds between two terms in a respect, and to sustain it is to deploy distinction and relation, the very conditions at issue. And Perl's immanentist reconstruction concedes the point rather than evading it, for a presence in which beings consist, a dependence internal to appearing, just is a structural-dependence relation described from the inside, T, S, and Φ under another name, not a way past them.
+
+*What closes.* The chapter closes only the articulated priority claim: a One described as emanating, grounding, or standing in determinate dependence relations incurs the structural burden of those relations. Strict apophatic silence is not thereby contradicted; it declines to supply the kind of ground claim this chapter adjudicates. The remaining disagreement is whether such silence can support the explanatory work Neoplatonism often asks of the One.

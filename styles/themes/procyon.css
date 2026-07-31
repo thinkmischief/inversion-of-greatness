@@ -1,0 +1,408 @@
+/* ============================================================
+   Procyon — default theme
+   ============================================================
+   Every color used anywhere in styles/custom.css (the site's
+   structural stylesheet — layout, spacing, component shape) reads
+   one of these custom properties rather than a literal hex value.
+   This file is the only thing that needs to change to reskin the
+   whole site: the navbar, sidebar, links, backgrounds, callout
+   boxes, semantic blocks (Definition/Theorem/Lemma/etc.), all of it.
+
+   To build your own theme:
+     1. Copy this file to styles/themes/<your-theme-name>.css
+     2. Redefine any of the --book-* variables below with your own
+        values (you don't have to redefine all of them — anything
+        you omit falls through to whatever loaded before it)
+     3. In _quarto.yml, under format.html.css, replace (or add
+        after) the line pointing at this file with one pointing at
+        yours
+
+   Light values at :root; dark overrides under body.quarto-dark —
+   the class Quarto's light/dark toggle actually adds to <body>
+   (see quarto-html-before-body.ejs: toggleBodyColorMode()). It is
+   NOT [data-bs-theme="dark"]; that attribute is only ever set
+   statically on the navbar, never toggled on <html>/<body>, so a
+   selector keyed off it would never match here.
+   ============================================================ */
+
+:root {
+	/* Was a warm cream (#f7f3ec, before that #fdfbf7) — reversed on
+	   request: "no cream... I want it to be white... with a little bit
+	   of a texture." Confirmed live the cream tint was only ever
+	   actually visible on pages with real margin-note content (a
+	   Quarto-bundled rule silently overrode this value back to plain
+	   white everywhere else, invisible in a narrow column — see
+	   #quarto-document-content.page-full's own comment below), which is
+	   exactly what read as "wrong" once a margin-note chapter made the
+	   cream visible next to chapters that had silently stayed white the
+	   whole time. Plain white now, on purpose, everywhere — the
+	   paper-grain texture just below (unchanged) is what supplies the
+	   "not a flat, clinical fill" quality instead of a color tint. */
+	--book-bg: #ffffff;
+	/* A faint paper-grain texture for the reading column — on request,
+	   so the reading column reads as an actual surface rather than a
+	   flat fill, on top of (not instead of) the dimmer --book-bg above.
+	   An inline SVG feTurbulence filter, not an image file: no extra
+	   network request, and it tiles seamlessly at any zoom level since
+	   it's generated, not a fixed-resolution photo. baseFrequency: 0.9
+	   is fine, tight grain (not the blotchy look a lower frequency
+	   produces); the feColorMatrix's own last row (0 0 0 0.02 0) is
+	   what actually controls visibility — it discards the noise's own
+	   RGB entirely and reads only its alpha channel, scaled to a bare
+	   2% opacity, so this stays a texture, not a visible pattern.
+	   Dark mode doesn't redeclare this (falls back to none wherever
+	   it's referenced) — a reader's own framing was specifically about
+	   the reading column reading "totally white," which was never true
+	   of the dark theme's own near-black background to begin with. */
+	--book-paper-texture: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.02 0"/></filter><rect width="200" height="200" filter="url(%23n)"/></svg>');
+	/* Was pure #000000 — on request, tried as an experiment: body text
+	   and the big home-page-style title (the "Inversion of Greatness...
+	   Nature of Necessity to Maximum Possibility" treatment) both read
+	   as harsher/higher-contrast than intended against the cream reading
+	   column. #1a1a1a, close to this same file's own dark-mode chrome
+	   background (--book-chrome-bg-solid: #141414/#1c1c1c, both used
+	   elsewhere in this file) per the reference point given — a dark,
+	   near-black gray rather than a literal black. Explicitly a first
+	   pass to review, not a settled value. */
+	--book-text: #1a1a1a;
+	--book-heading: #1a1a1a;
+	--book-link: #a07828;
+	--book-link-rgb: 160, 120, 40;
+	--book-border: #d8cebc;
+	--book-border-soft: #ddd;
+	--book-muted: #6b6560;
+	--book-muted-rgb: 107, 101, 96;
+	--book-scrollbar: #c8bfa8;
+	/* Navbar/sidebar/dropdown-menu chrome — independent of the light/
+	   dark page toggle (same values in both modes, not redeclared under
+	   body.quarto-dark below), but NOT independent of the selected
+	   palette: each other file in this directory (sepia.css,
+	   high-contrast.css, cave.css, marys-room.css) redeclares these same
+	   --book-chrome-* names with its own values, same as it already does
+	   for --book-bg/--book-text/etc. Every chrome rule in styles/
+	   custom.css (navbar, both sidebars, dropdown menus, the Settings-
+	   menu component system) reads these variables rather than a literal
+	   color specifically so a palette switch reaches the whole site, not
+	   just the reading column. */
+	--book-chrome-bg: rgba(18, 18, 18, 0.88);
+	--book-chrome-bg-solid: #1c1c1c;
+	--book-chrome-scrollbar: #5a544a;
+	--book-chrome-text: #e8e3da;
+	--book-chrome-text-rgb: 232, 227, 218;
+	--book-chrome-text-hover: #d4a857;
+	--book-chrome-text-hover-rgb: 212, 168, 87;
+	--book-code-bg: rgba(0, 0, 0, 0.05);
+	--book-margin-text: #555555;
+	--book-margin-strong: #333333;
+	--book-breadcrumb-sep: #999999;
+	--book-premise-label: #1a365d;
+	--book-premise-cite: #6b7280;
+	--book-callout-shadow: rgba(0, 0, 0, 0.04);
+	--book-callout-header-border: rgba(0, 0, 0, 0.08);
+}
+
+/* Callout 5-type system, semantic-block chassis, and the mix-neutral
+   they both blend toward — scoped to html:not([data-book-theme]) (this
+   theme's own footprint, the absence of a data-book-theme attribute)
+   rather than the bare :root above. These used to sit in :root/
+   body.quarto-dark alongside the core tokens, which are meant to be
+   genuinely universal defaults — but a custom property that's ever set
+   ANYWHERE in the applicable cascade for an element (:root/body.
+   quarto-dark's own unconditional selectors both count) is never
+   treated as "unset," so a draft theme's own var(--book-sb-theorem-
+   border, var(--book-link)) fallback in styles/custom.css never
+   actually fired: it found Procyon's own value here surviving through
+   the cascade instead, and confirmed live doing exactly that (Cosmos's
+   own Theorem box rendering in Procyon's specific brownish-red, not
+   Cosmos's own teal accent). Scoping these to Procyon's own selector
+   specifically is what makes them genuinely absent for every other
+   theme, letting each var()'s own fallback actually resolve to that
+   theme's own accent color instead. */
+html:not([data-book-theme]) body {
+	/* Callout 5-type system */
+	--book-definition-border: #2c5282;
+	--book-definition-bg: #f0f5fa;
+	--book-theorem-border: #9b2c2c;
+	--book-theorem-bg: #fbf2f2;
+	--book-note-border: #4a5568;
+	--book-note-bg: #f7fafc;
+	--book-warning-border: #975a16;
+	--book-warning-bg: #fbf6ec;
+	--book-caution-border: #2f855a;
+	--book-caution-bg: #f0f7f2;
+
+	/* Semantic block (div) system — kept as its own palette since the
+	   source already gives these slightly different shades than the
+	   callout system above for the same concept names. */
+	--book-chassis-border: #8a8580;
+	--book-chassis-bg: #faf9f7;
+	/* The mix-target every callout/semantic-block border and background
+	   in styles/custom.css blends toward (color-mix(... 40%/6%,
+	   var(--book-chassis-neutral))). */
+	--book-chassis-neutral: #f7f7f5;
+	/* Locked in the Callout Box Formatting Guide (Notion, 2026-07-06).
+	   Definition/Identification/Principle bumped to genuinely bold,
+	   Loot-tier palette — on request: organize the seven semantic-block
+	   types the way a game's item-rarity tiers read at a glance, from
+	   "foundational and everywhere" up to "the payoff," at the same
+	   bold saturation the four reference-only callouts (Tip/Warning/
+	   Important/Caution) already carry — a reader named Tip's blue,
+	   Important's red, and Caution's green specifically as the target
+	   vividness, and asked for Principle/Condition raised to match (a
+	   first pass had them notably softer). Definition is the plainest,
+	   most basic unit a proof builds on — Common, plain gray, same
+	   value the Note callout and the unmapped-icon fallback already
+	   use. Theorem is the actual result being proved — Legendary, the
+	   same gold family as the Warning callout's own dark-mode value
+	   (the "gold one" specifically pointed at), not derived from it by
+	   the mix-toward-white formula the other six still follow — a
+	   deliberate break, since back-solving that formula from a color
+	   this light landed on an unreadably pale light-mode value. Same
+	   deliberate break for Identification's dark-mode blue, below: set
+	   to Tip's own dark-mode value directly rather than computed, since
+	   an exact match was the explicit ask. Argument/Premise still ride
+	   Definition's own variable (unchanged) rather than getting their
+	   own tier — no request to change that pairing came with this one. */
+	--book-sb-definition-border: #6B6B6B;
+	/* Rotated one full step on request — teal moves all the way up to
+	   Theorem (the new top/"Legendary" tier), and every other type
+	   inherits the hue the type ahead of it in the box's own on-page
+	   order (Condition → Identification → Principle → Lemma →
+	   Corollary → Theorem) used to carry, wrapping teal from the front
+	   to the back. Definition/Argument/Premise's plain gray is
+	   untouched — no request to move it. Confirmed against two things
+	   explicitly named: Theorem becomes teal, and Corollary/Result
+	   becomes the old Theorem gold. */
+	/* Was Identification's hue (Rare/blue) before the rotation. Muted
+	   further on request ("more austere") — Theorem/Corollary stay as
+	   they were, but Condition/Identification/Principle/Lemma all got
+	   desaturated toward gray. First pass (#4C6478) overshot straight to
+	   "just looks gray" once actually compared against the others live;
+	   a halfway pull-back (#34608F) still read under-saturated next to
+	   the rest of the family — nudged up again so Condition/
+	   Identification/Lemma all land at roughly the same perceived
+	   saturation as each other and as the untouched Theorem gold. */
+	--book-sb-condition-border: #2A5F9C;
+	/* Retuned off the loot-tier rotation, on request: "a nice, austere,
+	   dark kind of forest, Heidegger green" — the rotation's own bright
+	   Uncommon-tier green (#1C8C4A) read as a video-game mint, not the
+	   deep, sober forest-green actually asked for here. Not derived from
+	   any other type's old hue — a standalone retune. First mute pass
+	   (#4B5C4F) overshot to plain gray, a halfway pull-back (#3C5B46)
+	   still read under-saturated; nudged up again (#2E6B45) to match the
+	   rest of the family's saturation (see Condition's own comment
+	   above) — but that landed close enough in hue to Corollary/Result's
+	   teal (~142° vs ~174°, on request) that the two read as "basically
+	   the same color" side by side. Shifted hue further toward yellow-
+	   green/forest (~110°) rather than teal-adjacent green, same
+	   saturation/lightness, so the two stay clearly distinct. */
+	--book-sb-identification-border: #3A6432;
+	/* Retuned to a genuine orange, on request — the rotation's own old
+	   bronze-gold (Lemma's former Artifact hue, #A67F1F) read closer to
+	   dull brass than orange once actually asked to BE orange rather
+	   than gold-adjacent. Both mute attempts since (#8C6F52, #A66837)
+	   still read as plain brown, not orange — orange is a narrow target:
+	   it collapses to brown well before other hues collapse to gray at
+	   the same saturation/lightness. Rather than re-guess a third
+	   orange, shifted the hue itself warmer, toward rust/terracotta
+	   (hue ~15° instead of ~30°), which holds its own color at a muted
+	   saturation the way Condition/Identification/Lemma's hues do. */
+	--book-sb-principle-border: #B4552E;
+	/* Was Corollary's hue (Epic/purple). First mute pass (#6B5870)
+	   overshot toward gray, a halfway pull-back (#723B8C) still read
+	   under-saturated; nudged up again to match the rest of the family's
+	   saturation (see Condition's own comment above). */
+	--book-sb-lemma-border: #7A2C9E;
+	/* Matches --book-sb-definition-border/--book-sb-argument-border —
+	   on request, Premise reads visually identical to Argument/Move
+	   (same color, same chassis) even though the two stay semantically
+	   distinct types underneath (a numbered assumptions list vs. the
+	   inference step drawn from it) — the label/tag text still says
+	   "Premises" vs. "Argument"/"Move", only the color/chassis unify. */
+	--book-sb-premise-border: var(--book-sb-definition-border);
+	/* Swapped back with Theorem, below, on request: "the result is the
+	   teal color, and the theorem is the gold" — reverses the single-step
+	   rotation's earlier move of teal up to Theorem. This is that same
+	   teal (was Condition's own hue originally, then Theorem's after the
+	   rotation), now Corollary/Result's. Was left untouched through the
+	   Condition/Identification/Principle/Lemma mute pass above, which on
+	   comparison made it read as the most saturated of the family —
+	   dialed back slightly (not as far as the other four moved) to bring
+	   it into the same general range. That pass also happened to land
+	   close in hue to Identification's own retuned green (~174° vs
+	   ~142°, on request) — shifted further toward blue/cyan (~187°) so
+	   the two read as clearly different colors, not just different
+	   shades of the same green-teal. */
+	--book-sb-corollary-border: #1E6E78;
+	/* Swapped back with Corollary, above. NOT the rotation's old gold
+	   (#8C5A12, matched to the Warning callout's dark-mode value) —
+	   confirmed live that hex read as brown, not gold, against the white/
+	   cream reading column: it's a genuinely dark, low-saturation amber
+	   that only reads as "gold" against a dark background (which is where
+	   it was originally matched and approved). A real light-mode gold
+	   needs more saturation and lift to hold its own hue on a light
+	   ground instead of collapsing toward brown — the classic
+	   "goldenrod" family (hue ~43°, well north of brown's ~30°) does
+	   that; dark-mode pair below is unaffected, still the same
+	   Warning-matched value that was already correct there. */
+	--book-sb-theorem-border: #B8860B;
+	/* Matches --book-sb-definition-border (also the same as --book-sb-
+	   untyped-border, the Note callout's own gray) rather than its own
+	   hex — on request, Argument/Move and Definition read as "the same
+	   color scheme," a clean neutral gray, while every other type
+	   (Theorem, Premise, Lemma, Corollary/Result, Identification,
+	   Principle, Condition) keeps its own distinct color. Referencing
+	   the variable, not copying its hex, so the two stay in lockstep if
+	   Definition's own gray is ever retuned. */
+	--book-sb-argument-border: var(--book-sb-definition-border);
+	/* An unmapped-icon fallback (see export-pages.js): same neutral gray as
+	   Definition's chassis, but its own variable since the two are
+	   conceptually unrelated — this one just means "not yet classified". */
+	--book-sb-untyped-border: #6B6B6B;
+	--book-sb-quickref-border: #6b6560;
+	--book-sb-quickref-bg: #f7f6f4;
+}
+
+body.quarto-dark {
+	/* No literal background-color here anymore — custom.css's own
+	   plain body { background-color: var(--book-chrome-bg-solid); }
+	   already covers this. Having both was the actual bug behind "the
+	   5 dark reader themes don't change the page background, only the
+	   reading column and inner boxes": body.quarto-dark (0-1-1
+	   specificity) hardcoding a literal #141414 here always beat that
+	   plain var()-based rule (0-0-1), regardless of what a selected
+	   theme's own html[data-book-theme="X"] body rule (0-1-2,
+	   correctly more specific) had already set --book-chrome-bg-solid
+	   to — the variable itself updated correctly (confirmed live via
+	   getPropertyValue), so every element that read background-color
+	   through the variable directly re-themed properly; body's own
+	   background-color was the one property a hardcoded literal was
+	   still silently overriding, stuck on Procyon Dark's own color no
+	   matter which theme was actually active. Removing the literal
+	   here and keeping only the variable below lets that same var()
+	   rule resolve to whatever's actually in scope, Procyon's own
+	   #141414 by default (still set right below) or a theme's own
+	   override when one's active — no visible change for plain Procyon
+	   Dark, since the variable itself doesn't change here. */
+	--book-chrome-bg-solid: #141414;
+	/* #181818/#e4e0d5, not the original #1e1e1e/#d5d1c6 — updated
+	   2026-07-13 per Notion's own "Procyon Dark" entry (Reader Themes
+	   database: body text brightened "at Procyon's request") plus a
+	   further background darkening decided after comparing the two
+	   live, side by side, via a temporary procyon-dark-preview theme
+	   entry (styles/themes/reader-themes-drafts.css). The original
+	   values now live there instead, archived and pulled from the
+	   Palette menu — same "code intact, not selectable" treatment as
+	   scroll-mode (that file's own header comment) — rather than
+	   deleted outright, in case they're ever wanted back. */
+	--book-bg: #181818;
+	/* Brightened from #e4e0d5 to #f0ece0 earlier tonight to fix a
+	   "fuzzy"-reading dimness — landed too far the other way, reading
+	   as "too cream." Pulled back once already (to #e8e6de), still
+	   read as too bright, pulled down one more step (to #d7d5ce), then
+	   one more small step down (to #cdcbc4) for lingering brightness.
+	   Brightness settled at that point, but the R−B warm/cream hue
+	   bias itself (held at a ~9 gap through every step above) still
+	   read as "too cream" on its own — so this step cools the hue
+	   instead of dimming further: gap brought down to ~3 (#cbcbc8),
+	   luminance essentially unchanged from #cdcbc4. */
+	--book-text: #cbcbc8;
+	--book-heading: #f5f1e8;
+	--book-link: #d4a857;
+	--book-link-rgb: 212, 168, 87;
+	--book-border: #2a2a2a;
+	--book-border-soft: #212121;
+	--book-muted: #9fa0a6;
+	--book-muted-rgb: 159, 160, 166;
+	--book-scrollbar: #3a3a3e;
+	--book-code-bg: rgba(255, 255, 255, 0.08);
+	--book-margin-text: #b8b2a8;
+	--book-margin-strong: #e8e3da;
+	--book-breadcrumb-sep: #7a746a;
+	--book-premise-label: #7fa8d8;
+	--book-premise-cite: #9aa1ab;
+	--book-callout-shadow: rgba(0, 0, 0, 0.3);
+	--book-callout-header-border: rgba(255, 255, 255, 0.12);
+}
+
+/* Dark-mode half of the same html:not([data-book-theme]) carve-out
+   above — see that rule's own comment for the full reasoning. */
+html:not([data-book-theme]) body.quarto-dark {
+	--book-definition-border: #5b8fd4;
+	--book-definition-bg: #1a2230;
+	--book-theorem-border: #d16a6a;
+	--book-theorem-bg: #2a1717;
+	--book-note-border: #8b96a8;
+	--book-note-bg: #1c1f24;
+	--book-warning-border: #d49a4f;
+	--book-warning-bg: #2a2316;
+	--book-caution-border: #5fb88a;
+	--book-caution-bg: #16241d;
+
+	--book-chassis-border: #75767c;
+	--book-chassis-bg: #1e1e1e;
+	--book-chassis-neutral: #252525;
+	/* Dark-theme variants. Definition/Theorem/Identification are
+	   deliberate breaks from this file's usual ~41.8% mix-toward-white
+	   formula (see the light block's own comment) — matched directly to
+	   already-tuned reference colors instead. Principle/Lemma/Condition
+	   still follow the formula off their own (now-deepened) light-mode
+	   hues, which is what actually raises their boldness here — a
+	   deeper, more saturated light-mode input produces a more saturated
+	   dark-mode output too, not a separate adjustment. */
+	/* Common — same gray the Note callout/unmapped-icon fallback use. */
+	--book-sb-definition-border: #A9A9A9;
+	/* Rotated one full step, same as the light block above — teal to
+	   Theorem, everything else inherits the next type's own old hue in
+	   on-page order, wrapping around. */
+	/* Was Identification's own dark-mode blue (matched directly to the
+	   Tip callout's dark-mode value, not formula-derived). Muted further
+	   on a later request ("more austere"), nudged back up on a follow-up
+	   request, same as the light-mode pair above. */
+	--book-sb-condition-border: #5589C7;
+	/* Dark-mode pair for the light block's own retuned forest green,
+	   above. The first pass here (#6E9B7A, a desaturated mix-toward-white
+	   derivative) read as "too teal, not bold enough" once actually
+	   compared against the rest of the dark palette — its own B channel
+	   sat too close to its G channel (122 vs 155) for the hue to hold as
+	   a clean green rather than drifting toward cyan, and the ~18%
+	   saturation that formula produced was genuinely low next to Theorem/
+	   Corollary's own bold dark-mode values. #5FB88A instead: the exact
+	   dark-mode green already approved directly off the Caution callout
+	   (--book-caution-border, above) — this was the original "I like the
+	   green" reference color from the loot-tier request that started this
+	   whole palette, wider hue separation from teal (G−B = 46, not 33)
+	   and real saturation, so reusing it outright beats re-deriving a
+	   weaker approximation of the same color. Later muted for the
+	   "austere" request, then shifted further toward forest/yellow-green
+	   (away from Corollary/Result's teal) on a follow-up request, same
+	   reasoning as the light-mode pair above. */
+	--book-sb-identification-border: #5A9646;
+	/* Dark-mode pair for the light block's own retuned-then-rehued
+	   principle color, above — a rust/terracotta rather than orange, off
+	   the same hue shift, lightened for a dark background. */
+	--book-sb-principle-border: #E0855A;
+	/* Was Corollary's own dark-mode purple. Muted further on a later
+	   request, nudged back up on a follow-up request, same as the
+	   light-mode pair above. */
+	--book-sb-lemma-border: #A868D1;
+	--book-sb-premise-border: var(--book-sb-definition-border);
+	/* Swapped back with Theorem, below, on request — same teal this
+	   pair always was before the rotation moved it up (Condition's own
+	   original dark-mode hue). Read as the most saturated of the family
+	   once Condition/Identification/Principle/Lemma were muted above;
+	   dialed back slightly to match, then shifted further toward blue/
+	   cyan (away from Identification's own green) on a follow-up
+	   request, same as the light-mode pair. */
+	--book-sb-corollary-border: #46AAB9;
+	/* Swapped back with Corollary, above. Unlike the light-mode pair,
+	   this dark-mode gold (matched directly to the Warning callout's own
+	   dark-mode value) was never the thing a reader flagged — "brown on
+	   white" is a light-background problem specifically — so it carries
+	   over unchanged, just reassigned to Theorem instead of Corollary. */
+	--book-sb-theorem-border: #D9A24F;
+	--book-sb-argument-border: var(--book-sb-definition-border);
+	--book-sb-untyped-border: #A9A9A9;
+	--book-sb-quickref-border: #a39e96;
+	--book-sb-quickref-bg: #211f1c;
+}

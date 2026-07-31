@@ -1,0 +1,20 @@
+---
+title: "7.7.4 What is Confirmed"
+notion-id: 112e4075-24f6-4a49-b636-64de3f08c7ea
+slug: "cosmos-confirmed"
+index: 70704
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Quantum theory supplies a sharp case for separating the dynamical law from the particular outcome recorded in a measurement, but it does not by itself settle a metaphysics of token openness. Before a measurement, a quantum system may be represented by a superposition of outcome components; the Born rule supplies probabilities for outcomes in standard formulations. Repeated preparations yield statistical distributions. How those distributions relate to individual outcomes is interpretation dependent: collapse theories posit genuinely stochastic outcomes; Bohmian theories add deterministic but nonlocal hidden variables; Everettian theories retain unitary evolution and deny that there is a single fundamental outcome. The book's type/token vocabulary can be used to describe this distinction between a lawlike structure and an individual record, but it should not be presented as a result every interpretation independently confirms.
+
+Bell-inequality violations [@bell1964; @aspect1982; @hensen2015; @giustina2015; @shalm2015] rule out the conjunction of local causality and the relevant class of pre-existing hidden-variable models. They do not by themselves rule out determinism: nonlocal hidden-variable theories remain live options, and Everettian interpretations offer a different response to single-outcome assumptions. The experimental record therefore constrains which completions of quantum theory are viable; it does not establish that outcome-level openness is mind-independent rather than epistemic. The structural argument may defend that further claim on philosophical grounds, but it should not attribute it to Bell experiments alone.
+
+The quantum-to-classical interface remains an active research area. Penrose [-@penrose1989] and Diósi [-@diosi1989] propose gravity-related collapse mechanisms; decoherence programs [@zurek2003; @joos2003] explain how quasi-classical behavior emerges from quantum dynamics; and consistent-histories approaches (Griffiths [-@griffiths2002]; Omnès [-@omnes1994]) provide a formal framework for assigning probabilities to histories. These programs are not a single empirical unification, and they do not all endorse the book's type/token analysis. They provide distinct ways of handling the relation between quantum dynamics and the records described at larger scales.
+
+Cosmological and biological history supply the same result at different scales. The cosmic microwave background records primordial fluctuations whose specific pattern is not derivable from any known prior: a token distribution within the type of an expanding, cooling medium. The fossil and genomic record is a chain of contingent tokens (this mutation, this extinction, this branching) unfolding within invariant types (conservation, thermodynamic asymmetry, selection under limited resources). The regularities of type hold across configurations that are themselves contingent, which is exactly what the composition predicts.
+
+The cosmic-evolution research program [@chaisson2001; @christian2004] integrates results from cosmology, astrophysics, geochemistry, and origins-of-life research into a broad historical narrative from primordial fluctuations through nucleosynthesis, galaxy assembly, planet formation, and prebiotic chemistry. This interdisciplinary convergence supports the reality of lawful constraints and contingent historical detail in our observed cosmic history. It does not confirm recurrence across cycles or establish a second instance of the same trajectory.
+
+On the reading developed here, the type-token composition is a philosophical framework that can accommodate collapse, hidden-variable, and Everettian interpretations in different ways. It does not follow empirically from every successful interpretation of quantum mechanics. The structural account must therefore earn its claims about token openness independently of the fact that quantum theory delivers statistical predictions.

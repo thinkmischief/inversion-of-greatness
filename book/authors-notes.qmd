@@ -1,0 +1,52 @@
+---
+title: "Author's Notes"
+search: false
+nav-section: ["Primary"]
+nav-order: 10
+---
+
+## On Composition
+
+There is a familiar puzzle about a ship whose planks are replaced one by one until none of the first wood remains. Is it then the same ship? A version of that question now arises for writing. When a book has been drafted, redrafted, and tested with tools that can propose and reshape its sentences, what makes the finished work the author's rather than the tool's?
+
+The answer begins with what writing is for. In some books the sentences are the achievement itself — no paraphrase of a poem is the poem. A book of logical argument is valued differently: not for sentences that happened to occur first in one person's head, but as an attempt to communicate claims, reasons, and an order of thought to another mind. The sentences are necessary to that task, but they are its vehicle, not its end. They may change — even radically — while the argument they carry remains the same; and they may remain intact while the argument has been altered beyond recognition. What matters is who determined what the book is trying to say, who judged whether its words said it, and who answers for the result.
+
+The core ideas in this book are, to the best of my knowledge, my own. The S5 inversion came to me in 2025, and the rest grew out of decades of interdisciplinary study across philosophy of religion, biblical studies, and the sciences. What AI changed was never the thinking — only the time. A book like this is normally made slowly: drafted, read back, argued over with a field, and revised again across years. Having no academic ties of my own, I had a choice: spend time and money I didn't have earning a way in, and then years letting the field hold the work to its pace and its terms — or build the process myself. I judged that the argument could stand on its own either way, and took the revision into my hands. So what the tools took out of the work was the years that road would have cost, not the argument meant to fill them. That's why the label a reader might reach for — “written with AI” — misleads here: the phrase suggests something this was not.
+
+What AI was actually used for was narrower, and turns on a different distinction: between *what* the book claims and *how* it says it. Put plainly: I didn't need help with the argument; I needed help with the packaging. The propositions, the architecture, and the direction of the argument were already mine. The tools helped me state the argument more precisely, caught places where the prose said too much or too little, and made possible a sustained adversarial revision I couldn't have managed alone. They did not determine what the book claims, what follows from what, or which objections the argument could bear. Those judgments remained mine; so does responsibility for every sentence that survived them.
+
+The line between what I had and what I lacked is precise. Reading analytic philosophy was never my gap — a long immersion in its literature lets me follow and weigh its arguments. What I lacked was depth on the other side: writing in that register at the level the work required. Interpreting an argument and expressing it to the field's exacting standard are different capacities, and a work of this kind demands both. That seam — and only that seam — is where AI came in: it rendered my fixed argument into the register, while my own reading of that register is what let me judge whether each line said what I meant. It supplied expression, never understanding.
+
+That the medium allows this is what kept the use principled. Analytic prose is precise, not creative: its task is to state a fixed argument exactly, not to invent one. So the tools worked at the level of the sentence, not the proposition, inside an apparatus I built for exactly that. The risk in this is obvious: how a thing is said can quietly bend what it claims, and that is what the cold read was for. Nothing was rendered once and left standing — everything was shaped and reshaped as I went, and any line that read better but claimed even slightly more or less than the argument allowed was pulled as an error, not kept as an improvement.
+
+The system of parameters that shaped the prose was built from the ground up and refined as I went. Register and formatting were a fixed standard I had to meet; framing, tone, cadence, and vocabulary were mine to shape. The apparatus was adversarial by design: targeted audits measured soundness, readability, and document hygiene on each section, and the models were instructed to break the argument wherever they could and grant it nothing it hadn't earned. That instruction is the backstop the whole method rests on — the line between putting AI to sharpening one's own ideas under conditions where nothing enters the work unargued, and the kind of use that earns the suspicion. The models pressed; I defended or revised; what couldn't be defended didn't go in. Nothing here stands on a model's authority — every premise and conclusion was pushed past an adversarial reader before it earned its place, which is why the tool tightens the claim of authorship rather than thinning it. What carried me through wasn't sheer will; it was the momentum the argument's own modal framework gave the case, the harder it was pressed.
+
+The ship, then, is the same ship. Its planks were handled many times over, and some were cut truer than I could have cut them alone; but one mind set its course, judged every replacement against the voyage it was built for, and answers for where it arrives. What a slower making would have given the book, this gave instead — except the argument itself, which was never the tools' to give.
+
+## On Publication
+
+The choice to publish this book the way it is published is principled. The argument here, if it succeeds, should never hide behind a paywall or an institution's gate — not from a student, not from a specialist, not from anyone else curious enough to follow it. That's not a marketing position. It's the condition the whole project runs on.
+
+That doesn't rule out a print edition; it only delays one. Print will come once its up-front cost is one I can cover. Until then, its absence is a matter of means, not intent: the argument already reaches anyone who wants it; only the printed object is what waits.
+
+Nor does publishing without a gate mean publishing through whoever will have it. I chose not to hand the book to a publisher or a platform, because doing so hands over the decisions that matter most here — pricing, form, availability — to someone answering to different incentives than the ones the argument earned its reach under. A platform like Amazon would have been the easy option; I didn't take it, for the same reason: I don't want the work, or any money attached to it, routed through a corporate intermediary that owes the argument nothing.
+
+Nobody profits from this. Any print run to come will be priced at or near cost — enough to cover upkeep, nothing more — and the digital editions carry a standing commitment that runs one direction: they stay current, and they stay available, regardless of what else changes.
+
+None of this is a stance against being paid for one's work in general. It's a judgment about what this particular book should cost a reader to reach: never more than a rigorous argument should ask of the people it's trying to persuade. Where support is offered anyway, it buys exactly what it says and nothing else — time to keep doing the work, not influence over what the work concludes.
+
+## Acknowledgments
+
+The gratitude behind this book runs well ahead of the names I can yet attach to it: outside my own work, it has not been read, advised on, or shaped, and what exists is still in need of review. The names will come. The gratitude is already here, waiting for them.
+
+Still, a few things are worth acknowledging up front.
+
+This argument was built with a particular kind of attention: a fact about how its connections were found, not about whether they hold. For me, ADHD does not ration attention evenly. When something takes hold, it can hold with a thoroughness I did not choose, following a connection until its path is exhausted. That same attention comes at a cost. The attention that will not release a question is also the attention that struggles with the ordinary: the problem left half-solved, the sandwich never made, the patience a relationship asks for daily. Some of this acknowledgment belongs to the people who carry that patience — the ones who bear with someone they love through it.
+
+The argument owes itself to a single thread and to the lifetime of connections that thread ran through. The thread — the S5 inversion — was pulled from a question inside the Transcendental Argument for God: if God is named as the precondition of all possibility, what remains for God to ground once possibility is shown to be necessary in its own right?
+
+Whatever is conclusive here was not arrived at alone. It stands on questions, each one pressed by someone who would not settle for “because.” The asking is older than any of us; it ran across millennia before it reached this page. No one inherits a question without owing the people who kept it open. Of all the debts behind this work, that is the one it can name out loud.
+
+How does one acknowledge God in all this? What is owed there is not gratitude so much as a reckoning. The idea of God has, for many people, aligned inquiry, organized moral intuition, and carried them through grief. The letting go here is narrower: the argument sets aside a metaphysical claim, not the human weight carried under that name. That weight is real. Setting down the claim is not the same as being ungrateful for what the name, for a time, made possible.
+
+There is something to acknowledge on the far side of letting go. Take the greatest possible being out of the picture and greatness does not leave with it. It returns to the necessary structure of Nature, and to the possibilities that structure makes available. That opening is maximum possibility: a field widened whenever someone keeps a question open, makes a possibility real enough for someone else to build on, and leaves more of the world available to those who come next. To all of them — named here or not, behind us or yet to come — and to the greatness of what is still possible: thank you.

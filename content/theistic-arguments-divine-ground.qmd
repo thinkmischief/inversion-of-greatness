@@ -1,0 +1,12 @@
+---
+title: "5.1 Theistic Arguments for a Divine Ground"
+notion-id: b82fd901-19e1-4d67-89f3-3bd5427e06d3
+slug: "theistic-arguments-divine-ground"
+index: 50100
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This first cluster gathers the theistic arguments that reach for a divine ground without presupposing structure: the cosmological and foundation arguments (§5.1.1–§5.1.4), the arguments from design and fine-tuning (§5.1.5–§5.1.6), the ontological and modal arguments (§5.1.7–§5.1.8), and the transcendental, moral, and pragmatic ones (§5.1.9–§5.1.11). Each reaches past the world toward a God offered as prior to and more fundamental than time, space, and substance.
+
+Each is pressed on a single question: can it be carried through without leaning on the structural roles it was meant to stand free of? The recurring finding is often relocation rather than refutation. A ground that acts, knows, creates, sustains, or explains must at least bear directed dependence, relational differentiation, and real grounding content. Whether those roles entail the richer types of temporal succession, spatial extension, and causal persistence depends on the specific form of the ground and must be argued rather than assumed. A candidate that posits an essence-prior or transcendent ground may remain a live metaphysical proposal; the chapter asks whether it has supplied an intelligible grounding relation or merely named one.

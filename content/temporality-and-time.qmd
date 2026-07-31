@@ -1,0 +1,34 @@
+---
+title: "1.4.1 Time"
+notion-id: 678c343f-3c6c-420e-9e8d-165317f373b7
+slug: "temporality-and-time"
+index: 10401
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+What any succession runs in is *Time*. A before and an after are not yet a genuine order: for the earlier to give onto the later, rather than stand as two labels that could be swapped, there has to be an order that runs one way and that a state can occupy. That occupiable order is Time.
+
+Time bears *Temporality*, the Condition that makes *succession* possible, the first role change named in §1.3. It must do three things at once: run one way, reach across the whole sequence rather than only between neighbors, and let what comes before bear on what comes after.
+
+i. *Asymmetry.* The before/after relation runs one way. A-before-B is not B-before-A; the two are not interchangeable labels for the same relation. The line just read cannot be un-read, not for lack of technology, but because *un-reading* names no act. Asymmetry gives temporal order its direction.
+
+ii. *Transitivity.* The ordering composes. If A precedes B and B precedes C, then A precedes C: the first sentence remains before the last, regardless of how many sentences sit between. Without transitivity, “before” would be a local fact between adjacent states only, and Time would dissolve into a heap of comparisons that cannot be stitched into a sequence.
+
+iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of consequences rather than labels.
+
+The forward foreclosures in §1.1 — you cannot plan for yesterday or remember the future — already displayed Time’s signature. Succession named the same fact from inside Change (§1.3). Time adds duration and directed weight: a list of labels has order, but no interval and no answer to how the first bears on the second.
+
+What is structural in that addition, and what is not, should be fixed while the meaning is being fixed. The order is structural: that states stand one before another, directed and composable, is what Time *is*. The measure is not: how much interval there is — the clock, the count, the metric — is content a particular world supplies, and duration rides on succession rather than the reverse. On the account introduced here, a moment is a position in the order of states rather than a vessel that remains when the states are removed; moments are told apart by which state occupies them. That account supports a stronger downstream claim: where nothing differs — no state, no arrangement, no bearing of before on after — multiplying one moment into many requires primitive temporal individuation that the present definition does not supply. It does not yet establish that no rival account can supply such individuation. Shoemaker's time-without-change case is engaged at §4.2.2, and §7.6.5 argues for the framework's conclusion that a wholly changeless stretch, however long it is described as lasting, is a single moment.
+
+The relation Time secures is *Precedence*: one state genuinely stands before another. Time here names the order in which moments are distinct, directed, and lasting. This chapter fixes that meaning. Chapter 2 asks whether Temporality, together with Spatiality and Physicality, is merely instantiated in this world or required by any possible reality.
+
+The account does not decide between the A-theory and B-theory of time. Both require an ordered succession. Nor does it treat Time as a self-standing container independent of what occurs; the later philosophy-of-physics discussion takes up those questions on their own ground.
+
+::: {.untyped}
+**Temporality** · **T** · *Condition*
+
+The Condition that makes succession possible: whatever it takes for before to genuinely produce after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
+
+
+:::

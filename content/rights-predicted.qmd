@@ -1,0 +1,24 @@
+---
+title: "9.1.3 What is Predicted"
+notion-id: ed9af5b7-63a1-401c-91c1-18a584b38839
+slug: "rights-predicted"
+index: 90103
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of rights as participation conditions, combined with the derivation of rights at the level of life and subsistence, generates predictions about rights-architecture performance across political-community configurations.
+
+*First.* Political communities that constitutionalize or otherwise legally substantiate socioeconomic rights produce different policy outcomes than political communities that protect only civil-and-political rights. The framework predicts that arrangements explicitly grounding subsistence-rights as enforceable produce measurably different aggregate outcomes on the metrics the framework holds constitutive (subsistence-floor adequacy, healthcare-access universality, educational-floor adequacy) than arrangements that route those commitments through ordinary policy debate without rights-grounding.
+
+*Second.* The negative-rights-only configuration produces structural pressure toward the substantive hollowing the framework identifies. The framework predicts that arrangements protecting only formal non-interference rights without substantive subsistence-grounding will display the medical-bankruptcy, housing-precarity, food-insufficiency, and educational-precarity patterns the framework's diagnosis names, even where the formal rights regime is robust on its own terms.
+
+*Third.* Rights-formulation language tracks structural performance more weakly than rights-enforcement architecture does. The framework predicts that the gap between nominal rights protection and substantive rights performance is governed by enforcement architecture, not by formulation language. Arrangements with robust negative-rights formulation but weak enforcement underperform arrangements with weaker formulation but robust enforcement; arrangements with strong socioeconomic-rights formulation but weak enforcement underperform arrangements with weaker formulation but actual policy delivery.
+
+*Fourth.* Rights articulated as participation conditions track democratic stability and institutional trust more closely than rights articulated as pre-political possessions. The framework's derivation of rights as what mutual recognition at population scale structurally requires predicts that arrangements explicitly grounding rights in citizenship-and-participation display stronger democratic-stability and institutional-trust metrics than arrangements grounding rights in metaphysical-natural-rights claims that float free of the political community's structural function.
+
+*Fifth.* Disability-rights and minority-rights performance tracks the depth at which the broader rights regime is articulated. The framework predicts that arrangements articulating rights at the level of life and subsistence (with universal subsistence and accommodation as participation conditions) display stronger disability- and minority-rights performance than arrangements articulating rights at the formal-non-interference register, because the latter leaves accommodation and subsistence-support as discretionary supplements rather than as constitutive participation conditions.
+
+*Sixth.* Political communities that articulate rights as participation conditions resist authoritarian backsliding more robustly than political communities that articulate rights as formal-legal-protections detached from the underlying conditions. The framework predicts that the legal form of rights is more easily hollowed by authoritarian capture than substantive rights articulated at the level of life and subsistence, because the latter has a constituency whose material participation depends on the rights' substantive content.
+
+*Seventh.* Rights regimes that distinguish negative and positive rights as structurally exhaustive categories produce internal incoherence at the rights-conflict cases that the participation-condition reading dissolves. The framework predicts that jurisprudential frameworks treating positive and negative rights as competing for institutional priority will generate apparent rights-conflicts (right to life vs. right to bodily autonomy in end-of-life and reproductive contexts; property rights vs. subsistence rights; speech rights vs. equal-protection rights) that resolve more cleanly under the participation-condition reading than under the negative/positive-distinction reading.

@@ -1,0 +1,20 @@
+---
+title: "1.5.2 Constitution"
+notion-id: aaa70ba8-6c34-48d7-b40a-59e37e7e9441
+slug: "identity-and-constitution"
+index: 10502
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Constitution** · *Definition*
+
+The relation between a thing and what it is made up of, read from either side: the clay *constitutes* the statue, and the statue *consists in* the clay.
+
+
+:::
+
+*X consists in Y* reads the relation top-down: X is what Y, taken together or in the relevant relation, makes up. *Y constitutes X* reads it bottom-up, the same relation from the other side. The canonical case: the statue *consists in* the clay arranged statue-wise; the clay *constitutes* the statue. The operator also runs at higher levels of abstraction. A role or structural requirement *consists in* what it amounts to: *exchange consists in carrying-forward*; *change consists in succession, distinction, and exchange*. The pattern is the same (X is what Y, in the relevant relation, makes up), applied to roles and structural requirements rather than to material parts. The constitution operator runs across both readings, material constitution among tokens (the statue and its clay) and role-analytic constitution of structural requirements (exchange and carrying-forward), and the survey here covers both.
+
+The two readings differ in their metaphysical commitments. Material constitution is mereological and token-level; role-analytic constitution is hyperintensional, able to tell two notions apart even when they hold of exactly the same things — a distinction finer than mere co-extension. The identity of X as what Y amounts to is not merely a matter of co-extension but of what X essentially is, in the sense operative at §4.1.10. The priority question taken up there is this: whether role-analytic constitution bottoms out in an essence prior to modality, or whether the modal field is primitive and role-analytic constitution describes its shape.

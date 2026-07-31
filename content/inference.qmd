@@ -1,0 +1,18 @@
+---
+title: "1.5.3 Inference"
+notion-id: 047ac8d4-c4c7-4825-8ef0-8965aa64d2c2
+slug: "inference"
+index: 10503
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Entailment** · *Definition*
+
+One claim guarantees another: *P entails Q* means there is no way for P to be true while Q is false.
+
+
+:::
+
+Two readings should be distinguished at the outset: the *metalogical* reading (no interpretation or model in which P holds and Q fails, a formal-semantic relation) and the *modal-metaphysical* reading (no possible world in which P obtains and Q fails, an alethic relation). Throughout this book *entails* carries the modal-metaphysical reading unless the context is explicitly formal-logical; the Quinean concern that the slide between the two is illicit is addressed at §§4.1.6–4.1.8. The textbook case: *Socrates is a bachelor* entails *Socrates is unmarried*. There is no possibility of the first holding while the second fails. *P implies Q* and *Q follows from P* name the same relation in most uses. *P necessitates Q* is the strong modal version: P's holding requires Q's holding in the alethic/metaphysical sense fixed at §1.1, not logical necessity (truth across all interpretations) and not nomological necessity (consistency with natural law). The operators are read formally as truth carrying over: in any case where P holds, Q holds too. The relation among the kinds of modality is the subject of §2.6.

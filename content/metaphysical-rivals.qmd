@@ -1,0 +1,18 @@
+---
+title: "4. Metaphysical Rivals"
+notion-id: 3355bc8e-f244-8013-bd90-e83aef0e24e3
+slug: "metaphysical-rivals"
+index: 40000
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+With the positive argument in place, the chapter turns to rival accounts, each taken up in its most demanding form rather than its most convenient one. The question put to every rival is the same: does it actually eliminate T, S, and Φ — Temporality, Spatiality, and Physicality, borne by Time, Space, and Substance — or does it only redescribe them?
+
+At the limit, a rival can make one of three moves. It can *deny* the structural conditions, holding that they do not obtain. It can *ground them prior*, granting that they obtain but locating them downstream of something more fundamental. Or it can grant the conditions while charging them with *insufficiency*: T, S, and Φ obtain, but do not exhaust what Reality contains. The chapter follows each position to where it actually leads.
+
+What is at stake is whether the derivation survives contact with the live literature — so no deflationary program is dismissed as unserious, and no classical-theist position is treated as unavailable. The standard is the strongest version currently on offer; where a rival has a stronger form, known or yet to come, the argument is answerable to it, not exempt from it.
+
+Four directions organize the engagement: modal and semantic foundations (§4.1), time and change (§4.2), physics and mind (§4.3), and modal variants (§4.4). The same question is put to each, and §4.5 draws together what the pattern across them reveals.
+
+The chapter inherits the formal framework secured in Chapter 2, but it does not treat every rival as answering to one uniform reply. Some engagements test the fixed global domain of real possibility and the modal semantics that follow from it (§2.1). Some test whether a rival realizes only a thin abstract analogue of directed order, differentiation, or bearing, or realizes the fuller types required by genuine change. Others accept the structure and test whether it is rich enough. The verdict in each section therefore tracks the rival's actual burden: incoherence, relocation, compatibility, explanatory cost, or an open seam.

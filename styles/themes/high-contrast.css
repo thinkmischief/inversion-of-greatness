@@ -1,0 +1,187 @@
+/* ============================================================
+   High Contrast — the accessibility profile ("Max-Legibility")
+   ============================================================
+   Same loading/scoping rules as sepia.css — see that file's header
+   comment. Forces light polarity (settings dropdown JS clears
+   body.quarto-dark when this theme is selected).
+
+   Near-AAA contrast per the Reader Themes idea log (≥7:1 target,
+   still not pure-on-pure to avoid halation) plus underlined links
+   (link color alone is never enough contrast signal on its own).
+   The idea log's other two asks for this profile — swapping in
+   Atkinson Hyperlegible and bumping base font-size/line-height sitewide
+   — are deliberately left out of this first pass: a font-face swap
+   needs its own webfont license/loading work, not just a color
+   file, and is called out as a follow-up rather than silently
+   half-done here. */
+
+html[data-book-theme="high-contrast"] body {
+	--book-bg: #ffffff;
+	--book-text: #0a0a0a;
+	--book-heading: #000000;
+	--book-link: #0b4fa8;
+	--book-link-rgb: 11, 79, 168;
+	--book-border: #4a4a4a;
+	--book-border-soft: #6a6a6a;
+	--book-muted: #2e2e2e;
+	--book-muted-rgb: 46, 46, 46;
+	--book-scrollbar: #4a4a4a;
+	--book-code-bg: rgba(0, 0, 0, 0.08);
+	--book-margin-text: #1a1a1a;
+	--book-margin-strong: #000000;
+	--book-breadcrumb-sep: #4a4a4a;
+	--book-premise-label: #0b3f8a;
+	--book-premise-cite: #2e2e2e;
+	--book-callout-shadow: rgba(0, 0, 0, 0.15);
+	--book-callout-header-border: rgba(0, 0, 0, 0.3);
+
+	--book-definition-border: #0b3f8a;
+	--book-definition-bg: #eaf1fb;
+	--book-theorem-border: #8a0b0b;
+	--book-theorem-bg: #fbeaea;
+	--book-note-border: #2e2e2e;
+	--book-note-bg: #f0f0f0;
+	--book-warning-border: #7a4a00;
+	--book-warning-bg: #fbf2e2;
+	--book-caution-border: #0a6b2a;
+	--book-caution-bg: #e9f7ee;
+
+	--book-chassis-border: #2e2e2e;
+	--book-chassis-bg: #f2f2f2;
+	--book-sb-definition-border: #000000;
+	--book-sb-identification-border: #0b2f6a;
+	--book-sb-principle-border: #6a0b3a;
+	--book-sb-theorem-border: #6a0000;
+	--book-sb-lemma-border: #7a3a00;
+	--book-sb-premise-border: #3a2a00;
+	--book-sb-corollary-border: #3a0b5a;
+	--book-sb-condition-border: #00453a;
+	--book-sb-argument-border: #1a1a1a;
+	--book-sb-untyped-border: #000000;
+	--book-sb-quickref-border: #2e2e2e;
+	--book-sb-quickref-bg: #f0f0f0;
+
+	/* Chrome (navbar/sidebars/dropdown menus) — pure black/white instead
+	   of Procyon's own softer #1c1c1c/#e8e3da, matching this profile's
+	   whole point (≥7:1 target contrast, see header comment) rather than
+	   settling for a milder default everywhere but the reading column.
+	   Hover accent is the theme's own link blue, lightened for contrast
+	   against a near-black chrome background — the raw #0b4fa8 link
+	   color above is tuned for a WHITE background and reads too dark
+	   here. */
+	--book-chrome-bg: rgba(0, 0, 0, 0.92);
+	--book-chrome-bg-solid: #000000;
+	--book-chrome-scrollbar: #4a4a4a;
+	--book-chrome-text: #ffffff;
+	--book-chrome-text-rgb: 255, 255, 255;
+	--book-chrome-text-hover: #5b9bf0;
+	--book-chrome-text-hover-rgb: 91, 155, 240;
+}
+
+/* Link color alone isn't enough of a contrast signal for this
+   profile — underline every link so it doesn't depend on hue
+   perception at all. !important: beats the site-wide a/a:visited
+   rule (styles/custom.css §4 LINKS), which sets text-decoration:none
+   deliberately for every other theme. */
+html[data-book-theme="high-contrast"] body a,
+html[data-book-theme="high-contrast"] body a:visited {
+	text-decoration: underline !important;
+}
+
+/* Semantic blocks (Theorem/Definition/etc., styles/custom.css §12) and
+   native callouts (Note/Tip/Warning/etc., same file, just above §12) —
+   a reader pointed out these weren't actually high-contrast at all: the
+   shared box chassis mixes each type's own border color to 40% strength
+   against a hardcoded neutral (color-mix(in srgb, var(--book-sb-X-
+   border) 40%, #f7f7f5)) for every theme, no exceptions, which produces
+   a pastel, washed-out edge regardless of how saturated a theme's own
+   border variable actually is — this profile's own colors (e.g.
+   --book-sb-theorem-border: #6a0000, a near-black red) were getting the
+   exact same 40%-diluted treatment as every other theme's, defeating
+   the whole point. Same story for the shared base chassis's own border
+   (border: 1px solid #c8c4c0 — a hardcoded light gray, not even a
+   variable) and every native callout's outer border (color-mix at 40%
+   again, per type). Full-strength colors below, not diluted mixes —
+   border-color set directly to each type's own --book-sb-X-border (or
+   --book-X-border for callouts) instead of a color-mix() call, and the
+   shared base chassis's own hardcoded #c8c4c0 replaced with this
+   theme's own --book-chassis-border (#2e2e2e, near-black). Border width
+   bumped to 2px on top of that (was 1px) — the accessibility profile's
+   whole premise is bold, unambiguous edges, not just correct hue.
+   Background tint left alone at the shared 6%/--book-sb-quickref-bg
+   levels: --book-text (#0a0a0a) against --book-bg (#ffffff) already
+   clears this profile's own ≥7:1 target regardless of a light tint
+   behind it, so the fix that actually matters is the edge, not the
+   fill. */
+html[data-book-theme="high-contrast"] main.content .theorem,
+html[data-book-theme="high-contrast"] main.content .premise,
+html[data-book-theme="high-contrast"] main.content .lemma,
+html[data-book-theme="high-contrast"] main.content .corollary,
+html[data-book-theme="high-contrast"] main.content .definition,
+html[data-book-theme="high-contrast"] main.content .identification,
+html[data-book-theme="high-contrast"] main.content .principle,
+html[data-book-theme="high-contrast"] main.content .condition,
+html[data-book-theme="high-contrast"] main.content .argument,
+html[data-book-theme="high-contrast"] main.content .untyped,
+html[data-book-theme="high-contrast"] .callout.callout-style-default {
+	border-width: 2px;
+	border-left-width: 5px;
+	border-color: var(--book-chassis-border);
+}
+html[data-book-theme="high-contrast"] main.content .definition,
+html[data-book-theme="high-contrast"] .callout.callout-style-default.callout-tip {
+	border-color: var(--book-sb-definition-border);
+}
+html[data-book-theme="high-contrast"] main.content .identification {
+	border-color: var(--book-sb-identification-border);
+}
+html[data-book-theme="high-contrast"] main.content .principle {
+	border-color: var(--book-sb-principle-border);
+}
+html[data-book-theme="high-contrast"] main.content .theorem,
+html[data-book-theme="high-contrast"] .callout.callout-style-default.callout-important {
+	border-color: var(--book-sb-theorem-border);
+}
+html[data-book-theme="high-contrast"] main.content .lemma {
+	border-color: var(--book-sb-lemma-border);
+}
+html[data-book-theme="high-contrast"] main.content .premise {
+	border-color: var(--book-sb-premise-border);
+}
+html[data-book-theme="high-contrast"] main.content .corollary {
+	border-color: var(--book-sb-corollary-border);
+}
+html[data-book-theme="high-contrast"] main.content .condition {
+	border-color: var(--book-sb-condition-border);
+}
+html[data-book-theme="high-contrast"] main.content .untyped,
+html[data-book-theme="high-contrast"] .callout.callout-style-default.callout-note {
+	border-color: var(--book-sb-untyped-border);
+}
+html[data-book-theme="high-contrast"] .callout.callout-style-default.callout-warning {
+	border-color: var(--book-warning-border);
+}
+html[data-book-theme="high-contrast"] .callout.callout-style-default.callout-caution {
+	border-color: var(--book-caution-border);
+}
+html[data-book-theme="high-contrast"] main.content .quick-reference {
+	border-width: 2px;
+}
+
+/* Tables (styles/custom.css §21) — same story as the boxes above: the
+   outer border and header rule both use border-color: currentColor,
+   so they already track this profile's own near-black --book-text
+   correctly, but the row-to-row divider inside the body
+   (main.content table tbody td { border-bottom: 1px solid
+   rgba(0, 0, 0, 0.08); }) is hardcoded to a flat 8%-opacity black for
+   every theme — nearly invisible on this profile's own pure white
+   --book-bg, confirmed live and by screenshot (the header's own rule
+   read as bold and clear; every row below it inside "Sample Table"
+   read as running together with no visible separator at all). var(
+   --book-border) instead — this profile's own #4a4a4a, already used
+   for exactly this "structural rule, not decoration" role elsewhere
+   in this file. */
+html[data-book-theme="high-contrast"] main.content table tbody td,
+html[data-book-theme="high-contrast"] #quarto-document-content table tbody td {
+	border-bottom: 1px solid var(--book-border);
+}

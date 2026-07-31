@@ -1,0 +1,26 @@
+---
+title: "3.3.3 Against Fictionalism"
+notion-id: 090c8247-983a-4660-8005-d28af5708591
+slug: "against-fictionalism"
+index: 30330
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Modal fictionalism offers a distinctive escape: retain the inferential convenience of possible-worlds talk while refusing that it describes mind-independent modal reality. But a fiction must be both constructible and internally coherent if it is to do that work. Treat the conclusion as merely true-in-the-fiction and you still have to *build* the fiction. And the building runs on T, S, Φ; meanwhile a world lacking T, S, Φ stays incoherent even inside the story.
+
+::: {.argument}
+**Closing the Fictionalist Escape** · *from telling the fiction to Triconditional Necessity*
+
+1. Modal fictionalism treats "□(T ∧ S ∧ Φ)" as internal to the possible-worlds fiction.
+1. Constructing that fiction requires T (succession in the telling), S (a fiction/reality distinction), and Φ (a persisting framework).
+1. So wherever fictionalism is formulated, the formulating instantiates T ∧ S ∧ Φ.
+1. The fact that telling the fiction instantiates T, S, and Φ does not by itself settle what the fiction can represent. A fiction may describe impossible or inconsistent contents.
+1. Excluding an object-side ∅ therefore requires the independent Null-State argument (§§3.2.1, 3.2.6), not the performance of storytelling alone.
+1. Fictionalism supplies no act-side escape from the Conditions; whether its represented content supplies an object-side countermodel stands or falls with that independent ∅-floor.
+
+:::
+
+*Why the act-side limb holds.* A fictionalist on the abstract-object construal answers that truth-in-the-fiction is fixed by the fiction *as abstract object*, independent of the act of telling, so step 3 describes the telling, not the told. That reply correctly separates the telling from the told. Steps 2–3 govern only the act of formulating fictionalism. To rule out an object-side ∅, the argument must appeal to the independent claim that absolute structural absence has no coherent content (§§3.2.1, 3.2.6); performative incoherence alone cannot cross the act/object gap. With that dependency explicit, the act-side and object-side limbs remain distinct.
+
+*Dependency.* §1.3, §1.4; the content- vs performance-incoherence distinction. Rosen, Nolan. ∅-result from the construction Move (§3.2.1).

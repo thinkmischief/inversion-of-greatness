@@ -1,0 +1,34 @@
+---
+title: "2.6.10 Triconditional Identity"
+notion-id: 4ac04deb-efe7-40a5-94ef-1da25740e512
+slug: "triconditional-identity"
+index: 20610
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The three results from §§2.6.6–2.6.8, together with the Triunity of Nature (§2.6.9), are not separate discoveries assembled here. They are three ways of reading one Nature at the resolution the chapter has established: the necessary co-instantiation of Temporality, Spatiality, and Physicality as the full change-realizing structural complex. They do not turn every abstract order, geometry, or bearer into an instance of that complex. Nature is triconditional: jointly characterized by three readings whose unity *is* what Nature is.
+
+The inheritance chain runs explicitly: the Modal Identity (□(◇C ↔ T∧S∧Φ)) is supplied at §2.6.6; the Triconditional Cross-Entailment (cross-axis cross-entailment T↔(S∧Φ), S↔(T∧Φ), Φ↔(T∧S)) at §2.6.7; the Ontological Identity (the structural shape of any being) at §2.6.8; the Triunity (the three readings are one Nature read under three lenses) at §2.6.9.
+
+That one Nature, named under its joint characterization, *is* the Triconditional Identity. The Triconditional Identity is not a fourth result built on top of the three readings. It is the derivation that the three were one Nature all along: Nature characterized by three readings whose unity is the name. Each reading establishes a fact of nature; the three are jointly the constitutive facts the Triconditional Identity comprises through its three Conditions.
+
+::: {.theorem}
+**Triconditional Identity** · **T5** · *Theorem 5*
+
+Nature is triconditional: jointly characterized by the Modal Identity, the Triconditional Cross-Entailment, and the Ontological Identity, whose unity is what Nature is. Nature is the necessary full change-realizing complex of T, S, and Φ. The direct derivational result is the definitional identity N ↔ (T∧S∧Φ): Nature just is the joint structural complex, box-free. Necessity is a further, separately earned result — §2.8.5 predicates necessity of N as Theorem 6 — and only with that necessity in hand do the boxed biconditionals follow, read as generic identity only on the no-surplus argument at the full Condition resolution: N ↔ □(T∧S∧Φ), N ↔ □◇C, □(T∧S∧Φ) ↔ □◇C.
+
+
+:::
+
+These biconditionals do not all earn identity the same way, and one does not earn it by definition at all. *Nature* was introduced at §1.4.4 and fixed again at the opening of Chapter 2 as the joint structural complex T∧S∧Φ; §2.8.5 states its necessity as Theorem 6. The clause relating Nature to that complex is therefore a strict *definitional* identity: its right-hand side *is* the definiendum of *Nature*, not a predicate that merely happens to be co-extensive with it across all worlds. The clauses relating either Nature or the complex to □◇C are not definitional identities; what is proved of them directly is the necessary biconditional. They are read as identities on the separate ground argued at §2.6.6, that between the Conditions and the possibility of change there is no individuating surplus on either side, which makes them one structural fact rather than two necessarily-linked ones. That further reading is a *generic* identity, not a definitional one; a reader who grants only the biconditional still has the necessity result and forgoes only the ontological gloss §2.6.6 builds on it. The notation marks logical equivalence throughout; the definitional identity is earned outright, while the generic identity is the stronger reading the biconditional will bear.
+
+Read from inside Nature, N ↔ □◇C names *Modal Pressure* directly: the necessary possibility of change propagates through the modal-structural link because Nature is necessary. Nature is not a substrate that houses a further pressure; Nature *is* the necessary co-instantiation of T, S, and Φ, and on the generic-identity reading argued at §2.6.6 that co-instantiation and the necessary possibility of change are one structural fact under two descriptions, not two facts that merely track each other. When this work calls Nature necessary, what is strictly proved necessary is the Triconditions' co-instantiation; a reader who takes only the biconditional keeps that result, while a reader who grants the generic identity reads it as the very fact □◇C names. Point at Nature and, on that reading, you are pointing at what □◇C names.
+
+This is the formal spine of the *Necessity of Nature*. Not the empirical claim that the physical world happens to exist. Not the metaphysical claim that the physical is the only substrate. The modal result that the modal, the nomological, and the ontological are three readings of one Nature (three logical-categorical readings under the three primary lenses analytic metaphysics has developed) and that the Triconditions, necessarily instantiated, *are* the Triconditional Identity. The thesis is named at §2.8.3 and fixed formally at §2.8.5.
+
+Three readings, one Nature: three logical-categorical readings under three lenses. The Modal Identity reads T∧S∧Φ from the side of possibility: the Conditions whose joint instantiation is co-extensive with ◇C across all worlds. The Triconditional Cross-Entailment reads them from their cross-entailment: each conjoined with the other two along three axes. The Ontological Identity reads them from the side of bearing: the structural shape of any being at all. The Conditions are three; the readings are three; and the readings cross the Conditions perpendicularly, not three parallel trios, but a 3×3 grid: each Condition shown under three readings, each reading carrying all three Conditions. The 3×3 grid is logic mapping onto Conditions and readings together: both axes are exhaustively closed by logical considerations, not by stipulation. The reading is plural; what is read is single: the Triconditional Identity.
+
+The three are readings of one Nature: the one Nature whose readings they are. The Triconditional Identity is the name.[^triconditional-identity-ch4]
+
+[^triconditional-identity-ch4]: Theorem 5 (the joint claim that Nature is the necessary co-instantiation of T∧S∧Φ and that this is identical to □◇C) is engaged in Chapter 4: modal collapse (§4.4.9), Williamson's necessitism (§4.4.6), Sider's structuralism (§4.4.7), modal fictionalism (§4.4.4), Tegmark's mathematical universe (§4.3.7), eliminativism and illusionism (§4.3.2), structural realism (§4.3.9), and the question whether possibility has a source (§4.1.10).

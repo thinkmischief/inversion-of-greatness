@@ -1,0 +1,42 @@
+{
+  "name": "the-inversion-of-greatness",
+  "version": "1.0.0",
+  "description": "A framework for modal metaphysics and the necessity of nature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:pdf": "node render-pdf.js",
+    "build:pdf-preview": "node render-pdf-preview.js",
+    "build:html-preview": "node render-html-preview.js",
+    "build:epub": "node render-epub.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/procyon-iog/inversion-of-greatness.git"
+  },
+  "keywords": [
+    "modal metaphysics",
+    "philosophy of religion",
+    "natural theology",
+    "necessity",
+    "cosmological argument",
+    "ontological argument",
+    "fine-tuning argument",
+    "classical theism",
+    "divine attributes",
+    "modal logic",
+    "metaphysics",
+    "analytic philosophy"
+  ],
+  "author": "Procyon",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/procyon-iog/inversion-of-greatness/issues"
+  },
+  "homepage": "https://github.com/procyon-iog/inversion-of-greatness#readme",
+  "dependencies": {
+    "@notionhq/client": "^5.22.0",
+    "dotenv": "^17.4.2"
+  }
+}

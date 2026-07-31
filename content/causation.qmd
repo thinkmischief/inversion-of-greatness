@@ -1,0 +1,18 @@
+---
+title: "1.5.6 Causation"
+notion-id: 96fcc8d3-d10f-45cc-910f-823681b3ced9
+slug: "causation"
+index: 10506
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Causation** · *Definition*
+
+One event brings about another: *X causes Y*. What the *bringing about* amounts to, mere regularity or real production, is the standing dispute.
+
+
+:::
+
+Causation is the most contested operator in the family. Hume read it minimally: *X causes Y* reduces to constant conjunction, X-events reliably followed by Y-events, plus a felt expectation projected by the observer. Anti-Humean readings treat causation as a productive relation: one event genuinely makes another happen, and the felt push-and-yield is part of what causation is. The canonical case is Hume's billiard ball: one ball strikes another and the second moves. The Humean sees only contact, motion, and our expectation of the pattern; the anti-Humean sees one ball *making* the other move. *Produces*, *brings about*, *gives rise to*, *issues from* foreground production rather than regularity. The Humean reads them as habits of speech standing on top of constant conjunction; the anti-Humean reads them as picking out a real productive relation. Either way, the operators are how the field talks about one event making another happen. The book inherits from Hume the methodological discipline he made central (the careful refusal to slide from the felt to the structural without an argument), and disagrees with him metaphysically on whether causation is regularity or production; the metaphysical disagreement is taken up at §§2.4 and 4.1.4.

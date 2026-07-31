@@ -1,0 +1,20 @@
+---
+title: "1.2.2 Impossibility"
+notion-id: 52dd1f1c-d71e-4858-8493-65fe495d6d55
+slug: "impossibility"
+index: 10202
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Impossibility, possibility's mirror image, marks what Reality forecloses. Where possibility names what Reality leaves open, impossibility names what it rules out altogether.
+
+::: {.definition}
+**Impossibility** · *Definition*
+
+A proposition is impossible when it really could not be the case (¬◇P).
+
+
+:::
+
+The notation makes the dependence explicit: impossibility is the negation of possibility (¬◇P), so it adds no content of its own beyond what possibility has already fixed. To call a proposition impossible is to say there is no configuration Reality permits in which it holds: not that it merely fails to obtain, but that it could not be. The plainest cases are the self-cancelling ones (a square circle, a proposition both true and false at once), which name no way things could be, because the conditions they state exclude one another. Real impossibility is the outer boundary the remaining statuses are drawn against: necessity is possible truth whose failure is impossible, contingency possible truth whose negation is also possible.

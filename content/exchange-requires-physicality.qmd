@@ -1,0 +1,64 @@
+---
+title: "2.4.8 Exchange Requires Physicality"
+notion-id: 6a786e66-fc1e-4cc8-b493-65141ce157ea
+slug: "exchange-requires-physicality"
+index: 20408
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Succession and distinction were derived at §§2.4.6–2.4.7. The third Condition (a medium of causal persistence) follows from what those two already require: for influence to be transmitted across genuinely distinct states, something must carry it. That carrier is Physicality, defined at §1.4.3 and borne in Reality by Substance.
+
+The argument states this load-bearing commitment openly, as an explicit premise rather than an implicit assumption:
+
+**Constitutive Premise (Cross-Interval Persistence).** Genuine exchange just *is* carriage across an interval: for influence to pass from one state to the next is for something to persist across the interval and bear it, not merely for two states to be correlated. Any account that grants the exchange while blocking the physical conclusion must deny precisely this identification, and that denial is costly, as the argument below shows.
+
+*The exclusivity argument.* Suppose exclusive occupancy is a primitive geometric fact: two configurations cannot occupy the same coordinate, and nothing enforces it. What makes the incompatibility real rather than merely described? If nothing prevents double occupancy, the exclusivity is nominal, not structural. If the presence of one configuration forecloses another, the foreclosure is causal in the broad sense: something is doing the excluding, and that cross-interval operation is what Φ names. Either exclusive occupancy is real and underwritten by some cross-interval operation, or it is nominal and not exclusive at all.
+
+A primitivist about exclusion might press a third option: exclusivity is real and primitive, neither causal in the canonical event-to-event sense nor nominal. The reply runs the same way as the response to primitivism about laws [below, with @maudlin2007]. Whatever makes a primitive exclusion *do* exclusion-work must operate across the foreclosure interval: distinguishing the present configuration from the foreclosed alternative, holding the foreclosure stable across the interval where the foreclosed configuration is foreclosed. That cross-interval operation is what Φ names at the level of foreclosure rather than at the level of explicit event causation. The primitivist who keeps the foreclosure stable inherits the medium-work under different vocabulary; the primitivist who strips the cross-interval operation loses what makes the exclusion an exclusion rather than a label. The bridge from exclusivity to Φ is therefore not the claim that exclusion is *the same as* canonical event causation. It is the claim that exclusion, to do exclusion-work, requires the cross-interval persistence that Φ names, whether that work is read as causal in the standard sense or as a primitive foreclosure that performs the same structural function.
+
+Causal exchange further requires distinct causal terms or roles. The source-state and uptake-state cannot collapse into one undifferentiated term, but they need not belong to two numerically distinct beings: one persisting system may occupy both roles at different stages. Physicality requires a real distinction between initiation and reception, not an exclusion of self-interaction or internal change.
+
+*The momentariness reply.* The objection that reality consists of momentary non-persisting events with lawlike relations between them does not eliminate Physicality; it relocates it. A lawlike relation requires the medium to be configured such that events of type A reliably produce events of type B. That configurational reliability just *is* Physicality at the level of the medium rather than the object. Dissolve Physicality at the object level and it reappears at the medium level: what bears the modal force the regularity requires. Hume's denial of necessary connection between distinct existences does not dispense with the medium; it declines to name what his regularities presuppose.
+
+Primitivism about laws [@maudlin2007; @beebeeHitchcockMenzies2009] reaches the same result from the other direction. Whatever makes a primitive law govern must itself persist across the causal interval, differentiate its relata, and host the direction from ground to grounded; that is Physicality, given stronger ontological standing than the Humean was willing to extend.
+
+*The vocabulary case.* Ordinary causal vocabulary carries the structural Triconditions in its morphology. Static nouns name the medium: *resistance* and *yielding* (holding under transition or giving way), *consistency* (succession running without lapse), *coherence* (states held in exchange). Verbs name the acts inside change: *cause*, *effect*, *push*, *pull*, *mix*. Each word denotes only the kind of change defined at §1.3; subtract the medium and the words stop carrying meaning.
+
+*Push* and *pull* carry the commitment most concretely. *Push*: to exert force away from the agent. *Pull*: to exert force toward the agent. Each names three relations in a single one-syllable verb: an agent, a patient, and an interval across which force transfers between them. Remove any one and neither verb denotes. No agent: a force without source. No patient: a force with nowhere to go. No interval: two things at the same coordinate, which is not a relation at all. Both verbs commit the speaker to T (the force takes a moment), S (agent and patient stand apart), and Φ (something carries the force across) before the sentence finishes. *Resistance* and *yielding* run the same three commitments from the receiving side: what holds against the force or gives way under it. *Cause* runs them abstractly: a producing-relation requires something to produce, something produced, and an interval across which the producing reaches. The vocabulary is not neutral evidence of the structure but its signature in the language used to describe and dispute it.
+
+*The deflationary case.* It proposes that *cause* names nothing beyond constant conjunction: events of type A regularly followed by events of type B, with no producing-relation underwriting the pattern [@hume1748, §VII; @lewis1986; @loewer1996; @beebee2006]. The proposal deserves its strongest reading: declining to posit invisible connective tissue is not carelessness but discipline. Three layers of reply are available.
+
+*Statement.* The reduction cannot be stated without what it tries to subtract. *Event B regularly follows event A* requires Temporality (B after A), Spatiality (an interval between them), and Physicality (an observer persisting long enough to note the regularity). The reduction subtracts the structure in its conclusion and spends it in its premise. The deflationary vocabulary is parasitic on the structure it means to replace.
+
+*Morphology.* The ordinary word *impression* has a historical association with pressing, but etymology does not determine the term's technical content in empiricist theory. That association may serve as a mnemonic for the experiential contact the word often evokes; it cannot establish that an empiricist is analytically committed to a pressing-relation. The morphology layer is therefore only a non-probative illustration and carries no argumentative weight. The Statement and Inference layers carry the structural point independently.
+
+*Inference.* At a third level, the argument runs on what it denies. Arguments require persistence (premises must hold across the inferential interval) and exchange (premises must yield conclusions in one direction). Persistence and exchange are what Physicality contributes. To argue against the producing-relation is to deploy producing in the deriving.
+
+The three replies (statement, morphology, inference) establish that the deflationary vocabulary cannot be stated, motivated, or argued for without instantiating T, S, and Φ wherever the case is made. The narrower claim is actuality at the site of statement; the move to necessity across worlds where no case is made is taken up at §§3–6 (Humean modal-contingency at §4.1.4).
+
+The foregoing arguments carry the load; the phenomenological anchor that follows is offered, like the demonstrations at §§2.4.6–2.4.7, as confirmation rather than proof. The most universal anchor for Physicality runs at the level of the thinker holding the thought, prior to any embodied bearing. Any conscious standpoint has the relation directly: a thought does not float free; it is held in being by whatever is having it. The thinker is not the thought; the thinker is what bears the thought across the interval of its occurring. Strip out the bearer and what remains is a sentence-shaped description of a thought, not a thought; a thought-without-a-bearer is not a thought that happens to lack one, it is the absence of a thought, with only the form of one in language. The relation is undeniable in the strong Cartesian sense: to deny that the thinker holds the thought is to perform a thought that is, in the performing, held; the denier is the holder doing the work the denial would have to escape.
+
+*The impossibility argument.* Any act that produces Physicality must already instantiate it: there is no prior position from which to generate causal persistence without occupying it. The point can be stated formally:
+
+::: {.argument}
+**Physicality** · *The N_Φ Reductio.* Let Px abbreviate *x is produced*; let Φ abbreviate *Physicality is instantiated*; let N_Φ abbreviate *there was never no Physicality*.
+
+1. Any production requires Physicality, since *produced* presupposes a medium carrying influence across an interval (∀x(Px → Φ)).
+1. Something has been produced: there is at least one production, demonstrably the thinker holding the present thought (∃xPx).
+1. So Physicality is instantiated (∴ Φ; from 1, 2).
+1. If there were ever no Physicality, then Physicality would have to be produced, since a transition from no-Φ to Φ is itself a production (¬N_Φ → P(Φ)).
+1. Any production of Physicality would already require Physicality, applying line 1 to Φ itself (P(Φ) → Φ).
+1. So there was never no Physicality: ¬N_Φ entails P(Φ), and P(Φ) entails Φ-prior-to-Φ, a contradiction (∴ N_Φ; from 4, 5 by reductio).
+
+:::
+
+In plain terms: products can arise within Physicality, but Physicality cannot be produced from no-Physicality. Production is already the causal persistence Physicality names.
+
+The actuality-to-necessity bridge runs through lines 4–6 specifically: line 2 supplies actuality (∃xPx), but the necessity result N_Φ does not follow from actuality alone. It follows from the conceptual closure that any candidate alternative (¬N_Φ) generates a contradiction: the alternative would require Physicality-prior-to-Physicality to instantiate itself, which the Parasitic Negation rules out. N_Φ is therefore necessary by conceptual closure of the alternative, not by extrapolation from ∃xPx.
+
+This is **Parasitic Negation** (§2.1.5) instantiated to Φ: causal persistence cannot emerge from its own absence, since any act of producing it would already instantiate it. The same move runs at chapter scope at §3.4; it is deployed for the Φ-incoherence of ∅ at §2.7.1. This reductio is one of two roads to the necessity of Physicality; the modal line reaches the same conclusion jointly at §2.5, where □(T∧S∧Φ) unpacks into the Necessity of Physicality (□Φ).
+
+*What is established.* With Physicality in place, the three Conditions are derived. Succession, distinction, and the medium that carries them arrived together: each required by the same structural fact, not three independent claims. That they arrived is established. Whether they could have failed to arrive is the remaining question.[^physicality-ch4]
+
+[^physicality-ch4]: The objections to the physical Condition are engaged in Chapter 4: Russellian monism (§4.3.3), idealism (§4.3.5), bundle theory and tropes (§4.3.10), and mereological nihilism (§4.3.11). The hard problem, as an alleged consciousness-substrate outside structural exhaustion, is taken up at §4.3.1.

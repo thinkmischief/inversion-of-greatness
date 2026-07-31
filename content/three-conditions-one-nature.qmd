@@ -1,0 +1,34 @@
+---
+title: "2.6.1 Three Conditions, One Nature"
+notion-id: 0992c834-3401-416f-a6fd-9ff5c197470a
+slug: "three-conditions-one-nature"
+index: 20601
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+T, S, and Φ are not three independent conditions that happen to co-occur. They *are* one structure read along three axes, and each, fully unpacked, reveals the others as its own internal requirements rather than as external correlates.
+
+**Structure.** *A structure is not a thing alongside the things it structures. It is the ordered set of relations, constraints, and roles by which anything is intelligible as a thing, field, event, or configuration at all. In this book, structure names Reality under its necessary ordering: Temporality, Spatiality, and Physicality together as the conditions any possible item must already exhibit to be anything determinate. Structure therefore does not exist instead of things, and it is not imposed on a prior unstructured stuff. It is what any existing thing must already have in order to exist as anything at all.*
+
+Temporality is not a finite thing, Spatiality is not a locational thing, Physicality is not a material thing. They *are* what finite things, locational things, and material things *consist in*.
+
+T, S, and Φ are introduced at §1.4 and derived at §§2.4.5–2.4.10. If change is genuinely possible, the Conditions are already in play (§2.4); §2.6 turns on the converse: if the Conditions are instantiated, change is possible.
+
+The consequence is immediate: these are not three necessities that travel together. They *are* one necessity seen from three sides.[^three-conditions-one-nature-ch4]
+
+*The realizer move.* Every relation this chapter names (directed succession, genuine distinctness, causal transmission, exclusive occupancy, persistence, identity through change) admits a thin reading on which it reduces to labeling, self-relation, or coordinate notation, and a real reading on which it requires structural machinery to distinguish it from its deflationary mimic.
+
+The Conditions T, S, and Φ are the realizers of each other's real readings. To say T ↔ (S ∧ Φ) is to say: the real reading of directed succession requires both relational extension and persistent bearing, and the conjunction of those two requires directed succession. The same holds for S ↔ (T ∧ Φ) and Φ ↔ (T ∧ S). Three triconditionals, one move, pivoted on each of the three terms in turn.
+
+Succession alone demands an interval to cross and a medium to carry it. Extension alone demands a direction and a being. Persistence alone demands a direction to persist through and an interval to persist across. Each Condition, attempted in isolation, summons the other two as what the attempt consists in.
+
+The triconditionals yield the *Mutual Containment Result*, gathered formally at §2.6.5: lacking any one Condition entails lacking all three.
+
+The physical confirmations of these relations (relativistic spacetime unification, conservation laws, thermodynamic asymmetry) are addressed in Chapter 7 as empirical expressions of what is established analytically here.
+
+*A clarification on idiom.* The thin/real reading distinction throughout this section tracks a structural-functional distinction (what directed succession *requires* as a structural matter), not a hyperintensional-essence distinction (what directed succession is in its essence prior to modality). 'Internal requirements' names structural co-requirements of the primitive modal field, not essence-prior real definitions in Fine's sense. Whether this structural-functional use of 'consists in' and 'requires' can be kept stable against Fine's pressure (that any such structural identity just is a real definition under a different label) is the question addressed at §4.1.10.
+
+First: whether succession can stand without extension.
+
+[^three-conditions-one-nature-ch4]: The three-Conditions-one-Nature framing (that T, S, and Φ are one structural fact read along three axes rather than three independent conditions) is engaged in Chapter 4. The closest contemporary ally is structural realism (Ladyman & Ross, French), which nonetheless diverges on what the structure consists in (§4.3.9). Sider's structuralism (§4.4.7), bundle theory and tropes on the compose-by-relation picture (§4.3.10), and mereological nihilism on whether there is anything for the three to be conditions of (§4.3.11) press from their own directions, and Quine's anti-distinction pressure asks whether the three pivots name a single fact under three readings or three independent facts (§4.1.6).

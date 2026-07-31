@@ -1,0 +1,12 @@
+---
+title: "1. Groundwork"
+notion-id: 14c6d586-af4a-4a91-a4ca-2d21e2d456cd
+slug: "groundwork"
+index: 10000
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Before any argument can begin, the words that carry it need to mean something precise. This chapter settles them: what *Reality* is, how *modal status* applies to it, what *change* is and what it requires, and what it is for something to *exist*.
+
+Nothing here is defended at full strength; that work begins in Chapter 2. The task here is narrower and prior, to settle *what* these terms mean before the argument takes up what *must* be true of them. Where a definition will carry weight later, the page marks where its defense is owed.

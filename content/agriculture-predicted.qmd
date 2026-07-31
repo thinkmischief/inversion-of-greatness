@@ -1,0 +1,28 @@
+---
+title: "9.6.3 What is Predicted"
+notion-id: ccfa33c0-50a1-4fa1-b39b-240c8b7d42cc
+slug: "agriculture-predicted"
+index: 90603
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The framework's account of agriculture as the political community's interface with the biosphere it depends on, together with the structural-extraction logic and the animal-consciousness extension developed in §7.8, delivers predictions about how agricultural systems perform.
+
+*First.* Industrial animal agriculture will systematically generate externalities that markets fail to internalize. Antimicrobial resistance, watershed contamination, greenhouse-gas emissions, animal-suffering production, and labor-condition externalities are predicted as default operating patterns of any industrial animal-agriculture configuration that occupies the food-supply role under unconstrained profit-maximization. The pattern is structural, not contingent on bad actors.
+
+*Second.* Agricultural-subsidy capture will produce commodity-overproduction patterns at the expense of nutritional alignment. Where the agricultural-subsidy system is captured by concentrated commodity-producer interests, the framework predicts that subsidy flows track producer political weight rather than population nutritional requirements. The pattern is predicted to produce commodity overproduction (corn, soy, sugar, dairy) in tension with the nutritional outcomes the political community is structurally obliged to support.
+
+*Third.* Concentration of land, seed, and distribution control will produce structural extraction at every link of the food chain. The framework predicts that concentration patterns at the land-ownership, seed-supply, processing, and distribution interfaces will display the same structural-extraction patterns as concentrations in any other captured domain: rents extracted at every concentrated link; political resistance to anti-concentration reform; downstream effects on food-system resilience.
+
+*Fourth.* Antimicrobial-resistance burden will track industrial animal-agriculture density. The framework predicts that AMR emergence and propagation will track the density of antibiotic use in industrial animal agriculture more closely than it tracks medical-prescribing patterns. The prediction follows from the structural-extraction account: where agricultural-industry capture licenses prophylactic antibiotic use against population-health interest, the population-health cost is predicted to materialize on the population-health side.
+
+*Fifth.* Topsoil depletion and monoculture vulnerability will track industrial-agriculture intensification. The framework predicts that the long-run productivity of industrial agriculture is structurally compromised by extraction patterns operating at the soil-and-genetic-diversity layer. Monoculture vulnerabilities (crop disease; pollinator collapse; soil-microbiome degradation) and topsoil-depletion rates are predicted to track intensification, not productivity.
+
+*Sixth.* Food deserts will track structural-extraction patterns at the distribution interface. Where retail food infrastructure is captured by chains optimizing for high-margin sites, the framework predicts that low-income and structurally-marginalized populations will experience systematic under-access to nutritional food at scale beyond what individual choice could explain. Food deserts are predicted to be structural-extraction outputs, not aggregate-individual-choice outcomes.
+
+*Seventh.* Regenerative agricultural practices will outperform industrial conventional on long-run productivity even where they underperform on short-run yield. The framework predicts that the long-run productivity of agricultural systems tracks soil-and-ecosystem health more than it tracks short-run yield maximization. Regenerative practices that pay short-run yield costs to maintain long-run soil-and-ecosystem health are predicted to outperform industrial conventional on multi-decade productivity, even where they underperform on annual-yield comparisons.
+
+*Eighth.* Animal-welfare considerations will scale with the empirical evidence on animal capacity for suffering. The §7.8 derivation predicts that the moral weight of animal welfare is not all-or-nothing but scales with the empirical evidence on the species' capacity for suffering. The framework predicts that policy outputs in jurisdictions with strong-empirical-evidence-aware policy processes will track the science: stronger protections for species with stronger evidence (mammals, birds, cephalopods); weaker but non-zero protections for species with weaker evidence; uniform-protection or uniform-non-protection policy regimes predicted to track political economy more than science.
+
+The predictions stated in this subsection are made under engagement with the contested agricultural-tradition objections §9.6.1 names at premise: animal-rights abolitionism (Regan 1983; Francione 2000; Singer 1975), the agribusiness-productivity tradition (Borlaug's Green Revolution legacy; the contemporary 'feed the world' defense), and the cultural-tradition objection (Jewish shechitah and kashrut; Islamic halal; Indigenous foodways; regional culinary traditions). Those traditions are engaged at section length in §9.6.1, and the predictions stated here apply under that engagement.

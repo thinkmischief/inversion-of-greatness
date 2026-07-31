@@ -1,0 +1,26 @@
+---
+title: "8.5.2 What is Required"
+notion-id: b1da0ee7-7b02-472d-8479-652173f4b303
+slug: "identity-required"
+index: 80502
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*The narrative self as construction.* The self that ordinary speech assumes — a persistent, unified, autobiographical subject — is buildable, dissolvable, and reconstructable under specific neural conditions (psychedelics, deep meditation, certain pathology). Any account must register the self as something the recursion *builds* rather than something it *is*, and must explain why the building is so reliable under normal conditions while remaining dissolvable under specific interventions. The structural requirement is that the account treat the narrative self as a construction within the recursion rather than as the substrate of the recursion.
+
+*The locus of the registering activity.* Parasitic mind control demonstrates that what is registered, and how registration is biased, can be manipulated from outside the being's body without the being itself being transferred or replaced. Any account must locate the registering activity precisely enough to distinguish *the host registering under manipulated inputs* from *the parasite registering through the host*. The structural requirement is that the account separate the recursion (whose locus is the being itself) from the inputs and biases that shape what the recursion processes.
+
+*Identity over time.* A persistent identity is one the recursion holds across change in its content. Any account must explain how the same I survives the change in its memories, beliefs, body, and circumstances that any extended life-course produces, and must do so without positing a substantial soul or a Lockean memory-thread that fails transitivity. The structural requirement is that the account locate identity in the continuity of the recursion's own activity, not in any preserved content that activity carries.
+
+*Two senses of identity bound to one recursion.* Ordinary use of "identity" carries both the I-as-object-in-its-own-field (what one identifies *as*) and the operation of identifying (what one identifies *with*, *against*, *toward*). Any account must explain how the two senses relate. The structural requirement is that the account derive the relational sense from the I-construction sense — the recursion that identifies itself as a persistent agent does so by identifying that agent relationally to everything else in its field, so the relational operation is internal to the I-construction, not external to it.
+
+*Theory of other minds.* Self-modeling beings at the depth where they can model others as modelers extend the identity-construction into the social world. Any account must explain how the recursion that models oneself is extensible to modeling other beings' modeling. The structural requirement is that the same recursive operation, when its content domain expands to include other modeling beings, produces theory of mind.
+
+*Substrate-independence at the structural level.* As with the consciousness analysis carried by §7.8, the recursive activity that constitutes identity can in principle be realized in different substrates. Any account that ties identity essentially to specifically biological substrates must argue for why the structural activity could not be realized elsewhere. The structural requirement is that the account distinguish *substrate independence at the structural level* (the same recursive activity can run in different media) from *substrate-specific content* (what is registered as the I's contents depends on what is doing the registering).
+
+*Compatibility with depth-relative ethics.* Identity-depth matters for moral standing (§8.12). Any adequate account of identity must be precise enough about levels to support the ethical work the chapter and the next chapter (§9) build on top of it — distinguishing minimal self-presence from reflective self-aware vantage, and locating which level supports which kind of moral participation. The structural requirement is that the account deliver a usable level-distinction, not merely a binary present/absent.
+
+*Continuity with awareness.* Identity is one level on the depth-axis the chapter's opening names as awareness, not a separate faculty. Any account must explain why the I-construction stacks on top of more basic registration rather than appearing as an autonomous addition. The structural requirement is that the I be constituted by the same recursive activity that runs at every level of awareness, at the depth where the recursion folds back far enough to register the self as one of the things it registers.
+
+These requirements define the explanatory program the framework §8.5 defends: a constructed narrative self, continuity amid changing content, relations between self and other modeling, depth distinctions, and links to awareness and ethical participation. They are not neutral requirements accepted across theories of personal identity. Whether identity is reducible to recursive activity, whether a further fact is needed, how identity bears on moral standing, and whether it is substrate independent remain contested. The framework argues for its package rather than treating it as established.

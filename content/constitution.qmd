@@ -1,0 +1,12 @@
+---
+title: "6.2 Constitution"
+notion-id: 64e0956b-e9ce-44d2-8e5c-52cfcb7733b3
+slug: "constitution"
+index: 60200
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The first cluster gathers the attributes that specify what God is made of — the constitution the tradition assigns to the divine essence itself: simplicity (§6.2.1), unity (§6.2.2), infinity (§6.2.3), and perfection (§6.2.4). Each is a claim about internal makeup: that God is without parts, without division, without limit, and without defect.
+
+Together they fix the static apex the chapter's first master result turns on — the simplicity/differentiation dilemma of §6.2.1, which the remaining three inherit. Pressed, each is shown to require the very structure it was defined by denying: a being with no internal differentiation cannot be distinguished, sustained, or characterized at all, and the line to that result runs through T, S, and Φ rather than around them.

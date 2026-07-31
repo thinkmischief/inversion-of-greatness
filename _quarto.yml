@@ -1,0 +1,259 @@
+number-sections: false
+lang: en
+
+bibliography: references.bib
+csl: styles/chicago-note-bibliography.csl
+suppress-bibliography: true
+
+open-graph:
+  locale: en_US
+  site-name: "The Inversion of Greatness"
+
+twitter-card:
+  card-style: summary_large_image
+
+project:
+  type: book
+  output-dir: _site
+  resources:
+    - llms.txt
+    - robots.txt
+    - _redirects
+    - resources/web-banner-light.png
+    - resources/web-banner-dark.png
+    - resources/sidebar-chapter-numbers.js
+
+book:
+  title: "The Inversion of Greatness"
+  subtitle: "From the Nature of Necessity to Maximum Possibility"
+  author: "Procyon"
+  description: "A work of analytic philosophy arguing that the greatness classical theism attributes to God is, on the tradition's own terms, the structure of Nature itself — derived step by step from the nature of necessity to the necessity of Nature."
+  site-url: "https://inversionofgreatness.org"
+  image: resources/web-banner-light.png
+  favicon: resources/favicon.svg
+  page-navigation: false
+  page-footer:
+    center: "© 2026 Procyon · [How to Cite](/site/how-to-cite.html) · [License (CC BY-NC 4.0)](/site/license.html) · [Contact](/site/contact.html)"
+    border: false
+  navbar:
+    title: "The Inversion of Greatness"
+    right:
+      - text: "Author's Notes"
+        href: book/authors-notes.qmd
+      - text: "Appendices"
+        menu:
+          - text: "A. Modal Logic Primer"
+            href: book/modal-logic-primer.qmd
+          - text: "B. Summary of the Formal Proof"
+            href: book/formal-proof-summary.qmd
+          - text: "C. Derivation Map"
+            href: book/derivation-map.qmd
+          - text: "D. Empirical Predictions"
+            href: book/empirical-predictions.qmd
+      - text: "References"
+        menu:
+          - text: "Index"
+            href: book/subject-index.qmd
+          - text: "Bibliography"
+            href: book/bibliography.qmd
+          - text: "Glossary"
+            href: book/glossary.qmd
+          - text: "Notes"
+            href: book/notes.qmd
+          - text: "Symbols"
+            href: book/symbols.qmd
+      - text: "Resources"
+        menu:
+          - text: "How to Cite"
+            href: site/how-to-cite.qmd
+          - text: "Copyright"
+            href: book/front-copyright.qmd
+          - text: "License (CC BY-NC 4.0)"
+            href: site/license.qmd
+      - text: "Contact"
+        href: site/contact.qmd
+  sidebar:
+    style: floating
+    title: "The Inversion of Greatness"
+    search: true
+    collapse-level: 2
+  # NOTE: chapters: below is shared by every format (HTML/PDF/EPUB) — Quarto
+  # has no per-format chapter list. The "Resources" part is Web-only chrome; to
+  # render a PDF without it, run `npm run build:pdf` (render-pdf.js strips it
+  # first), NOT `quarto render --to pdf` directly.
+  chapters:
+    - index.qmd
+    - site/table-of-contents.qmd
+    - part: "Resources"
+      chapters:
+        - site/contact.qmd
+        - site/how-to-cite.qmd
+        - site/changelog.qmd
+        - site/license.qmd
+    - book/front-copyright.qmd
+    - part: "Front Matter"
+      chapters:
+        - book/front-preface.qmd
+        - book/front-introduction.qmd
+    - part: "Chapters"
+      chapters:
+        - book/groundwork.qmd
+        - book/the-argument.qmd
+        - book/convergence.qmd
+        - book/metaphysical-rivals.qmd
+        - book/rival-ultimates.qmd
+        - book/relocating-greatness.qmd
+        - book/nature-alone.qmd
+        - book/expanding-the-field.qmd
+        - book/maximum-possibility.qmd
+        - book/conclusion.qmd
+        - book/excursus.qmd
+    - book/modal-logic-primer.qmd
+    - book/formal-proof-summary.qmd
+    - book/derivation-map.qmd
+    - book/empirical-predictions.qmd
+    - site/for-ai-assistants.qmd
+    - book/authors-notes.qmd
+    - part: "Back Matter"
+      chapters:
+        - book/symbols.qmd
+        - book/glossary.qmd
+        - book/notes.qmd
+        - book/subject-index.qmd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-title: "Page Contents"
+    code-copy: true
+    grid:
+      sidebar-width: 280px
+      body-width: 850px
+      margin-width: 300px
+      gutter-width: 14px
+    css:
+      - styles/themes/procyon.css
+      # Each of these scopes its overrides to
+      # html[data-book-theme="<name>"] body, which the settings
+      # dropdown (below) sets by adding the attribute to <html> —
+      # genuinely more specific than procyon.css's own
+      # body.quarto-dark block (see cave.css's header comment for the
+      # full specificity accounting), so load order relative to
+      # procyon.css doesn't actually matter for correctness. Still
+      # listed after it for readability — these read as overlays on
+      # the base theme, not the other way around.
+      - styles/themes/sepia.css
+      - styles/themes/high-contrast.css
+      - styles/themes/cave.css
+      - styles/themes/marys-room.css
+      - styles/themes/reader-themes-drafts.css
+      - styles/custom.css
+    include-in-header: resources/book-head-includes.html
+    include-after-body: resources/book-scripts.html
+
+  epub:
+    css: styles/epub.css
+    toc: true
+    toc-depth: 2
+
+  pdf:
+    pdf-engine: xelatex
+    documentclass: book
+    classoption: [openany, oneside]
+    indent: true
+    papersize: letter
+    geometry:
+      - top=1.25in
+      - bottom=1.25in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 10pt
+    toc: true
+    toc-depth: 3
+    colorlinks: true
+    linkcolor: black
+    urlcolor: black
+    filters:
+      - filters/semantic-blocks.lua
+    include-in-header:
+      - file: styles/pdf-blocks.tex
+      - text: |
+          \usepackage{fontspec}
+          \usepackage{amssymb}
+          \usepackage{multicol}
+          \usepackage{pdfpages}
+          \usepackage{microtype}
+          \usepackage{tocloft}
+          \setlength{\cftbeforechapskip}{4pt}
+          \setlength{\cftbeforesecskip}{1pt}
+          \setmainfont{Libertinus Serif}
+          \newfontfamily\titlefont{Georgia}
+          \makeatletter\let\ORIG@afterindenttrue\@afterindenttrue\let\@afterindenttrue\@afterindentfalse\makeatother
+          \usepackage{titlesec}
+          \titleformat{\chapter}[block]{\normalfont\huge\bfseries\centering}{}{0pt}{}
+          \titlespacing*{\chapter}{0pt}{28pt}{16pt}
+          \usepackage{xcolor}
+          \renewcommand{\maketitle}{%
+          \begin{titlepage}
+          \centering
+          \vspace*{2.2in}
+          {\titlefont\fontsize{30}{34}\selectfont\bfseries The Inversion of Greatness\par}
+          \vspace{0.35in}
+          {\titlefont\fontsize{8.1}{10}\selectfont\itshape from the\/}\ {\titlefont\fontsize{15.6}{18}\selectfont\itshape Nature of Necessity\/}\ {\titlefont\fontsize{8.1}{10}\selectfont\itshape to\/}\ {\titlefont\fontsize{15.6}{18}\selectfont\itshape Maximum Possibility\/}\par
+          \vspace{1.4in}
+          {\fontsize{15}{18}\selectfont by Procyon\par}
+          \vfill
+          {\fontsize{11}{14}\selectfont\itshape Working Manuscript \textperiodcentered\ \today\par}
+          \vspace*{1in}
+          \end{titlepage}
+          }
+          \setlength{\parskip}{0pt}
+          \let\origBox\Box
+          \renewcommand{\Box}{\ensuremath{\origBox}}
+          \let\origDiamond\Diamond
+          \renewcommand{\Diamond}{\ensuremath{\origDiamond}}
+          \let\origto\to
+          \renewcommand{\to}{\ensuremath{\origto}}
+          \let\origforall\forall
+          \renewcommand{\forall}{\ensuremath{\origforall}}
+          \let\origexists\exists
+          \renewcommand{\exists}{\ensuremath{\origexists}}
+          \let\origland\land
+          \renewcommand{\land}{\ensuremath{\origland}}
+          \let\origlor\lor
+          \renewcommand{\lor}{\ensuremath{\origlor}}
+          \let\origlnot\lnot
+          \renewcommand{\lnot}{\ensuremath{\origlnot}}
+          \let\origleftrightarrow\leftrightarrow
+          \renewcommand{\leftrightarrow}{\ensuremath{\origleftrightarrow}}
+          \let\origemptyset\emptyset
+          \renewcommand{\emptyset}{\ensuremath{\origemptyset}}
+          \let\origtherefore\therefore
+          \renewcommand{\therefore}{\ensuremath{\origtherefore}}

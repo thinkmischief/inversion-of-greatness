@@ -1,0 +1,26 @@
+---
+title: "2.1.8 Candidate-Ground Convergence"
+notion-id: b0c73a51-4519-4464-ac25-738eb22ca879
+slug: "candidate-ground-convergence"
+index: 20108
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Whatever the ground of existence is (divine creation, quantum vacuum, Mathematical Platonism, brute contingency) it has to be possible. Otherwise it grounds nothing. And whatever is possible is necessarily possible. That is what S5 says: ◇P → □◇P. The theorem converges on every candidate, and none passes through it unchanged.
+
+Many candidates are proposed as necessary rather than merely possible, and for those the discipline tightens: a necessary ground holds in every possible world. None of that settles what the ground is; it fixes the modal discipline any candidate must meet.
+
+So ask what the candidate has to instantiate in order to do grounding work. If it hosts succession, distinction, and exchange (if it is temporal, spatial, and physical) then it is not yet an alternative to Nature but a candidate that satisfies Nature's structural profile under another vocabulary. And if it does not host succession, distinction, or exchange, then it loses the determinacy required to be a ground at all (§2.8.6). The pressure on every proposed necessary ground is therefore this: either it resolves into the structure of Reality, or it must explain how a ground with no T, no S, and no Φ can still ground anything.
+
+This applies equally to apophatic positions: Plotinus' One above being, the Eckhartian Godhead beyond God, Buddhist śūnyatā framed as beyond all categories, contemporary 'ground beyond ground' moves. Such positions say something content-bearing about a putative ground: that it is the source of what has being, that it is real in some sense rigorous enough to ground other things, that it stands in some relation to what it grounds. To say even that much is to grant the ground enough determinacy to bear a relation to what it grounds, and determinacy plus relation is structure under another name. If the apophatic move is consistent and the 'beyond being' really is beyond all the Conditions (no Temporality, no Spatiality, no Physicality, no determinacy at all) then it is the no-content case, not a ground: nothing determinate remains to bear the grounding relation (§2.8.6). The apophatic ground either retains enough determinacy to ground (confirming the structure under negation-laden vocabulary) or surrenders all determinacy (collapsing into the no-content case). There is no third position from which a 'ground beyond' can do the work the apophatic tradition asks of it.
+
+The universality admits no exemptions, not even the objection to S5 itself. "It is possible S5 is wrong" is a proposition like any other. If S5 holds, the claim that S5 is possibly wrong is necessarily possible, but possibility is not refutation, and an actual demonstration is still required. Nor is the objection self-undermining: necessary possibility is not necessary truth. This is not an independent argument for S5; it is what S5's closure looks like from the inside.
+
+The fixed-domain derivation earns proposition-wise modal invariance through Modal Stability (§2.1.4) and the Bottleneck (§2.1.5). Transition Closure (§2.1.6) is narrower: an auxiliary argument about the onset of Change under structural accessibility, not another derivation of S5.
+
+A contemporary precedent points at the same convergence from a different direction. Van Hamme [@vanHamme2025a; @vanHamme2025b] argues that modal logic is jurisdictionally confined to logical-analytic and modal-structural necessity, and that classical theism's claim of a necessary personal being asks the modal apparatus to certify a class of necessity (existential) it cannot reach. Van Hamme reads this as a defeater for the classical move; the present argument reads it as the same closure seen from outside the structural ground. The class of necessity modal logic *can* legitimately deliver is precisely the class T ∧ S ∧ Φ occupies. Where van Hamme stops at the jurisdictional limit, the structural derivation (§2.1.5, §2.1.6) shows that what fills the legitimate class is structural Reality itself. Same boundary, two sides of it.
+
+*What converges.* The reader who proposes an alternate ground can take the same path. The ground is either temporal, spatial, and physical (in which case it confirms the structure of Reality) or it is not, in which case the burden is to show how it remains a ground rather than the no-content case under another vocabulary.[^candidate-ground-ch4]
+
+[^candidate-ground-ch4]: The objections to the candidate-ground convergence are taken up in Chapters 4 and 5. The apophatic positions (Plotinus' One, the Eckhartian Godhead, śūnyatā, and the contemporary 'ground beyond ground') fall under classical simplicity and the apophatic-theological tradition, the principal target of the determinacy-plus-relation argument (§5.2). The contrasting cataphatic line is Plantinga's necessary personal being (§5.1.7), with Swinburne on personal-explanation grounds (§5.1.4) and idealism on whether the ground is mental rather than structural (§4.3.5). The van Hamme jurisdictional reading is engaged directly under the jurisdictional-limits treatment (§5.1.7), and Lewis raises whether alternative grounds can be hosted by plenitude rather than by structure (§4.4.1).

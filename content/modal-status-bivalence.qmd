@@ -1,0 +1,30 @@
+---
+title: "2.1.1 Modal Bivalence"
+notion-id: 1c2fcbca-d8bd-4f79-bf6b-403f83be9ba5
+slug: "modal-status-bivalence"
+index: 20101
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Modal Bivalence is the exhaustiveness of the book's two primitive modal verdicts. For any contentful claim P, either P is really possible (◇P) or it is not (¬◇P). Since impossibility is defined as the negation of possibility, the formal disjunction ◇P ∨ ¬◇P is classical excluded middle applied to a modal predicate. It records the grammar of the framework; it does not by itself establish any substantive fact about which propositions are possible.
+
+::: {.premise}
+**Modal Bivalence** · **P1** · *Premise 1*
+
+For any contentful claim, either it is really possible or it is not: the two modal verdicts are exhaustive. ∀P: ◇P ∨ ¬◇P.
+
+
+:::
+
+The grammar fixes modal status, not truth, and the two come apart. A claim can be unsettled in truth — the next coin flip will land heads — while being settled in modal status: heads and tails are both possible before either becomes actual. Vagueness raises a different problem. A string that fails to determine a proposition does not yet supply a third modal status; it fails to provide a content to which either verdict can apply.
+
+A genuine challenge to the two-verdict framework must therefore specify what it rejects: truth-aptness, classical negation, exhaustiveness, exclusivity, or the consequence rules used downstream. These are live options, not verbal confusions. A dialetheist such as Graham Priest challenges truth-value exclusivity: some propositions may be both true and false. That alone does not yield ◇P ∧ ¬◇P, because ¬◇P states that P is impossible, not merely that P is false. To challenge modal exclusivity here, the dialetheist must extend the glut to the modal predicate itself, allowing both ◇P and its negation. The disjunction ◇P ∨ ¬◇P can remain true on that proposal while the classical claim that exactly one disjunct holds fails. Paraconsistent and intuitionist positions may instead revise what follows from a contradiction or which reductios are licensed.
+
+This section adopts both exhaustiveness and exclusivity as part of its classical framework without pretending that the first alone supplies the second. The later replies are correspondingly limited: §2.7.2 asks whether logical revision can furnish a model of the Null State without the defending practice instantiating the Conditions, and §5.3.4 runs the catuṣkoṭi corner by corner while preserving the wider dispute over positive metaphysical thesis-making.
+
+The work of Modal Bivalence is limited but necessary. It fixes the two verdicts over which the later invariance theorem ranges. It does not prove that modal status is world-invariant, that both poles are occupied, or that any particular proposition is possible. Those are separate results.
+
+*What is established.* Every contentful proposition receives one of the two modal verdicts under the classical framework used here: ◇P or ¬◇P. The result is modal exhaustiveness, not yet modal invariance.[^bivalence-ch4]
+
+[^bivalence-ch4]: Fictionalism questions whether modal statements bear truth values at all (§4.4.4); dialetheist and paraconsistent revisions of classical exclusivity or consequence are met in operation, where §2.7.2 tests the logical-revisionist rescue of the Null State and §5.3.4 runs the catuṣkoṭi, the four-cornered tetralemma, against the necessity of the Conditions; dappled-world and deflationist views question whether one global modal domain is available (§4.1.8); and quietism doubts that the disjunction is meaningful (§4.1.9).

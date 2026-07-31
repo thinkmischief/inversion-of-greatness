@@ -1,0 +1,30 @@
+---
+title: "8.12.2 What is Required"
+notion-id: 398aaa98-d799-4ce8-855a-82fe64956d3d
+slug: "morality-required"
+index: 81202
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+*Distinct subjects in shared exchange.* Moral life consists in distinct subjects — living beings meeting one another across exchanges that cannot be undone. Any account must derive moral structure from this fact rather than from premises silent on intersubjective coupling. The requirement is to treat distinction, persistence, and succession (Space, Substance, and Time) not as conditions moral life happens to require but as what moral life consists in.
+
+*Two-place mutual recognition.* Moral normativity goes beyond biological function when one subject can recognize another as a subject. Any account must explain how one-place functional norms become two-place moral norms. The requirement is to derive that shift through mutual recognition between beings of the same kind, with each able to grasp what its action would do to another who experiences from inside as the first does.
+
+*Reading another’s condition.* What ordinary speech calls *feeling another's energy* tracks the thermodynamic and informational state of the being whose signals are being read. Any account must accommodate this readability rather than treating moral cognition as projection or as inference from purely external signs. Moral perception begins in reading another’s condition, with affective expression as direct evidence of what an action is doing to its subject.
+
+*The fostering-vs-corroding axis.* Morality is the choice to foster another being; immorality is the choice to corrode one, or to act on a projection of what fosters rather than attending to what actually does. Any account must accommodate this axis rather than treating moral evaluation as the application of decontextualized rules. It must preserve the anti-paternalist condition — one cannot foster what one has not seen clearly — and the full range of fostering, from gentle nurture to fierce defense, according to what the other being actually requires.
+
+*Derivation of standard moral categories.* Non-maleficence, beneficence, autonomy, consent, the harm principle, and justice should follow as derivations rather than enter as primitives. Any account must accommodate the derivability rather than treating these as foundational posits. The structural requirement is that the account derive each from the underlying structural facts: non-maleficence from affect-broadcasts as direct evidence of what is being done; beneficence from currents persisting by throughput; autonomy from the epistemic asymmetry of self-access; consent from autonomy's operational form; the harm principle from one subject's course corroding another's; justice from field-level maintenance of throughput conditions.
+
+*The is/ought dissolution.* The is/ought gap closes at the structural level when the *is* of life is recognized as already constitutively normative in the functional sense. Any account must explain why the gap appeared in the first place — from premises silent on life and exchange — and how it closes once life and exchange are included. The structural requirement is that the account treat the gap as an artifact of restricted descriptive premises, with the upgrade to moral normativity proper achieved through two-place mutual registration.
+
+*Depth-graded moral standing.* Moral standing tracks the depth at which a subject registers its conditions, with the cross-current readability of suffering and flourishing as the structural feature that grounds moral consideration. Any account must accommodate the gradient rather than drawing a sharp categorical line at any species-level boundary. The structural requirement is that the account distinguish what moral consideration is owed at each depth, with the depth-gradient supplying a usable bioethics without requiring binary inclusion-exclusion.
+
+*Field-level extension.* Subjects exchange inside a shared field of further subjects whose conditions either sustain or starve continued participation. Any account must accommodate this field extension rather than treating morality as pair-relations alone. The structural requirement is that the account derive justice from field-level analogues of throughput — food, shelter, safety, time, learning, exchange — with the maintenance of those conditions as the field-level extension of fostering.
+
+*Coherence with the rest of the chapter.* Morality (§8.12) is one register among others (§8.1–§8.15), connected to feeling (§8.2), the modal-depth account of will (§8.9), and language (§8.10). Any account must accommodate these connections rather than treating ethics as autonomous from moral psychology and moral metaphysics. The structural requirement is that the account derive moral practice from features developed elsewhere in the chapter: feeling as the cross-current readable register, language as the medium of moral discourse, modal-depth will as the basis for consent and responsibility.
+
+*Robustness to supernatural withdrawal.* With the inversion (Chs. 6–7) foreclosing the supernatural anchors classical religious accounts of morality have relied on, any account must support morality that survives the withdrawal rather than collapsing into relativism, nihilism, or error theory. The structural requirement is that the account locate morality's source in features of subjects and the medium that do not require supernatural supplementation: distinct subjects in shared exchange, with the structural facts grounding the normative claims.
+
+These requirements together set out what an adequate account of morality has to carry: distinct subjects in shared exchange, two-place mutual registration, cross-current readability, the fostering-versus-corroding axis, derivation of standard moral categories, the is/ought dissolution, depth-graded moral standing, field-level extension, coherence with the chapter's other registers, and robustness to the withdrawal of supernatural anchors. The framework §8.12 defends meets each.

@@ -1,0 +1,27 @@
+---
+title: "3.1.2 The Unswitchable Capacity"
+notion-id: c38b3d07-0355-4c4f-8e40-319c4e5f4b42
+slug: "unswitchable-capacity"
+index: 30120
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Grant, against the changeless-ground dilemma (§3.1.1), a history with an initial state lacking even the capacity for change, its modal profile ¬◇C, followed by a state in which change is possible. The escape is attractive because it does not deny change where it occurs; it locates the capacity's origin in a prior state from which change was supposedly excluded. The line below tests whether that state could supply the transition to its own opposite.
+
+::: {.argument}
+**The Unswitchable Capacity** · *from the impossibility of onset to the closure of the capacityless-origin story*
+
+1. Suppose a state at which change is impossible: ¬◇C.
+1. For the capacity to be acquired, that state must be followed by one at which change is possible: a passage from ¬◇C to ◇C.
+1. That passage is itself a change, one state and then another (§1.3).
+1. But the initial state is stipulated to permit no change. It therefore cannot host the passage by which the capacity would be acquired.
+1. So the capacity for change cannot originate from a state lacking it. Brute onset does not help: an uncaused passage is still a passage and therefore still a change.
+
+:::
+
+The result is one-way. It establishes that the capacity cannot switch **on** from the off-position. It does not establish that a capacity already present could never be lost, and it does not establish that two possible worlds cannot differ in C-status. Distinct worlds are not successive stages of one history; moving from a temporal no-onset result to a cross-world necessity claim would require a further modal bridge.
+
+This distinction closes the strongest local emergence story without overstating it. A world cannot begin in absolute incapacity and later acquire change, because the acquisition would exercise the capacity before it existed. A silent, isolated world whose modal profile is simply ¬◇C remains untouched by this argument alone. It cannot be identified with ∅ merely from ¬◇C: change requires T, S, and Φ, but that one-way requirement does not license the converse inference from no capacity to the absence of all three Conditions.
+
+*Dependency.* §1.3 alone. No S5, no ∅-floor, and no converse from ◇C → (T∧S∧Φ). *Structure:* a no-onset reductio. *Scope:* it rules out emergence from capacitylessness; it does not independently derive □◇C. The exact cross-world burden is recorded at §3.5.4.

@@ -1,0 +1,18 @@
+---
+title: "1.5.4 Supervenience"
+notion-id: 873a89b6-e8e7-402f-aebd-2e75fbaeb335
+slug: "supervenience"
+index: 10504
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+::: {.definition}
+**Supervenience** · *Definition*
+
+One range of facts is fixed by another: A *supervenes on* B when there can be no difference in A without some difference in B.
+
+
+:::
+
+The relation is not symmetric, but neither is it asymmetric: as defined it is reflexive and transitive, so the one-way dependence belongs to the canonical case rather than to the operator itself. The names track the morphology: the *supervenient* (A) sits on top, the *subvenient* (B) sits beneath. A varies only as B varies; B may vary without A varying. The textbook case is the mental supervening on the physical: two physically identical configurations cannot differ in their mental states, but the physical can vary in ways the mental does not track.

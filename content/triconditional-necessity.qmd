@@ -1,0 +1,66 @@
+---
+title: "2.5 Triconditional Necessity"
+notion-id: 900e030e-248f-4275-a45a-3c69f47e5bad
+slug: "triconditional-necessity"
+index: 20500
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Two results already earned now meet: change is possible in every possible world (§2.3), and any world with possible change must have the three Conditions (§2.4). Together they entail that the three Conditions themselves hold in every possible world. They cannot fail to be there. This is the step that makes the joint structure necessary. The stronger identification of that structure as one Nature is established in §2.6, and its identity with Reality is assembled at §2.8.
+
+The result is delivered by a single line that runs the length of the chapter so far. The Cartesian certainty that change is possible (◇C, §2.2) is lifted by the Necessary Possibility Theorem (§2.1.10) into its necessitated form, the Necessary Possibility of Change □◇C (§2.3). The possibility of change holds at every world in the fixed global domain W. The Structural Requirement, □(◇C → (T∧S∧Φ)) (§2.4), states that necessarily the possibility of change cannot obtain except where the three Conditions are instantiated at the resolution the individual Condition arguments establish.
+
+The two close by a single modal step: the Structural Requirement is a *necessitated conditional* and the Necessary Possibility of Change its *necessitated antecedent*, so necessity distributes over the conditional. That distribution is the K axiom, valid in every normal modal logic and so *a fortiori* in the S5 the proof runs in: □(◇C → (T∧S∧Φ)) → (□◇C → □(T∧S∧Φ)). Assembled end to end, the line runs:
+
+::: {.argument}
+**Triconditional Necessity** · *The Full Line*
+
+1. *Necessary Possibility (T1).* Real possibility ranges over one fixed domain W, so whatever is possible is necessarily possible. ◇P → □◇P
+1. *Cartesian Certainty.* Change is possible, certain at the very level of its own denial. ◇C
+1. From (1): apply the theorem to change itself. ◇C → □◇C
+1. *Necessary Possibility of Change (L3).* From (2) and (3), modus ponens necessitates the possibility of change. □◇C
+1. *Structural Requirement.* Necessarily, the possibility of change cannot obtain without the three Conditions. □(◇C → (T∧S∧Φ))
+1. From (5): the K axiom carries necessity across the conditional. □◇C → □(T∧S∧Φ)
+1. **Triconditional Necessity.** From (4) and (6), modus ponens delivers the result: the three Conditions hold of necessity. □(T∧S∧Φ)
+
+:::
+
+Step 7 is the result: the three Conditions are not a feature the actual world happens to carry but hold at every member of the fixed global domain of real possibility. The conclusion concerns the role- and type-level Conditions established in §2.4, not particular metrics, geometries, fields, or occupants. Stated as the standing result the rest of the chapter draws on:
+
+::: {.corollary}
+**Triconditional Necessity** · **R5** · *Result of L3, SR*
+
+Temporality, Spatiality, and Physicality are co-instantiated in every possible world, because the possibility of change (itself necessary) cannot obtain without them. This stage establishes the necessity of their joint presence: □(T∧S∧Φ). Section 2.6 argues that the joint structure is one Nature; §2.8 then assembles the identity of Nature and Reality.
+
+
+:::
+
+*Where this sits, and why it is also a premise.* The result is a stage, not the terminus. The argument moves in three stages. *Stage 1* established that the possibility of change is necessary: □◇C (§2.3). *Stage 2*, reached here, establishes that the conditions on which that possibility depends are themselves necessary: □(T∧S∧Φ), the Triconditional Necessity. *Stage 3* is the capstone, the stronger claim the whole argument is built toward: that **Reality and Nature are one and the same**, that Nature is not a necessary endowment Reality happens to carry, but what Reality consists in, with nothing real lying outside it.
+
+Between Stage 2 and that capstone, the next section (§2.6) takes up what this result identifies (that Temporality, Spatiality, and Physicality are not three separate facts but one Nature read three ways), establishing the Triconditional Identity (§2.6.10) and earning the full biconditional whose forward leg alone carries this stage.
+
+This is just why the result is a premise as well as a conclusion: □(T∧S∧Φ) closes Line 1, and it is the premise Stage 3 takes up, at §2.8, where the necessity established here is shown to exhaust the real and to leave the Null State (§2.7) as no genuine alternative.
+
+*Scope.* Two limits travel with the premise. The necessity is de dicto with respect to the structural constraint (necessarily, any possible Reality instantiates T, S, and Φ), not a de re necessity of this universe, its constants, or any configuration it hosts. And it attaches to the structural roles, not to their occupants: contingency within necessity is preserved (§2.8.4). Nature is necessary; what fills it is not.
+
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Doesn't this prove far too much—that the universe, with just these constants and contents, couldn't have been otherwise? No, and two limits travel with the result. First, the necessity is de dicto: what's necessary is that any possible reality instantiates time, space, and persistence—not that this universe, its particular constants, or any configuration it hosts had to be. Second, it attaches to the structural roles, not to their occupants. The roles hold in every world; what fills them varies freely. So contingency is preserved right where you'd want it: Nature is necessary, but what fills Nature is not. The claim is about the frame, not the furniture.
+:::
+
+
+*The three, taken singly.* The result is stated jointly because that is how the chain delivers it, but necessity distributes over a conjunction, so each Condition is necessary in its own right — and each under the same de dicto, structural-role scope just fixed. The joint result therefore carries three named consequences:
+
+::: {.corollary}
+**Necessity of Each Condition** · **R6** · *Result of R5*
+
+Since □(T∧S∧Φ) is equivalent to □T ∧ □S ∧ □Φ (necessity distributes over conjunction):
+
+- **Necessity of Temporality.** Temporality is instantiated in every possible world. □T.
+- **Necessity of Spatiality.** Spatiality is instantiated in every possible world. □S.
+- **Necessity of Physicality.** Physicality is instantiated in every possible world. □Φ.
+
+Each follows as a conjunct of the Triconditional Necessity above. The Parasitic Negation arguments at §§2.4.6–2.4.8 supply narrower onset closures: they challenge emergence of a Condition from its own absence, but do not independently establish world-wise necessity.
+
+
+:::

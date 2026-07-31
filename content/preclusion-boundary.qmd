@@ -1,0 +1,46 @@
+---
+title: "2.7.4 Preclusion Boundary"
+notion-id: 3abacfe1-51b2-4507-9fc1-3d1bc8766fde
+slug: "preclusion-boundary"
+index: 20704
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The dissolution is precise in its scope. It closes the demand for an explanation of why structure exists. It does not apply to questions about the specific nomological character of structure.
+
+Why does causally structured succession have the specific causal laws it has rather than others? Why does relational extension have the specific geometric structure it has? Why does causal persistence operate through the specific forces and interactions it does?
+
+These are questions about the contingent configuration of structure (the specific history and character of the play enacted on the necessary stage), and they remain open empirical and philosophical questions. The necessity of structure does not entail the necessity of any specific instantiation of it. This distinction, anchored in the modal-invariance results of §2.3 and elaborated at §2.8.4, is preserved here.
+
+The character questions remain. They are genuine, and the reader who finds them pressing should follow them. But the ground beneath the questions is no longer open. The existence question is closed.
+
+*Retrospective close: the ∅ Reductio.* □◇C was established at §2.3 by applying the Necessary Possibility Theorem (§2.1.10), whose fixed-domain derivation is given at §2.1.4 and defended at the Bottleneck (§2.1.5). Transition Closure (§2.1.6) is narrower: it blocks the onset of Change from a ¬◇C state under structural accessibility but does not itself derive □◇C. It therefore leaves untouched an isolated possible world w₀ with ¬◇C standing on its own, not a temporal or modal predecessor of any ◇C world. The machinery for the isolated closure, the Modal Identity (§2.6.6) and the incoherence of ∅ (Lemma 6, §2.7.2), is now in place. The retrospective closure runs as a reductio.
+
+::: {.corollary}
+**∅ Reductio** · **R11** · *Result of T2, R7, L6*
+
+The isolated-world scenario is closed: no possible world w₀ can stand alone with ◇C false. □◇C. (from the Modal Identity §2.6.6, the Mutual Containment Result §2.6.5, and the Incoherence of ∅, Lemma 6, §2.7.2)
+
+
+:::
+
+In skeleton: if □◇C failed, some world would lack T, S, and Φ (i.e., it would be ∅) and ∅ is incoherent, so □◇C holds. Spelled out in full:
+
+::: {.argument}
+**Necessary Possibility of Change** · *The ∅ Reductio*
+
+1. Suppose ¬□◇C. Then there is a possible world w₀ in which ◇C fails: change is not even possible at w₀.
+1. By the Modal Identity (§2.6.6), □(◇C ↔ (T∧S∧Φ)). So at w₀, ¬◇C iff ¬(T∧S∧Φ), i.e., at least one of T, S, and Φ is uninstantiated at w₀.
+1. By the Mutual Containment Result (§2.6.5), T, S, and Φ are instantiated together or not at all in any possible world. So if any one of the three fails at w₀, all three fail at w₀.
+1. From (2) and (3): T, S, and Φ are jointly uninstantiated at w₀.
+1. By the definition of ∅ (§2.7.1), a world in which T, S, and Φ are jointly uninstantiated is ∅. By the Incoherence of ∅ (Lemma 6, §2.7.2), ∅ is not a possible world: ¬◇∅. So w₀ is not a possible world.
+1. But w₀ was posited as a possible world at step 1. Contradiction. Therefore □◇C.
+
+:::
+
+The ∅ Reductio closes the isolated-world scenario that Transition Closure (§2.1.6) could not reach. The S5 inference is sufficient on its own: the fixed-domain derivation at §2.1.4, defended at §2.1.5 and stated as T1 at §2.1.10, delivers □◇C from ◇C. A reader who declines that derivation may instead accept the later ∅ Reductio only if the Modal Identity and the Incoherence of ∅ have been independently earned; Transition Closure remains auxiliary and does not carry proposition-wise invariance by itself. The two routes rest on different commitments. The S5 route depends on the fixed global domain W, not on §1.4 generating S5-invariance. The later reductio depends on the Modal Identity, Mutual Containment, and the Incoherence of ∅. The intermediate result □◇C is therefore supported by the canonical S5 line and, conditionally, by the later structural reductio without conflating either with Transition Closure.
+
+*Where this leaves the argument.* The existence question is closed. The structural Conditions are necessary; ∅ is not a coherent alternative; the demand for Sufficient Reason dissolves.[^null-reductio-ch4] What follows (§2.8) names the thesis the closure forces, and the result is placed within the philosophical landscape and the logical architecture it implies at §§2.9–2.10.
+
+[^null-reductio-ch4]: The ∅ Reductio's closure of the isolated-world scenario is engaged from several angles in Chapter 4. Pizzi's three reductios of absolute nothingness are the closest contemporary cousin on the ∅-foreclosure side (§4.1.11); Lewis's modal realism supplies the isolated-world picture the Reductio closes (§4.4.1); Williamson's necessitism presses whether the closure delivers universal necessity in the intended sense (§4.4.6); the Kalām cosmological argument leans on absolute nothingness as the live alternative the Reductio forecloses (§5.1.2); and the modal-collapse worry asks whether the Reductio leaves room for genuine contingency at the configuration level (§4.4.9).

@@ -1,0 +1,12 @@
+---
+title: "E.6 Collapse and Closing Arguments"
+notion-id: 83eb01d6-adf1-41ab-aaf6-c7a6e108274e
+slug: "collapse-and-closing-arguments"
+index: 110600
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The final cluster differs in kind from the five before it. Rather than pressing a single doctrine, its current entry works across the sequence: E.6.1 closes the Excursus by taking the tradition's supreme measure of sacrifice on its own terms, drawing several results already established into a single closing argument.
+
+The cluster sits last by design: its entries presuppose the preceding ones, drawing on results already established rather than introducing new machinery. An argument that targets one doctrine belongs in the clusters above; what belongs here is any argument whose reach is the sequence itself.

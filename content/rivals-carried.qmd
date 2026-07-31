@@ -1,0 +1,68 @@
+---
+title: "4.5 What the Rivals Carried"
+notion-id: f99f8aa3-dc6a-48dd-868b-aec8f46e1072
+slug: "rivals-carried"
+index: 40500
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This is the chapter's reckoning. The engagements do not all end with one verdict. Some rivals are internally incoherent on the book's analysis. Some realize the same structural roles under another vocabulary. Some are compatible specifications of those roles. Some remain coherent only by taking on explanatory cost. Some do not contest the ground at all but the machinery used to reach it. Some identify a question the chapter does not settle. And one is no rival at all: it converges on the same modal floor and stops short of the structural conclusion. Keeping these verdicts distinct is part of the argument's discipline.
+
+## Verdicts by rival type
+
+### 1. Denial attempts
+
+**Null-state and domain-external absence.** The proposal that nothing at all obtains dissolves rather than supplies a rival state: ∅ is not a world with unusual contents but the failure of the conditions under which a state or world could be specified (§2.7). This is an **incoherence verdict**.
+
+**Onset from absence.** A first temporal order, first placement, or first causal production presupposes the domain it claims to originate (§2.1.5). This is also an **incoherence verdict**, but it is limited to onset from domain-external absence. It does not by itself prove that every possible world realizes the full Conditions.
+
+**Humean and deflationary accounts.** Humean regularity, Best-System accounts, conventionalism, and modal deflation can preserve a real manifold, patterns, or local reachability. Where they do, they retain directed order, differentiation, or bearing at least at role-resolution. Their strongest forms are therefore ordinarily **relocation verdicts**, not contradictions. They remain live where they reject the book's type-level or necessity claims.[[1]](https://app.notion.com/p/45f808464cb8438690e458103c32b6ab)
+
+**Strict temporal unreality.** Two theses must be kept apart here, and the first audit of this ledger against the Specification Test found them run together. A thesis denying any ordering whatever does defeat the possibility of a world-state, but it does so by collapsing into the null-state case already treated above, not by any independent result about time. McTaggart's own strict-unreality reading is weaker, and its verdict is weaker to match: the retorsion from 1908 diagnoses the act side, since the paper's writing, its publication, and its century of reception deploy succession, distinction, and persistence in the course of denying them, but the object side is left untested, because an error theorist may still propose a non-temporal ground of the apparent order. The verdict is therefore **act-side incoherence with the object-side error theory open**, not incoherence outright — the shape of §3.3.3 rather than of §2.7. B-theory is neither thesis: it retains a temporal ordering and receives a different verdict below.[[2]](https://app.notion.com/p/b5eb32d6ade446c5b5dcb68fedc7f8ee)
+
+### 2. Priority attempts
+
+**Changeless and non-temporal grounds.** A ground that claims to produce, sustain, or answer to the changing order must stand in some real dependence relation to it. The chapter establishes that this relation cannot be wholly structureless. The full theological assessment of divine eternity, simplicity, and simultaneity belongs to Chapter 5. The verdict here is **structural burden plus deferred theological engagement**, not a complete refutation of every classical-theist account.[[3]](https://app.notion.com/p/cc2487566afd4e4e856a9f27b8528e5e)
+
+**Source-of-possibility accounts.** No candidate whose own status is stated in modal terms can ground the global modal domain it already inhabits. A committed essence-prior or transcendence theorist may nevertheless posit a primitive external ground. The verdict is **internal modal-ground exclusion and an open grounding gloss**, not universal contradiction.[[4]](https://app.notion.com/p/f6861ab595e4445ab37a61e8628a258e)
+
+**Dispositionalism about modality.** The nearest rival and the closest ally: like the present account, it locates modality in reality rather than in a plurality of concrete worlds, and its objections to Lewis are largely the book's own. It grounds possibility in the powers of actual objects, and powers are borne. The global case has no bearer, and iterating potentiality does not supply one, since the possibility that there be bearers presupposes a bearer. The verdict is **shared diagnosis of the rivals, with grounding that reaches every case but the one at issue**.[[5]](https://app.notion.com/p/bdbd2a938c3d43c8aad069eb025f7d76)
+
+**Lewisian plurality.** Concrete Lewisian worlds must meet concrete spatiotemporal burdens internally. Their numerical plurality, if treated as primitive, remains a coherent but costly posit rather than a contradiction. The verdict is **structured realization plus explanatory cost**.[[6]](https://app.notion.com/p/9f03aeeb25cd4e14991765bca134be34)
+
+**Necessitism.** Fixed domains of individuals are compatible with the fixed global domain of real possibilities. Necessitism neither refutes the structural conclusion nor automatically supplies its metaphysical content. The verdict is **formal compatibility with a competing ontological reading**.[[7]](https://app.notion.com/p/64868ae11e7941fe8714faf6d5535ae5)
+
+### 3. Insufficiency attempts
+
+**B-theory and block universe.** The block realizes temporal ordering, differentiation, and cross-time structure. It is compatible with the role-level framework while remaining in dispute over objective passage. The verdict is **compatibility at role-resolution, open disagreement about the passage feature**.[[8]](https://app.notion.com/p/f4039dd2fefd499ebf17300d2fa8ad21)
+
+**Whiteheadian process.** Process ontology captures cross-transition efficacy without an enduring subject. It therefore realizes the bearer-role while disputing persistent causal being as a type. The verdict is **relocation at role-resolution, type-level dispute deferred**.[[9]](https://app.notion.com/p/3375bc8ef244808fa7d9e3cb69f0dd11)
+
+**Mathematical Universe Hypothesis and structural realism.** Pure mathematical structures and abstract relational fabrics need not instantiate temporal, spatial, and causal types merely by being abstract structures. When proposed as physical reality, observer-hosting reality, or a genuine change-realizer, they incur the richer realizer burden. The verdict is **conditional compatibility: abstract structures remain live, physical-realizer identity claims inherit structural requirements**.[[10]](https://app.notion.com/p/8c652560c5cd4e9f9eee8578195e619b)[[11]](https://app.notion.com/p/69dfe50b34c2446fb054d5c422169c1d)
+
+**Hard problem of consciousness.** Experience does not establish a structureless domain. Even irreducible qualitative features would be features of a structured ground. Whether phenomenal interiority is identical with structural self-modeling remains a constructive question for later chapters. The verdict is **no escape from structure, positive explanatory seam left open**.[[12]](https://app.notion.com/p/3a827bafe47540cb99602f17ba687279)
+
+### 4. Apparatus attempts
+
+A fourth kind of objection leaves the ground alone and goes after the machinery. It offers no rival world, no rival source, and no rival realizer; it argues that the semantics or the epistemology the argument runs on will not bear the weight placed on it. These verdicts are narrower than the others, and two of them cost the book something.
+
+**Impossible worlds and relative modality.** Admitting impossible worlds multiplies representations rather than genuine alternatives, and representations are themselves structured. A Kratzer-style modal base restricts the domain rather than populating it, and every subset of the global domain has only members of the global domain. The hyperintensionality complaint is conceded in full: necessary equivalence is too coarse for many metaphysical distinctions, which cuts below the necessity claim without cutting into it. Non-normal worlds are the real exception, since invalidating necessitation is a genuine way to block the lift; the reply there is redirection to the non-S5 route of §3.5.4 rather than defense. The verdict is **representational enlargement without domain enlargement, with one semantic route answered by redirection**.[[13]](https://app.notion.com/p/7e9453ce76f94c9cbd17afcf5ec16d26)
+
+**Chained-origin counterexamples.** The tolerance chaining that generates Chisholm's paradox makes what is possible for an individual vary from world to world, which is genuine pressure on S4 and S5 and is not dismissed here. It reaches de re identity claims about contingent individuals; the structural claim is de dicto and quantifies over none. The verdict is **live pressure on a scope the argument does not occupy**.[[14]](https://app.notion.com/p/4c6ebd8204f44bb58bc726a8624b06f8)
+
+**The remoteness objection.** That the modal faculty grows unreliable at metaphysical distances is granted without reservation, and then declined as beside the point, because the method it impugns is not the method in use: the book's negative results come from attempted specification and diagnosed failure, not from imaginative survey. The verdict is **the faculty conceded, the method refused, and a standard incurred**.[[15]](https://app.notion.com/p/b1d67a6d736443c7903b865ea977d177)
+
+### 5. Convergence
+
+**Pizzi's impossibility of nothingness.** Not a rival but the literature's nearest cousin: the same closure of modal space against ∅, reached by kindred reductio machinery, ending at the bare-existential □∃x x rather than the structural □(T ∧ S ∧ Φ). The verdict is **convergence at the modal floor, with the naming of the necessary content left to Chapter 5**.[[16]](https://app.notion.com/p/cb3618c253d048e7918798159d553bbe)
+
+## What the pattern establishes
+
+The chapter's positive finding is not that every objection secretly proves the full Necessity of Nature. It is more exact: no rival surveyed supplies a fully articulated alternative that both avoids the relevant structural roles and performs the work for which it was introduced. Some candidates dissolve. Many relocate roles. Several remain compatible specifications. A few remain coherent at a price or mark an explanatory question that the book carries forward.
+
+The claim remains falsifiable. A genuine defeater would specify a real ground, world, or change-realizer that performs its stated work while instantiating none of the relevant roles, without merely appealing to primitive exemption or shifting to a different relative modality. Producing such a case would defeat the corresponding structural claim. None of the positions considered here has done so.
+
+What counts as having failed to produce one is now fixed rather than left to judgment. The Specification Test (§4.1.13) holds that a failure to specify is evidence of impossibility only where the failure is diagnosed — where the attempt can be shown to deploy what it denies — and not where the attempt merely stalls. The test binds this ledger as much as it binds the rivals: any verdict above that rests on a failure encountered rather than exhibited is owed a downgrade, not a defense.
+
+The chapter therefore ends without a victory lap. It leaves a ledger: structural absence fails where it is supposed to describe a world; relocation does not displace the roles; compatibility does not amount to refutation; explanatory cost is not incoherence; a restriction cannot manufacture a member, and a doubt about the faculty is not a defeat of the method; convergence at the floor is not the structural conclusion; and open seams remain open until the chapters that bear them do their work.

@@ -1,0 +1,14 @@
+---
+title: "7.3.3 What is Predicted"
+notion-id: 84211824-4dce-4a32-9bce-d4ecb3b2ffeb
+slug: "space-predicted"
+index: 70303
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Distinction (the requirement that the two configurations a change runs between stand apart from one another) is one of the three constitutive requirements of Change (§1.3). If nothing stood apart from anything else, there would be no two states to exchange, no configurations to relate, no where for an event to happen. A universe without extension is not a universe whose space happens to be zero-dimensional. It is not a universe.
+
+A second derivation arrives from identity rather than from change. For A to be what it is, A must stand distinct from non-A; an undifferentiated field contains no configurations to be identical with themselves. The distinction at issue here is not bare numerical non-identity, which co-located, multiply-located, or abstract items show need not be spatial; it is the positional distinctness of physically-configured relata, which the Relational Distinctness premise identifies with traversable relational extension (§2.4.7). On that premise, and restricted to the configured relata Nature deals in, distinction requires an interval across which A stands apart from non-A, and the interval is what Spatiality structurally is. The two derivations arrive at the same necessity by different lines (Change through exchange, identity through non-identity), which is the overdetermination pattern §3 already exploits (multiple independent derivations converging on the same structural necessity, where each derivation alone would suffice and convergence is itself the mark of necessity): one derivation would suffice; two are what structural necessity looks like from different angles.
+
+Spatiality is therefore not a stage that might or might not be set. Nature instantiates extension structurally, because exchange requires relata and identity requires interval, and the two requirements converge on the same structural feature.

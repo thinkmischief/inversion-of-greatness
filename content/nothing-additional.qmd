@@ -1,0 +1,26 @@
+---
+title: "3.4.4 Nothing Additional"
+notion-id: b6995df4-1b51-4964-861e-e5d05bbb7057
+slug: "nothing-additional"
+index: 30440
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+A mere surplus could be harmless; the issue is not whether Nature permits additions but whether any addition could bear the grounding office at stake. A supplement to Nature is not excluded merely because it is unnecessary. The stronger question is whether it could stand in the grounding relation required to be an additional ground of Reality. Once that relation is made explicit, the candidate faces a trilemma.
+
+::: {.argument}
+**The Grounding Trilemma** · *from every grounding position to Reality being Nature*
+
+1. Let G be a proposed ground additional to Nature. Relative to Nature, G must either (i) ground Nature, (ii) be grounded by Nature, or (iii) stand in no grounding relation to Nature. Grounding is asymmetric, so the three positions exhaust the available directions (§1.5.5).
+1. If G grounds Nature, the grounding relation must be directed from ground to grounded, distinguish G from what it grounds, and obtain as a real dependence rather than a verbal pairing. At role-resolution, those are T, S, and Φ: directed order, difference, and bearer. The proposed external ground therefore instantiates the structure it was meant to precede (§2.2.2).
+1. If G is grounded by Nature, G is derivative within the dependence order Nature constitutes. It may be a real configuration, but it is not an additional ground of Reality over and above Nature.
+1. If G stands in no grounding relation to Nature, it does not ground Nature. It may remain an idle posit, but it cannot fill the office under dispute.
+1. Therefore no additional candidate occupies the ground-of-Nature position from outside Nature. Every candidate either reinstantiates the Triconditions, falls within them, or performs no grounding work.
+1. So no candidate supplements Nature in the specific office of grounding Nature from outside. This restricted conclusion does not by itself establish R = N, because the third horn leaves open idle surplus; the residue argument of §3.4.3 must do the additional work.
+
+:::
+
+The trilemma is stronger than a parsimony objection. It does not infer unreality from idleness, and it does not claim that every coherent surplus is impossible. A surplus that does no grounding work remains outside the argument's target; a surplus that does the work must instantiate the directed, differentiated, obtaining relation the work requires.
+
+*Dependency.* The definition of grounding (§1.5.5), Stage 2's role-level necessity, and the level-invariance of grounding (§2.2.2). *Structure:* exhaustive grounding trilemma. Its independent result is restricted to the ground-of-Nature office. The full R = N conclusion requires maximality or the residue argument in addition.

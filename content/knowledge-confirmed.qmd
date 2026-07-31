@@ -1,0 +1,16 @@
+---
+title: "8.3.4 What is Confirmed"
+notion-id: 06da8748-ea67-47ed-b56c-b01903d56f66
+slug: "knowledge-confirmed"
+index: 80304
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The empirical record across independent disciplines confirms the three-forms structure. Cognitive science distinguishes declarative memory (propositional) from procedural memory (procedural) as dissociable systems. Amnesic patients who cannot form new propositional memories can still acquire new procedural skills; the reverse dissociation also occurs (Squire and Zola 1996; Cohen and Squire 1980). The brain itself distinguishes the forms at the level of neural architecture because they are structurally distinct.
+
+Embodied cognition research (Varela, Thompson, and Rosch 1991; Clark 1997, 2008) documents how much knowledge is held in the body and in tool use rather than in propositional representation. Skilled performance in music, sport, craft, and everyday navigation depends on beings shaped by repeated engagement, not on propositional rules being consulted in real time. Dreyfus's (1972, 2002) analyses of expertise make the point across domains: the expert is not thinking harder than the novice but has become one in whom the right response is already available without explicit deliberation.
+
+The phenomenology of experience, from William James (1890) to contemporary philosophy of mind, documents acquaintance as a distinct form of knowing: a reconstructed representation of what the medium is like, irreducible to propositional description. Nagel's (1974) bat argument and Jackson's (1982) Mary argument are standardly taken to show that acquaintance content cannot be captured by even complete propositional information. The exact claim is narrower: propositional information freely composes new acquaintance content from material the body already holds (a unicorn rebuilt from horse and horn) but cannot install a representation the body has no library to reconstruct from. What Mary lacks is not a fact but the field-coverage itself: no proposition rebuilds a color-encounter she has never run. Acquaintance is orientation held differently, not the same orientation expressed in a different format, so where the library is absent, no description supplies it.
+
+Gettier cases, Gettier's (1963) demonstration that a justified true belief can fail to count as knowledge when its truth and its justification do not connect in the right way, confirm the three-forms structure from yet another angle. The cases work on propositional knowledge and only on propositional knowledge. A Gettiered belief is a model that happens to correspond to reality without reliably tracking it. Procedural and acquaintance knowledge are not Gettier-vulnerable. A skilled surgeon whose hand reliably finds the artery is not Gettiered when the procedure succeeds; the reliability is built into the being. A person acquainted with what red looks like is not Gettiered because there is no mediating proposition that could be accidentally correct. The Gettier problem belongs to the propositional form rather than to knowledge in general, and its failure to generalize is evidence that the three forms are genuinely distinct.

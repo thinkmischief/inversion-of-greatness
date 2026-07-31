@@ -1,0 +1,12 @@
+---
+title: "E.2 Sin and Salvation"
+notion-id: 5a8a5c08-7596-4453-a8e4-4cadc11f06d9
+slug: "sin-and-salvation"
+index: 110200
+role: apparatus
+surfaces: ["Print", "Web — Book"]
+---
+
+The second cluster takes the tradition's account of what went wrong and how it is repaired — one doctrinal arc running from a first transgression (§E.2.1) through its transmission (§E.2.2) and its imputation (§E.2.3) to its repayment (§E.2.4).
+
+The arc is cumulative: each station presupposes the one before it, so the entries run in narrative order and their results compound — what falls at one station leaves the next without its premise. The engines are inherited: the voided apex subject of Chapter 6, which leaves no offended party for the transgression, and the finite, self-producing personhood of Chapter 8, against which transmitted sin and transferred guilt are measured.

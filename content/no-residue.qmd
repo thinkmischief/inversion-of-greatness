@@ -1,0 +1,28 @@
+---
+title: "3.4.3 No Residue"
+notion-id: 7a010ba0-f8a6-49ba-af38-6196e90fa838
+slug: "no-residue"
+index: 30430
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+For Reality to be *more* than Nature, something real would have to escape the Triconditions. The candidates are familiar (mind, abstracta, a classical God, bare simples), and each, pressed, turns out to presuppose T/S/Φ rather than stand outside them. But candidates arrive one at a time, and a closure built from inspections is only as wide as its list. The weld does not need the list. It needs what §1.1 fixed before any candidate was named: to be real is to belong to the whole within which any thing is a thing, and the belonging has content, an answer either way.
+
+Take any alleged residue, inspected or not. Either it makes some difference to what is the case, or it makes none. If it makes a difference (something precluded, something permitted, something grounded, some bearing on anything at all), the making already runs on three thin roles: the difference made is *this* rather than *that*; the dependence or determination has a direction; and the difference is borne or realized. This establishes role-level distinction, order, and bearing, not by itself temporal succession or causal exchange. The operators that would state its reality (*obtains*, *grounds*, *bears*) presuppose the same three in application (§1.5.9). A difference-making residue is not outside Nature; it is Nature under an unfamiliar name. If instead it makes none (nothing foreclosed, nothing opened, nothing carried), then nothing distinguishes the Reality that contains it from the Reality that lacks it, and §1.1 leaves nothing else for *real* to mean. To belong to the whole is to have a place in it, and a place that places nothing, forecloses nothing, and bears on nothing is not a place. The no-difference residue is not a quiet inhabitant of Reality's far side. It is a name with no office.
+
+::: {.argument}
+**Closing the Residue** · *from the difference dilemma to Reality being Nature*
+
+1. Any residue by which Reality might exceed Nature must be a real something not decomposable into, and not presupposing, T, S, Φ.
+1. Either the residue makes a difference to what is the case, or it does not.
+1. If it does, the difference made is determinate, the dependence or determination is directed, and the difference is borne or realized. The residue therefore instantiates the role-level triad (§1.1.3, §1.5.9) and falls within Nature at that resolution.
+1. If it does not, nothing distinguishes its being real from its not being real, and by the §1.1 role-definition (to be real is to belong to the whole, with an answer either way) it is not a real something at all.
+1. Either way, no real item stands outside Nature: the closure is of the class, not of a list.
+1. So Reality has nothing with which to exceed Nature (R = N).
+
+:::
+
+The familiar candidates now fall where the dilemma says they must, and the list confirms what it once carried: bare simples take individuation, ordering, and a being (§3.2.4); abstracta are engaged at the construction Move (§3.2.1); mind arrives downstream of the conditions (Chapter 8); the classical God is engaged at strength (Chapter 5). Each is a difference-maker, and each, pressed, instantiates what it was said to escape.
+
+*Dependency.* The §1.1 role-definition of Reality, the §1.1.3 three roles, and the §1.5.9 operator result; §3.2.4 supplies the minimal-case confirmation; the per-candidate defenses remain at their homes (Chapter 4, Chapter 5, Chapter 8). *Freestanding, with its hinge named:* the no-difference horn stands on the role-account of *real* in §1.1. A critic who holds that reality can outrun every difference, a bare real with no modal footprint, is rejecting the book's opening definition, not this weld; that dispute is priced where the definition is fixed (§1.1) and belongs to the same family as the bare-substratum positions engaged in Chapter 4.

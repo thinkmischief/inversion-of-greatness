@@ -1,0 +1,82 @@
+---
+title: "5.4 What the Rival Ultimates Carried"
+notion-id: 2e01a3d2-6df1-42e4-9421-f85969280206
+slug: "rival-ultimates-carried"
+index: 50400
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+This is the chapter's reckoning. The rival ultimates do not all end with one verdict. Some descriptions subtract the conditions under which a determinate ground or relation can be specified, and on the book's analysis dissolve into ∅. Some preserve directed dependence, relational non-identity, and real grounding content under analogical, process, or apophatic vocabulary. Some remain live only by positing an essence-prior or transcendent ground whose relation to the structural domain requires independent metaphysical defense.
+
+The point is not that theistic philosophers reasoned carelessly — they reasoned with great care, and the tradition's repairs are among the most carefully built constructions in the literature. The question is which verdict each repair earns: incoherence, relocation, compatibility, explanatory cost, or a remaining open seam.
+
+The preceding sections examined the tradition's main repairs: the foundation and contingency arguments (Rasmussen, the Kalām), the simplicity constructions (classical divine simplicity, Swinburne), the modal and ontological arguments (Plantinga, the modal-grounding argument), the cosmological and design inferences (simultaneous causation, fine-tuning, intelligent design), and the apophatic, absolute-monist, and process traditions (the *via negativa*, Neoplatonism, Spinozist pantheism, Madhyamaka emptiness, process theology). Each arrived with its own apparatus and its own point of pressure.
+
+A recurrent pattern from Chapter 4 emerged here: some constructions presuppose structural roles they were built to transcend, while others revise ultimacy or leave an explanatory seam rather than collapse.
+
+The Spinozist identified God with immanent Nature and accepted structural articulation rather than classical transcendence. The Neoplatonist placed the One beyond being and described emanation. The process theologian made God temporal and embedded: the revised theist's option, named differently. Plantinga's maximal greatness raises a compossibility and possibility-premise burden; the strongest negative classical attributes are additional commitments rather than part of that definition. The Madhyamaka (Nāgārjuna's middle-way Buddhist school) emptied *svabhāva* (Sanskrit: “own-being” or self-existence) and left the dependent-arising structure intact. The resulting verdicts differ: compatibility for some immanent accounts, a grounding burden for articulated transcendence, and an open dialectical seam for strict apophasis or anti-thesis positions.
+
+Three interlocutors deserve to be taken slowly, because each presses back in a different way: the revised theist, who accepts the structure and keeps the name; the Thomist identifier, who accepts the result and claims the tradition reached it first; and the Kalām objector, who grants the structure as actual and asks for a cause outside it.
+
+Consider the revised theist. The philosopher who abandons classical theism and redefines God as temporal, extended, and causally embedded (a necessary person who instantiates the structural roles rather than lacking them) has escaped ∅. That much the argument grants. The revision places God within the structural order. That creates a burden for classical aseity, but embeddedness alone does not prove non-fundamentality: the revised theist may propose a necessary, co-constitutive, or priority-bearing configuration and must defend that grounding account.
+
+Consider the Thomist identifier. Distinct from the revised theist, this interlocutor does not modify the classical attributes. The identifier accepts the argument's structural result and identifies it with God under the classical description intact: Thomas's *ipsum esse subsistens*, Feser's Pure Act, Dolezal's being-itself: these, the identifier says, just are □(T∧S∧Φ) under another name. If the argument proves a necessary structural ground, Thomism was right. The ground exists and deserves the name the tradition gave it. The book has not refuted classical theism; it has renamed it.
+
+The identification requires what it denies. *Ipsum esse subsistens* was specified by Thomas as being without temporal succession, without spatial extension, without material composition: the *via negativa*'s long labor was precisely to mark what the necessary ground lacks. The structural account specifies the ground by what it instantiates: succession, relational non-identity, causal persistence. These are opposing specifications of the ground's character, not two descriptions of one fact. The identifier cannot hold both.
+
+Drop the classical attributes to preserve the identification and the move collapses into the revised theist's option above. Keep the classical attributes and the argument's result (that a ground lacking T, S, and Φ is ∅) reapplies without remainder. No third position.
+
+Analogical predication does not supply a non-T/S/Φ articulation. The Thomist reply at this junction is that the “requires” in the reduction above smuggles in *univocal* predication: it treats the source–recipient relation as if it had to be articulated in the same kind of temporal, spatial, and physical terms that creaturely causal relations require, whereas the Thomist insists on *analogical* predication for God-talk.
+
+Grant the point: God-talk is analogical, and the divine act is not one more event inside the world.
+
+The structural claim is not that the divine act must be *creaturely* T/S/Φ, but that any determinately contentful “source–recipient” relation must still carry (i) an ordering (before/after, priority/posteriority, dependence direction), (ii) a non-identity between relata (this rather than that), and (iii) a persistence or invariance that makes it the same source across the relation. Those are exactly the role-definitions of T, S, and Φ.
+
+If the Thomist denies all three at once (no ordering, no non-identity, no persistence/invariance) then the “relation” has no determinate content and collapses into the Null State-style limit: not a higher articulation, but no articulation at all. If the Thomist grants that the relation has determinate content (which requires all three), the *via negativa* no longer specifies a ground lacking T/S/Φ; it specifies a ground instantiating them under analogical description, which is just the revised-theist relocation in different vocabulary.
+
+So the analogical/univocal distinction does not open a third option: it either leaves the reduction intact (no determinate relation, hence ∅) or reintroduces the structural roles under another name (hence in-Nature rather than beyond it).
+
+::: {.corollary}
+**Thomist-Identifier Variant** · **R14** · *Result of the Drop/Keep Dilemma*
+
+The Thomist identification of □(T∧S∧Φ) with the classical *ipsum esse subsistens* cannot be sustained. Either the classical attributes are dropped, in which case the identifier collapses into the revised theist (configured within Nature, not above it); or the classical attributes are kept, in which case the ground specified by what it lacks reduces to ∅ under the Null State definition (§2.7.1). No third option. The local Chapter 5 summation rests on the Chapter 2–4 machinery already established; the Result form anticipates Supernatural Preclusion (§6.1) as a variant routing through Horn 3 of the Trilemma Closure, where the same result is restated under Supernatural Preclusion once that result is in place downstream. (§2.7.1, §6.1)
+
+
+:::
+
+::: {.untyped}
+*Proof (Thomist-Identifier Variant).* Notation: Drop = drop the classical attributes; Keep = keep the classical attributes (the two options developed above).
+
+1. Drop ∨ Keep: exhaustive over the identifier's options on the classical attributes.
+1. Drop → collapses into revised theism: the structural ground is configured within Nature, not above it.
+1. Keep → a ground lacking T, S, Φ is ∅; the argument's result reapplies without remainder.
+
+∴ the Thomist identification cannot be sustained. ∎
+
+
+:::
+
+The identifier who presses anyway applies the tradition's name to a ground specified by the features the tradition defined its own ground against. The structural ground is specified by what it instantiates: succession, relational non-identity, causal persistence; *ipsum esse subsistens* is specified by what it lacks. The identification holds only if one of the two specifications is silently dropped.
+
+Consider the Kalām objector. The Kalām is the contemporary research program dedicated to denying necessity-of-T on independent grounds: the conceptual impossibility of an actual infinite past (Hilbert and traversal arguments), the empirical claim that the universe has a past boundary (BGV), and the cosmological inference from beginning to a transcendent personal cause.
+
+It fits the chapter's pattern differently from Chapter 4's deflationary, change-skeptical, and modal-variants clusters: the Kalām does not arrive at the structural conditions by presupposing them in its denial; it accepts T, S, and Φ as actual and contingent and asks for an originating cause outside the order.
+
+The chapter pressures the Kalām along a different seam. §5.1.2 distinguishes objections to an actual infinite past, evidence for a finite cosmic boundary, and the further inference to a timeless personal cause. A first temporal boundary need not be a moment prior to T, and §5.1.6 no longer treats an ordinary historical Fall as requiring such a categorial origin. The composition view of Temporality is marked at §7.2.2, separating the quantitative question of how far the past extends from the metaphysical question of what grounds the order.
+
+The destination the Kalām pursues (a necessary ground for the contingent series) is adjacent to where the structural argument lands; the line taken to that destination, and the personal-cause specification of what is found there, are what the chapter contests.
+
+The same structural ground constrains accounts of miracles. It does not by itself establish their logical impossibility, because classical theists can construe a timeless cause as producing temporal effects without undergoing a temporal episode. (This local summation draws only on the Chapter 2–4 machinery already in place: the Principle of Modal Invariance and the structural-condition requirement on any act of intervention; the parallel to the Supernatural Preclusion of §6.1 is anticipatory, restated under that result once it is established downstream.)
+
+A miracle is ordinarily a change in a state of affairs attributed to divine intervention. The effect has temporal, spatial, and bearing conditions. The disputed question is whether the cause must instantiate those conditions in the same mode or can ground the effect timelessly.
+
+The Principle of Modal Invariance, if established, forecloses an effect that literally lacks all structural conditions. It does not without further premises foreclose an unusual event within those conditions or settle the mode of its cause.
+
+A being defined as atemporal, aspatial, and immaterial faces an interface problem: the account must explain how it stands in a determinate causal relation to physical events without simply assuming that cause and effect share one mode of being. “Intervention” is a content-laden notion. The event described as intervention occurs to something, at a time and place, through T, S, and Φ. Whether its cause must share that mode is precisely the interface question, not a premise the analysis may assume. The structural analysis therefore does not foreclose miracles merely from the classical attributes. It imposes a burden on the causal interface and on the evidential identification of an event as divine intervention.
+
+The difficulty pressed here is chiefly structural, though several arguments also carry evidential burdens: classical claims must retain determinate content and explain their relation to the structured domain.
+
+The book inherits from these repairs the question it turns: not whether a necessary ground exists — the argument grants that it does — but whether what stands there is a being beyond Nature or the structure of Nature itself.
+
+The theistic rivals carried the question further than anyone. Their active grounding descriptions commonly carry ordered dependence, relational non-identity, and real grounding content. A ground defined by the absence of every such condition dissolves on the book's analysis; a ground that grants them has conceded a structured ground. What remains open is not merely whether *God* is its name, but whether an essence-prior or transcendent proposal can make its grounding relation intelligible without collapsing into either a structured relation or an unexplained primitive. That is the residual burden Chapters 5 and 6 continue to test.

@@ -1,0 +1,16 @@
+---
+title: "8.4.3 What is Predicted"
+notion-id: 07519d7e-9530-4640-9336-69ad3f025bcf
+slug: "reasoning-predicted"
+index: 80403
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+Reasoning and knowledge can form a productive reciprocal: reasoning can revise or extend what a system holds, and prior knowledge can guide later reasoning. The book uses this reciprocal to model recursive depth. This is a theoretical characterization, not an empirical result that more cycles of reasoning and knowledge exchange straightforwardly constitute consciousness or guarantee richer reasoning. How recursive depth relates to consciousness, cognition, and learning remains a substantive question for the later argument.
+
+The operation has a structural mechanic: *weighing the outside against the inside.* Input arrives (perceptual, propositional, conceptual, embodied) and the recursion holds a model. Reasoning is the comparison: does the input fit the model, contradict it, refine it, extend it? Match leaves the model intact. Mismatch occasions revision. Input alone, with no model to weigh it against, is registration without operation. Model alone, with no input to weigh, is reverie or rumination: the model running without traction. Reasoning is the live comparison itself, and it dissolves the empiricism/rationalism dispute by putting both moves where they actually live: the outside supplies the input; the inside supplies the model; reasoning is what happens between them, and neither side does the work alone.
+
+The book explains intelligibility in terms of constraint-consistency and the possibility of reliable modeling. This is a proposed metaphysical account. It does not dissolve the philosophical and scientific questions grouped under Wigner's “unreasonable effectiveness of mathematics,” nor does it establish that mathematical and physical representations track a single medium at different depths. The convergence between mathematical derivation and physical fact remains a topic for philosophy of mathematics and science; the structural account offers one interpretation of it.
+
+Reasoning takes many forms, all of them modes of *following structure out*. *Deductive* reasoning runs necessary constraints to their conclusions: given premises, the form is recognition of what the constraints already entail, made explicit. *Inductive* reasoning generalizes from observed constraint-patterns: across many instances, the recursion estimates where the constraint-structure lies from the visible portion of it. *Abductive* reasoning infers the constraint-structure that best explains observed data, proposing structure to make the input intelligible. *Analogical* reasoning maps constraint-structure across domains: where two domains share a structural pattern, the constraints producing it may transfer, and the recursion exploits the structural isomorphism. *Mathematical* reasoning manipulates structure quantitatively, extending the recursion's grasp by working with structure's most determinate register.

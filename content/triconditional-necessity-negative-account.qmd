@@ -1,0 +1,12 @@
+---
+title: "3.3 Triconditional Necessity: Negative Account"
+notion-id: 260d19ee-2d75-4422-ae22-25143cb27011
+slug: "triconditional-necessity-negative-account"
+index: 30300
+role: spine
+surfaces: ["Print", "Web — Book"]
+---
+
+The positive account of §3.2 tested the Triconditions from below. This section tests the opposite direction. Suppose a reader does not build from facthood, determinacy, or modal vocabulary, but tries instead to remove the Conditions outright: deny them, negate them, fictionalize them away, conceive them absent, or foreclose them as impossible. Can any of those attempts give a coherent alternative to □(T ∧ S ∧ Φ)?
+
+The test uses only the Chapter 1 definitions of Change (§1.3) and the Temporality/Spatiality/Physicality triad (§1.4), plus the shared ∅-floor that §3.2 grounds (§3.2.1, §3.2.6). The sequence is organized by the escape it tests: denial as propositional act (§3.3.1, The Self-Refutation), one-by-one negation (§3.3.2, The Negation Trap), modal fictionalism (§3.3.3, Against Fictionalism), conceivability (§3.3.4, The Conceivability Trap), substantial impossibility (§3.3.5, From impossibility), and the final audit of where the overdetermination actually lives (§3.3.6, Uneven Overdetermination).
