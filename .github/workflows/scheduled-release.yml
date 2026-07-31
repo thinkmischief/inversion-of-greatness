@@ -1,0 +1,42 @@
+name: Scheduled initial release
+
+# Publishes the v0.1.0 GitHub Release automatically at midnight Eastern
+# (04:00 UTC) on 2026-08-01 — this is what triggers Zenodo to archive the
+# repo and mint the concept/version DOIs, per the toggle already enabled
+# in Zenodo's GitHub integration. Cron has no year field, so this would
+# otherwise fire every August 1st indefinitely; the "skip if already
+# released" check below is what actually makes it a one-time trigger —
+# remove this workflow file after the 2026 release goes out.
+on:
+  schedule:
+    - cron: '0 4 1 8 *'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if v0.1.0 already exists
+        id: check
+        run: |
+          if gh release view v0.1.0 >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Create v0.1.0 release
+        if: steps.check.outputs.exists == 'false'
+        run: |
+          gh release create v0.1.0 \
+            --target main \
+            --title "Working manuscript — initial deposit" \
+            --notes "First public snapshot, archived on Zenodo. Not a numbered edition — see the Changelog and How to Cite pages for versioning conventions."
+        env:
+          GH_TOKEN: ${{ github.token }}
