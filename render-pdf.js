@@ -194,3 +194,24 @@ try {
   console.log('Restored §N.M cross-reference links.')
   console.log('Restored _quarto.yml.')
 }
+
+// Copies to a stable, version-free path (author decision, 2026-07-31):
+// downloads/ is a real, git-tracked folder (unlike _site/, gitignored) —
+// the file at this exact name gets overwritten each time this script
+// runs, and a normal `quarto render`/rebuild.js copies it verbatim into
+// _site/downloads/ via project.resources: below. Any version marker
+// belongs inside the file (front matter), never in this filename — so a
+// reader's saved link/bookmark never breaks across editions. Only runs
+// if the render above actually succeeded — the finally block still runs
+// on failure, but execSync throwing skips everything after the
+// try/finally entirely, so a failed/partial PDF never overwrites the
+// last good download.
+const pdfOutput = path.join(__dirname, '_site', 'The-Inversion-of-Greatness.pdf')
+if (fs.existsSync(pdfOutput)) {
+  const downloadsDir = path.join(__dirname, 'downloads')
+  fs.mkdirSync(downloadsDir, { recursive: true })
+  fs.copyFileSync(pdfOutput, path.join(downloadsDir, 'the-inversion-of-greatness.pdf'))
+  console.log('Copied to downloads/the-inversion-of-greatness.pdf')
+} else {
+  console.warn(`Expected PDF output not found at ${pdfOutput} — downloads/ not updated.`)
+}

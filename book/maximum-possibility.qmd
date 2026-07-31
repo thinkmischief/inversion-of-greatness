@@ -2196,7 +2196,7 @@ The restorative-justice-maximalist tradition (Zehr 1990; Braithwaite 1989; Sulli
 
 The recognition tradition the section operates within reaches the repair-plus-upstream-with-state-backstop destination on multiple independent grounds. The [§8.12](expanding-the-field.html#sec-8-12) morality derivation supplies the recognition-failure-as-wrong analysis, with Will ([§8.9](expanding-the-field.html#sec-8-9)) supplying the will-attribution that makes an action belong to a participant and Feeling ([§8.2](expanding-the-field.html#sec-8-2)) supplying the feeling-of-consequence-landing-on-someone-in-particular that gives the wrong its moral weight. The [§7.7](nature-alone.html#sec-7-7) type/token distinction combined with the Chapter 8 opening's integrated self-modeling (the closure-plus-throughput account of [§7.8](nature-alone.html#sec-7-8) registered from inside) supplies the Modally Compatibilist Responsibility result (Frankfurt 1971 on hierarchical-mesh free will; Dennett 1984, 2003; Fischer and Ravizza 1998 on reasons-responsiveness).
 
-::: {.corollary}
+::: {.untyped}
 **Modally Compatibilist Responsibility** (Result). *Agency is the locus at which a self-model takes uptake of evidence and norms and integrates that uptake into action; responsibility tracks that locus rather than requiring libertarian could-have-done-otherwise. Follows from the type/token distinction of [§7.7](nature-alone.html#sec-7-7) (strict modal) together with the Chapter 8 opening's integrated self-modeling — the inside-aspect of the closure-plus-throughput account of [§7.8](nature-alone.html#sec-7-8) registered at sufficient recursive depth.*
 
 

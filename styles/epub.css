@@ -239,3 +239,64 @@ blockquote {
     text-indent: 0;
     margin: 0;
 }
+
+/* Footnote reference markers — Pandoc emits these as plain
+   <a class="footnote-ref">1</a>, not wrapped in <sup>, and relies on
+   CSS for the superscript look. The website gets this for free from
+   Quarto's own bundled theme CSS; EPUB has no such bundled default
+   (styles/epub.css is the only stylesheet in play), so without this
+   rule the marker renders as plain full-size inline text right after
+   the period — easy to misread as part of the sentence. */
+.footnote-ref {
+    vertical-align: super;
+    font-size: 0.7em;
+    text-decoration: none;
+    line-height: 1;
+}
+
+/* ============================================================
+   Title page — Pandoc auto-generates this section (.titlepage >
+   .title/.subtitle/.author) from the book's title/subtitle/author
+   metadata since no cover-image is configured; without these rules
+   it falls through to the plain generic h1/p styles above and reads
+   as bare, unstyled text floating on an empty page. No custom fonts
+   here (unlike the PDF's title page) — EPUB readers vary wildly in
+   font support, so this sticks to spacing/weight/size, which every
+   reader honors reliably.
+   ============================================================ */
+.titlepage {
+    text-align: center;
+    margin-top: 5em;
+    padding: 0 1em;
+}
+
+.titlepage .title {
+    font-size: 2.1em;
+    font-weight: bold;
+    line-height: 1.3;
+    margin-bottom: 0.9em;
+    text-indent: 0;
+}
+
+.titlepage .subtitle {
+    font-size: 1.15em;
+    font-style: italic;
+    color: #444;
+    line-height: 1.5;
+    margin: 0 auto 3em;
+    max-width: 26em;
+    text-indent: 0;
+}
+
+.titlepage .author {
+    font-size: 1.05em;
+    letter-spacing: 0.03em;
+    text-indent: 0;
+    margin: 0;
+}
+
+.titlepage .author::before {
+    content: "by ";
+    font-style: italic;
+    color: #666;
+}

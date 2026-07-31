@@ -24,4 +24,4 @@ The result is one-way. It establishes that the capacity cannot switch **on** fro
 
 This distinction closes the strongest local emergence story without overstating it. A world cannot begin in absolute incapacity and later acquire change, because the acquisition would exercise the capacity before it existed. A silent, isolated world whose modal profile is simply ¬◇C remains untouched by this argument alone. It cannot be identified with ∅ merely from ¬◇C: change requires T, S, and Φ, but that one-way requirement does not license the converse inference from no capacity to the absence of all three Conditions.
 
-*Dependency.* §1.3 alone. No S5, no ∅-floor, and no converse from ◇C → (T∧S∧Φ). *Structure:* a no-onset reductio. *Scope:* it rules out emergence from capacitylessness; it does not independently derive □◇C. The exact cross-world burden is recorded at §3.5.4.
+*Dependency.* §1.3 alone. No S5, no ∅-floor, and no converse of the requirement ◇C → (T∧S∧Φ). *Structure:* a no-onset reductio. *Scope:* it rules out emergence from capacitylessness; it does not independently derive □◇C. The exact cross-world burden is recorded at §3.5.4.

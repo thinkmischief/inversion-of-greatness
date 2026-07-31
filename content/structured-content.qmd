@@ -7,14 +7,14 @@ role: spine
 surfaces: ["Print", "Web — Book"]
 ---
 
-This line arrives from the mathematics of determinacy rather than from logic or performance. For anything to be the case at all it must be *this rather than that*. And a settled contrast is already information, which already requires structure.
+This line arrives from the determinacy of settled content rather than from logic or performance. For anything to be the case at all it must be *this rather than that*. And a settled contrast is already information, which already requires structure.
 
 ::: {.argument}
 **The Structured-Content Line** · *from settled content to the distinction requirement*
 
 1. Take anything that is the case at all. For it to be the case, it must be *this* rather than *that*: the content is settled one way instead of another.
 1. That settled contrast establishes a distinction requirement: content that is this rather than that cannot be an undifferentiated blank. It therefore supports the role of distinctness that the broader derivation identifies with Spatiality.
-1. The line does not independently derive Temporality or Physicality from determination alone. Those Conditions are supplied by the other convergent lines: the Facthood Line, the Structural Requirement, and the Null-State Reductio.
+1. The line does not independently derive Temporality or Physicality from determination alone. Those Conditions are supplied by the other convergent lines: the Facthood Line, the Determinate-World Line, and the Null-State Reductio.
 
 :::
 

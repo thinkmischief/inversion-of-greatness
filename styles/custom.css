@@ -10823,7 +10823,8 @@ html.book-study-mode .nav-footer {
 }
 
 /* ============================================================
-   CONNECT PAGE — contact form (site/connect.qmd)
+   READ AND CONNECT PAGE — contact form (site/contact.qmd, soon
+   site/read-and-connect.qmd once re-exported from Notion's rename)
    Netlify Forms: a plain HTML form with data-netlify="true" and a
    matching name/form-name pair, no JS or backend of this project's
    own involved — Netlify's own build step scans the static HTML output
@@ -10943,21 +10944,129 @@ body.quarto-dark .connect-form textarea:focus {
 	overflow: hidden;
 	left: -9999px;
 }
-/* Ko-fi button + its own caption sentence, side by side — Notion's own
-   instruction (site/connect.qmd, the Ko-fi callout) asks for the
-   caption "to its right, inside the same callout, so the button
-   doesn't sit alone." wrap on narrow widths rather than force the two
-   onto one cramped line. */
-.connect-kofi-row {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: 0.85rem;
-	margin: 1.5rem 0;
+/* Format-download and Support links: a small icon to the left of each
+   plain-text link, matched by href rather than a wrapper class since
+   the links themselves are authored as plain Notion markdown, not raw
+   HTML. Bootstrap Icons ship pre-bundled with Quarto's own theme (no
+   new dependency) — codepoints below are copied straight out of the
+   bundled bootstrap-icons.css. Replaces the old Ko-fi *button widget*
+   treatment entirely (author decision: "drop the default Ko-fi button
+   widget... a plain coffee-cup icon... to the left of a plain text
+   link, the same link format as the other things") — the
+   .connect-kofi-row/.connect-kofi-caption rules this used to live
+   under are gone with it, since there's no button+caption row left to
+   lay out. */
+/* bi-file-earmark-pdf — plain, unbranded Bootstrap glyph rather than
+   Adobe's own PDF mark: Adobe's icons/legal page reserves third-party
+   use of its product icons for partnership agreements, so this stays
+   generic rather than reproducing their actual trademark. */
+a[href$="the-inversion-of-greatness.pdf"]::before {
+	font-family: "bootstrap-icons" !important;
+	font-style: normal;
+	font-weight: normal !important;
+	display: inline-block;
+	margin-right: 0.4em;
+	vertical-align: -0.1em;
+	content: "\f63e";
 }
-.connect-kofi-caption {
-	font-family: var(--book-body-font);
-	color: var(--book-muted);
-	font-size: 0.95rem;
-	max-width: 26rem;
+/* Ko-fi's own real logo (resources/kofi-icon.svg, Simple Icons' mirror
+   of their published mark, brand orange #FF6433 baked into the file
+   itself) — shown as-is rather than masked to text color, since the
+   whole point here is that it's recognizably Ko-fi's own icon, not a
+   generic stand-in. */
+a[href*="ko-fi.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	background-image: url("../resources/kofi-icon.svg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-right: 0.4em;
+	vertical-align: -0.15em;
+}
+/* No universal EPUB glyph exists in Bootstrap Icons (or anywhere else
+   in common use) — bi-book stands in as the generic book/e-reader
+   fallback, matching what the Notion-side plan itself authorized. */
+a[href$="the-inversion-of-greatness.epub"]::before {
+	font-family: "bootstrap-icons" !important;
+	font-style: normal;
+	font-weight: normal !important;
+	display: inline-block;
+	margin-right: 0.4em;
+	vertical-align: -0.1em;
+	content: "\f194";
+}
+/* Markdown link: a plain generic markdown-format glyph, matching the
+   PDF/EPUB treatment — Obsidian and Notion moved off this link
+   entirely, onto their own real outbound links in the description text
+   ("for Obsidian or Notion, or any markup-based tool") instead of
+   sitting as decorative icons here. */
+a[href$="the-inversion-of-greatness-markdown.zip"]::before {
+	font-family: "bootstrap-icons" !important;
+	font-style: normal;
+	font-weight: normal !important;
+	display: inline-block;
+	margin-right: 0.4em;
+	vertical-align: -0.1em;
+	content: "\f481";
+}
+/* Downloads callout: the three format icons above stand in for list
+   bullets instead of sitting next to one — Bootstrap's default marker
+   and left indent are stripped from just this one list (matched by
+   containing the Markdown link, unique to this list on the site) so
+   each icon lands flush at the line start, where a bullet would
+   otherwise be. */
+ul:has(> li > a[href$="the-inversion-of-greatness-markdown.zip"]) {
+	list-style: none;
+	padding-left: 0;
+}
+/* Quarto auto-generates a ".callout-header" reading "Note" for every
+   plain .callout-note — not wanted here, since this box holds nothing
+   but the three format links (author decision: intro/closing sentences
+   live outside it as ordinary page text). Hides just that generic
+   header, scoped to this one callout via the same download-link
+   :has() match used above. */
+.callout:has(a[href$="the-inversion-of-greatness-markdown.zip"]) .callout-header {
+	display: none;
+}
+/* Obsidian's own icon (resources/obsidian-icon.png, author-supplied) on
+   the real link to obsidian.md in the Markdown line's own description —
+   a fixed-color mark, fine unchanged in both themes, same as on
+   Obsidian's own site. */
+a[href^="https://obsidian.md"]::before {
+	content: "";
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	background-image: url("../resources/obsidian-icon.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-right: 0.3em;
+	vertical-align: -0.15em;
+}
+/* Notion's own icon (resources/notion-icon.svg, Simple Icons' mirror of
+   their published mark, plain black fill) on the real link to
+   notion.so — applied as a mask rather than a background-image so it
+   can be recolored with var(--book-text) and stay legible in dark mode
+   too, since a flat black glyph would vanish against a dark background
+   otherwise. */
+a[href^="https://notion.so"]::before {
+	content: "";
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	margin-right: 0.3em;
+	vertical-align: -0.15em;
+	background-color: var(--book-text);
+	-webkit-mask-image: url("../resources/notion-icon.svg");
+	mask-image: url("../resources/notion-icon.svg");
+	-webkit-mask-size: contain;
+	mask-size: contain;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	mask-position: center;
 }

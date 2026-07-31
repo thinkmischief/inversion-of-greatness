@@ -19,7 +19,7 @@ This is what forecloses Humean recombination **within the change-realizer domain
 
 *Notation.* Four formal shapes recur across this section's preview and should be kept distinct. The plain biconditional ◇C ↔ T∧S∧Φ (§2.6.10) is the structural fact change-possibility and the Conditions share: one fact read from two sides. The necessitated biconditional □(◇C ↔ T∧S∧Φ), the Modal Identity (§2.6.6), is that one structural fact holding under necessitation. The theorem-level identities N ↔ □(T∧S∧Φ), N ↔ □◇C, and □(T∧S∧Φ) ↔ □◇C identify Nature with the necessitated co-instantiation read along three sides: modal, nomological, ontological. The first form is a biconditional; the second is its necessitation; the third set are the chapter's central theorem read three ways.
 
-In the theorem below, N abbreviates Nature: the necessary presence of Temporality, Spatiality, and Physicality.
+In the theorem below, N abbreviates Nature: the joint presence of Temporality, Spatiality, and Physicality.
 
 ::: {.theorem}
 **Triconditional Identity** · **T5** · *Theorem 5*

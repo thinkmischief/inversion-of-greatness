@@ -13,7 +13,7 @@ surfaces: ["Print"]
 
 Copyright © 2026 Procyon.
 
-**Working manuscript (pre-review draft).** This is an open working manuscript, made available for engagement and review. It has not yet been edited or reviewed by another reader, and it is not a numbered edition. Numbered editions, each with its own DOI, will follow; for citation guidance, see How to Cite.
+**Working manuscript, dated August 1, 2026.** This is an open working manuscript, made available for engagement and review. It has not yet been edited or reviewed by another reader, and it is not a numbered edition. Numbered editions, each with its own DOI, will follow; for citation guidance, see How to Cite.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share and adapt the material for noncommercial purposes, provided you give appropriate credit, link to the license, and indicate whether changes were made. Commercial use is reserved to the author. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 

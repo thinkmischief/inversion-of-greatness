@@ -9,11 +9,6 @@ surfaces: ["Print", "Web — Book"]
 
 The most primitive entry in the whole corpus: earlier than the Cogito, earlier than change. The bare fact that *something obtains* already carries the Triconditions, and ∅ falls out as incoherent for free.
 
-::: {.column-margin .book-annotation-note}
-**Core concept.** This is the barest possible starting point—earlier even than Descartes's I think, earlier than change. Begin with the plainest fact imaginable: something is the case. You can't coherently deny it, since nothing is the case would itself be something being the case. Now look at what that bare fact already carries. Any state of affairs is this rather than that (a distinction), obtains rather than not (an asymmetric ordering), and is borne rather than merely described (a bearer). Those three are just time, space, and persistence under their working names. So the three conditions are present in the very least you can say—and a supposed state with none of them turns out to be no state at all.
-:::
-
-
 ::: {.argument}
 **The Facthood Line** · *from bare facthood to Triconditional Necessity*
 
@@ -26,15 +21,10 @@ The most primitive entry in the whole corpus: earlier than the Cogito, earlier t
 
 :::
 
-**Doubles as the section's backstop:** a state with no T, S, Φ is no state at all, the ∅-incoherence every other Move leans on, developed in its own right at §3.2.6.
+**Doubles as the section's backstop:** a state with no T, S, Φ is no state at all, the ∅-incoherence other Moves lean on, developed in its own right at §3.2.6.
 
 *Why the limbs are earned, not stipulated.* The move from one-place *obtains* to two-place ordering is unpacked from step 1, not added to it. Step 1 secures facthood as self-exclusion (the denial *nothing is the case* self-refutes), and exclusion is inherently two-place and asymmetric: the obtaining excludes the not-obtaining, not the reverse, since non-obtaining has no standing to exclude. That asymmetric self-exclusion is the minimal instance of the ordering requirement Chapter 1 names Time and Chapter 2 formalizes as Temporality (its Asymmetry sub-property: if before were no different from after, neither word would do work, just as, if obtaining were no different from not-obtaining, *obtains* would do none). What the Line earns is the triad's structural role: each limb corresponds to one formal Condition. It does not re-derive the full internal content of T, S, and Φ (transitivity, directionality, duration, the structure of extension, causal bearing), which Chapter 2 supplies and which is presupposed here, not re-proven.
 
 *The Platonist reply.* An objector may grant the ordering but insist abstract truths need only a *generalized* T/S/Φ structure, not concrete time, space, and substance. This is accommodated, not resisted. Chapter 1 introduces the ordinary triad; Chapter 2 distinguishes its formal structural roles — Temporality, Spatiality, and Physicality — from any particular concrete realization. The objection concerns the latter: an abstractum needs no concrete clock, metric distance, or material substrate. But this line derives the formal roles, not a particular realization of them. Even an abstract truth, to obtain rather than not, instantiates the asymmetric-ordering role (it excludes its negation), the distinction role (this content rather than that), and the bearing role (it is borne by some proposition or structure, not merely described). A generalized T/S/Φ at the formal level is exactly and only what the Line claims.
-
-::: {.column-margin .book-annotation-note}
-**Natural worry.** An objector grants that facts have this structure but insists abstract truths need only a watered-down version—no concrete clock, no metric distance, no material substrate. The reply accepts the point and shows it doesn't bite. The argument separates the structural roles (ordering, distinction, bearing) from their concrete realizers (clocks, meters, matter). Abstract truths are off the hook only for the realizers. Even an abstract truth, to obtain rather than not, still excludes its negation (ordering), is this content rather than that (distinction), and is borne by some proposition or structure (bearing). A generalized version of the three roles is exactly what the argument claims—and exactly what abstracta still have.
-:::
-
 
 *Dependency.* §1.3 and §1.4 supply the line's ordinary materials; the formal T/S/Φ notation is supplied by Chapter 2. The line remains S5-free. It is not essence-free, and by design: its engine is the constitutive claim that the formal roles T, S, and Φ are what *obtaining* requires. This is an essence-of-*obtaining* claim, not a *de re* essence ascribed to any being (the kind of essence a particular being would have in its own right). The Platonist reply above keeps the claim from being confused with a thesis about concrete realizers. That is a feature rather than a gap: essence grounds the step-6 necessity without the S5 axiom.

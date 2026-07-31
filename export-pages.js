@@ -249,6 +249,7 @@ function rt(arr) {
     if (a.bold) s = '**' + s + '**'
     if (a.italic) s = '*' + s + '*'
     if (a.strikethrough) s = '~~' + s + '~~'
+    if (a.underline) s = '<u>' + s + '</u>'
     if (t.href) s = '[' + s + '](' + t.href + ')'
     return s
   }).join('')

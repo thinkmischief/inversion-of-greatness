@@ -15,10 +15,16 @@ book/*.html
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Local Obsidian vault config (created automatically when this repo is
+# opened as a vault) — editor state, not project content.
+.obsidian/
 *.log
 /.quarto/
 **/*.quarto_ipynb
 _site/
+markdown-export/
+markdown-export.zip
 _data/
 .DS_Store
 

@@ -90,13 +90,11 @@ When this book writes □, it means metaphysical necessity — the *alethic* nec
 
 Different systems of modal logic arise from different rules about which worlds count as *accessible* from which — which worlds are genuinely possible from the standpoint of a given world. The more generous the rule, the more the system proves. Each step adds a constraint, and each constraint answers to an intuition:
 
-| System | Adds | Schema | Frame condition | Reads / why you'd want it |
-| --- | --- | --- | --- | --- |
-| K |  —  | □(P → Q) → (□P → □Q) | none | necessity distributes over implication — the bare minimum any modal logic needs |
-| T | T | □P → P | reflexive | what is necessary is actually the case — drop this and "necessary" no longer implies "true" |
-| S4 | 4 | □P → □□P | transitive | what is necessary is necessarily necessary — necessity doesn't itself vary |
-| B | B | P → □◇P | symmetric | what is actual is necessarily possible — no world is cut off from ones that can reach it |
-| S5 | 5 | ◇P → □◇P | equivalence | what is possible is necessarily possible — modal status is the same from every world |
+- **K.** *Adds: — · Schema: □(P → Q) → (□P → □Q) · Frame condition: none.* Reads / why you'd want it: necessity distributes over implication — the bare minimum any modal logic needs
+- **T.** *Adds: T · Schema: □P → P · Frame condition: reflexive.* Reads / why you'd want it: what is necessary is actually the case — drop this and "necessary" no longer implies "true"
+- **S4.** *Adds: 4 · Schema: □P → □□P · Frame condition: transitive.* Reads / why you'd want it: what is necessary is necessarily necessary — necessity doesn't itself vary
+- **B.** *Adds: B · Schema: P → □◇P · Frame condition: symmetric.* Reads / why you'd want it: what is actual is necessarily possible — no world is cut off from ones that can reach it
+- **S5.** *Adds: 5 · Schema: ◇P → □◇P · Frame condition: equivalence.* Reads / why you'd want it: what is possible is necessarily possible — modal status is the same from every world
 
 The main chain runs K ⊂ T ⊂ S4 ⊂ S5, each adding its constraint to the last; B sits off the chain but supplies the axiom S5 also validates. The book uses **S5**, where accessibility is a full equivalence relation (reflexive, transitive, symmetric): relative to any world, modal status is invariant. One small consequence is worth naming: the T-axiom (□P → P) together with the P → ◇P principle of [§1.2](groundwork.html#sec-1-2) yields **Necessity entails Possibility**, □P → ◇P — stated at [§2.1.4](the-argument.html#sec-2-1-4) and used at [§6.1](relocating-greatness.html#sec-6-1) to block necessity-based rescues of the supernatural. *Why* S5 rather than a weaker system is Part 2's second debate — and Part 3 is where this book's answer differs from the usual one.
 

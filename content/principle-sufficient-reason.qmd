@@ -11,7 +11,7 @@ The rationalist demand for sufficient reason is an exacting standard any necessa
 
 @leibniz1714 gives the demand its canonical form: nothing exists without a sufficient reason why it is so and not otherwise. @pruss2006 has given it the most rigorous contemporary defense: if every contingent fact has an explanation, the chain must terminate in something whose existence is not contingent. The demand is not parochial; it is the demand that reality be intelligible all the way down.
 
-Applied to this argument, it presses that T∧S∧Φ obtaining necessarily is itself a fact about reality, and facts about reality are subject to the PSR. If the necessity is brute, the argument has violated its own commitment. If it is grounded, whatever grounds it stands outside or beneath structure as the true necessary ground. Three forms of the move take up the objection.
+Applied to this argument, it presses that T∧S∧Φ obtaining necessarily is itself a fact about reality, and facts about reality are subject to the PSR. If the necessity is brute, the argument has violated its own commitment. If it is grounded, whatever grounds it stands outside or beneath structure as the true necessary ground. Three forms of the objection are taken up below.
 
 *First.* The contrast demand presses that without a reason why the structure obtains rather than not, the argument has merely relocated bruteness from physics to metaphysics, and a brute necessity is not more intelligible than a brute contingency, only more deeply hidden.
 

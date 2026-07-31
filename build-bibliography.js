@@ -181,9 +181,17 @@ function buildFields(row) {
     }
   }
 
+  // "DOI / URL" is a combined Notion field — a real DOI, a real URL, or
+  // (confirmed live, 14 references) plain text like "ISBN 9780156010757"
+  // that's neither. Treating anything non-DOI-shaped as a URL unconditionally
+  // produced a broken https://ISBN 9780156010757 link in the rendered
+  // bibliography — an ISBN isn't a fetchable address on its own, so rather
+  // than guess at a lookup-service URL to wrap it in, this just drops it:
+  // no doi/url field at all means citeproc renders the reference as plain
+  // text, which is what these entries already read as either way.
   if (row.DOI) {
     if (/^10\.\S+/.test(row.DOI)) fields.doi = row.DOI
-    else fields.url = row.DOI
+    else if (/^https?:\/\//.test(row.DOI)) fields.url = row.DOI
   }
 
   return { type, fields }

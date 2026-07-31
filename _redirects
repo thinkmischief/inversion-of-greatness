@@ -1,2 +1,4 @@
-/connect        /contact.html   301
-/connect.html   /contact.html   301
+/connect        /read-and-connect.html   301
+/connect.html   /read-and-connect.html   301
+/contact        /read-and-connect.html   301
+/contact.html   /read-and-connect.html   301

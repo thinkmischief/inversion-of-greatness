@@ -17,9 +17,9 @@ One identity bridge remains. Necessary co-instantiation alone would permit the t
 **The Reality–Nature Identity** · *The Grounding Trilemma*
 
 1. Reality is the whole within which any real content belongs (§1.1).
-1. Every real state, item, or world instantiates the necessary structural Conditions (§2.5). Anything real is therefore a configuration within Nature, not an item standing outside its conditions of reality.
+1. Every real state, item, or world either instantiates the Conditions (§2.6.8) or is an abstraction of their structural features (§2.6.12); either way it is conditioned by the necessarily instantiated structure (§2.5). Anything real is therefore a configuration within Nature or an abstraction from it, not an item standing outside its conditions of reality.
 1. Let G be a proposed additional ground of Nature. G must either ground Nature, be grounded by Nature, or stand in no grounding relation to Nature (§1.5.5).
-1. If G grounds Nature, the grounding relation is directed, differentiates ground from grounded, and obtains as a real dependence. At role-resolution it reinstantiates T, S, and Φ; the alleged outside ground is already within the structure it grounds (§2.2.2).
+1. If G grounds Nature, the grounding relation is directed, differentiates ground from grounded, and obtains as a real dependence. At role-resolution it reinstantiates T, S, and Φ; the alleged outside ground is already within the structure it grounds (§2.2.2, generalized at §2.8.6).
 1. If G is grounded by Nature, G is derivative within Nature. If G stands in no grounding relation to Nature, it is not an additional ground of Nature.
 1. Therefore no real content or grounding office remains outside Nature. Structurally, Reality and Nature coincide: R = N.
 
@@ -37,14 +37,14 @@ The whole line, from the chapter's first move to its last:
 1. *Necessary Possibility of Change (L3).* T1 applied to the Cartesian witness yields □◇C. (§2.3)
 1. *Structural Requirement.* Necessarily possible change requires the three Conditions. □(◇C → (T∧S∧Φ)). (§2.4)
 1. *Triconditional Necessity.* The three Conditions are jointly and necessarily instantiated. □(T∧S∧Φ). (§2.5)
-1. *Triconditional Identity (T5).* Within change-realizing structure, the three Conditions form one mutually implicating realizer complex, with Nature naming their necessary co-instantiation. (§2.6)
+1. *Triconditional Identity (T5).* Within change-realizing structure, the three Conditions form one mutually implicating realizer complex, with Nature naming their co-instantiation. (§2.6)
 1. *Nothing Beneath.* No empty alternative lies under that structure. ¬◇∅. (§2.7)
 1. *Reality–Nature Identity.* Reality is maximal, every real content is conditioned by Nature, and the Grounding Trilemma leaves no exterior grounding position. Structurally, R = N.
 1. **Necessity of Nature (T6).** Therefore any possible Reality is Nature: the necessary co-instantiation of T, S, and Φ, with contingent configurations within it.
 
 :::
 
-Six results unfold that identification, each inheriting the chapter-level closure: the nomological laws are constitutive rather than contingent (§2.8.1), the denial of Nature is self-refuting (§2.8.2), Φ presupposes T and S so the result is not physicalism (§2.8.3), contingency belongs to configurations within Nature rather than to Nature itself (§2.8.4), Nature's necessity is formally stated (§2.8.5), and every rival structural ground is precluded (§2.8.6).
+Six results unfold that identification, each inheriting the chapter-level closure: the structural laws are constitutive rather than contingent (§2.8.1), the denial of Nature is self-refuting (§2.8.2), Φ presupposes T and S so the result is not physicalism (§2.8.3), contingency belongs to configurations within Nature rather than to Nature itself (§2.8.4), Nature's necessity is formally stated (§2.8.5), and every rival structural ground is precluded (§2.8.6).
 
 This is not one worldview set beside others to be weighed. It is the terminus of a derivation. T, S, and Φ are not predictions about what fundamental physics will eventually discover but role-level conditions any physics must already presuppose. Their realization as particular temporal metrics, spatial geometries, fields, laws, and material systems remains contingent physical content.
 

@@ -15,8 +15,8 @@ The necessity of the Triconditions raises an identity question, not merely a fur
 1. Reality has no exterior: nothing real lies outside it (§1.1).
 1. *(Stage 2) Role-level structural necessity.* Every possible state or item must exhibit directed order, difference, and bearing. The independent Chapter 3 lines do not yet establish every loaded temporal, spatial, and causal type.
 1. Suppose Reality exceeded Nature: that some real item fell outside T ∧ S ∧ Φ.
-1. That item would be real yet stand in no directed order, bear no determinate difference, and have no bearing or realization; by step 2 there is no such roleless standing for it to take.
-1. So nothing real lies outside Nature, and nothing of Nature lies outside Reality.
+1. That item would be real yet lack at least one of directed order, determinate difference, and bearing; by step 2, which requires all three of every possible state or item, there is no such standing for it to take.
+1. So nothing real lies outside Nature, and, by step 1's maximality, nothing of Nature lies outside Reality.
 1. So Reality and Nature coincide (R = N).
 
 :::

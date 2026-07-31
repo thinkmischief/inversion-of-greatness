@@ -22,9 +22,4 @@ The third entry is not an independent argument but a **witness**. Its task is na
 
 Taken alone the witness has a gap: a *silent* world (one with no thinker to token the act) is untouched by it. Section 3.5.4 records rather than dissolves that cross-world burden: without an independent bridge from role-level structure to full change-enabling types, the witness does not establish ◇C at every silent world. Sections 3.2.6 and 3.3.4 supply pressure through the ∅-floor, but they do not license identifying every ¬◇C world with ∅ merely from the witness. The full proposition-wise □◇C result therefore remains with T1 unless that additional bridge is earned.
 
-::: {.column-margin .book-annotation-note}
-**Core concept.** Here's a neat move: you can't even deny that change is possible without proving it. To deny it—or affirm it, or just entertain the question—is to perform an act, and an act is a passage from not-considering to considering: one state, then another, which is itself a change. So at any world where the question is so much as raised, change is actual, and from actuality, possibility follows. The doubter exhibits the very thing they'd refuse, in the act of refusing it. This is a witness, not a full proof: it only reaches worlds that contain a thinker. Silent worlds, with no one to raise the question, are covered by the chapter's other two arguments.
-:::
-
-
 *Dependency.* §1.3 alone; no S5, no Cartesian certainty as premise. *Structure:* transcendental / actual-instantiation witness. It delivers actual ◇C at every thinking world, and is incomplete as a standalone □◇C argument by design.

@@ -12,8 +12,8 @@ A mere surplus could be harmless; the issue is not whether Nature permits additi
 ::: {.argument}
 **The Grounding Trilemma** · *from every grounding position to Reality being Nature*
 
-1. Let G be a proposed ground additional to Nature. Relative to Nature, G must either (i) ground Nature, (ii) be grounded by Nature, or (iii) stand in no grounding relation to Nature. Grounding is asymmetric, so the three positions exhaust the available directions (§1.5.5).
-1. If G grounds Nature, the grounding relation must be directed from ground to grounded, distinguish G from what it grounds, and obtain as a real dependence rather than a verbal pairing. At role-resolution, those are T, S, and Φ: directed order, difference, and bearer. The proposed external ground therefore instantiates the structure it was meant to precede (§2.2.2).
+1. Let G be a proposed ground additional to Nature. Relative to Nature, G must either (i) ground Nature, (ii) be grounded by Nature, or (iii) stand in no grounding relation to Nature. A grounding relation between G and Nature either runs in one direction, the other, or fails to obtain, so the three positions exhaust the field; asymmetry (§1.5.5) keeps the first two from collapsing into one.
+1. If G grounds Nature, the grounding relation must be directed from ground to grounded, distinguish G from what it grounds, and obtain as a real dependence rather than a verbal pairing. At role-resolution, those are T, S, and Φ: directed order, difference, and bearing. The proposed external ground therefore instantiates the structure it was meant to precede (§2.2.2).
 1. If G is grounded by Nature, G is derivative within the dependence order Nature constitutes. It may be a real configuration, but it is not an additional ground of Reality over and above Nature.
 1. If G stands in no grounding relation to Nature, it does not ground Nature. It may remain an idle posit, but it cannot fill the office under dispute.
 1. Therefore no additional candidate occupies the ground-of-Nature position from outside Nature. Every candidate either reinstantiates the Triconditions, falls within them, or performs no grounding work.

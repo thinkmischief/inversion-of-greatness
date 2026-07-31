@@ -9,11 +9,6 @@ surfaces: ["Print", "Web — Book"]
 
 A possible world is a *total way things could be*, not a bare label. And a total way, being total, is already fully determinate. Determinacy is not a further demand on it; determinacy is what totality means. And determinacy requires the three Conditions.
 
-::: {.column-margin .book-annotation-note}
-**Core concept.** A possible world isn't a bare label; it's a total way things could be. And being total means being fully determinate—leaving no relevant matter open. That's not an extra demand slipped in; it's just what total means. Now, a fully settled way of things requires distinction (this rather than that), obtaining (it's so rather than not), and a bearer (something the settling is true of)—which are space, time, and persistence. So every possible world already presupposes the three conditions. There's no possible world that lacks them, which is exactly what it means to call them necessary.
-:::
-
-
 ::: {.argument}
 **The Determinate-World Line** · *from world-determinacy to Triconditional Necessity*
 
@@ -24,7 +19,7 @@ A possible world is a *total way things could be*, not a bare label. And a total
 
 :::
 
-*The permutation test.* Suppose two alleged worlds differ only because the same qualitative and relational contents have been reassigned among bare labels: this individual rather than that one, this point rather than that point, with no invariant fact changed. Either the reassignment makes a genuine difference or it does not. If it does not, there are not two ways Reality could be but one way written twice; the difference is representational, like a change of coordinates that leaves every invariant untouched. If it does, the invariant must be stated: something obtains under one assignment rather than the other (T), the assignments are discernibly different (S), and that difference is borne by the world's content rather than supplied by the notation (Φ). Bare thisness, primitive position, or quiddity can multiply possibilities only by supplying the very determinate difference it was introduced to avoid.
+*The permutation test.* Suppose two alleged worlds differ only because the same qualitative and relational contents have been reassigned among bare labels: this individual rather than that one, this point rather than that point, with no invariant fact changed. Either the reassignment makes a genuine difference or it does not. If it does not, there are not two ways Reality could be but one way written twice; the difference is representational, like a change of coordinates that leaves every invariant untouched. If it does, the invariant must be stated: something obtains under one assignment rather than the other (T), the assignments are genuinely distinct (S), and that difference is borne by the world's content rather than supplied by the notation (Φ). Bare thisness, primitive position, or quiddity can multiply possibilities only by supplying the very determinate difference it was introduced to avoid.
 
 This gives a gauge test for world-counting: erase names, coordinates, and representational conventions, then ask what difference survives. No surviving difference means no additional possibility. A surviving difference is structural and enters through the Conditions. The test does not by itself settle the richer temporal, spatial, or physical *types* at issue in §3.5.3; it establishes the role-level point the Determinate-World Line needs and no more.
 
@@ -32,9 +27,4 @@ This gives a gauge test for world-counting: erase names, coordinates, and repres
 
 *The recombination objection.* Grant the Humean principle at full strength: distinct existences freely recombine (anything can coexist with anything, anything can fail to coexist with anything), so a world that deletes one Condition while keeping the rest should be possible. Nothing here resists the principle. What it requires is *distinct* existences: relata each able to be instantiated or not independently of the others. T, S, and Φ are not distinct in that sense: the inseparability of the Conditions (§1.4) makes each one's instantiation already carry the other two, the same joint that lifts the disjunction to the full conjunction at §3.2.6. A world with S and Φ but no T is therefore not a recombination the principle licenses; it is a description that violates the distinctness the principle ranges over. Recombination can delete a Condition only by first assuming the Conditions are the kind of thing that admit of deletion, which is exactly what §1.4 denies.
 
-::: {.column-margin .book-annotation-note}
-**Natural worry.** Grant the Humean rule at full strength: distinct existences freely recombine, so anything can go with anything and anything can be left out. Then why not a world that keeps space and a bearer but deletes time? The reply doesn't fight the rule; it points to its fine print. Recombination works only on distinct existences—items that can each be present or absent independently. Time, space, and persistence aren't distinct in that way: instantiating any one already carries the other two. So a world with two of them and not the third isn't a licensed recombination at all; it's a description that breaks the independence the rule requires. You can only delete a condition by first assuming they're separable, which is just what's denied.
-:::
-
-
-*Dependency.* §1.3, §1.4; the ersatzist lock leans on the ∅-incoherence floor (§3.2.1 / §3.2.6, defended airtight at §3.3.4). The load-bearing joint is closed by reduction to the ∅-floor; the only residual is the chapter's by-design □S spatial-type seam (§3.5.3 → §4.2), which does not cap.
+*Dependency.* §1.3, §1.4; the ersatzist lock leans on the ∅-incoherence floor (§3.2.1 / §3.2.6, defended in its own right at §3.3.4). The load-bearing joint is closed by reduction to the ∅-floor; the only residual is the chapter's by-design □S spatial-type seam (§3.5.3 → §4.2), which does not cap.

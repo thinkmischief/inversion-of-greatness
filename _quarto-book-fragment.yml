@@ -4,7 +4,7 @@
     - site/table-of-contents.qmd
     - part: "Resources"
       chapters:
-        - site/contact.qmd
+        - site/read-and-connect.qmd
         - site/how-to-cite.qmd
         - site/changelog.qmd
         - site/license.qmd

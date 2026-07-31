@@ -9,11 +9,6 @@ surfaces: ["Print", "Web — Book"]
 
 The Null State resists statement, but it does not resist refutation. Two inferences settle it (one modal, one temporal) and both rest on the diagnosis already in hand from §2.7.1: ∅, as the joint absence of T, S, and Φ, cannot host any obtaining, since to host an obtaining is to sustain a structured state of affairs, and ∅ is precisely the absence of the conditions a structured state of affairs requires.
 
-::: {.column-margin .book-annotation-note}
-**Core concept.** The null state—nothing whatever, the total absence of time, space, and persistence—resists being stated, but it doesn't resist refutation. Here's the clean version. If the null state held, nothing could obtain, since obtaining anything takes a structured state of affairs and the null state is precisely the absence of what that requires. But something does obtain, and whatever obtains is possible. So the null state doesn't obtain—and since the possible is necessarily possible, it obtains at no world. A temporal version follows: if nothing could ever come from the null state, and something is here, then the null state was never the starting point. Nothingness isn't an empty stage that something later walks onto.
-:::
-
-
 ::: {.argument}
 **Incoherence of ∅** · *The Modal Form*
 
@@ -29,11 +24,6 @@ The argument targets ¬◇∅ directly rather than reaching it from a local, wor
 One residual position closes quickly. The strong Kantian relocates the roles to the transcendental subject, but a subject that contributes causally structured succession to experience must itself undergo causally structured transitions to contribute them. Relocating the Conditions does not remove them from the ontological inventory; it confirms them at a different level. The modal-fictionalist relocation is taken up at §3.3.3.
 
 A deeper objection leaves the premises untouched and attacks the inference. Both forms use classical reductio — modus tollens on lines 1 and 3 in the modal case, on lines 2 and 3 in the temporal — and a determined opponent can try to keep ◇∅ open by revising the consequence relation. The revisions differ. A dialetheist may accept ◇∅ ∧ ¬◇∅; that challenges exclusivity without falsifying the disjunction ◇∅ ∨ ¬◇∅. A paraconsistent logician may deny that the contradiction licenses explosion, while an intuitionist may reject the classical closure used here. The reply does not refute those logics in general or derive explosion from the contradiction. It asks the narrower question whether any such inferential practice supplies a model of ∅. To hold the formulas apart, order the steps, and sustain an evaluation is to instantiate distinction (S), succession (T), and a medium of persistence (Φ). Either the proposed rescue is a genuine inferential practice, in which case it cannot itself exemplify the joint absence of the Conditions, or it is not a practice at all, in which case it supplies no model of ∅. This establishes an act-side limit on the rescue; it does not by itself force the revisionist to accept the book's object-level classical logic. The wider dispute over whether structural enactment settles a positive metaphysical thesis remains open in the form §5.3.4 marks. The temporal leg is narrower still: the revisionist performs the token inference in time, so that token cannot exemplify timeless absence.
-
-::: {.column-margin .book-annotation-note}
-**Natural worry.** A determined opponent leaves the premises alone and attacks the logic instead: revise the rules—accept the contradiction, block the explosion, reject classical closure—and maybe nothingness stays open. The reply is that the rescue refutes itself in the stating. To run any inference at all, even a revised one, is to tell one claim from another (distinction), order the steps (succession), and sustain a medium across which it holds (a bearer). The defending practice enacts the three conditions in the very act of turning them against themselves. Either it's a real inferential practice, and so instantiates the structure, or it's no practice at all and states nothing. And it's performed in time, so the temporal leg is conceded outright.
-:::
-
 
 The temporal half is best stated as a scope reductio rather than as a persistence claim: saying that ∅ obtained *at a past time* already places it within Temporality, which ∅ excludes.
 
