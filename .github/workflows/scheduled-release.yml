@@ -7,9 +7,17 @@ name: Scheduled initial release
 # otherwise fire every August 1st indefinitely; the "skip if already
 # released" check below is what actually makes it a one-time trigger —
 # remove this workflow file after the 2026 release goes out.
+#
+# workflow_dispatch added same-day (2026-08-01) as a manual fallback:
+# the 04:00 UTC cron run hadn't fired 24+ minutes past its scheduled
+# time (GitHub Actions schedule triggers can be delayed or, in rarer
+# cases, skipped entirely under load — confirmed no year field means a
+# skipped occurrence wouldn't retry until 2027). This lets the release
+# be triggered by hand from the Actions tab instead of waiting on cron.
 on:
   schedule:
     - cron: '0 4 1 8 *'
+  workflow_dispatch: {}
 
 permissions:
   contents: write
