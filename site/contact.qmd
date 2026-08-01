@@ -1,0 +1,41 @@
+---
+title: "Contact"
+notion-id: 87afbe0e-7b24-4153-8c23-b6c40d8a2f8e
+slug: "contact"
+role: chrome
+nav-section: ["Primary", "Footer"]
+nav-order: 44
+body-classes: site-page
+search: false
+surfaces: ["Site"]
+---
+
+## Engagement
+
+Questions, objections, counterexamples, and corrections are all welcome — no formality or credentials required. Include the section number, and copy in the line or passage you're responding to. If it's published elsewhere — a paper, a post, a video, wherever — a link works just as well.
+
+::: {.callout-note}
+```{=html}
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="connect-form">
+  <input type="hidden" name="form-name" value="contact" />
+  <p class="connect-form-hp">
+    <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+  </p>
+  <p>
+    <label for="contact-name">Name</label>
+    <input type="text" id="contact-name" name="name" />
+  </p>
+  <p>
+    <label for="contact-email">Email</label>
+    <input type="email" id="contact-email" name="email" required />
+  </p>
+  <p>
+    <label for="contact-message">Message</label>
+    <textarea id="contact-message" name="message" rows="6" required></textarea>
+  </p>
+  <button type="submit">Send</button>
+</form>
+```
+
+
+:::

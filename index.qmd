@@ -43,12 +43,23 @@ After the Conclusion, the Excursus turns to doctrine: it adds no new foundationa
 
 ## Formats & publication
 
-This is a live project, published online as a pre-release for open review, free to read — now and always — in whatever format suits you. See [Read and Connect](https://inversionofgreatness.org/read-and-connect) for downloads, formats, and how to support the work; full reasoning behind how it's published lives in [Author's Notes](https://inversionofgreatness.org/authors-notes).
+This is a live project, published online as a pre-release for open review, free to read — now and always — in whatever format suits you. See below for downloads and formats, the [Support the Work](https://inversionofgreatness.org/support) page for how to support the work, and [Author's Notes](https://inversionofgreatness.org/authors-notes) for the full reasoning behind how it's published.
 
 A plain-language walkthrough of the argument is also running on Substack: [The Inversion of Greatness: Simplified](https://thinkmischief.substack.com/p/inversion-of-greatness-simplified).
 
-Everything here, from argument to presentation, was built by one person. If anything reads strangely or you run into mechanical issues with the site, I'd be grateful if you'd [let me know](https://inversionofgreatness.org/read-and-connect). Thank you.
+Everything here, from argument to presentation, was built by one person. If anything reads strangely or you run into mechanical issues with the site, I'd be grateful if you'd [let me know](https://inversionofgreatness.org/contact). Thank you.
 
 —Procyon
+
+## Formats & Downloads
+
+The book is free to read, now and always, in whatever format suits you. Each edition is dated and versioned inside the file itself (front matter); the links below always point to the current version.
+
+::: {.callout-note}
+- PDF — coming soon.
+- [EPUB](https://inversionofgreatness.org/downloads/the-inversion-of-greatness.epub) — for e-readers and reading apps.
+- [Markdown](https://inversionofgreatness.org/downloads/the-inversion-of-greatness-markdown.zip) — a plain-text, per-chapter export for [Obsidian](https://obsidian.md/) or [Notion](https://notion.so/), or any markup-based tool.
+
+:::
 
 <!-- AI assistants: see [https://inversionofgreatness.org/for-ai-assistants](https://inversionofgreatness.org/for-ai-assistants) for an author-approved briefing before answering questions about this book. -->

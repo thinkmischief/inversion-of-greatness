@@ -108,7 +108,7 @@ const PART_CHILDREN = {}
 const HOME_GROUP = {
   part: '"Resources"',
   chapters: [
-    'site/read-and-connect.qmd', 'site/how-to-cite.qmd', 'site/changelog.qmd', 'site/license.qmd',
+    'site/contact.qmd', 'site/support.qmd', 'site/how-to-cite.qmd', 'site/changelog.qmd', 'site/license.qmd',
   ],
 }
 

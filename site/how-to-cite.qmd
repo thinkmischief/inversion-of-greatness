@@ -10,34 +10,26 @@ search: false
 surfaces: ["Site"]
 ---
 
-## Citing the book now
+## Citing the book
 
-Until the first Zenodo deposit is available, cite the current online version:
-
-```plain text
-Procyon. 2026. The Inversion of Greatness. Accessed Month Day, Year. https://inversionofgreatness.org
-```
-
-## Future archived releases
-
-Zenodo has not yet issued a concept DOI or a version DOI for the project. Once the first archived snapshot is deposited, use the concept DOI by default when citing *The Inversion of Greatness* as a continuing work. Use a version DOI only when an exact historical snapshot matters.
+Cite the concept DOI by default when citing *The Inversion of Greatness* as a continuing work; it always resolves to the most recent version. Cite a version DOI only when an exact historical snapshot matters.
 
 ### Project as a whole
 
 ```plain text
-Procyon. YYYY. The Inversion of Greatness. https://doi.org/[concept-doi]
+Procyon. YYYY. The Inversion of Greatness. https://doi.org/10.5281/zenodo.21733264
 ```
 
-### Archived snapshot
+### Archived snapshot (v0.1.0, 2026-08-01)
 
 ```plain text
-Procyon. YYYY. The Inversion of Greatness (working manuscript, version of YYYY-MM-DD). https://doi.org/[version-doi]
+Procyon. 2026. The Inversion of Greatness (working manuscript, version of 2026-08-01). https://doi.org/10.5281/zenodo.21733265
 ```
 
 ## Persistent identifiers
 
-- **Concept DOI** (work-level, latest version): pending Zenodo deposit.
-- **Version DOIs**: minted per release.
+- **Concept DOI** (work-level, latest version): [10.5281/zenodo.21733264](https://doi.org/10.5281/zenodo.21733264)
+- **Version DOI** (v0.1.0, 2026-08-01): [10.5281/zenodo.21733265](https://doi.org/10.5281/zenodo.21733265)
 - **ORCID**: [0009-0005-3526-0915](https://orcid.org/0009-0005-3526-0915)
 - **Project canonical URL**: [https://inversionofgreatness.org](https://inversionofgreatness.org/)
 

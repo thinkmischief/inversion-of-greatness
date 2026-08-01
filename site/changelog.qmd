@@ -18,7 +18,9 @@ Minor revisions (typo fixes, formatting, broken-link repair) update the live pag
 
 ## Releases
 
-*No public releases yet. The first public release will appear here with date, version, DOI, and a short summary of what is new and what has changed.*
+### v0.1.0 — 2026-08-01
+
+First public release and Zenodo deposit. Concept DOI: [10.5281/zenodo.21733264](https://doi.org/10.5281/zenodo.21733264). Version DOI: [10.5281/zenodo.21733265](https://doi.org/10.5281/zenodo.21733265). Initial working-manuscript snapshot archived; nothing prior to compare it against.
 
 ## How to cite a specific version
 

@@ -47,11 +47,13 @@ book:
   favicon: resources/favicon.svg
   page-navigation: false
   page-footer:
-    center: "© 2026 Procyon · [How to Cite](/site/how-to-cite.html) · [License (CC BY-NC 4.0)](/site/license.html) · [Read and Connect](/site/read-and-connect.html)"
+    center: "© 2026 Procyon · [How to Cite](/site/how-to-cite.html) · [License (CC BY-NC 4.0)](/site/license.html) · [Contact](/site/contact.html)"
     border: false
   navbar:
     title: "The Inversion of Greatness"
     right:
+      - text: "Support the Work"
+        href: site/support.qmd
       - text: "Author's Notes"
         href: book/authors-notes.qmd
       - text: "Appendices"
@@ -84,8 +86,8 @@ book:
             href: book/front-copyright.qmd
           - text: "License (CC BY-NC 4.0)"
             href: site/license.qmd
-      - text: "Read and Connect"
-        href: site/read-and-connect.qmd
+      - text: "Contact"
+        href: site/contact.qmd
   sidebar:
     style: floating
     title: "The Inversion of Greatness"
@@ -100,7 +102,8 @@ book:
     - site/table-of-contents.qmd
     - part: "Resources"
       chapters:
-        - site/read-and-connect.qmd
+        - site/contact.qmd
+        - site/support.qmd
         - site/how-to-cite.qmd
         - site/changelog.qmd
         - site/license.qmd

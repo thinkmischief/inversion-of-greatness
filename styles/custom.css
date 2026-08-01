@@ -10835,8 +10835,10 @@ html.book-study-mode .nav-footer {
 }
 
 /* ============================================================
-   READ AND CONNECT PAGE — contact form (site/contact.qmd, soon
-   site/read-and-connect.qmd once re-exported from Notion's rename)
+   CONTACT PAGE — contact form (site/contact.qmd). Briefly merged into
+   a combined "Read and Connect" page and split back apart the same
+   day (2026-08-01) — Support the Work (site/support.qmd) now carries
+   the Ko-fi button, this page just the form below.
    Netlify Forms: a plain HTML form with data-netlify="true" and a
    matching name/form-name pair, no JS or backend of this project's
    own involved — Netlify's own build step scans the static HTML output

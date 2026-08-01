@@ -4010,7 +4010,7 @@
     ]
   },
   "f7c9b045-6f8f-40ec-a44f-5a013cfdb6f5": {
-    "lastEdited": "2026-07-10T20:01:00.000Z",
+    "lastEdited": "2026-08-01T04:34:00.000Z",
     "slug": "changelog",
     "role": "chrome",
     "surfaces": [
@@ -4018,7 +4018,7 @@
     ]
   },
   "d14344cb-db3d-4317-a4c2-01a1909e2a8c": {
-    "lastEdited": "2026-08-01T02:29:00.000Z",
+    "lastEdited": "2026-08-01T04:41:00.000Z",
     "slug": "home",
     "role": "chrome",
     "surfaces": [
@@ -4034,7 +4034,7 @@
     ]
   },
   "66931fe6-dace-494c-a6d6-f36154cdeaaa": {
-    "lastEdited": "2026-07-30T15:38:00.000Z",
+    "lastEdited": "2026-08-01T04:34:00.000Z",
     "slug": "how-to-cite",
     "role": "chrome",
     "surfaces": [
@@ -4706,14 +4706,6 @@
       "Site"
     ]
   },
-  "d742817e-6dd0-4a19-9d5a-9dd27f0875b2": {
-    "lastEdited": "2026-08-01T03:32:00.000Z",
-    "slug": "read-and-connect",
-    "role": "chrome",
-    "surfaces": [
-      "Site"
-    ]
-  },
   "67f649a3-068a-4ba8-a292-9b30cd811db4": {
     "lastEdited": "2026-08-01T01:33:00.000Z",
     "slug": "scripture-and-prophecy",
@@ -4978,6 +4970,22 @@
     "role": "chrome",
     "surfaces": [
       "Markdown Export"
+    ]
+  },
+  "87afbe0e-7b24-4153-8c23-b6c40d8a2f8e": {
+    "lastEdited": "2026-08-01T04:47:00.000Z",
+    "slug": "contact",
+    "role": "chrome",
+    "surfaces": [
+      "Site"
+    ]
+  },
+  "b1fb2d87-d865-4f48-b786-4d90f8c820dc": {
+    "lastEdited": "2026-08-01T04:41:00.000Z",
+    "slug": "support",
+    "role": "chrome",
+    "surfaces": [
+      "Site"
     ]
   }
 }
