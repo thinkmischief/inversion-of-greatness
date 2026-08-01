@@ -9,6 +9,11 @@ surfaces: ["Print", "Web — Book"]
 
 A possible world is a *total way things could be*, not a bare label. And a total way, being total, is already fully determinate. Determinacy is not a further demand on it; determinacy is what totality means. And determinacy requires the three Conditions.
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** A possible world isn't a bare label; it's a total way things could be. And being total means being fully determinate—leaving no relevant matter open. That's not an extra demand slipped in; it's just what total means. Now, a fully settled way of things requires distinction (this rather than that), obtaining (it's so rather than not), and a bearer (something the settling is true of)—which are space, time, and persistence. So every possible world already presupposes the three conditions. There's no possible world that lacks them, which is exactly what it means to call them necessary.
+:::
+
+
 ::: {.argument}
 **The Determinate-World Line** · *from world-determinacy to Triconditional Necessity*
 
@@ -26,5 +31,10 @@ This gives a gauge test for world-counting: erase names, coordinates, and repres
 *The ersatzist does not evade this.* Let possible worlds be abstract objects (maximal consistent sets of propositions) that *represent* ways things could be rather than instantiate them. The argument never needed instantiation; it needs only that what such a set represents be a determinate total way things could be. A set earns that title only where its content settles, for the relevant matters, what is the case rather than not. And that settling is the very structure the three Conditions name: distinct states to be true of (S), an obtains-rather-than-not direction (T), a subject-matter the truths are borne by (Φ). A "world" whose represented content carried none of these would represent no way for things to be at all; it would encode ∅, which §3.3.4 establishes is not a possible content. So the abstract sets that genuinely represent possible worlds already carry the three Conditions in their content; those that do not are not counterexamples but ∅-encodings, incoherent on the shared floor. The three Conditions are presupposed in *being a world-representation*, precisely where the ersatzist had relocated the question.
 
 *The recombination objection.* Grant the Humean principle at full strength: distinct existences freely recombine (anything can coexist with anything, anything can fail to coexist with anything), so a world that deletes one Condition while keeping the rest should be possible. Nothing here resists the principle. What it requires is *distinct* existences: relata each able to be instantiated or not independently of the others. T, S, and Φ are not distinct in that sense: the inseparability of the Conditions (§1.4) makes each one's instantiation already carry the other two, the same joint that lifts the disjunction to the full conjunction at §3.2.6. A world with S and Φ but no T is therefore not a recombination the principle licenses; it is a description that violates the distinctness the principle ranges over. Recombination can delete a Condition only by first assuming the Conditions are the kind of thing that admit of deletion, which is exactly what §1.4 denies.
+
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Grant the Humean rule at full strength: distinct existences freely recombine, so anything can go with anything and anything can be left out. Then why not a world that keeps space and a bearer but deletes time? The reply doesn't fight the rule; it points to its fine print. Recombination works only on distinct existences—items that can each be present or absent independently. Time, space, and persistence aren't distinct in that way: instantiating any one already carries the other two. So a world with two of them and not the third isn't a licensed recombination at all; it's a description that breaks the independence the rule requires. You can only delete a condition by first assuming they're separable, which is just what's denied.
+:::
+
 
 *Dependency.* §1.3, §1.4; the ersatzist lock leans on the ∅-incoherence floor (§3.2.1 / §3.2.6, defended in its own right at §3.3.4). The load-bearing joint is closed by reduction to the ∅-floor; the only residual is the chapter's by-design □S spatial-type seam (§3.5.3 → §4.2), which does not cap.

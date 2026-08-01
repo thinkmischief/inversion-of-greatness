@@ -8,6 +8,7 @@ nav-order: 50
 body-classes: site-page
 search: false
 surfaces: ["Site"]
+image: https://inversionofgreatness.org/resources/web-banner-light.png
 ---
 
 This page is for three things: downloading the book in whatever format suits you, reaching me directly, and — if you'd like — supporting the work.
@@ -17,7 +18,7 @@ This page is for three things: downloading the book in whatever format suits you
 The book is free to read, now and always, in whatever format suits you. Each edition is dated and versioned inside the file itself (front matter); the links below always point to the current version.
 
 ::: {.callout-note}
-- [PDF](https://inversionofgreatness.org/downloads/the-inversion-of-greatness.pdf) — for printing or reading as-is.
+- PDF — coming soon.
 - [EPUB](https://inversionofgreatness.org/downloads/the-inversion-of-greatness.epub) — for e-readers and reading apps.
 - [Markdown](https://inversionofgreatness.org/downloads/the-inversion-of-greatness-markdown.zip) — a plain-text, per-chapter export for [Obsidian](https://obsidian.md/) or [Notion](https://notion.so/), or any markup-based tool.
 
@@ -28,11 +29,7 @@ The book is free to read, now and always, in whatever format suits you. Each edi
 Questions, objections, counterexamples, and corrections are all welcome — no formality or credentials required. Include the section number, and copy in the line or passage you're responding to. If it's published elsewhere — a paper, a post, a video, wherever — a link works just as well. 
 
 ::: {.callout-note}
-<details><summary>🔧 Web build only — contact form</summary>
-
-This renders as an embedded contact form only on the exported site; in Notion it can only show as the code below — that's expected, not broken. No email address is published anywhere on the site; messages submitted here route directly to the author.
-
-```html
+```{=html}
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="connect-form">
   <input type="hidden" name="form-name" value="contact" />
   <p class="connect-form-hp">
@@ -54,8 +51,6 @@ This renders as an embedded contact form only on the exported site; in Notion it
 </form>
 ```
 
-</details>
-
 
 :::
 
@@ -71,4 +66,10 @@ If you find the work valuable, there are two ways to help. The first is putting 
 - **A future print edition** — offered at cost, as an addition to the digital editions rather than a replacement.
 - **More public engagement** — time to actually reply and engage, beyond what the current time budget allows.
 
-[Even a small contribution helps](https://ko-fi.com/N8P320XLMD)
+::: {.callout-note}
+```{=html}
+<a href="https://ko-fi.com/N8P320XLMD" class="kofi-custom-button"><img src="/resources/kofi-icon.svg" alt="">Support the work</a>
+```
+
+
+:::

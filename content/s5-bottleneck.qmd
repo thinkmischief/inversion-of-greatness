@@ -35,12 +35,12 @@ A separate structural consequence matters downstream, though it is not a premise
 ::: {.lemma}
 **Parasitic Negation** · **L2** · *Lemma toward Negation Seal*
 
-Let D be one of T, S, or Φ. A claim that D begins from its own absence presupposes D in the proposed onset: a first moment requires temporal order, a first placing requires positional structure, and a first production requires a bearer across the transition. Domain-internal absence may be coherent; emergence of the domain from domain-external absence is not.
+Let D be one of T, S, or Φ. A claim that D begins from its own absence presupposes D in the proposed onset. The ground is general: an onset of D from domain-external ¬D is itself a change, and change requires all three Conditions on §1.4's fixed analysis, so the proposed onset presupposes D. Per Condition: a first moment requires temporal order, a first placing requires positional structure, and a first production requires a bearer across the transition. Domain-internal absence may be coherent; emergence of the domain from domain-external absence is not.
 
 
 :::
 
-The distinction is between absence *within* a domain and onset *of* the domain. “No event occurs during an interval” is internal to Temporality; “Temporality first appears where no temporal order obtains” asks temporal order to precede itself. “Nothing occupies this place” is internal to Spatiality; “the first place is placed where no positional structure obtains” asks placement to precede its domain. The same form applies to production and Φ.
+The distinction is between absence *within* a domain and onset *of* the domain. “No event occurs during an interval” is internal to Temporality; “Temporality first appears where no temporal order obtains” asks temporal order to precede itself. “Nothing occupies this place” is internal to Spatiality; “the first place is placed where no positional structure obtains” asks placement to precede its domain. The same form applies to production and Φ. The per-Condition readings are illustrations, not the load-bearing step. A critic who declines the placement or production vocabulary — locating the onset of Spatiality purely temporally, as “spatial structure obtains from t₀, not before” — has not escaped: the onset so described is still a transition from domain-external ¬D to D, and a transition is a change, which on §1.4's fixed analysis runs on succession, distinction, and exchange together. Describing the onset temporally borrows Temporality; the onset's being a change at all borrows the other two.
 
 ::: {.corollary}
 **Negation Seal** · **R2** · *Result of L2*

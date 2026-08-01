@@ -15,6 +15,16 @@ Take the axiom in its useful contrapositive. A candidate necessary ground G is n
 
 They do not survive by being few. A sweep that merely lists rivals and knocks them down invites the obvious reply: *what about the one you left off the list?* The elimination here is not a list but a partition. Any candidate ground stands to the Triconditions in exactly one of three ways, and there is no fourth:
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** This closing sweep asks whether anything could be the necessary ground of the world other than Nature—time, space, and persistence together. Instead of listing rivals one by one, it splits the field with no gaps. Any candidate stands to those three conditions in exactly one of three ways: it's the same structure under a new name, it shares none of their structure, or it's those conditions plus some extra. The first is Nature relocated, not a rival. The second can't ground anything in a world made of time, space, and things—and can't even be picked out to name. The third collapses: the extra either does real grounding work, and so is more of the same structure, or does none, and drops out. Every road leads back to Nature.
+:::
+
+
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Any sweep of rivals invites the obvious reply—what about the one you didn't mention? That's why the argument uses a partition, not a list: the three cases are exhaustive by logic, so there's no fourth slot to hide in. The hardest holdout is the classical theist who says God grounds time, space, and things eminently—containing their perfections in a higher, simple way without being temporal, spatial, or a substance. Granted, that ground can be named, so it isn't the second case. But grounding still means being discernible from what you ground in the very act of grounding it, and that discernibility is structure under another name. Contained in a higher mode or not, the structure has to be there to do the work.
+:::
+
+
 ::: {.lemma}
 **No Rival Ground** · **L8** · *Lemma toward the Necessity of Nature*
 

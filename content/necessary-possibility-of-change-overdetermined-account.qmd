@@ -9,6 +9,11 @@ surfaces: ["Print", "Web — Book"]
 
 Chapter 2 reached □◇C (*change is necessarily possible*) through Cartesian certainty and the Necessary Possibility theorem. This section asks what remains when that modal lift is removed. The answer must be stated at the strength the arguments actually earn.
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** Chapters 1 and 2 already reached this chapter's first result—that change is possible in every possible world—by one road: the certainty that change is possible, lifted to necessity by the S5 modal machinery. So why do it again? Because this section stress-tests the result: does it depend on that particular road? Cut the modal pipeline away, and can you still get there from the bare definition of change alone? Yes—by three independent routes: a dilemma, a cross-world argument, and a performative witness. That's what overdetermined means here. The result doesn't hang on one thread, so even a reader who rejects the modal machinery is driven to the same place.
+:::
+
+
 The three entries below reach three different local results. The changeless-ground dilemma (§3.1.1) removes a ground alleged to stand outside every transition. The Unswitchable Capacity (§3.1.2) shows that a capacity for change cannot originate from a state in which change is impossible. The Performative Witness (§3.1.3) establishes ◇C at every world where the question is entertained. These results reinforce □◇C, but they do not jointly quantify over every possible world without a further cross-world premise: a silent, isolated world cannot be converted into a stage of a history merely by comparing it with actuality.
 
 *Dependency.* Every argument here shares the §1.3 definition of Change. None cites S5 or the Necessary Possibility theorem as a premise. Their independence is distinct argument-shape plus separate cuttability, not premise-disjointness. The dilemma is an objection-closure; the no-onset argument is a diachronic closure; the witness is an actuality-to-possibility demonstration. None alone supplies proposition-wise modal invariance.

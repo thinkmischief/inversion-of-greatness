@@ -7,7 +7,7 @@ role: spine
 surfaces: ["Print", "Web — Book"]
 ---
 
-This cluster asks whether change can be absent from a real world. Each candidate is tested in the same way: does it genuinely describe a reality without change, or does it quietly restore the conditions that make change possible?
+This cluster asks whether change can be absent from a real world. Each candidate is tested in the same way: does it genuinely describe a reality without change, or does it restore the conditions that make change possible?
 
 The challenge bears most directly on the proof's claim that any reality permits change and on the identification of change-possibility with T∧S∧Φ. The subsections test whether a supposedly changeless account can do more than redescribe Time, Space, and Substance under another vocabulary.
 

@@ -72,7 +72,7 @@ To specify a way things could be at all is to specify a determinate configuratio
 
 These three names carry forward into [§1.3](groundwork.html#sec-1-3) and return in [§1.4](groundwork.html#sec-1-4) as the three Conditions (Temporality, Spatiality, Physicality), borne in Reality by Time, Space, and Substance. The roles (succession, distinction, and exchange) name what change requires; the Conditions and their bearers name the structure in which that requiring is real.
 
-The grounding here is not *ipsum esse subsistens* ("being-itself-subsisting") renamed. Classical theism's ground is simple: without parts, without internal articulation, the same across every aspect one might name. That commitment is the working-out of perfect-being theology and *actus purus* ("pure act"), not a freestanding axiom. The tradition has known its internal disputes about how thoroughly the simplicity runs (Aquinas, Plantinga, and Swinburne do not hold the doctrine in the same form); Chapter 5 takes up the engagement at strength. Reality's grounding is articulated: succession, distinction, and exchange are not structures Reality happens to have but the constitutive structures Reality cannot fail to have. The inversion the book argues is not over the structures the tradition attributed to its ground (necessity, sufficiency, indifference to the contingent) but over what those structures belong to. They belong to Reality itself, not to a subject standing outside it.
+The grounding here is not *ipsum esse subsistens* ("being-itself-subsisting") renamed. Classical theism's ground is simple: without parts, without internal articulation, the same across every aspect one might name. That commitment is the working-out of perfect-being theology and *actus purus* ("pure act"), not a freestanding axiom. The doctrine is contested from within the tradition itself: Aquinas holds it in its strongest form, while Plantinga rejects it outright and Swinburne sets it aside, reserving *simplicity* for a virtue of theory choice rather than the doctrine; Chapter 5 takes up the engagement at strength. Reality's grounding is articulated: succession, distinction, and exchange are not structures Reality happens to have but the constitutive structures Reality cannot fail to have. The inversion the book argues is not over the structures the tradition attributed to its ground (necessity, sufficiency, indifference to the contingent) but over what those structures belong to. They belong to Reality itself, not to a subject standing outside it.
 
 Two readings are open here, and choosing between them is a priority question, closed at [§4.1.10](metaphysical-rivals.html#sec-4-1-10). On one, the three roles are necessary because Reality essentially is that way — part of what Reality is, in Fine's sense of *real definition* (an account of what a thing essentially is, not of what its word means). On the other, they are merely necessary as a structural feature of the modal field, without an essence-prior-to-modality. The constitutive language above ('cannot fail to have,' 'what it is') names the structural shape of the primitive modal field, not an essence prior to it from which the modal facts derive.
 
@@ -212,7 +212,7 @@ What change is, and what Reality must be like for it to obtain, is the next ques
 
 The Introduction's appeal to conceiving was already an appeal to change: to conceive is to pass from one cognitive state to another. Change is the primitive; conceiving is one instance of it.
 
-Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), you are still *somewhere*; something is still *shifting*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
+Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), something is still *shifting*; you are still *somewhere*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
 
 The full defense of the witness, and the modal derivation that lifts it into a necessity claim about Reality's structure, comes in Chapter 2: [§2.2](the-argument.html#sec-2-2) establishes the bilateral witnesses, [§2.3](the-argument.html#sec-2-3) lifts that possibility into necessity, [§2.4](the-argument.html#sec-2-4) derives what the possibility of change requires, and §[§2.5](the-argument.html#sec-2-5)–2.6 identify the Conditions. For now, change supplies the actuality-datum from which the derivation begins. The immediate question is what Reality must be like for change to be possible; [§1.4](groundwork.html#sec-1-4) takes up that question.
 
@@ -272,7 +272,7 @@ i. *Asymmetry.* The before/after relation runs one way. A-before-B is not B-befo
 
 ii. *Transitivity.* The ordering composes. If A precedes B and B precedes C, then A precedes C: the first sentence remains before the last, regardless of how many sentences sit between. Without transitivity, “before” would be a local fact between adjacent states only, and Time would dissolve into a heap of comparisons that cannot be stitched into a sequence.
 
-iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of consequences rather than labels.
+iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of settings rather than labels.
 
 The forward foreclosures in [§1.1](groundwork.html#sec-1-1) — you cannot plan for yesterday or remember the future — already displayed Time’s signature. Succession named the same fact from inside Change ([§1.3](groundwork.html#sec-1-3)). Time adds duration and directed weight: a list of labels has order, but no interval and no answer to how the first bears on the second.
 
@@ -285,7 +285,7 @@ The account does not decide between the A-theory and B-theory of time. Both requ
 ::: {.untyped}
 **Temporality** · **T** · *Condition*
 
-The Condition that makes succession possible: whatever it takes for before to genuinely produce after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
+The Condition that makes succession possible: whatever it takes for before to genuinely give onto after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
 
 
 :::
@@ -371,6 +371,12 @@ The joint structure of Time, Space, and Substance: what any genuine change requi
 Getting from London to Paris makes the same point concretely. The trip requires a route that stays intact for the whole crossing, a duration elapsing in one direction, and a traveler who survives to the far end. No particular way of crossing is required — go by water, by tunnel, by air, or even swim it — but whichever one is actually taken, none of it escapes the three underlying Conditions. Erase the distance and there is no way across; erase Paris and there is nowhere to arrive; erase the traveler and nobody gets there. Drop any one and the trip does not shorten or become harder. It simply isn't possible.
 
 Naming Nature settles only what the word means. That Nature must exist, that its three Conditions (Temporality, Spatiality, and Physicality) hold of necessity, that there could never have been nothing at all: those stronger claims are Chapter 2's, reached by asking what follows if change is genuinely possible. Whether the universe, in the widest sense, simply is Nature, and which account of time, space, or substance is ultimately correct, wait just as long. What this chapter needed is narrower: without Time, Space, and Substance together, there is no change for an argument to begin from.
+
+
+::: {.column-margin .book-annotation-note}
+**Example.** The transparent cases are spatial and physical: nowhere is no-where, nothing is no-thing, each on the surface a negation applied to its positive. The temporal negation works the same way once you look beneath the surface: never is etymologically not-ever (Old English næfre, from ne æfre) — the same construction, buried by contraction. Ordinary language did not give the three their own root words; the very way the words are built admits that there is nothing positive on the negative side to be named. The grammar already encodes what the Conditions formalize.
+
+:::
 
 ## 1.5 Existence {#sec-1-5}
 

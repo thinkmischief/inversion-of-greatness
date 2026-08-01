@@ -3972,6 +3972,18 @@ body.quarto-dark.style-preview-page #quarto-document-content {
 		   this query's 799.98px edge. */
 		font-size: clamp(1.2rem, 6vw, 2.5rem);
 	}
+	/* The title above scales down on mobile via clamp(), but this rule
+	   was missing entirely — confirmed live on an actual phone (a
+	   screenshot from inversionofgreatness.org), the subtitle stayed
+	   fixed at its desktop 1.3rem while the title shrank around it, so
+	   it read as louder than the title it's subordinate to and wrapped
+	   across three lines. Same proportion as the desktop sizes (1.3rem
+	   is ~52% of 2.5rem) carried into the mobile clamp: floor and cap
+	   scaled by that same ratio off .home-title-text-main's own
+	   1.2rem/2.5rem, preferred value at half the vw coefficient. */
+	.home-title-text-subtitle {
+		font-size: clamp(0.62rem, 3vw, 1.3rem);
+	}
 }
 .home-title-text-subtitle {
 	margin-top: 0.35rem;
@@ -10969,22 +10981,40 @@ a[href$="the-inversion-of-greatness.pdf"]::before {
 	vertical-align: -0.1em;
 	content: "\f63e";
 }
-/* Ko-fi's own real logo (resources/kofi-icon.svg, Simple Icons' mirror
-   of their published mark, brand orange #FF6433 baked into the file
-   itself) — shown as-is rather than masked to text color, since the
-   whole point here is that it's recognizably Ko-fi's own icon, not a
-   generic stand-in. */
-a[href*="ko-fi.com"]::before {
-	content: "";
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	background-image: url("../resources/kofi-icon.svg");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	margin-right: 0.4em;
-	vertical-align: -0.15em;
+/* Support link: a real button rather than Ko-fi's own static image
+   (resources/kofi-button-dark.png, now unused — kept on disk in case
+   this reverts) — the fixed text baked into that PNG couldn't say
+   "Support the work" instead of "Support me on Ko-fi", so this
+   reproduces its exact look (sampled the real button's own background
+   pixel: solid black, rgb(0,0,0)) as a genuine styled <a>, free to
+   carry whatever text is wanted. bi-cup-hot rather than the multi-
+   color Ko-fi symbol mark for the icon — that mark's own white halo
+   layer (meant to sit on varied backgrounds) hasn't been tested
+   against a solid black fill and risks reading as a stray white
+   blotch; a plain white glyph is the safer, already-proven choice
+   here (matches the earlier PDF/EPUB/Markdown icon treatment too). */
+.kofi-custom-button {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5em;
+	background: #000000;
+	color: #ffffff;
+	font-family: var(--book-body-font);
+	font-weight: 600;
+	font-size: 0.95rem;
+	padding: 0.65em 1.3em;
+	border-radius: 8px;
+	text-decoration: none;
+}
+.kofi-custom-button:hover {
+	opacity: 0.85;
+}
+.kofi-custom-button img {
+	width: 1.3em;
+	height: 1.3em;
+}
+.kofi-custom-button .bi-cup-hot {
+	font-size: 1.1em;
 }
 /* No universal EPUB glyph exists in Bootstrap Icons (or anywhere else
    in common use) — bi-book stands in as the generic book/e-reader

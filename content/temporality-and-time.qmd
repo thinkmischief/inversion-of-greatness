@@ -15,7 +15,7 @@ i. *Asymmetry.* The before/after relation runs one way. A-before-B is not B-befo
 
 ii. *Transitivity.* The ordering composes. If A precedes B and B precedes C, then A precedes C: the first sentence remains before the last, regardless of how many sentences sit between. Without transitivity, “before” would be a local fact between adjacent states only, and Time would dissolve into a heap of comparisons that cannot be stitched into a sequence.
 
-iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of consequences rather than labels.
+iii. *Directionality.* What comes before bears on what comes after. Each sentence sets the conditions into which the next one lands. A merely ordered list has first, second, and third items, but nothing about the first constrains the second. Directionality makes the sequence one of settings rather than labels.
 
 The forward foreclosures in §1.1 — you cannot plan for yesterday or remember the future — already displayed Time’s signature. Succession named the same fact from inside Change (§1.3). Time adds duration and directed weight: a list of labels has order, but no interval and no answer to how the first bears on the second.
 
@@ -28,7 +28,7 @@ The account does not decide between the A-theory and B-theory of time. Both requ
 ::: {.untyped}
 **Temporality** · **T** · *Condition*
 
-The Condition that makes succession possible: whatever it takes for before to genuinely produce after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
+The Condition that makes succession possible: whatever it takes for before to genuinely give onto after along one directed, lasting order, rather than the two standing as interchangeable labels. Borne in Reality by Time.
 
 
 :::

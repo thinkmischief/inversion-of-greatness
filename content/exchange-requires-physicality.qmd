@@ -48,8 +48,8 @@ The foregoing arguments carry the load; the phenomenological anchor that follows
 1. Something has been produced: there is at least one production, demonstrably the thinker holding the present thought (∃xPx).
 1. So Physicality is instantiated (∴ Φ; from 1, 2).
 1. If there were ever no Physicality, then Physicality would have to be produced, since a transition from no-Φ to Φ is itself a production (¬N_Φ → P(Φ)).
-1. Any production of Physicality would already require Physicality, applying line 1 to Φ itself (P(Φ) → Φ).
-1. So there was never no Physicality: ¬N_Φ entails P(Φ), and P(Φ) entails Φ-prior-to-Φ, a contradiction (∴ N_Φ; from 4, 5 by reductio).
+1. Any production of Physicality would require Physicality already instantiated across its own producing interval, since line 1's warrant — *produced* presupposes a medium carrying influence across an interval — applies to the production of Φ itself (P(Φ) → Φ-at-or-before-P(Φ)).
+1. So there was never no Physicality: ¬N_Φ entails P(Φ), and P(Φ) entails Φ at or before the first production of Φ — Φ-prior-to-Φ, a contradiction (∴ N_Φ; from 4, 5 by reductio).
 
 :::
 

@@ -7,7 +7,7 @@ role: spine
 surfaces: ["Print", "Web — Book"]
 ---
 
-The forward conditional is stated as a necessary conditional: **□(◇C → (T∧S∧Φ))**. Not merely true in every possible world: structurally necessary. No possible world could satisfy the antecedent without the consequent. Three aspects establish this, and they converge on the same structural fact.
+The forward conditional is stated as a necessary conditional: **□(◇C → (T∧S∧Φ))**. Not merely true in every possible world: structurally necessary. No possible world could satisfy the antecedent without the consequent. Three aspects establish this, and they converge on the same structural fact. One scope inheritance is restated here rather than silently absorbed: the T and S conjuncts hold without qualification, while the Φ conjunct inherits the conditional scope §2.4.5 assigns it — invariant conditional on the causal reading of exchange, defended at §2.4.8 and secured against the Humean alternative at §4.1.4.
 
 The *structural aspect:* modal facts are structural facts about Reality. The definitions (T as causally structured succession, S as relational extension, Φ as causal persistence) are not descriptions of contingent physical processes. They are what it structurally means to host change. A world in which change is possible but succession is absent is not a world with unusual physics. It is a world in which change is incoherent, which means it is not a world in which change is possible. The Δ argument of §2.4.5 grounds this as framework-invariant: any theory that describes a Reality where change is possible is bound by the same structural constraints.
 

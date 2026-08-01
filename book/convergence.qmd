@@ -14,6 +14,12 @@ Section [§3.5](convergence.html#sec-3-5) gathers the result without inflating i
 
 Chapter 2 reached □◇C (*change is necessarily possible*) through Cartesian certainty and the Necessary Possibility theorem. This section asks what remains when that modal lift is removed. The answer must be stated at the strength the arguments actually earn.
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** Chapters 1 and 2 already reached this chapter's first result—that change is possible in every possible world—by one road: the certainty that change is possible, lifted to necessity by the S5 modal machinery. So why do it again? Because this section stress-tests the result: does it depend on that particular road? Cut the modal pipeline away, and can you still get there from the bare definition of change alone? Yes—by three independent routes: a dilemma, a cross-world argument, and a performative witness. That's what overdetermined means here. The result doesn't hang on one thread, so even a reader who rejects the modal machinery is driven to the same place.
+
+:::
+
+
 The three entries below reach three different local results. The changeless-ground dilemma ([§3.1.1](convergence.html#sec-3-1-1)) removes a ground alleged to stand outside every transition. The Unswitchable Capacity ([§3.1.2](convergence.html#sec-3-1-2)) shows that a capacity for change cannot originate from a state in which change is impossible. The Performative Witness ([§3.1.3](convergence.html#sec-3-1-3)) establishes ◇C at every world where the question is entertained. These results reinforce □◇C, but they do not jointly quantify over every possible world without a further cross-world premise: a silent, isolated world cannot be converted into a stage of a history merely by comparing it with actuality.
 
 *Dependency.* Every argument here shares the [§1.3](groundwork.html#sec-1-3) definition of Change. None cites S5 or the Necessary Possibility theorem as a premise. Their independence is distinct argument-shape plus separate cuttability, not premise-disjointness. The dilemma is an objection-closure; the no-onset argument is a diachronic closure; the witness is an actuality-to-possibility demonstration. None alone supplies proposition-wise modal invariance.
@@ -45,7 +51,19 @@ In each form, the relevant question is whether the proposed ground has enough de
 
 *The dilemma iterates.* A last rejoinder grants all this of any ground *outside* the order of transitions, yet insists that persistence *within* it still needs a changeless core, some frozen bearer that stays put beneath the succession so that one thing, and not merely a series, survives it. But that core faces the very same fork one level up: either it is the bare internal negation "no change here," and then it is no bearer and carries nothing across the transitions; or it has determinate features, and then it is itself a further stretch of the order rather than an exemption from it. Ask what stays fixed beneath a persisting thing and the answer recurses without ever terminating in anything frozen: the anchor is a Ship of Theseus one level up ([§8.5](expanding-the-field.html#sec-8-5)). What makes the succession one thing is not a preserved core but the *continuity* of the ordering itself, identity as continuity of change, not exemption from it. This reflexive reading is offered as illustration, not as a further road to □◇C: the lived case that makes it vivid, a self that persists with no changeless substrate at any level, imports more than the [§1.3](groundwork.html#sec-1-3) definition and is not counted in the overdetermination accounting.
 
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Grant that no ground outside change works. Still, doesn't persistence within time need a changeless core—some frozen bearer that stays put beneath the succession, so that one thing survives rather than just a series? Ask what stays fixed in that core and the same fork returns one level up: either it's the bare no change here, and then it bears nothing across time, or it has features, and then it too could have been otherwise—another stretch of the changing order, not an exemption from it. What makes a succession one thing isn't a preserved frozen part; it's the continuity of the ordering itself. Identity is continuity of change, not a rest beneath it.
+
+:::
+
+
 *Dependency.* The line uses [§1.3](groundwork.html#sec-1-3)'s analysis of change together with the thin role-requirements of grounding. It does not use S5 or the Parasitic Negation lemma. *Structure:* a dilemma about whether a proposed source has determinate relational structure. *Scope:* role-level objection-closure, not a standalone derivation of □◇C and not yet a type-level refutation of every atemporal ground.
+
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** The most direct way to deny that change is always possible is to posit a changeless ground: something outside the order of transitions on which everything changing depends, but which never changes itself. The reply is a fork. Changeless only says no change here—it negates succession without naming any positive way of being outside it. So either the ground is nothing more than that bare negation, in which case it's no substrate and grounds nothing; or it has real features of its own, in which case it already instantiates time, space, and persistence—the very order it was meant to escape. Every classic version, from a maximal ground to the timeless eternal present, lands on one horn or the other.
+
+:::
 
 ### 3.1.2 The Unswitchable Capacity {#sec-3-1-20}
 
@@ -93,6 +111,12 @@ The third entry is not an independent argument but a **witness**. Its task is na
 
 Taken alone the witness has a gap: a *silent* world (one with no thinker to token the act) is untouched by it. Section 3.5.4 records rather than dissolves that cross-world burden: without an independent bridge from role-level structure to full change-enabling types, the witness does not establish ◇C at every silent world. Sections 3.2.6 and 3.3.4 supply pressure through the ∅-floor, but they do not license identifying every ¬◇C world with ∅ merely from the witness. The full proposition-wise □◇C result therefore remains with T1 unless that additional bridge is earned.
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** Here's a neat move: you can't even deny that change is possible without proving it. To deny it—or affirm it, or just entertain the question—is to perform an act, and an act is a passage from not-considering to considering: one state, then another, which is itself a change. So at any world where the question is so much as raised, change is actual, and from actuality, possibility follows. The doubter exhibits the very thing they'd refuse, in the act of refusing it. This is a witness, not a full proof: it only reaches worlds that contain a thinker. Silent worlds, with no one to raise the question, are covered by the chapter's other two arguments.
+
+:::
+
+
 *Dependency.* [§1.3](groundwork.html#sec-1-3) alone; no S5, no Cartesian certainty as premise. *Structure:* transcendental / actual-instantiation witness. It delivers actual ◇C at every thinking world, and is incomplete as a standalone □◇C argument by design.
 
 ## 3.2 Triconditional Necessity: Positive Account {#sec-3-2}
@@ -102,6 +126,12 @@ Stage 1 of the canonical line (Chapter 2) reached □◇C: in every possible wor
 Put simply, this section asks whether one can begin below the modal proof itself: with the bare fact that something is the case, that a world is determinate, or that any settled content has a structure. This section takes the constructive side of that test; [§3.3](convergence.html#sec-3-3) takes the negative side. The shared target is the confluence labeled □(T ∧ S ∧ Φ), the proposition the linear argument labels □N.
 
 The Moves below map convergent lines, not redundant repetitions. The canonical spine reaches □N by one line: lifting □◇C through the conditions of change under the modal structure. The Moves below ask whether that line can be made optional: each starts at or beneath change itself, drawing principally on Chapter 1 definitions and naming any limb it cannot itself earn. Where a Move reaches only the actual world, or closes its last escape only by borrowing, it says so in its own hand. The test is not whether no two Moves share a premise, but whether no single failure takes them all down. That unevenness is audited directly at [§3.3.6](convergence.html#sec-3-3-6).
+
+::: {.column-margin .book-annotation-note}
+**Quick map.** Don't read this section as one long proof. It's a map showing that the same destination—time, space, and persistence are necessary—can be reached by several independent routes, so no single weak link brings them all down. The main spine reached it one way, by lifting change is always possible through what change requires. Here the section instead shows the three conditions already present in the leanest materials: in the bare fact that something is the case, in the full determinacy any possible world must have, and in what's left once you shrink to bare simples. A companion section runs the other direction, showing the conditions can't be denied or conceived away. Overlapping routes, one conclusion.
+
+:::
+
 
 One objection applies across the constructive family and should be closed before the Moves begin. Any collection can be equipped, from outside, with arbitrarily chosen mathematical relations; that trivial fact would not show that direction, difference, and bearer are constitutive of Reality. The lines below therefore require more than the existence of a structural description. Each isolates a relation already enacted by its subject matter: obtaining excludes not-obtaining, a determinate world settles one arrangement rather than another, content bears what it settles, and a denial performs the distinctions it denies. These relations are invariant under mere relabeling and do not depend on an interpreter choosing a convenient representation. The claim is not that everything can be represented structurally. It is that anything countable as a fact, world, content, or denial already does structural work that an arbitrary representation could not supply.
 
@@ -114,6 +144,12 @@ The Triconditions are already present in minimal materials. The construction Mov
 ### 3.2.1 Something Is the Case {#sec-3-2-10}
 
 The most primitive entry in the whole corpus: earlier than the Cogito, earlier than change. The bare fact that *something obtains* already carries the Triconditions, and ∅ falls out as incoherent for free.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** This is the barest possible starting point—earlier even than Descartes's I think, earlier than change. Begin with the plainest fact imaginable: something is the case. You can't coherently deny it, since nothing is the case would itself be something being the case. Now look at what that bare fact already carries. Any state of affairs is this rather than that (a distinction), obtains rather than not (an asymmetric ordering), and is borne rather than merely described (a bearer). Those three are just time, space, and persistence under their working names. So the three conditions are present in the very least you can say—and a supposed state with none of them turns out to be no state at all.
+
+:::
+
 
 ::: {.argument}
 **The Facthood Line** · *from bare facthood to Triconditional Necessity*
@@ -138,11 +174,23 @@ The most primitive entry in the whole corpus: earlier than the Cogito, earlier t
 
 *The Platonist reply.* An objector may grant the ordering but insist abstract truths need only a *generalized* T/S/Φ structure, not concrete time, space, and substance. This is accommodated, not resisted. Chapter 1 introduces the ordinary triad; Chapter 2 distinguishes its formal structural roles — Temporality, Spatiality, and Physicality — from any particular concrete realization. The objection concerns the latter: an abstractum needs no concrete clock, metric distance, or material substrate. But this line derives the formal roles, not a particular realization of them. Even an abstract truth, to obtain rather than not, instantiates the asymmetric-ordering role (it excludes its negation), the distinction role (this content rather than that), and the bearing role (it is borne by some proposition or structure, not merely described). A generalized T/S/Φ at the formal level is exactly and only what the Line claims.
 
+::: {.column-margin .book-annotation-note}
+**Natural worry.** An objector grants that facts have this structure but insists abstract truths need only a watered-down version—no concrete clock, no metric distance, no material substrate. The reply accepts the point and shows it doesn't bite. The argument separates the structural roles (ordering, distinction, bearing) from their concrete realizers (clocks, meters, matter). Abstract truths are off the hook only for the realizers. Even an abstract truth, to obtain rather than not, still excludes its negation (ordering), is this content rather than that (distinction), and is borne by some proposition or structure (bearing). A generalized version of the three roles is exactly what the argument claims—and exactly what abstracta still have.
+
+:::
+
+
 *Dependency.* [§1.3](groundwork.html#sec-1-3) and [§1.4](groundwork.html#sec-1-4) supply the line's ordinary materials; the formal T/S/Φ notation is supplied by Chapter 2. The line remains S5-free. It is not essence-free, and by design: its engine is the constitutive claim that the formal roles T, S, and Φ are what *obtaining* requires. This is an essence-of-*obtaining* claim, not a *de re* essence ascribed to any being (the kind of essence a particular being would have in its own right). The Platonist reply above keeps the claim from being confused with a thesis about concrete realizers. That is a feature rather than a gap: essence grounds the step-6 necessity without the S5 axiom.
 
 ### 3.2.2 No Bare Possibilities {#sec-3-2-20}
 
 A possible world is a *total way things could be*, not a bare label. And a total way, being total, is already fully determinate. Determinacy is not a further demand on it; determinacy is what totality means. And determinacy requires the three Conditions.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** A possible world isn't a bare label; it's a total way things could be. And being total means being fully determinate—leaving no relevant matter open. That's not an extra demand slipped in; it's just what total means. Now, a fully settled way of things requires distinction (this rather than that), obtaining (it's so rather than not), and a bearer (something the settling is true of)—which are space, time, and persistence. So every possible world already presupposes the three conditions. There's no possible world that lacks them, which is exactly what it means to call them necessary.
+
+:::
+
 
 ::: {.argument}
 **The Determinate-World Line** · *from world-determinacy to Triconditional Necessity*
@@ -164,6 +212,12 @@ This gives a gauge test for world-counting: erase names, coordinates, and repres
 *The ersatzist does not evade this.* Let possible worlds be abstract objects (maximal consistent sets of propositions) that *represent* ways things could be rather than instantiate them. The argument never needed instantiation; it needs only that what such a set represents be a determinate total way things could be. A set earns that title only where its content settles, for the relevant matters, what is the case rather than not. And that settling is the very structure the three Conditions name: distinct states to be true of (S), an obtains-rather-than-not direction (T), a subject-matter the truths are borne by (Φ). A "world" whose represented content carried none of these would represent no way for things to be at all; it would encode ∅, which [§3.3.4](convergence.html#sec-3-3-4) establishes is not a possible content. So the abstract sets that genuinely represent possible worlds already carry the three Conditions in their content; those that do not are not counterexamples but ∅-encodings, incoherent on the shared floor. The three Conditions are presupposed in *being a world-representation*, precisely where the ersatzist had relocated the question.
 
 *The recombination objection.* Grant the Humean principle at full strength: distinct existences freely recombine (anything can coexist with anything, anything can fail to coexist with anything), so a world that deletes one Condition while keeping the rest should be possible. Nothing here resists the principle. What it requires is *distinct* existences: relata each able to be instantiated or not independently of the others. T, S, and Φ are not distinct in that sense: the inseparability of the Conditions ([§1.4](groundwork.html#sec-1-4)) makes each one's instantiation already carry the other two, the same joint that lifts the disjunction to the full conjunction at [§3.2.6](convergence.html#sec-3-2-6). A world with S and Φ but no T is therefore not a recombination the principle licenses; it is a description that violates the distinctness the principle ranges over. Recombination can delete a Condition only by first assuming the Conditions are the kind of thing that admit of deletion, which is exactly what [§1.4](groundwork.html#sec-1-4) denies.
+
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Grant the Humean rule at full strength: distinct existences freely recombine, so anything can go with anything and anything can be left out. Then why not a world that keeps space and a bearer but deletes time? The reply doesn't fight the rule; it points to its fine print. Recombination works only on distinct existences—items that can each be present or absent independently. Time, space, and persistence aren't distinct in that way: instantiating any one already carries the other two. So a world with two of them and not the third isn't a licensed recombination at all; it's a description that breaks the independence the rule requires. You can only delete a condition by first assuming they're separable, which is just what's denied.
+
+:::
+
 
 *Dependency.* [§1.3](groundwork.html#sec-1-3), [§1.4](groundwork.html#sec-1-4); the ersatzist lock leans on the ∅-incoherence floor ([§3.2.1](convergence.html#sec-3-2-1) / [§3.2.6](convergence.html#sec-3-2-6), defended in its own right at [§3.3.4](convergence.html#sec-3-3-4)). The load-bearing joint is closed by reduction to the ∅-floor; the only residual is the chapter's by-design □S spatial-type seam ([§3.5.3](convergence.html#sec-3-5-3) → [§4.2](metaphysical-rivals.html#sec-4-2)), which does not cap.
 
@@ -268,7 +322,7 @@ A possibility must be a determinate way rather than an undifferentiated blank, s
 
 :::
 
-*Why the necessity pole bites.* The first form ran from possibility; this one runs from necessity, and turns on what "□" needs in order to say anything. A "□" with no genuine alternatives to range over collapses into a bare "so, and not otherwise, because there is no otherwise": necessity drained to vacuity. But "□" is used with content, marking some ways as ruled out and others as left open, and that contrast means something only against a real space of alternative ways. A space of genuine alternatives is a space of *ways* (each a determinate this-rather-than-that), so by the decomposition above it already carries direction, difference, and bearer. A necessity that is not empty therefore presupposes exactly what possibility did. This line turns on how "□" is *used*. And a fact about operator-usage is not yet, on its own, a fact about modal reality.
+*Why the necessity pole holds.* The first form ran from possibility; this one runs from necessity, and turns on what "□" needs in order to say anything. A "□" with no genuine alternatives to range over collapses into a bare "so, and not otherwise, because there is no otherwise": necessity drained to vacuity. But "□" is used with content, marking some ways as ruled out and others as left open, and that contrast means something only against a real space of alternative ways. A space of genuine alternatives is a space of *ways* (each a determinate this-rather-than-that), so by the decomposition above it already carries direction, difference, and bearer. A necessity that is not empty therefore presupposes exactly what possibility did. This line turns on how "□" is *used*. And a fact about operator-usage is not yet, on its own, a fact about modal reality.
 
 *Dependency.* At role-resolution: [§1.3](groundwork.html#sec-1-3), [§1.4](groundwork.html#sec-1-4) only, no S5/Euclidean axiom, no Cartesian certainty, no ¬◇∅. The role-level conclusion stands on those materials. The temporal type-upgrade at [§3.5.3](convergence.html#sec-3-5-3) is downstream of an independently secured □◇C; [§3.1](convergence.html#sec-3-1) supplies strong witnesses and closures but not that full cross-world result by itself. The possibility pole supplies a partial semantic line and the necessity pole corroborates the existence of a non-trivial contrast space. Neither pole, from operator-meaning alone, proves the full triad; the direction and bearer steps depend on the additional premises identified above. The two are the possibility-pole and necessity-pole of a single fact.
 
@@ -407,11 +461,23 @@ Try to picture absolute absence (no time, no distance, no substance, nothing at 
 
 *The two-dimensional diagnosis.* It helps to say in Chalmers's terms exactly which modal status ∅ is being denied. A defender of the empty world will grant that "nothing exists" carries a prima facie *primary* (epistemic) conceivability (it seems, on first reflection, like a coherent epistemic scenario) and will press that this appearance should deliver a *secondary* (metaphysical) possibility. The Move blocks that inference at its first step, not its second. The act/object closure shows that ∅ is not even *ideally* primarily conceivable: any reflection that would confirm the scenario already instantiates succession, distinction, and a bearer, so the apparent empty epistemic possibility dissolves under exactly the ideal reflection primary conceivability requires, leaving only a superficial seeming. Because no primary intension survives, none is available to fix a secondary intension, and the primary-to-secondary bridge two-dimensional analysis was built to govern never receives a candidate to carry. ∅ is therefore not a possibility judged false at some world; it is removed from modal space before the primary/secondary question can be posed (the apparatus is developed at [§4.1.2](metaphysical-rivals.html#sec-4-1-2)).
 
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Doesn't the objection just relocate? The conceiving happens here, in a world with the Conditions; what's conceived is a world without them — and conditions of the *act* needn't be conditions of the *object*, the way the far side of the moon exists unperceived. The reply ([§3.3.4](convergence.html#sec-3-3-4)) is that this works only where the target is a *something* with content on the far side of the act. It can't open for the empty world: to say "nothing obtains, it just can't be represented" is to posit a determinate obtaining-of-nothing — a bearer, a difference between obtaining and not, a holding — which is time, space, and the medium back on the object side. There is no structured stand-in for the absence of structure for the thought to land on.
+
+:::
+
+
 *Dependency.* [§1.3](groundwork.html#sec-1-3), [§1.4](groundwork.html#sec-1-4); the Way–Possibility Convertibility ([§3.2.5](convergence.html#sec-3-2-5)) carries step 5; the alethic/doxastic distinction ([§1.1](groundwork.html#sec-1-1)) carries step 2: the result is a derivation from what ∅ requires of any representation, not a modal intuition, so it survives Oppy-style skepticism about conceivability and the pan-modal-skepticism objection; the modal-epistemic form of that skepticism, which grants ordinary modal knowledge and doubts only remote verdicts, is engaged at [§4.1.13](metaphysical-rivals.html#sec-4-1-13). Inconceivability serves as symptom rather than engine: the visible trace of the fact that ∅ has no content for the modal operator to bind. It inverts Findlay, and differs from Pizzi's abstracta-based self-refutation at the load-bearing step, grounding the self-refutation in the *unavailability* of an object-side ∅ that any representation-limit objection would need. The lift from *∅ has no modal content* to the conclusion runs through the section's shared ∅-floor ([§3.2.1](convergence.html#sec-3-2-1), [§3.2.6](convergence.html#sec-3-2-6)) and the Way–Possibility Convertibility Lemma ([§3.2.5](convergence.html#sec-3-2-5)), not the Chapter-2 S5 frame the standalone treatment inherited.
 
 ### 3.3.5 Not Even the Impossible {#sec-3-3-50}
 
 One last refuge for an outside to the conditions lies not among the things that are but among the things that *cannot* be: if anything escapes structure, surely it is the impossible, which answers to no way things could go. Yet even there the conditions hold. Even the things that *cannot* be wear the Triconditions: a genuine substantial impossibility decomposes into a being, a structure, and an interval.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** If anything could escape structure, surely it's the impossible—what can't be at all. This section closes even that exit. Take the standard impossibilities: a stone too heavy for its maker to lift, an immovable object meeting an irresistible force, two bodies in the same place. Each one, to be the impossibility it is, still decomposes into a being, a structure, and an interval—persistence, space, and time. The impossible case presupposes the very space of possibilities in which it's ruled out. So the three conditions have no outside, not even among the things that cannot be. (The step from operative here to necessary is borrowed from the chapter's other arguments, not made here.)
+
+:::
+
 
 ::: {.argument}
 **Closing the Impossibility Escape** · *from the substantial impossibilities to Triconditional Necessity*
@@ -438,6 +504,12 @@ One last refuge for an outside to the conditions lies not among the things that 
 
 □(T ∧ S ∧ Φ) is a conjunction, and the Moves do not support its three limbs equally. Saying so is the honest core of the stage.
 
+::: {.column-margin .book-annotation-note}
+**Quick map.** This short section is the book keeping its own books. The conclusion is a conjunction—time and space and persistence are all necessary—and the many arguments don't support the three equally. Being honest about that is the point. The necessity of succession (time) and of a persisting bearer are heavily overdetermined: nearly every argument re-earns them. The necessity of difference (space) is just as solid at the level of this coexisting with that, but the further step to spatial difference proper takes an extra move, borrowed from earlier. Richer still—a measurable, traversable space—isn't claimed here at all; that's contingent physical detail saved for Chapter 7. At role level, all three stand together.
+
+:::
+
+
 **T-role: necessary directed ordering.** Supported by several lines, but bare obtaining does not by itself re-derive full temporal succession. The upgrade from asymmetric order to Temporality's loaded type remains a separate bridge.
 
 **Φ-role: necessary bearing or realization.** Supported where a fact, act, or arrangement must be borne, but this is not yet the full type of causal persistence.
@@ -451,6 +523,12 @@ One last refuge for an outside to the conditions lies not among the things that 
 Stage 2 leaves an identity question rather than an identity by itself. If Time, Space, and Substance hold necessarily, does Reality merely *have* or *contain* them, or is Reality nothing over and above Nature?
 
 This section runs that identity test through four questions. Could anything real fall outside Nature? Do “Reality” and “Nature” name one role under two descriptions? Does any candidate remain outside the triad? Where could an additional ground stand relative to Nature? The maximality, role-semantics, residue, and grounding-trilemma tests (§[§3.4.1](convergence.html#sec-3-4-1)–3.4.4) answer those questions in turn. Section [§3.4.5](convergence.html#sec-3-4-5) locates the tighter change-side seal downstream, so the identity is not made to lean on a contested joint prematurely.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** By this point the argument has shown that time, space, and persistence hold necessarily. One question remains: does Reality merely have or contain those conditions, or is Reality nothing over and above Nature? This capstone runs the identity test. If nothing real could fall outside the three conditions (there's no outside to occupy), if Reality and Nature turn out to name one role under two words, and if no leftover or added ingredient earns its place, then the verdict is identity, not mere possession. Reality isn't a thing that has Nature; it is Nature. What began as the bare possibility of change closes here, on the world being one with its own structure.
+
+:::
+
 
 The weight distribution is explicit. Maximality ([§3.4.1](convergence.html#sec-3-4-1)) remains the shortest bearing line. Constitution ([§3.4.2](convergence.html#sec-3-4-2)) reinforces it from reference. Exhaustion ([§3.4.3](convergence.html#sec-3-4-3)) now bears weight of its own: any residue either makes a difference to what is the case, and in making it instantiates the Triconditions, or makes none, and fails the [§1.1](groundwork.html#sec-1-1) role-definition of the real; the closure is of the class, not of a list. The Grounding Trilemma ([§3.4.4](convergence.html#sec-3-4-4)) supplies a further substantive line: any proposed additional ground either instantiates the Triconditions in grounding Nature, falls within Nature by being grounded, or does no grounding work, and the residue dilemma catches what the third horn releases, since a candidate that does no work of any kind is not a lean survivor but no real item at all. The critical path uses Stage 2's result and the Chapter-1 definitions of Reality and grounding ([§1.1](groundwork.html#sec-1-1), [§1.5.5](groundwork.html#sec-1-5-5)); it does not put the S5 axiom back onto the identity claim.
 
@@ -484,6 +562,12 @@ That Reality and Nature coincide invites the Spinozist reading (that this necess
 ### 3.4.2 One Role, One Filler {#sec-3-4-20}
 
 "Reality" is a structural-role term ([§1.1](groundwork.html#sec-1-1)): its reference is fixed not by pointing to an individual but by a role: *being what any real content belongs to*. Stage 2 showed what fills that role, in every world: T ∧ S ∧ Φ. That does not make this weld a wholly independent proof alongside maximality and exhaustion; it makes it the role-semantics version of the same identity.
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** This weld reaches "Reality is Nature" through how the word Reality works. "Reality" isn't a name you fix by pointing at some individual; it refers by role—whatever any real content belongs to and presupposes. "Nature" names the three conditions, time, space, and persistence, under their positive description. And the argument has already shown that this role is filled, in every world, by exactly those three. Two terms anchored to one and the same role refer to the same thing in every world where they refer at all. So "Reality" and "Nature" name one thing, necessarily. The book is honest that this is role-based co-reference, not the rigid natural-kind necessity of "water is H₂O"—exactly as strong as the role-anchoring it rests on, no stronger.
+
+:::
+
 
 ::: {.argument}
 **The Role-Semantics Weld** · *from structural-role co-reference to Reality being Nature*
@@ -601,6 +685,18 @@ The Reality–Nature identity is stronger than before. Maximality provides one i
 
 The three limbs are not equally supported, and the unevenness must be located exactly. The independently convergent T- and Φ-claims are stated at *role*: directed ordering and bearing or realization, not yet full temporal succession and causal persistence. □S was stated at a higher resolution (a metric, traversable manifold) and at that resolution the Moves did not force it; they earned *distinguishability* only, and the step to metric extension was carried by the Constitutive Premise rather than by the arguments. Held to the same resolution as its siblings, the necessary S-claim is the role of *difference* (co-existing this-rather-than-that, not yet a *where*) and at that resolution it is overdetermined as fully as □T and □Φ: every Move that earns succession or persistence also earns this-rather-than-that. The metric, traversable richness above that role is contingent physical content, parallel to a particular temporal metric for T and particular fields for Φ, taken up where the proof's silence on physical content is the discipline rather than the gap (Chapter 7). At the role layer the three limbs stand together; at the *type* layer they do not, and the asymmetry locates the seam.
 
+::: {.column-margin .book-annotation-note}
+**Natural worry.** If the necessity of space and of a persisting bearer has to be carried across by a further linking claim, doesn't that make them hold only contingently—true here, maybe not elsewhere? No, and the reason is precise. The linking claim isn't a bridge that might hold in one world and fail in another; it's a structural necessity about any medium that hosts succession at all. And a necessary premise transmits its necessity: if succession is necessary, and necessarily comes bundled with space and a bearer, then space and a bearer are necessary too. The move needs no extra modal axiom—just a necessary link and one valid step. The type-claims end up at full strength, reached by a longer road.
+
+:::
+
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** This section is the book being honest about an uneven spot. All three conditions—time, space, and persistence—come out necessary, but they aren't reached by equally short arguments. The necessity of succession is pinned in one step. The necessity of spatial difference and of a persisting bearer each take two, borrowing a further linking result proved back in Chapter 2. That's the seam. The key point: it's a difference in how long the derivation runs, not in how strong the conclusion is. None of the steps smuggles in the S5 modal axiom, and none of the three ends up weaker than the others. The extra length costs self-containment, not certainty.
+
+:::
+
+
 Each limb still owes the step from its generic role to its specific type: directed ordering to succession (T), distinctness to spatial co-existence (S), bearing to a causal-persistent being (Φ). All three residuals close on □◇C, the spatial and persistence steps each leaning additionally on a Stage-2 realizer biconditional.
 
 The temporal type-upgrade closes once the necessary possibility of change (□◇C) has been independently secured. Section [§1.4](groundwork.html#sec-1-4) fixes the T-Condition as what makes succession possible, so □◇C makes succession available in every world. Section [§3.1](convergence.html#sec-3-1) supplies no-onset and performative support but does not alone provide the required cross-world invariance; T1 remains the clean source unless another modal bridge is granted. The directed ordering a way carries is thereby temporal in type, and the atemporal rival (a synchronic grounding order, asymmetric and influence-carrying but successionless) is excluded. That closure adds no further S5 premise beyond whichever line supplies □◇C; the holdout who grants the permission but contests the identification (insisting the asymmetric, influence-carrying order is grounded synchronically rather than temporally) is met head-on downstream, not here, and owes two discharges there. First, if the directed order is temporal it must be specified as either an A-series or a B-series, so the holdout may run McTaggart's dilemma (the A-series contradictory, the B-series alone too thin to be time) to deny that the ordering is temporal at all. That dilemma, and the regress on its A-series horn, is taken up at [§4.2.5](metaphysical-rivals.html#sec-4-2-5), with [§4.2.6](metaphysical-rivals.html#sec-4-2-6) supplying the B-series limb. Second, because the upgrade rests on □◇C (the *possibility* of change, not its actuality), the time-without-change holdout who points to a frozen region grants only what □◇C already allows: the time-without-change case is taken up at [§4.2.2](metaphysical-rivals.html#sec-4-2-2). Both objections are handled there. What remains downstream is the labor of the identification, not the closure of the upgrade.
@@ -647,6 +743,18 @@ The chapter has independently reached role-level structural necessity without th
 Take the axiom in its useful contrapositive. A candidate necessary ground G is necessary only if it is possibly necessary (◇□G), so anything that cannot even coherently be possibly necessary cannot be the necessary ground: ¬◇□G ⊢ ¬□G. The question is then only which candidates survive the possibility test.
 
 They do not survive by being few. A sweep that merely lists rivals and knocks them down invites the obvious reply: *what about the one you left off the list?* The elimination here is not a list but a partition. Any candidate ground stands to the Triconditions in exactly one of three ways, and there is no fourth:
+
+::: {.column-margin .book-annotation-note}
+**Core concept.** This closing sweep asks whether anything could be the necessary ground of the world other than Nature—time, space, and persistence together. Instead of listing rivals one by one, it splits the field with no gaps. Any candidate stands to those three conditions in exactly one of three ways: it's the same structure under a new name, it shares none of their structure, or it's those conditions plus some extra. The first is Nature relocated, not a rival. The second can't ground anything in a world made of time, space, and things—and can't even be picked out to name. The third collapses: the extra either does real grounding work, and so is more of the same structure, or does none, and drops out. Every road leads back to Nature.
+
+:::
+
+
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Any sweep of rivals invites the obvious reply—what about the one you didn't mention? That's why the argument uses a partition, not a list: the three cases are exhaustive by logic, so there's no fourth slot to hide in. The hardest holdout is the classical theist who says God grounds time, space, and things eminently—containing their perfections in a higher, simple way without being temporal, spatial, or a substance. Granted, that ground can be named, so it isn't the second case. But grounding still means being discernible from what you ground in the very act of grounding it, and that discernibility is structure under another name. Contained in a higher mode or not, the structure has to be there to do the work.
+
+:::
+
 
 ::: {.lemma}
 **No Rival Ground** · **L8** · *Lemma toward the Necessity of Nature*

@@ -24,6 +24,7 @@ project:
     - resources/obsidian-icon.png
     - resources/notion-icon.svg
     - resources/kofi-icon.svg
+    - resources/kofi-button-dark.png
     - resources/sidebar-chapter-numbers.js
     # Every file in downloads/ (PDF, EPUB, Markdown zip, and any future
     # downloadable artifact — a glob rather than the explicit per-file

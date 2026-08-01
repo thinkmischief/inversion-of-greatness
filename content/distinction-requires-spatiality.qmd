@@ -13,7 +13,7 @@ Purely qualitative differentiation is insufficient. Two mental states may be qua
 
 The argument states this load-bearing commitment openly, as an explicit premise rather than an implicit assumption:
 
-**Constitutive Premise (Relational Distinctness).** Genuine non-identity just *is* relational non-identity: for two items to be distinct at the positional level is for them to stand in a relation of extension to one another, not merely to differ in their intrinsic properties. Any account that grants the distinctness while blocking the spatial conclusion must deny precisely this identification, and that denial is costly, as the argument below shows.
+**Constitutive Premise (Relational Distinctness).** Genuine *positional* non-identity just *is* relational non-identity: for two items to be distinct as positions is for them to stand in a relation of extension to one another, not merely to differ in their intrinsic properties. Bare qualitative non-identity — red is not blue, with nothing traversed — is real but is not the relation at issue; the premise governs concrete, positional distinctness, the register the traversal test below makes exact. Any account that grants the distinctness while blocking the spatial conclusion must deny precisely this identification, and that denial is costly, as the argument below shows.
 
 The constitutive claim (that genuine non-identity just is relational non-identity) survives the strongest available pressure from both directions. From the relationalist direction it is only strengthened: @dasgupta2009 makes individual facts about which object occupies which position non-fundamental and the relational structure itself fundamental, so what grounds distinctness at the most basic level is precisely the relational structure Spatiality consists in.
 
@@ -48,8 +48,8 @@ Plural heres cannot be distinct without something grounding their distinctness. 
 1. Something is placed: there is at least one placing, demonstrably the plural *heres* of the present standpoint (∃xPx).
 1. So Spatiality is instantiated (∴ S; from 1, 2).
 1. If there were ever no Spatiality, then Spatiality would have to be placed or introduced, since a transition from no-S to S is itself a placing (¬N_S → P(S)).
-1. Any placing or introduction of Spatiality would already require Spatiality, applying line 1 to S itself (P(S) → S).
-1. So there was never no Spatiality: ¬N_S entails P(S), and P(S) entails S-prior-to-S, a contradiction (∴ N_S; from 4, 5 by reductio).
+1. Any placing or introduction of Spatiality would require Spatiality already in place at its own onset, since line 1's warrant — *placed* presupposes a relational interval between positions — applies to the placing of S itself (P(S) → S-at-or-before-P(S)).
+1. So there was never no Spatiality: ¬N_S entails P(S), and P(S) entails S at or before the first placing of S — S-prior-to-S, a contradiction (∴ N_S; from 4, 5 by reductio).
 
 :::
 

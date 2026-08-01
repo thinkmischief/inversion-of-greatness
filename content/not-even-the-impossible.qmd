@@ -9,6 +9,11 @@ surfaces: ["Print", "Web — Book"]
 
 One last refuge for an outside to the conditions lies not among the things that are but among the things that *cannot* be: if anything escapes structure, surely it is the impossible, which answers to no way things could go. Yet even there the conditions hold. Even the things that *cannot* be wear the Triconditions: a genuine substantial impossibility decomposes into a being, a structure, and an interval.
 
+::: {.column-margin .book-annotation-note}
+**Core concept.** If anything could escape structure, surely it's the impossible—what can't be at all. This section closes even that exit. Take the standard impossibilities: a stone too heavy for its maker to lift, an immovable object meeting an irresistible force, two bodies in the same place. Each one, to be the impossibility it is, still decomposes into a being, a structure, and an interval—persistence, space, and time. The impossible case presupposes the very space of possibilities in which it's ruled out. So the three conditions have no outside, not even among the things that cannot be. (The step from operative here to necessary is borrowed from the chapter's other arguments, not made here.)
+:::
+
+
 ::: {.argument}
 **Closing the Impossibility Escape** · *from the substantial impossibilities to Triconditional Necessity*
 

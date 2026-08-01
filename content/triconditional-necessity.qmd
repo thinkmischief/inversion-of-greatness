@@ -44,6 +44,11 @@ This is just why the result is a premise as well as a conclusion: □(T∧S∧Φ
 
 *Scope.* Two limits travel with the premise. The necessity is de dicto with respect to the structural constraint (necessarily, any possible Reality instantiates T, S, and Φ), not a de re necessity of this universe, its constants, or any configuration it hosts. And it attaches to the structural roles, not to their occupants: contingency within necessity is preserved (§2.8.4). Nature is necessary; what fills it is not.
 
+::: {.column-margin .book-annotation-note}
+**Natural worry.** Doesn't this prove far too much—that the universe, with just these constants and contents, couldn't have been otherwise? No, and two limits travel with the result. First, the necessity is de dicto: what's necessary is that any possible reality instantiates time, space, and persistence—not that this universe, its particular constants, or any configuration it hosts had to be. Second, it attaches to the structural roles, not to their occupants. The roles hold in every world; what fills them varies freely. So contingency is preserved right where you'd want it: Nature is necessary, but what fills Nature is not. The claim is about the frame, not the furniture.
+:::
+
+
 *The three, taken singly.* The result is stated jointly because that is how the chain delivers it, but necessity distributes over a conjunction, so each Condition is necessary in its own right — and each under the same de dicto, structural-role scope just fixed. The joint result therefore carries three named consequences:
 
 ::: {.corollary}

@@ -9,7 +9,7 @@ surfaces: ["Print", "Web — Book"]
 
 The Introduction's appeal to conceiving was already an appeal to change: to conceive is to pass from one cognitive state to another. Change is the primitive; conceiving is one instance of it.
 
-Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), you are still *somewhere*; something is still *shifting*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
+Change is the most ordinary fact there is. Its certainty is Cartesian: minimal observation that survives doubt, the same kind of certainty the cogito secures. In each familiar case of doubt (dream, illusion, even simulation), something is still *shifting*; you are still *somewhere*; there is still a difference between you and what is not you. The certainty is of the *actuality* of change; from actuality, possibility follows.
 
 The full defense of the witness, and the modal derivation that lifts it into a necessity claim about Reality's structure, comes in Chapter 2: §2.2 establishes the bilateral witnesses, §2.3 lifts that possibility into necessity, §2.4 derives what the possibility of change requires, and §§2.5–2.6 identify the Conditions. For now, change supplies the actuality-datum from which the derivation begins. The immediate question is what Reality must be like for change to be possible; §1.4 takes up that question.
 

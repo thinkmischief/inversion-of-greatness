@@ -336,11 +336,14 @@ Plantinga's modal ontological argument[@plantinga1974b] runs as follows.
 
 1. A being is *maximally great* just in case it is omniscient, omnipotent, and morally perfect in every possible world, so that maximal greatness includes existence in every possible world.
 
+::: {.argument}
 1. *Possibility premise.* Possibly, a maximally great being is instantiated: ◇□G.
 
 1. *S5.* Possible necessity yields necessity: from ◇□G, □G.
 
 1. *Conclusion.* A maximally great being exists in every possible world, the actual one included: □G, and so G.
+
+:::
 
 The crux is the possibility premise: is maximal greatness coherent?
 
@@ -530,7 +533,7 @@ The wager resembles Plantinga's argument only if epistemic probability is confla
 
 This cluster gathers the doctrines of the divine nature: the constructions built to keep the divine ground ultimate without regress, simple without composition, and independent of the structure it grounds. Divine simplicity ([§5.2.1](rival-ultimates.html#sec-5-2-1)) holds the ground free of all composition; the via negativa ([§5.2.2](rival-ultimates.html#sec-5-2-2)) secures it by denial, saying only what it is not.
 
-The question is the one the chapter presses throughout: can the doctrine hold its ground apart from structure without quietly relying on structure to do so? The finding is again relocation rather than refutation. Each doctrine, in securing the ground's independence, reintroduces the very structural conditions it was meant to set the ground above.
+The question is the one the chapter presses throughout: can the doctrine hold its ground apart from structure without relying on structure to do so? The finding is again relocation rather than refutation. Each doctrine, in securing the ground's independence, reintroduces the very structural conditions it was meant to set the ground above.
 
 ### 5.2.1 Divine Simplicity {#sec-5-2-1}
 

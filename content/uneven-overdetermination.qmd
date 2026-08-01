@@ -9,6 +9,11 @@ surfaces: ["Print", "Web — Book"]
 
 □(T ∧ S ∧ Φ) is a conjunction, and the Moves do not support its three limbs equally. Saying so is the honest core of the stage.
 
+::: {.column-margin .book-annotation-note}
+**Quick map.** This short section is the book keeping its own books. The conclusion is a conjunction—time and space and persistence are all necessary—and the many arguments don't support the three equally. Being honest about that is the point. The necessity of succession (time) and of a persisting bearer are heavily overdetermined: nearly every argument re-earns them. The necessity of difference (space) is just as solid at the level of this coexisting with that, but the further step to spatial difference proper takes an extra move, borrowed from earlier. Richer still—a measurable, traversable space—isn't claimed here at all; that's contingent physical detail saved for Chapter 7. At role level, all three stand together.
+:::
+
+
 **T-role: necessary directed ordering.** Supported by several lines, but bare obtaining does not by itself re-derive full temporal succession. The upgrade from asymmetric order to Temporality's loaded type remains a separate bridge.
 
 **Φ-role: necessary bearing or realization.** Supported where a fact, act, or arrangement must be borne, but this is not yet the full type of causal persistence.

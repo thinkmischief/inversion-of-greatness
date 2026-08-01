@@ -624,6 +624,19 @@ async function main() {
       }
       if (surfaces.length) fmLines.push(`surfaces: [${surfaces.map(s => `"${escapeYaml(s)}"`).join(', ')}]`)
       if (excursus) fmLines.push(`excursus: true`)
+      // Quarto auto-picks a page's og:image/twitter:image from the first
+      // <img> it finds in the body when the page sets none itself —
+      // confirmed live: Read and Connect's own Ko-fi support-button image
+      // (a raw HTML embed via the "Web build only" pattern) got auto-
+      // selected as the page's social-share preview, which is wrong for
+      // an incidental UI graphic. Any chrome page whose body embeds a raw
+      // <img> this way explicitly falls back to the book's own banner
+      // instead, the same image every other page already shows by default.
+      // Absolute URL, not a bare relative path — confirmed live: a plain
+      // "resources/web-banner-light.png" resolved against this page's own
+      // site/ subdirectory instead of the project root, producing a
+      // broken .../site/resources/web-banner-light.png og:image URL.
+      if (role === 'chrome' && /<img\b/.test(md)) fmLines.push(`image: https://inversionofgreatness.org/resources/web-banner-light.png`)
       fmLines.push('---', '', '')
       const fm = fmLines.join('\n')
 
