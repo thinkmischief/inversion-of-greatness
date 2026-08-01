@@ -3101,7 +3101,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return { li: li, text: text };
       });
       items.forEach(function (item) { item.li.style.display = ''; });
-      var PRIORITY = ['In Plain Terms', 'Reading Guide', 'Connect', "Author's Notes", 'Appendices', 'Resources', 'References'];
+      var PRIORITY = ["Author's Notes", 'Support', 'Contact', 'Appendices', 'Resources', 'References'];
       var SAFETY_MARGIN = 24;
       var navbarRect = navbarEl.getBoundingClientRect();
       // Left edge of the actually-available room for nav items: the
@@ -3212,6 +3212,28 @@ document.addEventListener('DOMContentLoaded', function () {
     var lastY = window.pageYOffset || document.documentElement.scrollTop;
     var tolerance = 5; // matches quarto-nav.js's own headroom tolerance
     var ticking = false;
+    // #quarto-header itself (quarto-nav.js's real headroom instance —
+    // confirmed live, styles/custom.css §19, to toggle
+    // .headroom--pinned/--unpinned on every scroll reliably).
+    // Used below only as an end-of-frame correction, not as this
+    // tracker's primary signal — a straight CSS-sibling-selector read
+    // of these same classes was tried once already and reverted (see
+    // comment above this IIFE) because it got stuck mid-toggle when
+    // the ToC popup's own open/close code touched a sibling class.
+    // Re-reading it here, every rAF frame, as a correction applied
+    // AFTER the delta logic below rather than replacing it, closes a
+    // real desync instead: this tracker and quarto-nav.js's own are
+    // two independent scroll listeners with their own timing, and on
+    // a real phone (momentum scroll, rubber-banding, the address bar
+    // collapsing mid-scroll) they could fall out of step for a beat —
+    // long enough for the real header to already be back at full
+    // height while #quarto-sidebar's CSS (styles/custom.css, the
+    // --book-mobile-chrome-height fix) still thought it only needed
+    // to clear the shorter unpinned height, clipping the drawer's own
+    // top rows behind the reappeared header. Confirmed as the cause
+    // of a reader's screenshot showing "P. Preface" clipped at the
+    // drawer's top after scrolling up.
+    var headerEl = document.getElementById('quarto-header');
     // book-scrolled: a second, unrelated piece of state this same
     // tracker happens to be well-placed for — the running head's own
     // content/border should stay hidden ("just the icon itself") only
@@ -3231,6 +3253,13 @@ document.addEventListener('DOMContentLoaded', function () {
         document.documentElement.classList.add('book-chrome-unpinned');
       } else if (currentY < lastY - tolerance) {
         document.documentElement.classList.remove('book-chrome-unpinned');
+      }
+      if (headerEl) {
+        if (headerEl.classList.contains('headroom--unpinned')) {
+          document.documentElement.classList.add('book-chrome-unpinned');
+        } else if (headerEl.classList.contains('headroom--pinned')) {
+          document.documentElement.classList.remove('book-chrome-unpinned');
+        }
       }
       document.documentElement.classList.toggle('book-scrolled', currentY > tolerance);
       lastY = currentY;

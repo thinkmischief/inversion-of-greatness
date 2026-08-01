@@ -52,8 +52,6 @@ book:
   navbar:
     title: "The Inversion of Greatness"
     right:
-      - text: "Support the Work"
-        href: site/support.qmd
       - text: "Author's Notes"
         href: book/authors-notes.qmd
       - text: "Appendices"
@@ -88,6 +86,8 @@ book:
             href: site/license.qmd
       - text: "Contact"
         href: site/contact.qmd
+      - text: "Support"
+        href: site/support.qmd
   sidebar:
     style: floating
     title: "The Inversion of Greatness"

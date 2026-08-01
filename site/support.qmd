@@ -1,10 +1,10 @@
 ---
-title: "Support the Work"
+title: "Support"
 notion-id: b1fb2d87-d865-4f48-b786-4d90f8c820dc
 slug: "support"
 role: chrome
 nav-section: ["Primary"]
-nav-order: 2
+nav-order: 45
 body-classes: site-page
 search: false
 surfaces: ["Site"]
