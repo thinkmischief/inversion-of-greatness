@@ -239,9 +239,28 @@ text = text.replace(/^### (.+)\n\n(.+)$/gm, (full, headingText, para) => {
 // regex above) against 306 the previous version of this page reached.
 text = text.replace(/^(- )\*\*([^*]+)\*\*( · .+)?$/gm, (line, prefix, title, rest) => {
   const numMatch = title.match(/^(\d+(?:\.\d+)*|E\.\d+(?:\.\d+)*)\b/)
-  const hit = (numMatch && numberMap.get(numMatch[1]))
+  let hit = (numMatch && numberMap.get(numMatch[1]))
     || titleMap.get(normalize(title))
     || (pageMap[normalize(title)] ? { file: pageMap[normalize(title)], anchor: null } : null)
+  // Bare chapter number ("1. Groundwork", "9. Maximum Possibility") with
+  // no dotted subsection part. numberMap only holds §-level anchors read
+  // out of {#anchor} headings inside each chapter file — a chapter's own
+  // top-level title carries no such anchor, so it falls through
+  // numberMap/titleMap/pageMap above and needs chapterSlugs instead, the
+  // same lookup the old "## " chapter-heading pass above used before this
+  // page was restructured into a flat bullet list (no "## " left for
+  // that pass to ever match anymore). Confirmed live: every chapter
+  // bullet plus "Conclusion" and "Excursus" was silently left as plain
+  // unlinked bold text — the sub-bullets beneath them link fine (a
+  // separate pass, further below), so only the chapter-level entries
+  // themselves went dead, matching a reader's report that "the sub menu
+  // items work... but the chapter headers don't."
+  if (!hit && numMatch && /^\d+$/.test(numMatch[1])) {
+    const slug = chapterSlugs[Number(numMatch[1]) - 1]
+    if (slug) hit = { file: `${slug}.html`, anchor: null }
+  }
+  if (!hit && title === 'Conclusion') hit = { file: 'conclusion.html', anchor: null }
+  if (!hit && title === 'Excursus') hit = { file: 'excursus.html', anchor: null }
   if (!hit) { misses.push(line); return line }
   linked++
   const href = hit.anchor ? `${hit.file}#${hit.anchor}` : hit.file

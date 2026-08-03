@@ -3466,33 +3466,13 @@ document.addEventListener('DOMContentLoaded', function () {
         : (chapterLink ? chapterLink.textContent.trim() : '');
     };
 
-    // Breadcrumb trail — "1. Groundwork › 1.1 Reality › 1.1.1 Reality
-    // Precludes," not just the deepest heading alone. nav#TOC's own
-    // markup is already nested one <ul> per heading level (1.1 Reality
-    // is a sibling <a> of the <ul> holding 1.1.1/1.1.2/1.1.3, both
-    // inside the SAME <li>) — walking up from the current link's own
-    // <li>, to the <ul> that contains it, to THAT ul's own enclosing
-    // <li>, reaches the parent heading's <a> directly, with no need to
-    // track depth/numbering separately from what the TOC already
-    // encodes. Stops once that walk reaches nav#TOC's own top-level
-    // <ul> (its parent is the <nav> itself, not another <li>) — there's
-    // no heading further up than a top-level entry within this list.
-    var buildAncestorChain = function (link) {
-      var chain = [];
-      var el = link;
-      while (el) {
-        var num = el.querySelector('.toc-entry-num');
-        var title = el.querySelector('.toc-entry-title');
-        if (num && title) chain.unshift(num.textContent + ' ' + title.textContent);
-        var li = el.closest('li');
-        var parentUl = li ? li.parentElement : null;
-        if (!parentUl || parentUl.parentElement === document.getElementById('TOC')) break;
-        var outerLi = parentUl.closest('li');
-        el = outerLi ? outerLi.querySelector('a.nav-link') : null;
-      }
-      return chain;
-    };
-
+    // Just the current section itself ("1.1.1 Reality Precludes"), not
+    // the full ancestor trail — reverted on request: the chain version
+    // ("1. Groundwork › 1.1 Reality › 1.1.1 Reality Precludes") read as
+    // too long/busy for the mobile bar it lives in. Falls back to the
+    // chapter's own crumb (getChapterCrumb, above) only while still
+    // above the chapter's first ## heading, where there's no section
+    // yet to name.
     var updateCurrentSection = function () {
       var offset = headerOffsetPx();
       var current = null;
@@ -3503,16 +3483,9 @@ document.addEventListener('DOMContentLoaded', function () {
           break; // headings are in document order — first one still below stops the search
         }
       }
-      var chapterCrumb = getChapterCrumb();
-      var text;
-      if (current && current.querySelector('.toc-entry-title')) {
-        var chain = buildAncestorChain(current);
-        text = chapterCrumb ? [chapterCrumb].concat(chain).join(' › ') : chain.join(' › ');
-      } else {
-        // Still above the first ## heading — the chapter's own root
-        // content, nothing to build a chain from yet.
-        text = chapterCrumb;
-      }
+      var num = current ? current.querySelector('.toc-entry-num') : null;
+      var title = current ? current.querySelector('.toc-entry-title') : null;
+      var text = (num && title) ? num.textContent + ' ' + title.textContent : getChapterCrumb();
       sectionIndicator.textContent = text;
       if (runningHeadEl) runningHeadEl.textContent = text;
     };
