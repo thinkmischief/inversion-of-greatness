@@ -88,6 +88,7 @@ const commands = [
   'node add-canonical-links.js',
   'node add-chapter-descriptions.js',
   'node add-book-structured-data.js',
+  'node indexnow-ping.js',
 ];
 
 const projectRoot = __dirname;

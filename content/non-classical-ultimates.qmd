@@ -7,6 +7,6 @@ role: spine
 surfaces: ["Print", "Web — Book"]
 ---
 
-This cluster gathers the accounts of the ultimate that are not classically theistic but make the same bid against structure: Spinozist pantheism (§5.3.1), Neoplatonism (§5.3.2), process theology (§5.3.3), and Madhyamaka emptiness (§5.3.4). Each names or reconceives ultimacy—one infinite substance, the One beyond being, creative process, or emptiness. Some place the ultimate prior to familiar structure; others identify ultimacy with an immanent or dependent order rather than trying to transcend it.
+This cluster gathers the accounts of the ultimate that are not classically theistic but make the same bid against structure: Spinozist pantheism (§5.3.1), Neoplatonism (§5.3.2), process theology (§5.3.3), and Madhyamaka emptiness (§5.3.4). Each names or reconceives ultimacy — one infinite substance, the One beyond being, creative process, or emptiness. Some place the ultimate prior to familiar structure; others identify ultimacy with an immanent or dependent order rather than trying to transcend it.
 
 The single question carries over: can the account reach its ultimate without leaning on the structure it was meant to stand free of? The finding is relocation rather than refutation. The candidates divide: articulated priority claims incur determinate-role burdens; immanent and process accounts may be compatible with the structural floor while revising ultimacy; strict apophatic and anti-thesis positions leave an open semantic or dialectical seam.

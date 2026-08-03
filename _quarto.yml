@@ -19,6 +19,7 @@ project:
     - llms.txt
     - robots.txt
     - _redirects
+    - b0f3c3815eca402ebcd72dd2f8dcbbec.txt
     - resources/web-banner-light.png
     - resources/web-banner-dark.png
     - resources/obsidian-icon.png
